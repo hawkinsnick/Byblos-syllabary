@@ -1,0 +1,37 @@
+name: Source lead
+description: Identify a publication, archive, object inventory or alternative interpretation for investigation.
+title: "Source lead: "
+body:
+  - type: markdown
+    attributes:
+      value: "Unread leads are welcome. They remain leads until inspected and assessed."
+  - type: textarea
+    id: citation
+    attributes:
+      label: Citation or catalogue reference
+      description: Include author, title, date, publication or archive, identifiers and a public source link where possible.
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Relevance to this corpus
+      description: Identify records, proposed fragments, disputed readings or bibliography gaps this may help resolve.
+    validations:
+      required: true
+  - type: dropdown
+    id: consultation
+    attributes:
+      label: Consultation depth
+      options:
+        - Not consulted
+        - Metadata or abstract only
+        - Selected sections or pages
+        - Complete source inspected
+    validations:
+      required: true
+  - type: textarea
+    id: access
+    attributes:
+      label: Access and rights observations
+      description: State known access routes and rights terms separately. No permission is inferred from an accessible source.

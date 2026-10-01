@@ -8,6 +8,7 @@ import json
 from .core import audit, FILE_KEYS
 from .workflow import review_packet
 from .explorer import explorer_html
+from .contributions import proposal_template
 
 def json_text(value):
     return json.dumps(value, ensure_ascii=False, sort_keys=True, indent=2) + "\n"
@@ -19,6 +20,7 @@ def export_texts(bundle):
     texts = {"bundle.json": json_text(bundle), "audit.json": json_text(report)}
     texts["review_packet.json"] = json_text(review_packet(bundle))
     texts["index.html"] = explorer_html(bundle)
+    texts["contribution_template.json"] = json_text(proposal_template(bundle))
     rows = sorted(bundle["catalogue"]["records"], key=lambda r: r["id"])
     texts["catalogue.jsonl"] = "".join(
         json.dumps(r, ensure_ascii=False, sort_keys=True) + "\n" for r in rows)

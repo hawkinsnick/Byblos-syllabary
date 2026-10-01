@@ -5,6 +5,7 @@ from pathlib import Path
 from .core import audit, load_bundle, ROOT
 from .export import sequence_statistics, write_export, verify_export
 from .workflow import review_packet, compare_snapshots
+from .contributions import proposal_template, assess_proposal, stage_proposal, verify_staged_proposal, read_proposal
 
 def main():
     parser = argparse.ArgumentParser(description="Byblos corpus evidence and export tools")
@@ -12,6 +13,15 @@ def main():
     sub = parser.add_subparsers(dest="command", required=True)
     sub.add_parser("validate")
     sub.add_parser("review-packet", help="Print pending review tasks as JSON")
+    template = sub.add_parser("proposal-template", help="Print an empty contribution form")
+    template.add_argument("--record", action="append", help="Limit form targets to a known record; repeat as needed")
+    check = sub.add_parser("check-proposal", help="Assess a submission without changing corpus data")
+    check.add_argument("file")
+    stage = sub.add_parser("stage-proposal", help="Write a pending proposal packet; never apply it")
+    stage.add_argument("file")
+    stage.add_argument("--output", required=True)
+    staged = sub.add_parser("verify-proposal", help="Verify a staged proposal against current evidence")
+    staged.add_argument("directory")
     compare = sub.add_parser("compare", help="Compare two lossless JSON bundles or export directories")
     compare.add_argument("before")
     compare.add_argument("after")
@@ -60,6 +70,20 @@ def main():
                              indent=2, ensure_ascii=False))
         elif args.command == "review-packet":
             print(json.dumps(review_packet(bundle), indent=2, ensure_ascii=False))
+        elif args.command == "proposal-template":
+            print(json.dumps(proposal_template(bundle, args.record), indent=2, ensure_ascii=False))
+        elif args.command == "check-proposal":
+            proposal = read_proposal(args.file)
+            report = assess_proposal(bundle, proposal)
+            print(json.dumps(report, indent=2, ensure_ascii=False))
+            return 0 if report["valid_proposal"] else 1
+        elif args.command == "stage-proposal":
+            proposal = read_proposal(args.file)
+            report = stage_proposal(bundle, proposal, args.output)
+            print(json.dumps(report, indent=2, ensure_ascii=False))
+        elif args.command == "verify-proposal":
+            verify_staged_proposal(bundle, args.directory)
+            print("PASS: staged proposal matches current evidence; no changes admitted")
         return 0
     except (KeyError, TypeError, ValueError, OSError) as exc:
         print("FAIL:", str(exc))

@@ -27,6 +27,7 @@ represent fourteen distinct objects. The viewer does not grant rights to linked 
 | `catalogue.jsonl` | One complete catalogue record per line |
 | `catalogue.csv` | Convenience catalogue view; use JSON for complete data and exact types |
 | `review_packet.json` | Pending tasks for every record, with known line targets and evidence |
+| `contribution_template.json` | Unfilled form for attributed metadata corrections or source leads |
 | `audit.json` / `REPORT.md` | Release checks, evidence gaps and scope limitations |
 | `manifest.json` | Checksums for every exported file and canonical data inputs |
 
@@ -80,3 +81,10 @@ Use the [acquisition and review packet](ACQUISITION_AND_REVIEW.md) for exact sou
 requests, permission scope and specialist deliverables. Development continues while
 these dependencies remain open. No unverified sequence is promoted merely to meet
 a version target, and no outreach is sent by generating these files.
+
+## Propose a correction or source
+
+Use the repository's Evidence correction or Source lead issue form, or start from
+`exports/contribution_template.json`. See [CONTRIBUTING.md](CONTRIBUTING.md) for
+expected-value checks, source requirements and read-only staging commands.
+Pending proposal packets are distinct from accepted corpus exports.

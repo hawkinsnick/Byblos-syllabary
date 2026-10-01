@@ -90,7 +90,7 @@ class WorkflowTests(unittest.TestCase):
         page = Page(explorer_html(self.bundle))
         self.assertEqual(set(page.records), {r["id"] for r in self.bundle["catalogue"]["records"]})
         self.assertEqual(len(page.records), len(self.bundle["catalogue"]["records"]))
-        self.assertTrue(all(link.startswith(("https://", "http://")) or link in {"bundle.json", "review_packet.json"} for link in page.links))
+        self.assertTrue(all(link.startswith(("https://", "http://")) or link in {"bundle.json", "review_packet.json", "contribution_template.json"} for link in page.links))
         self.assertEqual(page.scripts, [{}])
     def test_source_content_cannot_add_scripts_or_active_url(self):
         self.bundle["sources"]["sources"][0]["citation"] = '</script><script>alert("test")</script>'

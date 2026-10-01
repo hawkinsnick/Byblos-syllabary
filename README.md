@@ -1,6 +1,6 @@
 # Byblos syllabary research corpus
 
-Version: 0.7.0 — research catalogue and reproducible tooling.
+Version: 0.8.0 — research catalogue and reproducible tooling.
 
 An open research project working toward exhaustive, evidence-based coverage of the
 undeciphered Byblos script. Its language affiliation is unresolved. The name
@@ -90,3 +90,20 @@ python -m byblos compare old-snapshot new-snapshot
 for every reported surface line. Unknown inventories remain unknown; no sign
 sequences or approvals are manufactured. Snapshot differences preserve missing
 versus null, record identity, ordering and original token positions.
+
+## Evidence contributions
+
+Researchers can use the GitHub **Evidence correction** and **Source lead** issue
+forms, or the [contribution workflow](docs/CONTRIBUTING.md). Machine-readable
+proposals bind to a specific evidence snapshot, preserve expected current values,
+and remain pending. No automatic apply or approval command exists.
+
+```sh
+python -m byblos proposal-template --record BYB-A
+python -m byblos check-proposal my-proposal.json
+python -m byblos stage-proposal my-proposal.json --output pending-submission
+python -m byblos verify-proposal pending-submission
+```
+
+The exported `contribution_template.json` is intentionally incomplete until a
+contributor fills identity, date and attributable changes or source leads.

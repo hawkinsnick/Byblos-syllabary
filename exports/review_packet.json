@@ -958,7 +958,7 @@
     "This packet is never automatically imported as evidence or approval."
   ],
   "purpose": "Review task inventory; pending responses are not approvals or corpus transcriptions.",
-  "reviewed_bundle_sha256": "fd22f65e25aebbe54ea02783ec9353bfeba93f8c53d7377266953e4373fb30af",
+  "reviewed_bundle_sha256": "f2f72e62cec6e4269a3f3a08c20a58f03f84a07d6c01e12f199304b5bb60af7a",
   "scientific_1_0_ready": false,
   "sources": [
     {
@@ -5597,5 +5597,5 @@
       "surface_inventory_status": "not_established"
     }
   ],
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

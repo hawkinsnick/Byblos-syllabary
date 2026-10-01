@@ -67,3 +67,17 @@ type changes and missing versus null. Added command-line workflows and a
 nontechnical user guide. Export checksums and reconstruction now cover the viewer
 and review packet too. Source acquisition, permissions and specialist review are
 deferred dependencies; scientific 1.0 remains explicitly blocked.
+
+## 0.8.0 — 2026-10-01
+
+Added metadata contribution templates, read-only assessment and deterministic
+pending-submission packets. Checks bind proposals to the current evidence digest,
+match expected field values, require precise attribution and reject conflicts,
+duplicate JSON keys, nonfinite measurements and unsupported approval/rights edits.
+New source leads remain separate proposals with rights not_assessed.
+
+Added staged-packet verification that regenerates assessments and detects altered,
+extra or stale content. No candidate corpus is produced and no proposal is applied.
+Added GitHub issue forms for evidence corrections and source leads, plus contributor
+instructions. Synthetic tests exercise the full CLI workflow without adding any
+fictional facts to the catalogue. Scientific 1.0 gates remain open.

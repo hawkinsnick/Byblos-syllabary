@@ -1,0 +1,49 @@
+name: Evidence correction
+description: Propose an attributed correction or clarification to a corpus record.
+title: "Evidence correction: "
+body:
+  - type: markdown
+    attributes:
+      value: "This is a proposal, not automatic admission. Provide citations and locators; distinguish inspection from secondhand reports."
+  - type: input
+    id: record
+    attributes:
+      label: Record IDs
+      description: Include the affected BYB record IDs and snapshot version or commit.
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Proposed correction
+      description: State the current assertion, proposed value and relevant uncertainty.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and locators
+      description: Give complete citations, page/plate references and source links where available.
+    validations:
+      required: true
+  - type: dropdown
+    id: consultation
+    attributes:
+      label: What did you inspect?
+      options:
+        - Original artifact or photograph
+        - Publication pages or plates
+        - Metadata or abstract only
+        - Secondary report only
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: Attribution and rights notes
+      description: Identify creators and any reuse terms relevant to proposed media. Unknown terms can remain unknown; prefer source links to unlicensed copies.
+  - type: textarea
+    id: identity
+    attributes:
+      label: Contributor and relevant expertise
+      description: Name or stable public identifier, relevant expertise, and involvement in the cited research. Do not provide private contact details unless you intend to publish them.

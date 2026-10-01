@@ -1,6 +1,6 @@
 # Scientific 1.0 assessment
 
-Current development snapshot: 0.7.0. Scientific 1.0 is **not released**.
+Current development snapshot: 0.8.0. Scientific 1.0 is **not released**.
 
 The complete available-work pipeline was exercised: structural validation,
 regression tests, deterministic export, checksum verification, lossless bundle
@@ -73,3 +73,8 @@ contains exact requests and review deliverables. Nothing was sent to third parti
 lossless snapshot comparison. These make the current evidence and remaining work
 reviewable without access to additional editions. They do not close acquisition,
 sequence rights or specialist-review gates. See USER_GUIDE.md.
+
+0.8 adds pending metadata/source proposal intake, assessment and verification,
+plus GitHub issue forms. This strengthens contributor collaboration while source
+permissions and specialist review remain deferred. No proposals, reviews or
+new historical assertions were admitted merely by implementing this workflow.

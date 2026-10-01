@@ -76,7 +76,8 @@ def explorer_html(bundle):
                   '<p>Consultation: ' + escape(source["consultation"]) + ' · Rights observation: ' + escape(source["rights"]["status"]) + '</p>',
                   '<pre>' + escape(json.dumps(source, ensure_ascii=False, sort_keys=True, indent=2)) + '</pre></details>']
     parts += ['<h2>Snapshot evidence</h2><p class="digest">SHA-256: ' + report["review_evidence_sha256"] + '</p>',
-              '<p>Download <a href="bundle.json">bundle.json</a> for the lossless dataset or <a href="review_packet.json">review_packet.json</a> for pending review tasks. The packet grants no permission or approval.</p></main>',
+              '<p>Download <a href="bundle.json">bundle.json</a> for the lossless dataset or <a href="review_packet.json">review_packet.json</a> for pending review tasks. The packet grants no permission or approval.</p>',
+              '<h2>Contribute evidence</h2><p>Start with the <a href="contribution_template.json">empty contribution form</a> or <a href="https://github.com/hawkinsnick/Byblos-syllabary/issues/new/choose">submit a correction or source lead</a>. Include exact citations and what you inspected. Proposals remain pending until assessed; opening this catalogue sends nothing.</p></main>',
               '<footer>Original catalogue viewer for hawkinsnick/Byblos-syllabary. Underlying assertions retain their source citations. No sign sequences, fonts, publication text or image bytes are bundled in this snapshot.</footer>',
               '<script>' + SCRIPT + '</script></body></html>\n']
     return "\n".join(parts)

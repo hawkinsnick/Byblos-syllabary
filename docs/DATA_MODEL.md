@@ -57,3 +57,15 @@ responses. Known lines are tasks; unknown inventories are explicitly marked.
 `byblos-snapshot-diff-v1` compares complete bundles. Every change has a pointer
 and before/after presence and value. ID-bearing lists match by ID; `@order`
 records list-order changes. Positional token differences are not sign alignments.
+
+## Contribution proposal (0.8)
+
+`byblos-contribution-proposal-v1` binds contributor declarations, metadata changes
+and source leads to a base evidence digest. Each change preserves the expected
+current presence/value and includes exact source/locator attribution. Metadata
+fields use a fixed allowlist; approvals, rights, release gates and identity links
+are not admitted through this format. The default exported form is unfilled.
+
+`byblos-proposal-assessment-v1` reports structural reviewability, pending status
+and explicit non-application. A `byblos-proposal-staging-v1` manifest covers the
+proposal, assessment and instructions. Staging never writes a corpus bundle.
