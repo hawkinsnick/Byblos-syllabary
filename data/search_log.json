@@ -1,0 +1,70 @@
+{
+  "as_of": "2026-10-01",
+  "limitations": [
+    "Web index discovery is incomplete.",
+    "Search results are leads until inspected.",
+    "No systematic museum, archive or subscription database search completed."
+  ],
+  "searches": [
+    {
+      "engine": "web_system2",
+      "query": "Byblos syllabary corpus Mäder transcription GitHub Dunand Byblia Grammata pdf",
+      "outcome": "Digital corpus and original-edition catalogue leads located."
+    },
+    {
+      "engine": "web_system2",
+      "query": "Vita Zamora 2018 The Byblos Script pdf",
+      "outcome": "Author-hosted survey located through Mnamon."
+    },
+    {
+      "engine": "web_system1",
+      "query": "\"Byblos\" \"Cartwright\" corpus",
+      "outcome": "Poor precision; not evidence of absence."
+    },
+    {
+      "engine": "web_system1",
+      "query": "\"Byblos\" \"Mäder\" \"Schmutz\" 2024",
+      "outcome": "Poor precision; repeated with system2."
+    },
+    {
+      "engine": "web_system2",
+      "query": "Byblos Mäder Schmutz 2024 decipherment",
+      "outcome": "Provider-hosted methodological critique located."
+    },
+    {
+      "engine": "web_system2",
+      "query": "Dunand 1978 Byblos 51 59 pdf inscriptions",
+      "outcome": "KeiBi bibliographic conflict identified."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Nouvelle inscription découverte à Byblos\" Dunand 1930 persee",
+      "outcome": "Primary edition for a located."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Byblos\" \"OCBI\" licence",
+      "outcome": "Tool documentation located; no dataset licence established."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Byblia grammata\" pdf Dunand download",
+      "outcome": "Archive catalogue available; original text access unresolved."
+    }
+  ],
+  "access_attempts": [
+    {
+      "source_id": "dunand-1930",
+      "url": "https://www.persee.fr/docAsPDF/syria_0039-7946_1930_num_11_1_3456.pdf",
+      "result": "HTTP 403 from direct PDF request; pp. 1–2 read on public HTML."
+    },
+    {
+      "source_id": "archive-dunand",
+      "result": "Public page displays no suitable download; no access restriction bypass attempted."
+    },
+    {
+      "source_id": "ocbi-current",
+      "result": "Public application bundle read for labels and introduction only; sign sequences not republished."
+    }
+  ]
+}

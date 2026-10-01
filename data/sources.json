@@ -42,7 +42,7 @@
     },
     {
       "id": "dunand-1978",
-      "citation": "Maurice Dunand (1978), publication adding k–n; full bibliographic details pending verification.",
+      "citation": "M. Dunand, Nouvelles inscriptions pseudo-hiéroglyphiques découvertes à Byblos. Bulletin du Musée de Beyrouth 30 (nominal 1978). Pagination and actual publication year disputed in secondary metadata.",
       "url": null,
       "doi": null,
       "type": "primary_edition_lead",
@@ -51,6 +51,172 @@
       "rights": {
         "status": "not_assessed",
         "scope": "Publication not yet obtained."
+      },
+      "bibliographic_claims": [
+        {
+          "source_id": "mnamon-bibliography",
+          "locator": "entry 4",
+          "pages": "52–58",
+          "nominal_year": 1978,
+          "appeared_year": null
+        },
+        {
+          "source_id": "keibi-dunand-1978",
+          "locator": "Bibliographic Details / RAW",
+          "pages": "51–59",
+          "nominal_year": 1978,
+          "appeared_year": 1981
+        }
+      ]
+    },
+    {
+      "id": "mnamon-bibliography",
+      "citation": "Mnamon, Byblos bibliography.",
+      "url": "https://mnamon.sns.it/index.php?id=3&lang=en&page=Bibliografia",
+      "doi": null,
+      "type": "bibliography",
+      "consultation": "consulted_online",
+      "accessed": "2026-10-01",
+      "notes": "",
+      "rights": {
+        "status": "not_assessed",
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed."
+      }
+    },
+    {
+      "id": "vita-zamora-2018",
+      "citation": "J.-P. Vita and J.-Á. Zamora (2018), The Byblos Script. Paths into Script Formation in the Ancient Mediterranean, SMEA NS Supplemento 1, pp. 75–102.",
+      "url": "https://www.academia.edu/37706221/The_Byblos_Script",
+      "doi": null,
+      "type": "scholarly_survey",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Author-hosted text inspected, especially pp. 77–89; figures not independently collated.",
+      "rights": {
+        "status": "not_assessed",
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed."
+      }
+    },
+    {
+      "id": "dunand-1930",
+      "citation": "M. Dunand (1930), Nouvelle inscription découverte à Byblos. Syria 11(1), pp. 1–10.",
+      "url": "https://www.persee.fr/doc/syria_0039-7946_1930_num_11_1_3456",
+      "doi": "10.3406/syria.1930.3456",
+      "type": "primary_edition",
+      "consultation": "selected_pages",
+      "accessed": "2026-10-01",
+      "notes": "Pages 1–2 read online; PDF endpoint returned HTTP 403.",
+      "rights": {
+        "status": "not_assessed",
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed."
+      }
+    },
+    {
+      "id": "izreel-1988",
+      "citation": "S. Izre'el (1988), review of Mendenhall, The Syllabic Inscriptions from Byblos. JAOS 108(3), pp. 519–521.",
+      "url": "https://www.tau.ac.il/~izreel/publications/RevMendenhall_JAOS1988.pdf",
+      "doi": null,
+      "type": "critical_review",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "The PDF also contains adjacent reviews; only the Byblos review is relevant.",
+      "rights": {
+        "status": "not_assessed",
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed."
+      }
+    },
+    {
+      "id": "schmutz-maeder-2024",
+      "citation": "E. Schmutz and M. Mäder, Die Byblos-Schrift: Beurteilung des Entzifferungsvorschlags von F. Woudhuizen und J. Best anhand der GEAS-Methodologie. Assessing Decipherment Attempts Series 1, No. 2024/1.",
+      "url": "https://center-for-decipherment.ch/journal/2024_01__Schmutz-%26-Maeder__Die-Byblos-Schrift_Beurteilung-Woudhuizen-Best.pdf",
+      "doi": null,
+      "type": "methodological_critique",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Title page visually checked. PDF cites access in July 2025; issue designation is not a proven file publication date. No peer-review status inferred.",
+      "rights": {
+        "status": "not_assessed",
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed."
+      }
+    },
+    {
+      "id": "keibi-dunand-1978",
+      "citation": "KeiBi online, Dunand 1978 record KEI00067546.",
+      "url": "https://ocb.uni-tuebingen.de/Record/KEI00067546/Details",
+      "doi": null,
+      "type": "library_catalogue",
+      "consultation": "consulted_online",
+      "accessed": "2026-10-01",
+      "notes": "Reports BMB 30, pp. 51–59, nominal 1978, appeared 1981. Retain conflict with Mnamon pp. 52–58.",
+      "rights": {
+        "status": "not_assessed",
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed."
+      }
+    },
+    {
+      "id": "ocbi-introduction",
+      "citation": "GEAS, Introduction to the decipherment tool and Byblicon citation guidance.",
+      "url": "https://center-for-decipherment.ch/tool-introduction/",
+      "doi": null,
+      "type": "provider_documentation",
+      "consultation": "consulted_online",
+      "accessed": "2026-10-01",
+      "notes": "Font OFL permission is separate from corpus and image rights; libre software wording is not a specified dataset licence.",
+      "rights": {
+        "status": "not_assessed",
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed."
+      }
+    },
+    {
+      "id": "ocbi-current",
+      "citation": "GEAS / Byblicon, Online Corpus of Byblos Inscriptions (OCBI), live compiled application.",
+      "url": "https://center-for-decipherment.ch/tool/elamicon.js",
+      "doi": null,
+      "type": "digital_corpus",
+      "consultation": "metadata_only",
+      "accessed": "2026-10-01",
+      "notes": "Only introduction and record labels assessed. Locally retrieved JavaScript SHA-256 cde1cabe09284eca13e7d82d1673f2db165758319730b3faeda41829ff6e9f29; no source bundle or sequences committed.",
+      "rights": {
+        "status": "not_assessed",
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed."
+      }
+    },
+    {
+      "id": "archive-dunand",
+      "citation": "Internet Archive catalogue, Byblia grammata, bybliagrammatado0000duna.",
+      "url": "https://archive.org/details/bybliagrammatado0000duna",
+      "doi": null,
+      "type": "library_catalogue",
+      "consultation": "metadata_only",
+      "accessed": "2026-10-01",
+      "notes": "No suitable downloadable files displayed; original book not inspected.",
+      "rights": {
+        "status": "not_assessed",
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed."
+      }
+    },
+    {
+      "id": "commons-e",
+      "citation": "Hans van Deukeren, stylized redraw of spatula e, Wikimedia Commons.",
+      "url": "https://commons.wikimedia.org/wiki/File:Byblos_syll_spat_e.png",
+      "doi": null,
+      "type": "derivative_image_lead",
+      "consultation": "metadata_only",
+      "accessed": "2026-10-01",
+      "notes": "Image has added alternative interpretations; low resolution and not an artifact photograph. Not imported.",
+      "rights": {
+        "status": "license_stated",
+        "license": "CC-BY-SA-3.0",
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed."
       }
     }
   ]

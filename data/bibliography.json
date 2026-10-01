@@ -1,0 +1,155 @@
+{
+  "scope": "Bibliographic leads; not a systematic or exhaustive bibliography. Short titles are discovery labels, not full citations.",
+  "entries": [
+    {
+      "id": "dunand-1945",
+      "authors": "Dunand",
+      "year": 1945,
+      "short_title": "Byblia Grammata",
+      "publication_locator": "71–138",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 1",
+      "primary_text_examined": false
+    },
+    {
+      "id": "hrozny-1946",
+      "authors": "Hrozný",
+      "year": 1946,
+      "short_title": "Die hieroglyphische Stele von Byblos",
+      "publication_locator": "Archiv Orientální 15:138–157",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 2",
+      "primary_text_examined": false
+    },
+    {
+      "id": "dhorme-1946",
+      "authors": "Dhorme",
+      "year": 1946,
+      "short_title": "Déchiffrement",
+      "publication_locator": "Syria 25:1–35",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 3",
+      "primary_text_examined": false
+    },
+    {
+      "id": "dunand-1978",
+      "authors": "Dunand",
+      "year": 1978,
+      "short_title": "Nouvelles inscriptions",
+      "publication_locator": "BMB 30; pagination disputed",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 4",
+      "primary_text_examined": false
+    },
+    {
+      "id": "mendenhall-1985",
+      "authors": "Mendenhall",
+      "year": 1985,
+      "short_title": "The Syllabic Inscriptions from Byblos",
+      "publication_locator": "Beirut",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 5",
+      "primary_text_examined": false
+    },
+    {
+      "id": "best-woudhuizen-1989",
+      "authors": "Best; Woudhuizen",
+      "year": 1989,
+      "short_title": "Lost Languages",
+      "publication_locator": "35–49",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 6",
+      "primary_text_examined": false
+    },
+    {
+      "id": "colless-1992",
+      "authors": "Colless",
+      "year": 1992,
+      "short_title": "Byblos Syllabary / Proto-Alphabet",
+      "publication_locator": "Abr-nahrain 30; pagination unverified",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 7",
+      "primary_text_examined": false
+    },
+    {
+      "id": "colless-1993",
+      "authors": "Colless",
+      "year": 1993,
+      "short_title": "Text D",
+      "publication_locator": "Abr-nahrain 31:1–35",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 8",
+      "primary_text_examined": false
+    },
+    {
+      "id": "colless-1994",
+      "authors": "Colless",
+      "year": 1994,
+      "short_title": "Texts C and A",
+      "publication_locator": "Abr-nahrain 32:59–79",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 9",
+      "primary_text_examined": false
+    },
+    {
+      "id": "sznycer-1994",
+      "authors": "Sznycer",
+      "year": 1994,
+      "short_title": "Inscriptions pseudo-hiéroglyphiques",
+      "publication_locator": "167–178",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 10",
+      "primary_text_examined": false
+    },
+    {
+      "id": "colless-1995",
+      "authors": "Colless",
+      "year": 1995,
+      "short_title": "Texts B, E, F, I, K",
+      "publication_locator": "Abr-nahrain 33:17–29",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 11",
+      "primary_text_examined": false
+    },
+    {
+      "id": "woudhuizen-2007",
+      "authors": "Woudhuizen",
+      "year": 2007,
+      "short_title": "On the Byblos Script",
+      "publication_locator": "Ugarit-Forschungen 39; end page disputed",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 12",
+      "primary_text_examined": false
+    },
+    {
+      "id": "garbini-2009",
+      "authors": "Garbini",
+      "year": 2009,
+      "short_title": "Decifrazione e origine",
+      "publication_locator": "37–62",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 13",
+      "primary_text_examined": false
+    },
+    {
+      "id": "best-rietveld-2010",
+      "authors": "Best; Rietveld",
+      "year": 2010,
+      "short_title": "Structuring Tablets c and d",
+      "publication_locator": "Ugarit-Forschungen 42",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 14",
+      "primary_text_examined": false
+    },
+    {
+      "id": "vita-zamora-2018",
+      "authors": "Vita; Zamora",
+      "year": 2018,
+      "short_title": "The Byblos Script",
+      "publication_locator": "75–102",
+      "discovery_source": "mnamon-bibliography",
+      "discovery_locator": "entry 15",
+      "primary_text_examined": "selected_sections"
+    }
+  ]
+}
