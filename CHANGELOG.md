@@ -36,3 +36,20 @@ sign sequences, independent reviews or permissions.
 Additional 0.5 research: 16 provider slides inspected, 11 disputed candidates added,
 all 43 external entry labels provisionally mapped, m direction and b'c link
 conflicts retained, and unspecified provider dataset licensing documented.
+
+## 0.6.0 — 2026-10-01
+
+Implemented attainable scientific admission criteria with synthetic positive and
+negative tests. Reviews bind to an evidence digest; data changes invalidate old
+approvals. Full surface/line coverage, independent membership review, source and
+bibliography dispositions, count reconciliation and search audit are required.
+Imported verified sequences also require encoding-map rights.
+
+Added ten source leads plus an edition catalogue, inspected selected Dhorme,
+Dussaud and Sass sections, and corrected the Sobelman DOI metadata. Preserved
+Schwartz XIII/XV and four-cylinder/three-label discrepancies. Added the proposed
+arrowhead 13104 as a disputed candidate (39 records, 25 disputed). Corrected the
+project evidence pointer for OCBI b'c while retaining the provider's original path.
+Registered one CC BY-SA photograph as an external reference only; no image bytes
+or transcription sequences bundled. Prepared exact acquisition, permission and
+independent-review materials. Scientific 1.0 remains blocked.

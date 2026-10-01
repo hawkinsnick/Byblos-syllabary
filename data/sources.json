@@ -38,7 +38,19 @@
       "rights": {
         "status": "not_assessed",
         "scope": "Obtain and examine edition before using plates or transcriptions."
-      }
+      },
+      "bibliographic_claims": [
+        {
+          "source_id": "dussaud-1946",
+          "locator": "p. 36, footnote 1",
+          "claim": "Contemporary reference gives Beirut 1945."
+        },
+        {
+          "source_id": "openlibrary-dunand",
+          "locator": "Publication Date and Edition Identifiers",
+          "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined."
+        }
+      ]
     },
     {
       "id": "dunand-1978",
@@ -605,6 +617,162 @@
         "retrieved_sha256": "4ce1d8ab48e62b5623f3a29c0a78d0290b3a37bbfa6fb388bd5e72ff36e14049",
         "repository_blob_sha": "fa68dcaf5cf9c4f78551603bc3b4d2b9fbe87a9f",
         "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "dhorme-1946",
+      "citation": "Édouard Dhorme (1946), Déchiffrement des inscriptions pseudo-hiéroglyphiques de Byblos, Syria 25(1):1–35.",
+      "url": "https://www.persee.fr/doc/syria_0039-7946_1946_num_25_1_4447",
+      "doi": "10.3406/syria.1946.4447",
+      "type": "historical_decipherment_proposal",
+      "consultation": "selected_pages",
+      "accessed": "2026-10-01",
+      "notes": "Page 1 read; proposed decipherment is not accepted as canonical. Its reference to Syria 1929 conflicts with the inspected 1930 edition.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed."
+      }
+    },
+    {
+      "id": "dussaud-1946",
+      "citation": "René Dussaud (1946), L’origine de l’alphabet et son évolution première, d’après les découvertes de Byblos, Syria 25(1):36–52.",
+      "url": "https://www.persee.fr/doc/syria_0039-7946_1946_num_25_1_4492",
+      "doi": "10.3406/syria.1946.4492",
+      "type": "historical_critical_study",
+      "consultation": "selected_pages",
+      "accessed": "2026-10-01",
+      "notes": "Page 36 and bibliographic footnote read; independent contemporary witness to the 1945 book, not inspection of that book.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed."
+      }
+    },
+    {
+      "id": "schwartz-2021-publisher",
+      "citation": "Glenn M. Schwartz (2021), Non-cuneiform writing at third-millennium Umm el-Marra, Syria: evidence of an early alphabetic tradition?, Pasiphae XV:255–266 (publisher metadata).",
+      "url": "https://www.torrossa.com/en/resources/an/4774696",
+      "doi": "10.19272/202133301018",
+      "type": "publisher_metadata",
+      "consultation": "metadata_only",
+      "accessed": "2026-10-01",
+      "notes": "Publisher lists XV; author CV lists XIII. Full text not inspected; institutional access or purchase required.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed."
+      }
+    },
+    {
+      "id": "schwartz-author-abstract",
+      "citation": "Glenn M. Schwartz, author-hosted abstract of Non-cuneiform writing at third-millennium Umm el-Marra, Syria.",
+      "url": "https://johnshopkins.academia.edu/GlennSchwartz/Papers",
+      "doi": null,
+      "type": "author_abstract",
+      "consultation": "abstract_only",
+      "accessed": "2026-10-01",
+      "notes": "Abstract describes four cylinders from Tomb 4 and argues few convincing Byblian parallels; proposes an early alphabetic alternative. Not a demonstrated decipherment or mapping of O-3a/b/c.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed."
+      }
+    },
+    {
+      "id": "commons-beirut-photo",
+      "citation": "Onceinawhile (2019), National Museum of Beirut – Byblos syllabary, photograph, Wikimedia Commons.",
+      "url": "https://commons.wikimedia.org/w/index.php?title=File:National_Museum_of_Beirut_–_Byblos_syllabary.jpg&oldid=772165898",
+      "doi": null,
+      "type": "artifact_photograph",
+      "consultation": "consulted_online",
+      "accessed": "2026-10-01",
+      "notes": "Photograph visually inspected via public original; edition label and museum inventory number not established from this photograph. Original-byte retrieval returned HTTP 403; no checksum asserted.",
+      "rights": {
+        "status": "licensed",
+        "license": "CC-BY-SA-4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "scope": "Photograph only, per creator declaration on the file page; attribution, licence link and ShareAlike conditions. No transfer to OCBI sequences or publication plates."
+      }
+    },
+    {
+      "id": "sobelman-publisher",
+      "citation": "Harvey Sobelman (1961), The Proto-Byblian Inscriptions: A Fresh Approach, JSS 6(2):226–245.",
+      "url": "https://academic.oup.com/jss/article-abstract/6/2/226/1606946",
+      "doi": "10.1093/jss/6.2.226",
+      "type": "publisher_metadata",
+      "consultation": "metadata_only",
+      "accessed": "2026-10-01",
+      "notes": "Publisher citation inspected; full text is available for purchase, not acquired.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed."
+      }
+    },
+    {
+      "id": "sass-2019",
+      "citation": "Benjamin Sass (2019), The pseudo-hieroglyphic inscriptions from Byblos, their elusive dating, and their affinities with the early Phoenician inscriptions, in Ph. Abrahami and L. Battini (eds.), Cultures et sociétés syro-mésopotamiennes, pp. 157–180.",
+      "url": "https://www.academia.edu/38559714",
+      "doi": null,
+      "type": "critical_study",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Author-hosted sections on chronology and arrowhead 13104, pp. 167–169, inspected. Earlier and Iron Age scenarios are competing proposals, not established dates.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed."
+      }
+    },
+    {
+      "id": "haring-2023",
+      "citation": "Ben Haring (2023), Hieroglyphs, Pseudo-Scripts and Alphabets: Their Use and Reception in Ancient Egypt and Neighbouring Regions. Cambridge University Press.",
+      "url": "https://www.cambridge.org/core/elements/abs/hieroglyphs-pseudoscripts-and-alphabets/98F6CB75E5F4D8A5EC4746318C1A33E8",
+      "doi": "10.1017/9781009400800",
+      "type": "scholarly_study",
+      "consultation": "metadata_only",
+      "accessed": "2026-10-01",
+      "notes": "Publisher metadata and references inspected; online 22 November 2023, print 21 December 2023. Full text not inspected.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed."
+      }
+    },
+    {
+      "id": "deaps-kai3",
+      "citation": "DEAPS, KAI 003, Digital Editions of Aramaic and Phoenician Sources, Ohio State University.",
+      "url": "https://deaps.osu.edu/text_objects/11443",
+      "doi": null,
+      "type": "scholarly_digital_edition",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "General Notes and bibliography read. Study of the Phoenician overtext; underlying-layer attribution not independently verified. Metadata Material field says Bronze Flask while notes say spatula; no silent reconciliation.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed."
+      }
+    },
+    {
+      "id": "deaps-kai4",
+      "citation": "DEAPS, KAI 004, Digital Editions of Aramaic and Phoenician Sources, Ohio State University.",
+      "url": "https://deaps.osu.edu/text_objects/11444",
+      "doi": null,
+      "type": "scholarly_digital_edition",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "General Notes and bibliography read. Notes report Byblos Castle Museum, while Collection says In Situ at Find-Spot; no silent reconciliation. Phoenician dates and line counts do not automatically date/count the underlying layer.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed."
+      }
+    },
+    {
+      "id": "openlibrary-dunand",
+      "citation": "Open Library, Byblia grammata, edition OL6188790M, catalogue record.",
+      "url": "https://openlibrary.org/books/OL6188790M/Byblia_grammata",
+      "doi": null,
+      "type": "library_catalogue",
+      "consultation": "metadata_only",
+      "accessed": "2026-10-01",
+      "notes": "Lists work first published 1945, this edition 1946, OCLC 1191221 and additions/corrections leaf. Original book unexamined; catalogue Borrow button is not acquired access.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Factual catalogue metadata only; book text and plates not redistributed."
       }
     }
   ]

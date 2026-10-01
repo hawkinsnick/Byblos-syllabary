@@ -23,12 +23,14 @@
       },
       {
         "authors": "Dhorme",
+        "consulted_source_id": "dhorme-1946",
         "discovery_locator": "entry 3",
         "discovery_source": "mnamon-bibliography",
+        "doi": "10.3406/syria.1946.4447",
         "id": "dhorme-1946",
-        "primary_text_examined": false,
+        "primary_text_examined": "page_1",
         "publication_locator": "Syria 25:1–35",
-        "short_title": "Déchiffrement",
+        "short_title": "Déchiffrement des inscriptions pseudo-hiéroglyphiques de Byblos",
         "year": 1946
       },
       {
@@ -163,21 +165,39 @@
       },
       {
         "authors": "Schwartz",
+        "bibliographic_evidence": [
+          {
+            "locator": "Is part of, pages, DOI",
+            "source_id": "schwartz-2021-publisher"
+          },
+          {
+            "locator": "2021 publication entry",
+            "source_id": "schwartz-cv"
+          }
+        ],
         "discovery_locator": "CV p. 4",
         "discovery_source": "schwartz-cv",
+        "doi": "10.19272/202133301018",
         "id": "schwartz-2021",
         "primary_text_examined": false,
-        "publication_locator": "Pasiphae 13:255–266",
+        "publication_locator": "Pasiphae XV:255–266 per publisher; XIII in author CV (conflict unresolved)",
         "short_title": "Non-Cuneiform Writing at Umm el-Marra",
         "year": 2021
       },
       {
         "authors": "Sobelman",
+        "bibliographic_evidence": [
+          {
+            "locator": "Article metadata",
+            "source_id": "sobelman-publisher"
+          }
+        ],
         "discovery_locator": "p. 521, bibliography",
         "discovery_source": "izreel-1988",
+        "doi": "10.1093/jss/6.2.226",
         "id": "sobelman-1961",
         "primary_text_examined": false,
-        "publication_locator": "JSS 6:226–245",
+        "publication_locator": "JSS 6(2):226–245",
         "short_title": "The Proto-byblian Inscriptions: A Fresh Approach",
         "year": 1961
       },
@@ -200,6 +220,57 @@
         "publication_locator": "Rendiconti Lincei 15:377–390",
         "short_title": "Sigillo di età amarniana da Biblo con iscrizione",
         "year": 2004
+      },
+      {
+        "authors": "Dussaud",
+        "discovery_locator": "Article metadata and p. 36",
+        "discovery_source": "dussaud-1946",
+        "id": "dussaud-1946",
+        "primary_text_examined": "page_36",
+        "publication_locator": "Syria 25(1):36–52",
+        "short_title": "René Dussaud (1946), L’origine de l’alphabet et son évolution première, d’après les découvertes de Byblos, Syria 25(1):36–52.",
+        "year": 1946
+      },
+      {
+        "authors": "Sass",
+        "discovery_locator": "Author-uploaded chapter metadata",
+        "discovery_source": "sass-2019",
+        "id": "sass-2019",
+        "primary_text_examined": "selected_sections",
+        "publication_locator": "157–180",
+        "short_title": "Benjamin Sass (2019), The pseudo-hieroglyphic inscriptions from Byblos, their elusive dating, and their affinities with the early Phoenician inscriptions, in Ph. Abrahami and L. Battini (eds.), Cultures et sociétés syro-mésopotamiennes, pp. 157–180.",
+        "year": 2019
+      },
+      {
+        "authors": "Haring",
+        "discovery_locator": "Information",
+        "discovery_source": "haring-2023",
+        "id": "haring-2023",
+        "primary_text_examined": false,
+        "publication_locator": "Cambridge Elements",
+        "short_title": "Ben Haring (2023), Hieroglyphs, Pseudo-Scripts and Alphabets: Their Use and Reception in Ancient Egypt and Neighbouring Regions. Cambridge University Press.",
+        "year": 2023
+      },
+      {
+        "access_url": "https://www.jstor.org/stable/43073578",
+        "authors": "Martin",
+        "discovery_locator": "Bibliography, Martin entry",
+        "discovery_source": "deaps-kai3",
+        "id": "martin-1961",
+        "primary_text_examined": false,
+        "publication_locator": "Orientalia 30(1):46–78",
+        "short_title": "A Preliminary Report after Re-Examination of the Byblian Inscriptions",
+        "year": 1961
+      },
+      {
+        "authors": "Tubb",
+        "discovery_locator": "p. 169, arrowhead 13104 discussion",
+        "discovery_source": "sass-2019",
+        "id": "tubb-1980",
+        "primary_text_examined": false,
+        "publication_locator": "pp. 2–3 as cited in Sass",
+        "short_title": "Arrowhead discussion (full citation not yet checked)",
+        "year": 1980
       }
     ],
     "scope": "Bibliographic leads; not a systematic or exhaustive bibliography. Short titles are discovery labels, not full citations."
@@ -789,6 +860,13 @@
             ],
             "locator": "pp. 86–87, fig. 17",
             "source_id": "vita-zamora-2018"
+          },
+          {
+            "fields": [
+              "membership_note"
+            ],
+            "locator": "General Notes, citing Martin 1961 pp. 60–63",
+            "source_id": "deaps-kai3"
           }
         ],
         "evidence_level": "secondary_report",
@@ -824,6 +902,13 @@
             ],
             "locator": "pp. 87–88, fig. 18",
             "source_id": "vita-zamora-2018"
+          },
+          {
+            "fields": [
+              "membership_note"
+            ],
+            "locator": "General Notes, citing Martin 1961 pp. 66–67",
+            "source_id": "deaps-kai4"
           }
         ],
         "evidence_level": "secondary_report",
@@ -1412,12 +1497,20 @@
             ],
             "locator": "caption and labelled example",
             "source_id": "ocbi-plate-z_b"
+          },
+          {
+            "fields": [
+              "membership_note"
+            ],
+            "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+            "source_id": "schwartz-author-abstract"
           }
         ],
         "evidence_level": "secondary_report",
         "id": "BYB-CAND-UMM-O3A",
         "material": null,
         "membership": "disputed",
+        "membership_note": "Schwartz’s author-hosted abstract reports few convincing Byblian parallels and proposes an early alphabetic alternative. Mapping of these three provider labels to the four reported cylinders is unresolved.",
         "museum_id": null,
         "object_id": null,
         "object_type": "inscribed_object",
@@ -1445,12 +1538,20 @@
             ],
             "locator": "caption and labelled example",
             "source_id": "ocbi-plate-z_b"
+          },
+          {
+            "fields": [
+              "membership_note"
+            ],
+            "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+            "source_id": "schwartz-author-abstract"
           }
         ],
         "evidence_level": "secondary_report",
         "id": "BYB-CAND-UMM-O3B",
         "material": null,
         "membership": "disputed",
+        "membership_note": "Schwartz’s author-hosted abstract reports few convincing Byblian parallels and proposes an early alphabetic alternative. Mapping of these three provider labels to the four reported cylinders is unresolved.",
         "museum_id": null,
         "object_id": null,
         "object_type": "inscribed_object",
@@ -1478,12 +1579,20 @@
             ],
             "locator": "caption and labelled example",
             "source_id": "ocbi-plate-z_b"
+          },
+          {
+            "fields": [
+              "membership_note"
+            ],
+            "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+            "source_id": "schwartz-author-abstract"
           }
         ],
         "evidence_level": "secondary_report",
         "id": "BYB-CAND-UMM-O3C",
         "material": null,
         "membership": "disputed",
+        "membership_note": "Schwartz’s author-hosted abstract reports few convincing Byblian parallels and proposes an early alphabetic alternative. Mapping of these three provider labels to the four reported cylinders is unresolved.",
         "museum_id": null,
         "object_id": null,
         "object_type": "inscribed_object",
@@ -1578,11 +1687,58 @@
         "review_status": "unreviewed",
         "surfaces": null,
         "transcription": null
+      },
+      {
+        "date_claims": [],
+        "display_name": "Byblos arrowhead 13104, isolated mark",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note",
+              "reported_excavation_identifier"
+            ],
+            "locator": "p. 169, Figure 17 and arrowhead discussion; Byblos II pl. 177 cited",
+            "source_id": "sass-2019"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-ARROWHEAD-13104",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Sass compares its mark to Dunand G13. A single sign resemblance does not establish Byblos writing. Stratified context and precise date are unestablished.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "arrowhead",
+        "primary_edition_lead": null,
+        "reported_excavation_identifier": "13104",
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
       }
     ],
     "schema_version": "0.3.0"
   },
   "coverage": {
+    "admission_audit": {
+      "bibliography_dispositions": [],
+      "contributor_ids": [
+        "hawkinsnick",
+        "openai-codex"
+      ],
+      "count_reconciliations": [],
+      "cutoff_date": "2026-10-01",
+      "evidence": [],
+      "exclusion_criteria": "Do not infer membership from origin, sign resemblance or a provider group alone.",
+      "inclusion_criteria": "Retain attributed published claims with traceable identities; assess Byblos membership independently.",
+      "policy_version": 1,
+      "scope_statement": "Proposed inventory of core Byblos inscriptions and separately catalogued disputed candidates; completeness not established.",
+      "search_protocol": {},
+      "source_dispositions": []
+    },
     "as_of": "2026-10-01",
     "count_claims": [
       {
@@ -1640,6 +1796,22 @@
         "locator": "publisher description, first sentence",
         "source_id": "aub-mendenhall",
         "unit": "publisher_reported_discovered_texts"
+      },
+      {
+        "count": 10,
+        "derivation": "Contemporary report; not an independent collation of all ten.",
+        "id": "COUNT-DHORME-10",
+        "locator": "p. 1, second paragraph",
+        "source_id": "dhorme-1946",
+        "unit": "inscriptions_reported_in_1945_corpus"
+      },
+      {
+        "count": 4,
+        "derivation": "Not equated with three provider O-3 labels; candidate membership remains disputed.",
+        "id": "COUNT-UMM-4",
+        "locator": "Non-cuneiform writing abstract, first sentence",
+        "source_id": "schwartz-author-abstract",
+        "unit": "incised_clay_cylinders_reported"
       }
     ],
     "gaps": [
@@ -1729,13 +1901,37 @@
         "task": "Prepare rights-supported sign sequences for each in-scope inscription with uncertainties and independent checks."
       },
       {
+        "evidence": [
+          {
+            "fields": [
+              "resolution"
+            ],
+            "locator": "Byblos.elm b'c record at commit 69b4cc2822493146045cb9969586bf5bd9195380",
+            "source_id": "ocbi-source"
+          },
+          {
+            "fields": [
+              "resolution"
+            ],
+            "locator": "O-3c caption",
+            "source_id": "ocbi-plate-z_b"
+          },
+          {
+            "fields": [
+              "resolution"
+            ],
+            "locator": "Kahun caption",
+            "source_id": "ocbi-plate-z_c"
+          }
+        ],
         "id": "GAP-PROVIDER-LINK",
+        "resolution": "Project reference corrected to ocbi-plate-z_b for the O-3c caption; original provider path z_c.jpg retained as a documented discrepancy. This resolves the local evidence pointer, not archaeological identity or the upstream code.",
         "source_ids": [
           "ocbi-source",
           "ocbi-plate-z_b",
           "ocbi-plate-z_c"
         ],
-        "status": "open",
+        "status": "resolved",
         "task": "Resolve b'c link to Kahun slide versus O-3c label on separate slide."
       },
       {
@@ -1751,20 +1947,30 @@
         "id": "GAP-UMM",
         "source_ids": [
           "ocbi-plate-z_b",
-          "schwartz-cv"
+          "schwartz-cv",
+          "schwartz-2021-publisher",
+          "schwartz-author-abstract"
         ],
         "status": "open",
-        "task": "Examine Schwartz 2010 and 2021; establish O-3a/b/c identity and evaluate alphabetic alternatives."
+        "task": "Obtain Schwartz 2010/2021 full text; reconcile four cylinders with three O-3 labels, establish excavation identities, evaluate alphabetic alternative; resolve XIII/XV bibliography conflict."
+      },
+      {
+        "id": "GAP-PHOTO-IDENTITY",
+        "source_ids": [
+          "commons-beirut-photo"
+        ],
+        "status": "open",
+        "task": "Collate the licensed museum photograph with original plates and museum accession records before assigning it to a core inscription or surface."
       }
     ],
     "release_gates": {
       "exhaustive_claim_allowed": false,
       "independent_reviews": 0,
-      "rights_cleared_assets": 0,
+      "rights_cleared_assets": 1,
       "verified_transcriptions": 0
     },
     "scope": "Initial source inventory; no exhaustive coverage claim.",
-    "version": "0.5.0"
+    "version": "0.6.0"
   },
   "external_crosswalk": {
     "entries": [
@@ -2445,8 +2651,9 @@
         ],
         "id": "OCBI-ENTRY-41",
         "locator": "record b/c fields, entry 41",
-        "mapping_note": "Provider source points b'c to z_c.jpg, whose caption describes Kahun. z_b.jpg labels an O-3c example. Proposed identity follows O-3c slide; conflicting source link remains unresolved.",
+        "mapping_note": "Provider path z_c.jpg leads to the Kahun slide; the project uses the O-3c caption on z_b.jpg as its provisional evidence reference. Original provider path preserved. Archaeological identity remains unverified.",
         "mapping_status": "caption_match_only",
+        "project_evidence_source_id": "ocbi-plate-z_b",
         "proposed_project_record": "BYB-CAND-UMM-O3C",
         "provider_direction": "RTL",
         "provider_group": "BYBL?",
@@ -2525,7 +2732,27 @@
     ]
   },
   "research_entities": {
-    "assets": [],
+    "assets": [
+      {
+        "delivery": "external_reference_only",
+        "id": "ASSET-COMMONS-BEIRUT-2019",
+        "inscription_id": null,
+        "kind": "photograph",
+        "modifications": "None; external original linked, image bytes not bundled.",
+        "rights": {
+          "attribution": "Onceinawhile, National Museum of Beirut – Byblos syllabary (2019), Wikimedia Commons, CC BY-SA 4.0. No modifications.",
+          "creator": "Onceinawhile",
+          "license": "CC-BY-SA-4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reference": "Wikimedia Commons file page revision 772165898, Licensing section",
+          "scope": "The photograph only; external reference. Preserve credit and licence link; distribute adaptations under CC BY-SA 4.0 or compatible licence.",
+          "status": "licensed"
+        },
+        "source_id": "commons-beirut-photo",
+        "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/National_Museum_of_Beirut_%E2%80%93_Byblos_syllabary.jpg",
+        "surface_id": null
+      }
+    ],
     "editions": [],
     "objects": [],
     "reviews": [],
@@ -2551,6 +2778,19 @@
       {
         "result": "Metadata inspected at immutable commit 69b4cc2822493146045cb9969586bf5bd9195380; sequences not imported.",
         "source_id": "ocbi-source"
+      },
+      {
+        "result": "Publisher metadata read; full text not acquired. Author public abstract says request paper by email; no request sent.",
+        "source_id": "schwartz-2021-publisher"
+      },
+      {
+        "result": "Public original visually inspected via web retrieval; local byte download HTTP 403. Only external reference registered; no checksum or bundled image asserted.",
+        "source_id": "commons-beirut-photo",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/National_Museum_of_Beirut_%E2%80%93_Byblos_syllabary.jpg"
+      },
+      {
+        "result": "Publisher metadata accessible; full-text purchase or institutional access required.",
+        "source_id": "sobelman-publisher"
       }
     ],
     "as_of": "2026-10-01",
@@ -2619,6 +2859,108 @@
         "engine": "web_system2",
         "outcome": "Primary publication lead found; writing status uncertain.",
         "query": "Uluburun writing board marks Payton 1991 100 102"
+      },
+      {
+        "engine": "web_system1",
+        "outcome": "Poor precision, repeated with quoted terms.",
+        "query": "Dunand Byblia Grammata 1945 pdf",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system1",
+        "outcome": "Poor precision, repeated with quoted terms.",
+        "query": "Byblos syllabary corpus dataset licence Mäder Schmutz",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Discovery leads checked individually; no negative result establishes absence.",
+        "query": "\"Dunand\" \"Byblia Grammata\" pdf",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Discovery leads checked individually; no negative result establishes absence.",
+        "query": "\"Dunand\" \"1978\" \"pseudo\" Byblos",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Discovery leads checked individually; no negative result establishes absence.",
+        "query": "\"Byblos\" \"elamicon\" license",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Discovery leads checked individually; no negative result establishes absence.",
+        "query": "\"Umm el-Marra\" Schwartz 2021 alphabet pdf",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Discovery leads checked individually; no negative result establishes absence.",
+        "query": "\"Bulletin du Musée de Beyrouth\" \"30\" pdf Dunand",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Discovery leads checked individually; no negative result establishes absence.",
+        "query": "\"Byblia grammata\" site:archive.org",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Discovery leads checked individually; no negative result establishes absence.",
+        "query": "\"Non-cuneiform writing\" \"Schwartz\" filetype:pdf",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Discovery leads checked individually; no negative result establishes absence.",
+        "query": "\"Byblos\" \"syllabary\" \"museum\" inventory",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment.",
+        "query": "\"Byblia grammata\" digital scan",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment.",
+        "query": "\"Dunand\" \"Nouvelles inscriptions\" \"pdf\"",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment.",
+        "query": "\"Byblos\" \"Martin\" \"Revision and Reclassification\" 1962",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment.",
+        "query": "\"Sobelman\" \"Proto-byblian\" 1961 DOI",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment.",
+        "query": "\"Sass\" \"2019\" \"pseudo-hieroglyphic\" Byblos",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment.",
+        "query": "\"Byblos\" \"2025\" corpus inscriptions decipherment",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment.",
+        "query": "\"Byblos\" \"2026\" pseudo-hieroglyphic",
+        "searched_on": "2026-10-01"
       }
     ]
   },
@@ -2653,6 +2995,18 @@
       },
       {
         "accessed": null,
+        "bibliographic_claims": [
+          {
+            "claim": "Contemporary reference gives Beirut 1945.",
+            "locator": "p. 36, footnote 1",
+            "source_id": "dussaud-1946"
+          },
+          {
+            "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined.",
+            "locator": "Publication Date and Edition Identifiers",
+            "source_id": "openlibrary-dunand"
+          }
+        ],
         "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
         "consultation": "not_consulted",
         "doi": null,
@@ -3230,6 +3584,162 @@
         },
         "type": "provider_slide",
         "url": "https://center-for-decipherment.ch/tool/plates/byblos/z_d.jpg"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "Édouard Dhorme (1946), Déchiffrement des inscriptions pseudo-hiéroglyphiques de Byblos, Syria 25(1):1–35.",
+        "consultation": "selected_pages",
+        "doi": "10.3406/syria.1946.4447",
+        "id": "dhorme-1946",
+        "notes": "Page 1 read; proposed decipherment is not accepted as canonical. Its reference to Syria 1929 conflicts with the inspected 1930 edition.",
+        "rights": {
+          "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+          "status": "not_assessed"
+        },
+        "type": "historical_decipherment_proposal",
+        "url": "https://www.persee.fr/doc/syria_0039-7946_1946_num_25_1_4447"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "René Dussaud (1946), L’origine de l’alphabet et son évolution première, d’après les découvertes de Byblos, Syria 25(1):36–52.",
+        "consultation": "selected_pages",
+        "doi": "10.3406/syria.1946.4492",
+        "id": "dussaud-1946",
+        "notes": "Page 36 and bibliographic footnote read; independent contemporary witness to the 1945 book, not inspection of that book.",
+        "rights": {
+          "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+          "status": "not_assessed"
+        },
+        "type": "historical_critical_study",
+        "url": "https://www.persee.fr/doc/syria_0039-7946_1946_num_25_1_4492"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "Glenn M. Schwartz (2021), Non-cuneiform writing at third-millennium Umm el-Marra, Syria: evidence of an early alphabetic tradition?, Pasiphae XV:255–266 (publisher metadata).",
+        "consultation": "metadata_only",
+        "doi": "10.19272/202133301018",
+        "id": "schwartz-2021-publisher",
+        "notes": "Publisher lists XV; author CV lists XIII. Full text not inspected; institutional access or purchase required.",
+        "rights": {
+          "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+          "status": "not_assessed"
+        },
+        "type": "publisher_metadata",
+        "url": "https://www.torrossa.com/en/resources/an/4774696"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "Glenn M. Schwartz, author-hosted abstract of Non-cuneiform writing at third-millennium Umm el-Marra, Syria.",
+        "consultation": "abstract_only",
+        "doi": null,
+        "id": "schwartz-author-abstract",
+        "notes": "Abstract describes four cylinders from Tomb 4 and argues few convincing Byblian parallels; proposes an early alphabetic alternative. Not a demonstrated decipherment or mapping of O-3a/b/c.",
+        "rights": {
+          "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+          "status": "not_assessed"
+        },
+        "type": "author_abstract",
+        "url": "https://johnshopkins.academia.edu/GlennSchwartz/Papers"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "Onceinawhile (2019), National Museum of Beirut – Byblos syllabary, photograph, Wikimedia Commons.",
+        "consultation": "consulted_online",
+        "doi": null,
+        "id": "commons-beirut-photo",
+        "notes": "Photograph visually inspected via public original; edition label and museum inventory number not established from this photograph. Original-byte retrieval returned HTTP 403; no checksum asserted.",
+        "rights": {
+          "license": "CC-BY-SA-4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "scope": "Photograph only, per creator declaration on the file page; attribution, licence link and ShareAlike conditions. No transfer to OCBI sequences or publication plates.",
+          "status": "licensed"
+        },
+        "type": "artifact_photograph",
+        "url": "https://commons.wikimedia.org/w/index.php?title=File:National_Museum_of_Beirut_–_Byblos_syllabary.jpg&oldid=772165898"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "Harvey Sobelman (1961), The Proto-Byblian Inscriptions: A Fresh Approach, JSS 6(2):226–245.",
+        "consultation": "metadata_only",
+        "doi": "10.1093/jss/6.2.226",
+        "id": "sobelman-publisher",
+        "notes": "Publisher citation inspected; full text is available for purchase, not acquired.",
+        "rights": {
+          "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+          "status": "not_assessed"
+        },
+        "type": "publisher_metadata",
+        "url": "https://academic.oup.com/jss/article-abstract/6/2/226/1606946"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "Benjamin Sass (2019), The pseudo-hieroglyphic inscriptions from Byblos, their elusive dating, and their affinities with the early Phoenician inscriptions, in Ph. Abrahami and L. Battini (eds.), Cultures et sociétés syro-mésopotamiennes, pp. 157–180.",
+        "consultation": "selected_sections",
+        "doi": null,
+        "id": "sass-2019",
+        "notes": "Author-hosted sections on chronology and arrowhead 13104, pp. 167–169, inspected. Earlier and Iron Age scenarios are competing proposals, not established dates.",
+        "rights": {
+          "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+          "status": "not_assessed"
+        },
+        "type": "critical_study",
+        "url": "https://www.academia.edu/38559714"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "Ben Haring (2023), Hieroglyphs, Pseudo-Scripts and Alphabets: Their Use and Reception in Ancient Egypt and Neighbouring Regions. Cambridge University Press.",
+        "consultation": "metadata_only",
+        "doi": "10.1017/9781009400800",
+        "id": "haring-2023",
+        "notes": "Publisher metadata and references inspected; online 22 November 2023, print 21 December 2023. Full text not inspected.",
+        "rights": {
+          "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+          "status": "not_assessed"
+        },
+        "type": "scholarly_study",
+        "url": "https://www.cambridge.org/core/elements/abs/hieroglyphs-pseudoscripts-and-alphabets/98F6CB75E5F4D8A5EC4746318C1A33E8"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "DEAPS, KAI 003, Digital Editions of Aramaic and Phoenician Sources, Ohio State University.",
+        "consultation": "selected_sections",
+        "doi": null,
+        "id": "deaps-kai3",
+        "notes": "General Notes and bibliography read. Study of the Phoenician overtext; underlying-layer attribution not independently verified. Metadata Material field says Bronze Flask while notes say spatula; no silent reconciliation.",
+        "rights": {
+          "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+          "status": "not_assessed"
+        },
+        "type": "scholarly_digital_edition",
+        "url": "https://deaps.osu.edu/text_objects/11443"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "DEAPS, KAI 004, Digital Editions of Aramaic and Phoenician Sources, Ohio State University.",
+        "consultation": "selected_sections",
+        "doi": null,
+        "id": "deaps-kai4",
+        "notes": "General Notes and bibliography read. Notes report Byblos Castle Museum, while Collection says In Situ at Find-Spot; no silent reconciliation. Phoenician dates and line counts do not automatically date/count the underlying layer.",
+        "rights": {
+          "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+          "status": "not_assessed"
+        },
+        "type": "scholarly_digital_edition",
+        "url": "https://deaps.osu.edu/text_objects/11444"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "Open Library, Byblia grammata, edition OL6188790M, catalogue record.",
+        "consultation": "metadata_only",
+        "doi": null,
+        "id": "openlibrary-dunand",
+        "notes": "Lists work first published 1945, this edition 1946, OCLC 1191221 and additions/corrections leaf. Original book unexamined; catalogue Borrow button is not acquired access.",
+        "rights": {
+          "scope": "Factual catalogue metadata only; book text and plates not redistributed.",
+          "status": "not_assessed"
+        },
+        "type": "library_catalogue",
+        "url": "https://openlibrary.org/books/OL6188790M/Byblia_grammata"
       }
     ]
   },

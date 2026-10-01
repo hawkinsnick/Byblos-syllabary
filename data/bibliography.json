@@ -25,11 +25,13 @@
       "id": "dhorme-1946",
       "authors": "Dhorme",
       "year": 1946,
-      "short_title": "Déchiffrement",
+      "short_title": "Déchiffrement des inscriptions pseudo-hiéroglyphiques de Byblos",
       "publication_locator": "Syria 25:1–35",
       "discovery_source": "mnamon-bibliography",
       "discovery_locator": "entry 3",
-      "primary_text_examined": false
+      "primary_text_examined": "page_1",
+      "doi": "10.3406/syria.1946.4447",
+      "consulted_source_id": "dhorme-1946"
     },
     {
       "id": "dunand-1978",
@@ -166,20 +168,38 @@
       "authors": "Schwartz",
       "year": 2021,
       "short_title": "Non-Cuneiform Writing at Umm el-Marra",
-      "publication_locator": "Pasiphae 13:255–266",
+      "publication_locator": "Pasiphae XV:255–266 per publisher; XIII in author CV (conflict unresolved)",
       "discovery_source": "schwartz-cv",
       "discovery_locator": "CV p. 4",
-      "primary_text_examined": false
+      "primary_text_examined": false,
+      "doi": "10.19272/202133301018",
+      "bibliographic_evidence": [
+        {
+          "source_id": "schwartz-2021-publisher",
+          "locator": "Is part of, pages, DOI"
+        },
+        {
+          "source_id": "schwartz-cv",
+          "locator": "2021 publication entry"
+        }
+      ]
     },
     {
       "id": "sobelman-1961",
       "authors": "Sobelman",
       "year": 1961,
       "short_title": "The Proto-byblian Inscriptions: A Fresh Approach",
-      "publication_locator": "JSS 6:226–245",
+      "publication_locator": "JSS 6(2):226–245",
       "discovery_source": "izreel-1988",
       "discovery_locator": "p. 521, bibliography",
-      "primary_text_examined": false
+      "primary_text_examined": false,
+      "doi": "10.1093/jss/6.2.226",
+      "bibliographic_evidence": [
+        {
+          "source_id": "sobelman-publisher",
+          "locator": "Article metadata"
+        }
+      ]
     },
     {
       "id": "hamilton-2009",
@@ -199,6 +219,57 @@
       "publication_locator": "Rendiconti Lincei 15:377–390",
       "discovery_source": "schmutz-maeder-2024",
       "discovery_locator": "bibliography p. 10",
+      "primary_text_examined": false
+    },
+    {
+      "id": "dussaud-1946",
+      "authors": "Dussaud",
+      "year": 1946,
+      "short_title": "René Dussaud (1946), L’origine de l’alphabet et son évolution première, d’après les découvertes de Byblos, Syria 25(1):36–52.",
+      "publication_locator": "Syria 25(1):36–52",
+      "discovery_source": "dussaud-1946",
+      "discovery_locator": "Article metadata and p. 36",
+      "primary_text_examined": "page_36"
+    },
+    {
+      "id": "sass-2019",
+      "authors": "Sass",
+      "year": 2019,
+      "short_title": "Benjamin Sass (2019), The pseudo-hieroglyphic inscriptions from Byblos, their elusive dating, and their affinities with the early Phoenician inscriptions, in Ph. Abrahami and L. Battini (eds.), Cultures et sociétés syro-mésopotamiennes, pp. 157–180.",
+      "publication_locator": "157–180",
+      "discovery_source": "sass-2019",
+      "discovery_locator": "Author-uploaded chapter metadata",
+      "primary_text_examined": "selected_sections"
+    },
+    {
+      "id": "haring-2023",
+      "authors": "Haring",
+      "year": 2023,
+      "short_title": "Ben Haring (2023), Hieroglyphs, Pseudo-Scripts and Alphabets: Their Use and Reception in Ancient Egypt and Neighbouring Regions. Cambridge University Press.",
+      "publication_locator": "Cambridge Elements",
+      "discovery_source": "haring-2023",
+      "discovery_locator": "Information",
+      "primary_text_examined": false
+    },
+    {
+      "id": "martin-1961",
+      "authors": "Martin",
+      "year": 1961,
+      "short_title": "A Preliminary Report after Re-Examination of the Byblian Inscriptions",
+      "publication_locator": "Orientalia 30(1):46–78",
+      "discovery_source": "deaps-kai3",
+      "discovery_locator": "Bibliography, Martin entry",
+      "primary_text_examined": false,
+      "access_url": "https://www.jstor.org/stable/43073578"
+    },
+    {
+      "id": "tubb-1980",
+      "authors": "Tubb",
+      "year": 1980,
+      "short_title": "Arrowhead discussion (full citation not yet checked)",
+      "publication_locator": "pp. 2–3 as cited in Sass",
+      "discovery_source": "sass-2019",
+      "discovery_locator": "p. 169, arrowhead 13104 discussion",
       "primary_text_examined": false
     }
   ]

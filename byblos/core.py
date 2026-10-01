@@ -7,6 +7,8 @@ from collections import Counter
 from pathlib import Path
 import json
 import re
+from datetime import date
+from .admission import admission_assessment, evidence_digest, approved
 
 ROOT = Path(__file__).resolve().parents[1]
 CONSULTED = {"consulted_online", "abstract_only", "selected_sections", "selected_pages",
@@ -117,7 +119,8 @@ def validate_bundle(bundle):
         if r.get("evidence_level") not in {"secondary_report", "publication_checked", "artifact_checked"}:
             fail(where, "invalid evidence level")
         for f in ("edition_label", "display_name", "material", "object_type", "membership",
-                  "membership_note", "dimensions_mm", "discovery_context"):
+                  "membership_note", "dimensions_mm", "discovery_context", "museum_id",
+                  "reported_excavation_identifier"):
             if r.get(f) is not None and f not in fields:
                 fail(where, f"asserted field {f} lacks evidence")
         label = r.get("edition_label")
@@ -157,7 +160,7 @@ def validate_bundle(bundle):
             evidence(museum, where + ".museum")
             if museum.get("verification") != "reported_only" or not museum.get("value") or not museum.get("institution"):
                 fail(where, "invalid reported museum identity")
-        if r.get("review_status") == "reviewed" and not _approved(entities["reviews"], "records", r.get("id")):
+        if r.get("review_status") == "reviewed" and not approved(bundle, "records", r.get("id")):
             fail(where, "reviewed flag without independent approval")
     if len(labels) != len(set(labels)):
         fail("catalogue", "duplicate edition labels")
@@ -208,10 +211,14 @@ def validate_bundle(bundle):
         target = entry.get("proposed_project_record")
         if target is not None and target not in rec:
             fail(str(entry.get("id")), "unknown crosswalk target")
-        if entry.get("mapping_status") not in {"unresolved", "label_match_only", "caption_match_only", "verified"}:
+        if entry.get("mapping_status") not in {"unresolved", "label_match_only", "caption_match_only", "verified", "excluded"}:
             fail(str(entry.get("id")), "invalid mapping status")
-        if entry.get("mapping_status") in {"caption_match_only", "verified"}:
+        if entry.get("mapping_status") in {"caption_match_only", "verified", "excluded"}:
             evidence(entry, str(entry.get("id")))
+        if entry.get("mapping_status") == "excluded" and not entry.get("exclusion_reason"):
+            fail(str(entry.get("id")), "excluded crosswalk entry lacks reason")
+        if entry.get("project_evidence_source_id") is not None and entry["project_evidence_source_id"] not in src:
+            fail(str(entry.get("id")), "unknown project crosswalk evidence source")
 
     for obj in entities["objects"]:
         evidence(obj, str(obj.get("id")))
@@ -234,11 +241,24 @@ def validate_bundle(bundle):
     for review in entities["reviews"]:
         evidence(review, str(review.get("id")))
         scope = review.get("scope", {})
-        table = rec if scope.get("entity_type") == "records" else index.get(scope.get("entity_type"), {})
-        if scope.get("id") not in table or not review.get("reviewer"):
+        table = ({"scientific-1.0": True} if scope.get("entity_type") == "admission" else
+                 rec if scope.get("entity_type") == "records" else index.get(scope.get("entity_type"), {}))
+        if scope.get("id") not in table or not review.get("reviewer") or not review.get("reviewer_id"):
             fail(str(review.get("id")), "review scope or reviewer missing")
         if type(review.get("independent")) is not bool or review.get("status") not in {"approved", "changes_requested"}:
             fail(str(review.get("id")), "invalid review declaration")
+        if review.get("reviewed_bundle_sha256") != evidence_digest(bundle):
+            fail(str(review.get("id")), "review does not bind current evidence snapshot")
+        if not review.get("review_record") or not review.get("expertise") or not review.get("reviewed_on"):
+            fail(str(review.get("id")), "review lacks record, expertise or date")
+        try:
+            if date.fromisoformat(review.get("reviewed_on", "")) > date.fromisoformat(bundle["coverage"]["as_of"]):
+                fail(str(review.get("id")), "review date exceeds snapshot date")
+        except (ValueError, TypeError):
+            fail(str(review.get("id")), "invalid review date")
+        contributors = bundle.get("coverage", {}).get("admission_audit", {}).get("contributor_ids", [])
+        if review.get("independent") and (not contributors or review.get("reviewer_id") in contributors):
+            fail(str(review.get("id")), "independence lacks separate contributor/reviewer identities")
 
     for tr in entities["transcriptions"]:
         where = str(tr.get("id"))
@@ -252,8 +272,18 @@ def validate_bundle(bundle):
             fail(where, "transcription lacks rights-supported transcription asset")
         if tr.get("status") not in {"draft", "verified"}:
             fail(where, "invalid transcription status")
-        if tr.get("status") == "verified" and not _approved(entities["reviews"], "transcriptions", tr.get("id")):
+        if tr.get("status") == "verified" and not approved(bundle, "transcriptions", tr.get("id")):
             fail(where, "verified sequence lacks independent approval")
+        if tr.get("status") == "verified":
+            method = tr.get("method", {})
+            if (not isinstance(method, dict) or method.get("origin") not in {"independent_collation", "imported"}
+                    or not method.get("creator_ids") or not method.get("source_version")
+                    or not isinstance(method.get("normalization_log"), list)):
+                fail(where, "verified sequence lacks origin, creators, source version or normalization log")
+            elif method["origin"] == "imported":
+                encoding = index["assets"].get(method.get("encoding_map_asset_id"), {})
+                if encoding.get("kind") != "encoding_map" or not rights_supported(encoding):
+                    fail(where, "imported sequence lacks rights-supported encoding map")
         lines = tr.get("lines")
         if not isinstance(lines, list) or not lines:
             fail(where, "missing transcription lines")
@@ -315,8 +345,10 @@ def validate_bundle(bundle):
     for k, value in actual.items():
         if gates.get(k) != value:
             fail("coverage.release_gates", f"{k} disagrees with recorded entities")
-    if gates.get("exhaustive_claim_allowed") is not False:
-        fail("coverage.release_gates", "exhaustiveness must stay false until audited admission criteria are implemented")
+    if type(gates.get("exhaustive_claim_allowed")) is not bool:
+        fail("coverage.release_gates", "exhaustiveness flag must be boolean")
+    elif gates["exhaustive_claim_allowed"] and not admission_assessment(bundle)["ready"]:
+        fail("coverage.release_gates", "exhaustiveness claim lacks complete audited admission evidence")
     return errors
 
 def rights_supported(asset):
@@ -334,11 +366,6 @@ def rights_supported(asset):
         return False
     return True
 
-def _approved(reviews, entity_type, ident):
-    return any(r.get("scope") == {"entity_type": entity_type, "id": ident}
-               and r.get("status") == "approved" and r.get("independent") is True
-               for r in reviews)
-
 def audit(bundle):
     errors = validate_bundle(bundle)
     records = bundle["catalogue"]["records"]
@@ -347,11 +374,12 @@ def audit(bundle):
     core = [r for r in records if r["membership"] == "reported_core"]
     verified = {t["inscription_id"] for t in trs if t.get("status") == "verified"}
     missing_sequences = [r["id"] for r in core if r["id"] not in verified]
-    missing_reviews = [r["id"] for r in core if not _approved(entities["reviews"], "records", r["id"])]
+    missing_reviews = [r["id"] for r in core if not approved(bundle, "records", r["id"])]
     missing_objects = [r["id"] for r in core if not r.get("object_id")]
     missing_surfaces = [r["id"] for r in core if not r.get("surfaces")]
-    unresolved = [e["id"] for e in bundle["external_crosswalk"]["entries"] if e["mapping_status"] != "verified"]
+    unresolved = [e["id"] for e in bundle["external_crosswalk"]["entries"] if e["mapping_status"] not in {"verified", "excluded"}]
     open_gaps = [g["id"] for g in bundle["coverage"]["gaps"] if g["status"] == "open"]
+    admission = admission_assessment(bundle)
     gates = {
         "structure": not errors,
         "nonempty_core": bool(core),
@@ -361,7 +389,8 @@ def audit(bundle):
         "surface_inventory": bool(core) and not missing_surfaces,
         "external_crosswalk": not unresolved,
         "research_gaps_resolved": not open_gaps,
-        "exhaustiveness_audit": bundle["coverage"]["release_gates"].get("exhaustive_claim_allowed") is True,
+        "admission_evidence": admission["ready"],
+        "exhaustiveness_audit": admission["ready"] and bundle["coverage"]["release_gates"].get("exhaustive_claim_allowed") is True,
     }
     return {
         "version": bundle["coverage"]["version"], "structure_valid": not errors,
@@ -376,6 +405,8 @@ def audit(bundle):
             "independent_approvals": sum(r.get("independent") is True and r.get("status") == "approved" for r in entities["reviews"]),
             "external_entries": len(bundle["external_crosswalk"]["entries"]),
         },
+        "review_evidence_sha256": evidence_digest(bundle),
+        "admission": admission,
         "blockers": {"core_without_verified_sequence": missing_sequences,
                      "core_without_independent_review": missing_reviews,
                      "core_without_object_identity": missing_objects,

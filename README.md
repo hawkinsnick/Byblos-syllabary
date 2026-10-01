@@ -1,6 +1,6 @@
 # Byblos syllabary research corpus
 
-Version: 0.5.0 — research catalogue and reproducible tooling.
+Version: 0.6.0 — research catalogue and reproducible tooling.
 
 An open research project working toward exhaustive, evidence-based coverage of the
 undeciphered Byblos script. Its language affiliation is unresolved. The name
@@ -8,13 +8,13 @@ undeciphered Byblos script. Its language affiliation is unresolved. The name
 
 ## Current coverage
 
-- 14 reported core entries plus 24 named disputed candidates; membership remains attributed.
-- 36 registered sources/leads and 20 bibliography discovery entries; consultation depth recorded individually.
+- 14 reported core entries plus 25 named disputed candidates; membership remains attributed.
+- 47 registered sources/leads and 25 bibliography discovery entries; consultation depth recorded individually.
 - 0 verified sign sequences, 0 imported images, 0 independently reviewed records; 6 sourced surface descriptions.
 - Published corpus counts remain unresolved. This is not an exhaustive corpus.
 - Identifiers refer to inscription records, not necessarily distinct physical objects.
 
-43 OCBI entry labels are mapped provisionally by label or caption; entry counts include faces and variants.
+43 OCBI entry labels are mapped provisionally by label or caption; entry counts include faces and variants. One licensed photograph is registered as an external reference, with credit and licence; its inscription identity remains unverified.
 
 Start with [the ledger](data/coverage.json), [sources](data/sources.json),
 and [method and roadmap](docs/METHOD.md).
@@ -63,7 +63,7 @@ python -m byblos audit --require-1-0
 ```
 
 Currently exits **2**, correctly reporting unmet scientific gates. This project
-has progressed through development snapshots 0.2, 0.3, 0.4 and 0.5; the original
+has progressed through development snapshots 0.2–0.6; the original
 scientific milestones are not all complete. 1.0 has not been released.
 
 [Read the generated audit](exports/REPORT.md).
@@ -72,3 +72,5 @@ The JSON bundle is lossless; CSV is a convenience catalogue view.
 exist. It does not treat reported sign totals as digitized observations.
 
 [Scientific 1.0 status and required evidence](docs/RELEASE_STATUS.md) | [Research conflicts](docs/FINDINGS.md) | [Data model](docs/DATA_MODEL.md) | [Rights](docs/RIGHTS.md)
+
+The [implemented admission policy](docs/ADMISSION_POLICY.md) binds reviews to the evidence snapshot and requires complete lines, attributed coverage decisions and count reconciliation. The [acquisition and review packet](docs/ACQUISITION_AND_REVIEW.md) supplies exact edition requests, permission scope and specialist acceptance criteria. No correspondence has been sent.

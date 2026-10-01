@@ -1,4 +1,49 @@
 {
+  "admission": {
+    "claim_limit": "Complete within the independently reviewed scope and cutoff; future finds and publications remain possible.",
+    "missing": [
+      "scope_evidence",
+      "source_inventory_dispositions",
+      "bibliography_dispositions",
+      "count_reconciliations",
+      "systematic_search_protocol",
+      "all_membership_decisions_reviewed",
+      "core_identity_and_direct_evidence",
+      "complete_sequence:BYB-A",
+      "edition_collation:BYB-A",
+      "complete_sequence:BYB-B",
+      "edition_collation:BYB-B",
+      "complete_sequence:BYB-C",
+      "edition_collation:BYB-C",
+      "complete_sequence:BYB-D",
+      "edition_collation:BYB-D",
+      "complete_sequence:BYB-E",
+      "edition_collation:BYB-E",
+      "complete_sequence:BYB-F",
+      "edition_collation:BYB-F",
+      "complete_sequence:BYB-G",
+      "edition_collation:BYB-G",
+      "complete_sequence:BYB-H",
+      "edition_collation:BYB-H",
+      "complete_sequence:BYB-I",
+      "edition_collation:BYB-I",
+      "complete_sequence:BYB-J",
+      "edition_collation:BYB-J",
+      "complete_sequence:BYB-K",
+      "edition_collation:BYB-K",
+      "complete_sequence:BYB-L",
+      "edition_collation:BYB-L",
+      "complete_sequence:BYB-M",
+      "edition_collation:BYB-M",
+      "complete_sequence:BYB-N",
+      "edition_collation:BYB-N",
+      "external_crosswalk_decisions",
+      "research_gaps_resolved",
+      "independent_admission_review"
+    ],
+    "policy_version": 1,
+    "ready": false
+  },
   "blockers": {
     "core_without_independent_review": [
       "BYB-A",
@@ -72,9 +117,9 @@
       "GAP-RIGHTS",
       "GAP-SIGNS",
       "GAP-TRANSCRIPTION",
-      "GAP-PROVIDER-LINK",
       "GAP-DIRECTION-M",
-      "GAP-UMM"
+      "GAP-UMM",
+      "GAP-PHOTO-IDENTITY"
     ],
     "unverified_external_entries": [
       "OCBI-ENTRY-01",
@@ -123,19 +168,20 @@
     ]
   },
   "counts": {
-    "catalogue_records": 38,
-    "disputed_candidates": 24,
+    "catalogue_records": 39,
+    "disputed_candidates": 25,
     "external_entries": 43,
     "independent_approvals": 0,
     "reported_core": 14,
     "signs_registered": 0,
-    "sources_and_leads": 36,
+    "sources_and_leads": 47,
     "surfaces_described": 6,
     "transcriptions": 0,
     "verified_core_sequences": 0
   },
   "errors": [],
   "gates": {
+    "admission_evidence": false,
     "core_sequences": false,
     "exhaustiveness_audit": false,
     "external_crosswalk": false,
@@ -147,7 +193,8 @@
     "surface_inventory": false
   },
   "interpretation": "Passing software checks validates recorded structure, not archaeological truth, licence validity or completeness.",
+  "review_evidence_sha256": "0714e1751362176f2f41933a854c2c2cb63f8364dd11bc983e4d774ad378c8a0",
   "scientific_1_0_ready": false,
   "structure_valid": true,
-  "version": "0.5.0"
+  "version": "0.6.0"
 }

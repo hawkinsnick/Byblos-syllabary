@@ -1,6 +1,6 @@
 # Scientific 1.0 assessment
 
-Current development snapshot: 0.5.0. Scientific 1.0 is **not released**.
+Current development snapshot: 0.6.0. Scientific 1.0 is **not released**.
 
 The complete available-work pipeline was exercised: structural validation,
 regression tests, deterministic export, checksum verification, lossless bundle
@@ -22,8 +22,8 @@ lists the concrete evidence gaps. Tests cannot supply missing archaeological dat
    transcriptions. No review or permission has been invented.
 6. Audit bibliography and candidate coverage against a dated, reproducible source
    inventory. Resolve gaps or document justified scope decisions with evidence.
-7. Implement and test an audited 1.0 admission policy before enabling the
-   exhaustiveness flag. The prerelease schema deliberately rejects that flag.
+7. Complete the evidence required by the implemented [admission policy](ADMISSION_POLICY.md)
+   and obtain independent admission review before enabling the exhaustiveness flag.
 
 ## Prepared permission scope
 
@@ -48,3 +48,21 @@ python -m byblos audit --require-1-0
 
 The final command currently exits 2. That honest blocked result preserves the
 scientific standard specified for this project.
+
+## Blocker work completed in 0.6
+
+- The admission-policy implementation blocker is closed: a fully synthetic
+  complete case passes, while missing lines, stale approvals, self-review,
+  unreconciled counts and missing encoding-map rights are rejected.
+- The project O-3c evidence-pointer discrepancy is resolved. Archaeological mapping
+  remains provisional and the upstream provider path is retained.
+- One photograph has a documented creator licence and an external asset record.
+  That clears this source's declared reuse basis only; it does not clear OCBI,
+  original plates or other media, and no image bytes are included.
+- Source history and bibliography improved; an arrowhead candidate and additional
+  chronology, volume and count conflicts are now traceable.
+
+Original editions, item-level fragment identities, full sequences, their reuse
+terms, complete coverage dispositions and actual independent specialist review
+remain external evidence dependencies. The [acquisition and review packet](ACQUISITION_AND_REVIEW.md)
+contains exact requests and review deliverables. Nothing was sent to third parties.

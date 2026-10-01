@@ -5,5 +5,25 @@
   "editions": [],
   "transcriptions": [],
   "reviews": [],
-  "assets": []
+  "assets": [
+    {
+      "id": "ASSET-COMMONS-BEIRUT-2019",
+      "kind": "photograph",
+      "source_id": "commons-beirut-photo",
+      "delivery": "external_reference_only",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/National_Museum_of_Beirut_%E2%80%93_Byblos_syllabary.jpg",
+      "inscription_id": null,
+      "surface_id": null,
+      "modifications": "None; external original linked, image bytes not bundled.",
+      "rights": {
+        "status": "licensed",
+        "license": "CC-BY-SA-4.0",
+        "reference": "Wikimedia Commons file page revision 772165898, Licensing section",
+        "creator": "Onceinawhile",
+        "attribution": "Onceinawhile, National Museum of Beirut – Byblos syllabary (2019), Wikimedia Commons, CC BY-SA 4.0. No modifications.",
+        "scope": "The photograph only; external reference. Preserve credit and licence link; distribute adaptations under CC BY-SA 4.0 or compatible licence.",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
 }

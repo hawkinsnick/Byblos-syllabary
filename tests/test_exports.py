@@ -18,7 +18,7 @@ class ExportTests(unittest.TestCase):
         self.assertEqual(a, b)
         records = [json.loads(line) for line in a["catalogue.jsonl"].splitlines()]
         self.assertTrue(all(r["transcription"] is None for r in records))
-        self.assertEqual(len(records), 38)
+        self.assertEqual(len(records), 39)
     def test_export_roundtrip_and_tampering(self):
         with tempfile.TemporaryDirectory() as d:
             out = Path(d) / "snapshot"

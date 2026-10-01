@@ -588,6 +588,13 @@
             "membership_note",
             "material"
           ]
+        },
+        {
+          "source_id": "deaps-kai3",
+          "locator": "General Notes, citing Martin 1961 pp. 60–63",
+          "fields": [
+            "membership_note"
+          ]
         }
       ],
       "primary_edition_lead": null,
@@ -621,6 +628,13 @@
             "display_name",
             "object_type",
             "membership",
+            "membership_note"
+          ]
+        },
+        {
+          "source_id": "deaps-kai4",
+          "locator": "General Notes, citing Martin 1961 pp. 66–67",
+          "fields": [
             "membership_note"
           ]
         }
@@ -1211,6 +1225,13 @@
             "object_type",
             "membership"
           ]
+        },
+        {
+          "source_id": "schwartz-author-abstract",
+          "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+          "fields": [
+            "membership_note"
+          ]
         }
       ],
       "primary_edition_lead": null,
@@ -1225,7 +1246,8 @@
         "Assess writing and script attribution.",
         "Confirm identity, provenance and duplicates.",
         "Record counterarguments."
-      ]
+      ],
+      "membership_note": "Schwartz’s author-hosted abstract reports few convincing Byblian parallels and proposes an early alphabetic alternative. Mapping of these three provider labels to the four reported cylinders is unresolved."
     },
     {
       "id": "BYB-CAND-UMM-O3B",
@@ -1244,6 +1266,13 @@
             "object_type",
             "membership"
           ]
+        },
+        {
+          "source_id": "schwartz-author-abstract",
+          "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+          "fields": [
+            "membership_note"
+          ]
         }
       ],
       "primary_edition_lead": null,
@@ -1258,7 +1287,8 @@
         "Assess writing and script attribution.",
         "Confirm identity, provenance and duplicates.",
         "Record counterarguments."
-      ]
+      ],
+      "membership_note": "Schwartz’s author-hosted abstract reports few convincing Byblian parallels and proposes an early alphabetic alternative. Mapping of these three provider labels to the four reported cylinders is unresolved."
     },
     {
       "id": "BYB-CAND-UMM-O3C",
@@ -1277,6 +1307,13 @@
             "object_type",
             "membership"
           ]
+        },
+        {
+          "source_id": "schwartz-author-abstract",
+          "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+          "fields": [
+            "membership_note"
+          ]
         }
       ],
       "primary_edition_lead": null,
@@ -1291,7 +1328,8 @@
         "Assess writing and script attribution.",
         "Confirm identity, provenance and duplicates.",
         "Record counterarguments."
-      ]
+      ],
+      "membership_note": "Schwartz’s author-hosted abstract reports few convincing Byblian parallels and proposes an early alphabetic alternative. Mapping of these three provider labels to the four reported cylinders is unresolved."
     },
     {
       "id": "BYB-CAND-KAHUN",
@@ -1373,6 +1411,37 @@
           }
         ]
       }
+    },
+    {
+      "id": "BYB-CAND-ARROWHEAD-13104",
+      "edition_label": null,
+      "display_name": "Byblos arrowhead 13104, isolated mark",
+      "material": null,
+      "object_type": "arrowhead",
+      "membership": "disputed",
+      "membership_note": "Sass compares its mark to Dunand G13. A single sign resemblance does not establish Byblos writing. Stratified context and precise date are unestablished.",
+      "evidence_level": "secondary_report",
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "reported_excavation_identifier": "13104",
+      "evidence": [
+        {
+          "source_id": "sass-2019",
+          "locator": "p. 169, Figure 17 and arrowhead discussion; Byblos II pl. 177 cited",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note",
+            "reported_excavation_identifier"
+          ]
+        }
+      ]
     }
   ]
 }

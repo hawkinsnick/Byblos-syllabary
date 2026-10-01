@@ -40,6 +40,10 @@ def export_texts(bundle):
     lines += ["", "| Gate | Result |", "|---|---|"]
     lines += [f"| {k.replace('_', ' ')} | {'PASS' if v else 'OPEN'} |"
               for k, v in report["gates"].items()]
+    lines += ["", "## Admission evidence", "",
+              f"Evidence snapshot SHA-256: `{report['review_evidence_sha256']}`", "",
+              report["admission"]["claim_limit"], ""]
+    lines += [f"- {item}" for item in report["admission"]["missing"]]
     lines += ["", "## Open research gaps", ""]
     for gap in bundle["coverage"]["gaps"]:
         if gap["status"] == "open":

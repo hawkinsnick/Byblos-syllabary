@@ -33,3 +33,14 @@ No permission request has been sent, and no grant is claimed.
 Elamicon repository legalese has been inspected: its permissive licence is
 promised but unspecified (source ocbi-repository). No sequence permission is
 inferred. Explanatory slides remain source links and metadata references only.
+
+## Licensed external photograph (0.6)
+
+ASSET-COMMONS-BEIRUT-2019 records Onceinawhile's 2019 museum photograph as an
+external reference, under the creator's CC BY-SA 4.0 declaration at Commons
+revision 772165898. Full credit, licence URL and adaptation conditions are in
+the asset record. No image bytes or checksum are included: local retrieval
+returned HTTP 403, although the public original was visually inspected through
+web retrieval. The depicted inscription has not been identified to an edition.
+The asset counter includes this declared rights-supported external reference;
+it is not a count of bundled files or independently adjudicated legal clearances.

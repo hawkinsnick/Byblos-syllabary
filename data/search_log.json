@@ -65,6 +65,108 @@
       "engine": "web_system2",
       "query": "Uluburun writing board marks Payton 1991 100 102",
       "outcome": "Primary publication lead found; writing status uncertain."
+    },
+    {
+      "engine": "web_system1",
+      "query": "Dunand Byblia Grammata 1945 pdf",
+      "searched_on": "2026-10-01",
+      "outcome": "Poor precision, repeated with quoted terms."
+    },
+    {
+      "engine": "web_system1",
+      "query": "Byblos syllabary corpus dataset licence Mäder Schmutz",
+      "searched_on": "2026-10-01",
+      "outcome": "Poor precision, repeated with quoted terms."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Dunand\" \"Byblia Grammata\" pdf",
+      "searched_on": "2026-10-01",
+      "outcome": "Discovery leads checked individually; no negative result establishes absence."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Dunand\" \"1978\" \"pseudo\" Byblos",
+      "searched_on": "2026-10-01",
+      "outcome": "Discovery leads checked individually; no negative result establishes absence."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Byblos\" \"elamicon\" license",
+      "searched_on": "2026-10-01",
+      "outcome": "Discovery leads checked individually; no negative result establishes absence."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Umm el-Marra\" Schwartz 2021 alphabet pdf",
+      "searched_on": "2026-10-01",
+      "outcome": "Discovery leads checked individually; no negative result establishes absence."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Bulletin du Musée de Beyrouth\" \"30\" pdf Dunand",
+      "searched_on": "2026-10-01",
+      "outcome": "Discovery leads checked individually; no negative result establishes absence."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Byblia grammata\" site:archive.org",
+      "searched_on": "2026-10-01",
+      "outcome": "Discovery leads checked individually; no negative result establishes absence."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Non-cuneiform writing\" \"Schwartz\" filetype:pdf",
+      "searched_on": "2026-10-01",
+      "outcome": "Discovery leads checked individually; no negative result establishes absence."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Byblos\" \"syllabary\" \"museum\" inventory",
+      "searched_on": "2026-10-01",
+      "outcome": "Discovery leads checked individually; no negative result establishes absence."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Byblia grammata\" digital scan",
+      "searched_on": "2026-10-01",
+      "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Dunand\" \"Nouvelles inscriptions\" \"pdf\"",
+      "searched_on": "2026-10-01",
+      "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Byblos\" \"Martin\" \"Revision and Reclassification\" 1962",
+      "searched_on": "2026-10-01",
+      "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Sobelman\" \"Proto-byblian\" 1961 DOI",
+      "searched_on": "2026-10-01",
+      "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Sass\" \"2019\" \"pseudo-hieroglyphic\" Byblos",
+      "searched_on": "2026-10-01",
+      "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Byblos\" \"2025\" corpus inscriptions decipherment",
+      "searched_on": "2026-10-01",
+      "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment."
+    },
+    {
+      "engine": "web_system2",
+      "query": "\"Byblos\" \"2026\" pseudo-hieroglyphic",
+      "searched_on": "2026-10-01",
+      "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment."
     }
   ],
   "access_attempts": [
@@ -84,6 +186,19 @@
     {
       "source_id": "ocbi-source",
       "result": "Metadata inspected at immutable commit 69b4cc2822493146045cb9969586bf5bd9195380; sequences not imported."
+    },
+    {
+      "source_id": "schwartz-2021-publisher",
+      "result": "Publisher metadata read; full text not acquired. Author public abstract says request paper by email; no request sent."
+    },
+    {
+      "source_id": "commons-beirut-photo",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/National_Museum_of_Beirut_%E2%80%93_Byblos_syllabary.jpg",
+      "result": "Public original visually inspected via web retrieval; local byte download HTTP 403. Only external reference registered; no checksum or bundled image asserted."
+    },
+    {
+      "source_id": "sobelman-publisher",
+      "result": "Publisher metadata accessible; full-text purchase or institutional access required."
     }
   ]
 }

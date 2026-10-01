@@ -1,5 +1,5 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "as_of": "2026-10-01",
   "scope": "Initial source inventory; no exhaustive coverage claim.",
   "count_claims": [
@@ -58,6 +58,22 @@
       "count": 9,
       "unit": "publisher_reported_discovered_texts",
       "derivation": "Publisher synopsis, not an independently checked corpus inventory."
+    },
+    {
+      "id": "COUNT-DHORME-10",
+      "source_id": "dhorme-1946",
+      "locator": "p. 1, second paragraph",
+      "count": 10,
+      "unit": "inscriptions_reported_in_1945_corpus",
+      "derivation": "Contemporary report; not an independent collation of all ten."
+    },
+    {
+      "id": "COUNT-UMM-4",
+      "source_id": "schwartz-author-abstract",
+      "locator": "Non-cuneiform writing abstract, first sentence",
+      "count": 4,
+      "unit": "incised_clay_cylinders_reported",
+      "derivation": "Not equated with three provider O-3 labels; candidate membership remains disputed."
     }
   ],
   "gaps": [
@@ -148,13 +164,37 @@
     },
     {
       "id": "GAP-PROVIDER-LINK",
-      "status": "open",
+      "status": "resolved",
       "source_ids": [
         "ocbi-source",
         "ocbi-plate-z_b",
         "ocbi-plate-z_c"
       ],
-      "task": "Resolve b'c link to Kahun slide versus O-3c label on separate slide."
+      "task": "Resolve b'c link to Kahun slide versus O-3c label on separate slide.",
+      "resolution": "Project reference corrected to ocbi-plate-z_b for the O-3c caption; original provider path z_c.jpg retained as a documented discrepancy. This resolves the local evidence pointer, not archaeological identity or the upstream code.",
+      "evidence": [
+        {
+          "source_id": "ocbi-source",
+          "locator": "Byblos.elm b'c record at commit 69b4cc2822493146045cb9969586bf5bd9195380",
+          "fields": [
+            "resolution"
+          ]
+        },
+        {
+          "source_id": "ocbi-plate-z_b",
+          "locator": "O-3c caption",
+          "fields": [
+            "resolution"
+          ]
+        },
+        {
+          "source_id": "ocbi-plate-z_c",
+          "locator": "Kahun caption",
+          "fields": [
+            "resolution"
+          ]
+        }
+      ]
     },
     {
       "id": "GAP-DIRECTION-M",
@@ -170,15 +210,41 @@
       "status": "open",
       "source_ids": [
         "ocbi-plate-z_b",
-        "schwartz-cv"
+        "schwartz-cv",
+        "schwartz-2021-publisher",
+        "schwartz-author-abstract"
       ],
-      "task": "Examine Schwartz 2010 and 2021; establish O-3a/b/c identity and evaluate alphabetic alternatives."
+      "task": "Obtain Schwartz 2010/2021 full text; reconcile four cylinders with three O-3 labels, establish excavation identities, evaluate alphabetic alternative; resolve XIII/XV bibliography conflict."
+    },
+    {
+      "id": "GAP-PHOTO-IDENTITY",
+      "status": "open",
+      "source_ids": [
+        "commons-beirut-photo"
+      ],
+      "task": "Collate the licensed museum photograph with original plates and museum accession records before assigning it to a core inscription or surface."
     }
   ],
   "release_gates": {
     "exhaustive_claim_allowed": false,
     "verified_transcriptions": 0,
     "independent_reviews": 0,
-    "rights_cleared_assets": 0
+    "rights_cleared_assets": 1
+  },
+  "admission_audit": {
+    "policy_version": 1,
+    "cutoff_date": "2026-10-01",
+    "scope_statement": "Proposed inventory of core Byblos inscriptions and separately catalogued disputed candidates; completeness not established.",
+    "inclusion_criteria": "Retain attributed published claims with traceable identities; assess Byblos membership independently.",
+    "exclusion_criteria": "Do not infer membership from origin, sign resemblance or a provider group alone.",
+    "evidence": [],
+    "source_dispositions": [],
+    "bibliography_dispositions": [],
+    "count_reconciliations": [],
+    "search_protocol": {},
+    "contributor_ids": [
+      "hawkinsnick",
+      "openai-codex"
+    ]
   }
 }

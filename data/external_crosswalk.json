@@ -687,7 +687,8 @@
           ]
         }
       ],
-      "mapping_note": "Provider source points b'c to z_c.jpg, whose caption describes Kahun. z_b.jpg labels an O-3c example. Proposed identity follows O-3c slide; conflicting source link remains unresolved."
+      "mapping_note": "Provider path z_c.jpg leads to the Kahun slide; the project uses the O-3c caption on z_b.jpg as its provisional evidence reference. Original provider path preserved. Archaeological identity remains unverified.",
+      "project_evidence_source_id": "ocbi-plate-z_b"
     },
     {
       "id": "OCBI-ENTRY-42",

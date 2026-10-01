@@ -37,11 +37,13 @@ and consistency, not legal validity.
 The scientific release audit derives counts from entities instead of accepting
 hand-entered progress totals. A 1.0 audit fails when core transcriptions, core
 review, object identity, surfaces, verified external mappings or research gaps
-are incomplete. Exhaustiveness remains disabled in this prerelease schema.
-A future audited admission policy is required before enabling it.
+are incomplete. Exhaustiveness is admitted only when the implemented evidence policy passes.
+See ADMISSION_POLICY.md for required dispositions, review digest and completeness checks.
 
 ## Compatibility
 
 This is a Byblos-specific schema. Cross-project compatibility remains a planned
 adapter, not a tested claim. Shared IDs and provenance principles do not imply
 that other projects have identical schemas.
+
+Review rows now require stable reviewer IDs, expertise, date, durable report reference and the current evidence digest. Every evidence edit invalidates old approvals. Verified sequences require explicit origin, creators, source version and normalization log; imported sequences also need a rights-supported encoding map.
