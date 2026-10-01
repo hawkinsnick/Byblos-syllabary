@@ -271,6 +271,54 @@
       "discovery_source": "sass-2019",
       "discovery_locator": "p. 169, arrowhead 13104 discussion",
       "primary_text_examined": false
+    },
+    {
+      "id": "koller-2022",
+      "authors": "Aaron Koller",
+      "year": 2022,
+      "short_title": "Review of How to Decipher the Byblos Script",
+      "publication_locator": "Journal of Semitic Studies 67(2):e35–e37",
+      "discovery_source": "koller-2022-publisher",
+      "discovery_locator": "Publisher title, author and citation metadata; abstract where available",
+      "primary_text_examined": false,
+      "doi": "10.1093/jss/fgac012",
+      "notes": "Publisher metadata; published 2022-07-14. Full review not acquired. Publisher footer year is not publication year."
+    },
+    {
+      "id": "richey-2023",
+      "authors": "Madadh Richey",
+      "year": 2023,
+      "short_title": "Syria, Mesopotamia, and the Origins of the Alphabet",
+      "publication_locator": "Maarav 27(1–2):1–38",
+      "discovery_source": "richey-2023-publisher",
+      "discovery_locator": "Publisher title, author and citation metadata; abstract where available",
+      "primary_text_examined": false,
+      "doi": "10.1086/727576",
+      "notes": "Publisher abstract and metadata only. Page reports online date 2023-11-17 and issue date 2023-03-01. Relevance is early-alphabetic interpretation of Umm al-Marra; no candidate membership changed."
+    },
+    {
+      "id": "papakitsos-2026",
+      "authors": "Evangelos Papakitsos",
+      "year": 2026,
+      "short_title": "The epigraphic affinity of the linear syllabic scripts of bronze age Eurasia",
+      "publication_locator": "International Journal of Multidisciplinary Research and Development 13(3):135–139",
+      "discovery_source": "papakitsos-2026-publisher",
+      "discovery_locator": "Publisher title, author and citation metadata; abstract where available",
+      "primary_text_examined": false,
+      "doi": null,
+      "notes": "Publisher abstract and citation metadata only. Archive labels issue 3 Jul–Sep 2026; exact publication date and DOI not established. Cross-script affinities proposed by this paper are not adopted facts."
+    },
+    {
+      "id": "hlebec-2022",
+      "authors": "Boris F. Hlebec",
+      "year": 2022,
+      "short_title": "Deciphering the Byblos “Pseudohieroglyphic” Script",
+      "publication_locator": "Philologist 13(25):15–28",
+      "discovery_source": "hlebec-2022-publisher",
+      "discovery_locator": "Publisher title, author and citation metadata; abstract where available",
+      "primary_text_examined": false,
+      "doi": "10.21618/fil2225015h",
+      "notes": "Publisher abstract and citation metadata only; published 2022-06-30. Decipherment and Vinča relationship are author proposals, not accepted readings or script identities. Article-specific licence shown as CC BY-NC-ND 4.0 while journal footer shows CC BY-NC 4.0; no reuse imported and applicable scope needs checking."
     }
   ]
 }

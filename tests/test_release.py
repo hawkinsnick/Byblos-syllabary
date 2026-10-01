@@ -51,9 +51,12 @@ class ReleaseTests(unittest.TestCase):
                 shutil.copytree(ROOT / name, root / name)
             for name in ('README.md', 'CITATION.cff'):
                 shutil.copyfile(ROOT / name, root / name)
+            readme = root / 'README.md'
+            readme.write_text(readme.read_text().replace('registered sources/leads', 'missing coverage headline'))
             (root / 'CITATION.cff').write_text('version: "0.0.0"\n')
             report = release_check(root)
             self.assertFalse(report['checks']['citation_version'])
+            self.assertFalse(report['checks']['readme_coverage_counts'])
             self.assertFalse(report['repository_consistent'])
             bundle = load_bundle(root)
             bundle['catalogue']['records'][0]['open_tasks'].append('SYNTHETIC TEST ONLY')

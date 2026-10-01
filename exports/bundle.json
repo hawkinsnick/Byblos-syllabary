@@ -271,6 +271,54 @@
         "publication_locator": "pp. 2–3 as cited in Sass",
         "short_title": "Arrowhead discussion (full citation not yet checked)",
         "year": 1980
+      },
+      {
+        "authors": "Aaron Koller",
+        "discovery_locator": "Publisher title, author and citation metadata; abstract where available",
+        "discovery_source": "koller-2022-publisher",
+        "doi": "10.1093/jss/fgac012",
+        "id": "koller-2022",
+        "notes": "Publisher metadata; published 2022-07-14. Full review not acquired. Publisher footer year is not publication year.",
+        "primary_text_examined": false,
+        "publication_locator": "Journal of Semitic Studies 67(2):e35–e37",
+        "short_title": "Review of How to Decipher the Byblos Script",
+        "year": 2022
+      },
+      {
+        "authors": "Madadh Richey",
+        "discovery_locator": "Publisher title, author and citation metadata; abstract where available",
+        "discovery_source": "richey-2023-publisher",
+        "doi": "10.1086/727576",
+        "id": "richey-2023",
+        "notes": "Publisher abstract and metadata only. Page reports online date 2023-11-17 and issue date 2023-03-01. Relevance is early-alphabetic interpretation of Umm al-Marra; no candidate membership changed.",
+        "primary_text_examined": false,
+        "publication_locator": "Maarav 27(1–2):1–38",
+        "short_title": "Syria, Mesopotamia, and the Origins of the Alphabet",
+        "year": 2023
+      },
+      {
+        "authors": "Evangelos Papakitsos",
+        "discovery_locator": "Publisher title, author and citation metadata; abstract where available",
+        "discovery_source": "papakitsos-2026-publisher",
+        "doi": null,
+        "id": "papakitsos-2026",
+        "notes": "Publisher abstract and citation metadata only. Archive labels issue 3 Jul–Sep 2026; exact publication date and DOI not established. Cross-script affinities proposed by this paper are not adopted facts.",
+        "primary_text_examined": false,
+        "publication_locator": "International Journal of Multidisciplinary Research and Development 13(3):135–139",
+        "short_title": "The epigraphic affinity of the linear syllabic scripts of bronze age Eurasia",
+        "year": 2026
+      },
+      {
+        "authors": "Boris F. Hlebec",
+        "discovery_locator": "Publisher title, author and citation metadata; abstract where available",
+        "discovery_source": "hlebec-2022-publisher",
+        "doi": "10.21618/fil2225015h",
+        "id": "hlebec-2022",
+        "notes": "Publisher abstract and citation metadata only; published 2022-06-30. Decipherment and Vinča relationship are author proposals, not accepted readings or script identities. Article-specific licence shown as CC BY-NC-ND 4.0 while journal footer shows CC BY-NC 4.0; no reuse imported and applicable scope needs checking.",
+        "primary_text_examined": false,
+        "publication_locator": "Philologist 13(25):15–28",
+        "short_title": "Deciphering the Byblos “Pseudohieroglyphic” Script",
+        "year": 2022
       }
     ],
     "scope": "Bibliographic leads; not a systematic or exhaustive bibliography. Short titles are discovery labels, not full citations."
@@ -1970,7 +2018,7 @@
       "verified_transcriptions": 0
     },
     "scope": "Initial source inventory; no exhaustive coverage claim.",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "external_crosswalk": {
     "entries": [
@@ -2791,6 +2839,31 @@
       {
         "result": "Publisher metadata accessible; full-text purchase or institutional access required.",
         "source_id": "sobelman-publisher"
+      },
+      {
+        "result": "Public page 3 URL not accessible through web retrieval; page 2 accessible. No additional primary-page consultation or complete collation claimed.",
+        "source_id": "dunand-1930",
+        "url": "https://www.persee.fr/doc/syria_0039-7946_1930_num_11_1_3456?pageId=T1_3"
+      },
+      {
+        "result": "Publisher metadata/abstract accessible; full text not inspected or imported.",
+        "source_id": "koller-2022-publisher",
+        "url": "https://academic.oup.com/jss/article-abstract/67/2/e35/6644565"
+      },
+      {
+        "result": "Publisher metadata/abstract accessible; full text not inspected or imported.",
+        "source_id": "richey-2023-publisher",
+        "url": "https://www.journals.uchicago.edu/doi/10.1086/727576"
+      },
+      {
+        "result": "Publisher metadata/abstract accessible; full text not inspected or imported.",
+        "source_id": "papakitsos-2026-publisher",
+        "url": "https://www.allsubjectjournal.com/archives/2026/vol13/issue3/13350"
+      },
+      {
+        "result": "Publisher metadata/abstract accessible; full text not inspected or imported.",
+        "source_id": "hlebec-2022-publisher",
+        "url": "https://filolog.rs.ba/index.php/filolog/article/view/161"
       }
     ],
     "as_of": "2026-10-01",
@@ -2960,6 +3033,30 @@
         "engine": "web_system2",
         "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment.",
         "query": "\"Byblos\" \"2026\" pseudo-hieroglyphic",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Publisher metadata or abstracts checked for Koller 2022, Richey 2023, Papakitsos 2026 and Hlebec 2022; added attributed bibliography leads only. Self-published decipherment assertions were not adopted. Search is not exhaustive.",
+        "query": "Byblos script pseudo hieroglyphic 2025 2026 research journal",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system2",
+        "outcome": "Publisher metadata or abstracts checked for Koller 2022, Richey 2023, Papakitsos 2026 and Hlebec 2022; added attributed bibliography leads only. Self-published decipherment assertions were not adopted. Search is not exhaustive.",
+        "query": "Byblos inscriptions Dunand 1930 nouvelle inscription Byblos persee texte",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system1",
+        "outcome": "Publisher metadata or abstracts checked for Koller 2022, Richey 2023, Papakitsos 2026 and Hlebec 2022; added attributed bibliography leads only. Self-published decipherment assertions were not adopted. Search is not exhaustive.",
+        "query": "\"Byblos\" \"script\" \"2026\" journal",
+        "searched_on": "2026-10-01"
+      },
+      {
+        "engine": "web_system1",
+        "outcome": "Publisher metadata or abstracts checked for Koller 2022, Richey 2023, Papakitsos 2026 and Hlebec 2022; added attributed bibliography leads only. Self-published decipherment assertions were not adopted. Search is not exhaustive.",
+        "query": "\"Byblos\" \"script\" \"2025\" decipherment scholarly",
         "searched_on": "2026-10-01"
       }
     ]
@@ -3740,6 +3837,62 @@
         },
         "type": "library_catalogue",
         "url": "https://openlibrary.org/books/OL6188790M/Byblia_grammata"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "Aaron Koller (2022), review of Jan Best, How to Decipher the Byblos Script, Journal of Semitic Studies 67(2):e35–e37.",
+        "consultation": "metadata_only",
+        "doi": "10.1093/jss/fgac012",
+        "id": "koller-2022-publisher",
+        "notes": "Publisher metadata; published 2022-07-14. Full review not acquired. Publisher footer year is not publication year.",
+        "rights": {
+          "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+          "status": "not_assessed"
+        },
+        "type": "book_review",
+        "url": "https://academic.oup.com/jss/article-abstract/67/2/e35/6644565"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "Madadh Richey (2023), Syria, Mesopotamia, and the Origins of the Alphabet, Maarav 27(1–2):1–38.",
+        "consultation": "abstract_only",
+        "doi": "10.1086/727576",
+        "id": "richey-2023-publisher",
+        "notes": "Publisher abstract and metadata only. Page reports online date 2023-11-17 and issue date 2023-03-01. Relevance is early-alphabetic interpretation of Umm al-Marra; no candidate membership changed.",
+        "rights": {
+          "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+          "status": "not_assessed"
+        },
+        "type": "journal_article",
+        "url": "https://www.journals.uchicago.edu/doi/10.1086/727576"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "Evangelos Papakitsos (2026), The epigraphic affinity of the linear syllabic scripts of bronze age Eurasia, International Journal of Multidisciplinary Research and Development 13(3):135–139.",
+        "consultation": "abstract_only",
+        "doi": null,
+        "id": "papakitsos-2026-publisher",
+        "notes": "Publisher abstract and citation metadata only. Archive labels issue 3 Jul–Sep 2026; exact publication date and DOI not established. Cross-script affinities proposed by this paper are not adopted facts.",
+        "rights": {
+          "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+          "status": "not_assessed"
+        },
+        "type": "journal_article",
+        "url": "https://www.allsubjectjournal.com/archives/2026/vol13/issue3/13350"
+      },
+      {
+        "accessed": "2026-10-01",
+        "citation": "Boris F. Hlebec (2022), Deciphering the Byblos “Pseudohieroglyphic” Script, Philologist 13(25):15–28.",
+        "consultation": "abstract_only",
+        "doi": "10.21618/fil2225015h",
+        "id": "hlebec-2022-publisher",
+        "notes": "Publisher abstract and citation metadata only; published 2022-06-30. Decipherment and Vinča relationship are author proposals, not accepted readings or script identities. Article-specific licence shown as CC BY-NC-ND 4.0 while journal footer shows CC BY-NC 4.0; no reuse imported and applicable scope needs checking.",
+        "rights": {
+          "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+          "status": "not_assessed"
+        },
+        "type": "journal_article",
+        "url": "https://filolog.rs.ba/index.php/filolog/article/view/161"
       }
     ]
   },

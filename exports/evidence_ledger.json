@@ -1,5 +1,5 @@
 {
-  "evidence_sha256": "e45c461a4b6134c387b0af833a9bc82c8fede36db62015ed1d7e91aabb8a58a3",
+  "evidence_sha256": "75236da3be128507c5805df9ddb7d42d626ef8950e22a93134fdff8543790f1f",
   "field_status_counts": {
     "asserted": 159,
     "not_recorded": 150,
@@ -4810,5 +4810,5 @@
       "record_id": "BYB-N"
     }
   ],
-  "version": "1.1.0"
+  "version": "1.2.0"
 }

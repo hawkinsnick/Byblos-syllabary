@@ -17,6 +17,11 @@ def release_check(root=ROOT):
     checks['citation_version'] = 'version: "' + version + '"' in (root / 'CITATION.cff').read_text(encoding='utf-8').splitlines()
     checks['readme_version'] = ('Version: ' + version + ' —') in (root / 'README.md').read_text(encoding='utf-8')
     checks['status_version'] = ('Current software snapshot: ' + version + '.') in (root / 'docs/RELEASE_STATUS.md').read_text(encoding='utf-8')
+    readme = (root / 'README.md').read_text(encoding='utf-8')
+    counts = report['counts']
+    checks['readme_coverage_counts'] = all(label in readme for label in (
+        str(counts['reported_core']) + ' reported core entries plus ' + str(counts['disputed_candidates']) + ' named disputed candidates',
+        str(counts['sources_and_leads']) + ' registered sources/leads and ' + str(len(bundle['bibliography']['entries'])) + ' bibliography discovery entries'))
     errors = []
     if report['structure_valid']:
         checks['source_links_resolve'] = not provenance_report(bundle)['unresolved_references']

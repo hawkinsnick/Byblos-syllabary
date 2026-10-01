@@ -958,7 +958,7 @@
     "This packet is never automatically imported as evidence or approval."
   ],
   "purpose": "Review task inventory; pending responses are not approvals or corpus transcriptions.",
-  "reviewed_bundle_sha256": "e45c461a4b6134c387b0af833a9bc82c8fede36db62015ed1d7e91aabb8a58a3",
+  "reviewed_bundle_sha256": "75236da3be128507c5805df9ddb7d42d626ef8950e22a93134fdff8543790f1f",
   "scientific_1_0_ready": false,
   "sources": [
     {
@@ -1735,6 +1735,62 @@
       },
       "type": "library_catalogue",
       "url": "https://openlibrary.org/books/OL6188790M/Byblia_grammata"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Aaron Koller (2022), review of Jan Best, How to Decipher the Byblos Script, Journal of Semitic Studies 67(2):e35–e37.",
+      "consultation": "metadata_only",
+      "doi": "10.1093/jss/fgac012",
+      "id": "koller-2022-publisher",
+      "notes": "Publisher metadata; published 2022-07-14. Full review not acquired. Publisher footer year is not publication year.",
+      "rights": {
+        "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+        "status": "not_assessed"
+      },
+      "type": "book_review",
+      "url": "https://academic.oup.com/jss/article-abstract/67/2/e35/6644565"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Madadh Richey (2023), Syria, Mesopotamia, and the Origins of the Alphabet, Maarav 27(1–2):1–38.",
+      "consultation": "abstract_only",
+      "doi": "10.1086/727576",
+      "id": "richey-2023-publisher",
+      "notes": "Publisher abstract and metadata only. Page reports online date 2023-11-17 and issue date 2023-03-01. Relevance is early-alphabetic interpretation of Umm al-Marra; no candidate membership changed.",
+      "rights": {
+        "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+        "status": "not_assessed"
+      },
+      "type": "journal_article",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/727576"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Evangelos Papakitsos (2026), The epigraphic affinity of the linear syllabic scripts of bronze age Eurasia, International Journal of Multidisciplinary Research and Development 13(3):135–139.",
+      "consultation": "abstract_only",
+      "doi": null,
+      "id": "papakitsos-2026-publisher",
+      "notes": "Publisher abstract and citation metadata only. Archive labels issue 3 Jul–Sep 2026; exact publication date and DOI not established. Cross-script affinities proposed by this paper are not adopted facts.",
+      "rights": {
+        "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+        "status": "not_assessed"
+      },
+      "type": "journal_article",
+      "url": "https://www.allsubjectjournal.com/archives/2026/vol13/issue3/13350"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Boris F. Hlebec (2022), Deciphering the Byblos “Pseudohieroglyphic” Script, Philologist 13(25):15–28.",
+      "consultation": "abstract_only",
+      "doi": "10.21618/fil2225015h",
+      "id": "hlebec-2022-publisher",
+      "notes": "Publisher abstract and citation metadata only; published 2022-06-30. Decipherment and Vinča relationship are author proposals, not accepted readings or script identities. Article-specific licence shown as CC BY-NC-ND 4.0 while journal footer shows CC BY-NC 4.0; no reuse imported and applicable scope needs checking.",
+      "rights": {
+        "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+        "status": "not_assessed"
+      },
+      "type": "journal_article",
+      "url": "https://filolog.rs.ba/index.php/filolog/article/view/161"
     }
   ],
   "tasks": [
@@ -5597,5 +5653,5 @@
       "surface_inventory_status": "not_established"
     }
   ],
-  "version": "1.1.0"
+  "version": "1.2.0"
 }

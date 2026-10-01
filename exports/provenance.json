@@ -1,5 +1,5 @@
 {
-  "evidence_sha256": "e45c461a4b6134c387b0af833a9bc82c8fede36db62015ed1d7e91aabb8a58a3",
+  "evidence_sha256": "75236da3be128507c5805df9ddb7d42d626ef8950e22a93134fdff8543790f1f",
   "format": "byblos-provenance-v1",
   "interpretation": "Derived links only. Field evidence records attribution, not correctness. Source references, discovery citations and edition leads are not independent corroboration. Consultation depth and rights are recorded declarations; usage counts are not confidence scores. Paths address this exact snapshot; owners are namespaced by their container.",
   "selected_source": null,
@@ -225,7 +225,7 @@
       },
       "role_counts": {
         "field_evidence": 1,
-        "source_reference": 1
+        "source_reference": 2
       },
       "source_id": "dunand-1930",
       "uses": [
@@ -245,6 +245,14 @@
           "locator": null,
           "owner": "/search_log",
           "path": "/search_log/access_attempts/0/source_id",
+          "role": "source_reference",
+          "source_id": "dunand-1930"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/search_log",
+          "path": "/search_log/access_attempts/7/source_id",
           "role": "source_reference",
           "source_id": "dunand-1930"
         }
@@ -502,6 +510,37 @@
       ]
     },
     {
+      "citation": "Boris F. Hlebec (2022), Deciphering the Byblos “Pseudohieroglyphic” Script, Philologist 13(25):15–28.",
+      "consultation": "abstract_only",
+      "rights": {
+        "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "discovery_source": 1,
+        "source_reference": 1
+      },
+      "source_id": "hlebec-2022-publisher",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "Publisher title, author and citation metadata; abstract where available",
+          "owner": "/bibliography/entries:hlebec-2022",
+          "path": "/bibliography/entries/28/discovery_source",
+          "role": "discovery_source",
+          "source_id": "hlebec-2022-publisher"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/search_log",
+          "path": "/search_log/access_attempts/11/source_id",
+          "role": "source_reference",
+          "source_id": "hlebec-2022-publisher"
+        }
+      ]
+    },
+    {
       "citation": "S. Izre'el (1988), review of Mendenhall, The Syllabic Inscriptions from Byblos. JAOS 108(3), pp. 519–521.",
       "consultation": "selected_sections",
       "rights": {
@@ -557,6 +596,37 @@
       "role_counts": {},
       "source_id": "keibi-schwartz",
       "uses": []
+    },
+    {
+      "citation": "Aaron Koller (2022), review of Jan Best, How to Decipher the Byblos Script, Journal of Semitic Studies 67(2):e35–e37.",
+      "consultation": "metadata_only",
+      "rights": {
+        "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "discovery_source": 1,
+        "source_reference": 1
+      },
+      "source_id": "koller-2022-publisher",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "Publisher title, author and citation metadata; abstract where available",
+          "owner": "/bibliography/entries:koller-2022",
+          "path": "/bibliography/entries/25/discovery_source",
+          "role": "discovery_source",
+          "source_id": "koller-2022-publisher"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/search_log",
+          "path": "/search_log/access_attempts/8/source_id",
+          "role": "source_reference",
+          "source_id": "koller-2022-publisher"
+        }
+      ]
     },
     {
       "citation": "Michael Mäder (2022), Detecting word boundaries in an undeciphered script: The Byblos syllabary. BAF-Online 4(1), proceedings of the 2019 forum.",
@@ -1878,6 +1948,68 @@
           "path": "/sources/sources/2/bibliographic_claims/1/source_id",
           "role": "source_reference",
           "source_id": "openlibrary-dunand"
+        }
+      ]
+    },
+    {
+      "citation": "Evangelos Papakitsos (2026), The epigraphic affinity of the linear syllabic scripts of bronze age Eurasia, International Journal of Multidisciplinary Research and Development 13(3):135–139.",
+      "consultation": "abstract_only",
+      "rights": {
+        "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "discovery_source": 1,
+        "source_reference": 1
+      },
+      "source_id": "papakitsos-2026-publisher",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "Publisher title, author and citation metadata; abstract where available",
+          "owner": "/bibliography/entries:papakitsos-2026",
+          "path": "/bibliography/entries/27/discovery_source",
+          "role": "discovery_source",
+          "source_id": "papakitsos-2026-publisher"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/search_log",
+          "path": "/search_log/access_attempts/10/source_id",
+          "role": "source_reference",
+          "source_id": "papakitsos-2026-publisher"
+        }
+      ]
+    },
+    {
+      "citation": "Madadh Richey (2023), Syria, Mesopotamia, and the Origins of the Alphabet, Maarav 27(1–2):1–38.",
+      "consultation": "abstract_only",
+      "rights": {
+        "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "discovery_source": 1,
+        "source_reference": 1
+      },
+      "source_id": "richey-2023-publisher",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "Publisher title, author and citation metadata; abstract where available",
+          "owner": "/bibliography/entries:richey-2023",
+          "path": "/bibliography/entries/26/discovery_source",
+          "role": "discovery_source",
+          "source_id": "richey-2023-publisher"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/search_log",
+          "path": "/search_log/access_attempts/9/source_id",
+          "role": "source_reference",
+          "source_id": "richey-2023-publisher"
         }
       ]
     },

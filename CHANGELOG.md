@@ -111,3 +111,15 @@ Added a reproducible acquisition queue for sources consulted only as metadata,
 abstracts or not at all, ordered by direct catalogue linkage reach. Lists unexamined
 bibliography leads separately. Both JSON views are regenerated and checksummed
 in every export. No scientific facts, sequences, permissions or approvals added.
+
+## 1.2.0 — 2026-10-01 (publication coverage)
+
+Added publisher-checked bibliography leads for Koller 2022, Richey 2023, Hlebec
+2022 and Papakitsos 2026, with exact consultation limits and original notes.
+Preserved publication/issue-date distinctions and Hlebec article/journal licence
+scope discrepancy. No decipherment, graphic affinity or candidate membership
+assertion adopted from these papers. Registry now has 51 sources and 29 leads.
+Logged reproducible searches and an unsuccessful further Dunand page-access
+attempt. Added explicit partial bibliography inspection states without removing
+existing output fields; release checks now detect stale README coverage counts.
+Scientific 1.0 remains unreleased.

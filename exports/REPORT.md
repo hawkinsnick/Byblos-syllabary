@@ -1,6 +1,6 @@
 # Byblos corpus audit
 
-Snapshot version: 1.1.0
+Snapshot version: 1.2.0
 Scientific 1.0 ready: **False**
 
 Structural validity is not proof of accuracy or exhaustive coverage.
@@ -10,7 +10,7 @@ Structural validity is not proof of accuracy or exhaustive coverage.
 | catalogue records | 39 |
 | reported core | 14 |
 | disputed candidates | 25 |
-| sources and leads | 47 |
+| sources and leads | 51 |
 | surfaces described | 6 |
 | signs registered | 0 |
 | transcriptions | 0 |
@@ -33,7 +33,7 @@ Structural validity is not proof of accuracy or exhaustive coverage.
 
 ## Admission evidence
 
-Evidence snapshot SHA-256: `e45c461a4b6134c387b0af833a9bc82c8fede36db62015ed1d7e91aabb8a58a3`
+Evidence snapshot SHA-256: `75236da3be128507c5805df9ddb7d42d626ef8950e22a93134fdff8543790f1f`
 
 Complete within the independently reviewed scope and cutoff; future finds and publications remain possible.
 
@@ -191,6 +191,9 @@ These counts describe different source-defined units; do not sum them.
 - **haring-2023**: Ben Haring (2023), Hieroglyphs, Pseudo-Scripts and Alphabets: Their Use and Reception in Ancient Egypt and Neighbouring Regions. Cambridge University Press.
   Consultation: metadata_only; rights: not_assessed.
   Source: https://www.cambridge.org/core/elements/abs/hieroglyphs-pseudoscripts-and-alphabets/98F6CB75E5F4D8A5EC4746318C1A33E8
+- **hlebec-2022-publisher**: Boris F. Hlebec (2022), Deciphering the Byblos “Pseudohieroglyphic” Script, Philologist 13(25):15–28.
+  Consultation: abstract_only; rights: not_assessed.
+  Source: https://filolog.rs.ba/index.php/filolog/article/view/161
 - **izreel-1988**: S. Izre'el (1988), review of Mendenhall, The Syllabic Inscriptions from Byblos. JAOS 108(3), pp. 519–521.
   Consultation: selected_sections; rights: not_assessed.
   Source: https://www.tau.ac.il/~izreel/publications/RevMendenhall_JAOS1988.pdf
@@ -200,6 +203,9 @@ These counts describe different source-defined units; do not sum them.
 - **keibi-schwartz**: KeiBi online, Schwartz 2010, KEI00104326.
   Consultation: consulted_online; rights: not_assessed.
   Source: https://vergil.uni-tuebingen.de/keibi/Record/KEI00104326/Description
+- **koller-2022-publisher**: Aaron Koller (2022), review of Jan Best, How to Decipher the Byblos Script, Journal of Semitic Studies 67(2):e35–e37.
+  Consultation: metadata_only; rights: not_assessed.
+  Source: https://academic.oup.com/jss/article-abstract/67/2/e35/6644565
 - **maeder-baf**: Michael Mäder (2022), Detecting word boundaries in an undeciphered script: The Byblos syllabary. BAF-Online 4(1), proceedings of the 2019 forum.
   Consultation: abstract_only; rights: license_stated.
   Source: https://bop.unibe.ch/baf/article/view/7186
@@ -272,6 +278,12 @@ These counts describe different source-defined units; do not sum them.
 - **openlibrary-dunand**: Open Library, Byblia grammata, edition OL6188790M, catalogue record.
   Consultation: metadata_only; rights: not_assessed.
   Source: https://openlibrary.org/books/OL6188790M/Byblia_grammata
+- **papakitsos-2026-publisher**: Evangelos Papakitsos (2026), The epigraphic affinity of the linear syllabic scripts of bronze age Eurasia, International Journal of Multidisciplinary Research and Development 13(3):135–139.
+  Consultation: abstract_only; rights: not_assessed.
+  Source: https://www.allsubjectjournal.com/archives/2026/vol13/issue3/13350
+- **richey-2023-publisher**: Madadh Richey (2023), Syria, Mesopotamia, and the Origins of the Alphabet, Maarav 27(1–2):1–38.
+  Consultation: abstract_only; rights: not_assessed.
+  Source: https://www.journals.uchicago.edu/doi/10.1086/727576
 - **sass-2019**: Benjamin Sass (2019), The pseudo-hieroglyphic inscriptions from Byblos, their elusive dating, and their affinities with the early Phoenician inscriptions, in Ph. Abrahami and L. Battini (eds.), Cultures et sociétés syro-mésopotamiennes, pp. 157–180.
   Consultation: selected_sections; rights: not_assessed.
   Source: https://www.academia.edu/38559714

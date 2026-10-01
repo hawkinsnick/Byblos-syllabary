@@ -1,7 +1,154 @@
 {
-  "evidence_sha256": "e45c461a4b6134c387b0af833a9bc82c8fede36db62015ed1d7e91aabb8a58a3",
+  "bibliography_inspection_states": [
+    {
+      "entry_id": "best-rietveld-2010",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "best-woudhuizen-1989",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "colless-1992",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "colless-1993",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "colless-1994",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "colless-1995",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "dhorme-1946",
+      "recorded_inspection": "page_1",
+      "status": "partial_or_unspecified"
+    },
+    {
+      "entry_id": "dunand-1945",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "dunand-1978",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "dussaud-1946",
+      "recorded_inspection": "page_36",
+      "status": "partial_or_unspecified"
+    },
+    {
+      "entry_id": "garbini-2004",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "garbini-2009",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "hamilton-2009",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "haring-2023",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "hlebec-2022",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "hrozny-1946",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "koller-2022",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "martin-1961",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "mendenhall-1985",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "papakitsos-2026",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "richey-2023",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "sass-2019",
+      "recorded_inspection": "selected_sections",
+      "status": "partial_or_unspecified"
+    },
+    {
+      "entry_id": "schwartz-2010",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "schwartz-2021",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "sobelman-1961",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "sznycer-1994",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "tubb-1980",
+      "recorded_inspection": false,
+      "status": "not_started"
+    },
+    {
+      "entry_id": "vita-zamora-2018",
+      "recorded_inspection": "selected_sections",
+      "status": "partial_or_unspecified"
+    },
+    {
+      "entry_id": "woudhuizen-2007",
+      "recorded_inspection": false,
+      "status": "not_started"
+    }
+  ],
+  "evidence_sha256": "75236da3be128507c5805df9ddb7d42d626ef8950e22a93134fdff8543790f1f",
   "format": "byblos-acquisition-queue-v1",
-  "interpretation": "Ordering uses direct catalogue citation/lead linkage counts, then source ID. Counts are workload reach, not scientific importance or independent corroboration. Sources consulted only in selected sections may still require more inspection; absence from this queue does not mean fully collated. Bibliography and source tasks may overlap. No acquisition, permission request or expert approval is performed by generating this queue.",
+  "interpretation": "Ordering uses direct catalogue citation/lead linkage counts, then source ID. Counts are workload reach, not scientific importance or independent corroboration. Sources consulted only in selected sections may still require more inspection; absence from this queue does not mean fully collated. The legacy unexamined_bibliography_leads key means not fully examined, including partial inspection; explicit states distinguish these. Bibliography and source tasks may overlap. No acquisition, permission request or expert approval is performed by generating this queue.",
   "source_tasks": [
     {
       "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
@@ -164,6 +311,40 @@
       "status": "pending_acquisition_or_inspection"
     },
     {
+      "citation": "Boris F. Hlebec (2022), Deciphering the Byblos “Pseudohieroglyphic” Script, Philologist 13(25):15–28.",
+      "consultation": "abstract_only",
+      "linked_record_count": 0,
+      "linked_record_ids": [],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "hlebec-2022-publisher",
+      "source_usage_paths": [
+        "/bibliography/entries/28/discovery_source",
+        "/search_log/access_attempts/11/source_id"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
+      "citation": "Aaron Koller (2022), review of Jan Best, How to Decipher the Byblos Script, Journal of Semitic Studies 67(2):e35–e37.",
+      "consultation": "metadata_only",
+      "linked_record_count": 0,
+      "linked_record_ids": [],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "koller-2022-publisher",
+      "source_usage_paths": [
+        "/bibliography/entries/25/discovery_source",
+        "/search_log/access_attempts/8/source_id"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
       "citation": "Michael Mäder (2022), Detecting word boundaries in an undeciphered script: The Byblos syllabary. BAF-Online 4(1), proceedings of the 2019 forum.",
       "consultation": "abstract_only",
       "linked_record_count": 0,
@@ -219,6 +400,40 @@
       "source_id": "openlibrary-dunand",
       "source_usage_paths": [
         "/sources/sources/2/bibliographic_claims/1/source_id"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
+      "citation": "Evangelos Papakitsos (2026), The epigraphic affinity of the linear syllabic scripts of bronze age Eurasia, International Journal of Multidisciplinary Research and Development 13(3):135–139.",
+      "consultation": "abstract_only",
+      "linked_record_count": 0,
+      "linked_record_ids": [],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "papakitsos-2026-publisher",
+      "source_usage_paths": [
+        "/bibliography/entries/27/discovery_source",
+        "/search_log/access_attempts/10/source_id"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
+      "citation": "Madadh Richey (2023), Syria, Mesopotamia, and the Origins of the Alphabet, Maarav 27(1–2):1–38.",
+      "consultation": "abstract_only",
+      "linked_record_count": 0,
+      "linked_record_ids": [],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "richey-2023-publisher",
+      "source_usage_paths": [
+        "/bibliography/entries/26/discovery_source",
+        "/search_log/access_attempts/9/source_id"
       ],
       "status": "pending_acquisition_or_inspection"
     },
@@ -402,6 +617,18 @@
       "year": 2023
     },
     {
+      "authors": "Boris F. Hlebec",
+      "discovery_locator": "Publisher title, author and citation metadata; abstract where available",
+      "discovery_source": "hlebec-2022-publisher",
+      "doi": "10.21618/fil2225015h",
+      "id": "hlebec-2022",
+      "notes": "Publisher abstract and citation metadata only; published 2022-06-30. Decipherment and Vinča relationship are author proposals, not accepted readings or script identities. Article-specific licence shown as CC BY-NC-ND 4.0 while journal footer shows CC BY-NC 4.0; no reuse imported and applicable scope needs checking.",
+      "primary_text_examined": false,
+      "publication_locator": "Philologist 13(25):15–28",
+      "short_title": "Deciphering the Byblos “Pseudohieroglyphic” Script",
+      "year": 2022
+    },
+    {
       "authors": "Hrozný",
       "discovery_locator": "entry 2",
       "discovery_source": "mnamon-bibliography",
@@ -410,6 +637,18 @@
       "publication_locator": "Archiv Orientální 15:138–157",
       "short_title": "Die hieroglyphische Stele von Byblos",
       "year": 1946
+    },
+    {
+      "authors": "Aaron Koller",
+      "discovery_locator": "Publisher title, author and citation metadata; abstract where available",
+      "discovery_source": "koller-2022-publisher",
+      "doi": "10.1093/jss/fgac012",
+      "id": "koller-2022",
+      "notes": "Publisher metadata; published 2022-07-14. Full review not acquired. Publisher footer year is not publication year.",
+      "primary_text_examined": false,
+      "publication_locator": "Journal of Semitic Studies 67(2):e35–e37",
+      "short_title": "Review of How to Decipher the Byblos Script",
+      "year": 2022
     },
     {
       "access_url": "https://www.jstor.org/stable/43073578",
@@ -431,6 +670,30 @@
       "publication_locator": "Beirut",
       "short_title": "The Syllabic Inscriptions from Byblos",
       "year": 1985
+    },
+    {
+      "authors": "Evangelos Papakitsos",
+      "discovery_locator": "Publisher title, author and citation metadata; abstract where available",
+      "discovery_source": "papakitsos-2026-publisher",
+      "doi": null,
+      "id": "papakitsos-2026",
+      "notes": "Publisher abstract and citation metadata only. Archive labels issue 3 Jul–Sep 2026; exact publication date and DOI not established. Cross-script affinities proposed by this paper are not adopted facts.",
+      "primary_text_examined": false,
+      "publication_locator": "International Journal of Multidisciplinary Research and Development 13(3):135–139",
+      "short_title": "The epigraphic affinity of the linear syllabic scripts of bronze age Eurasia",
+      "year": 2026
+    },
+    {
+      "authors": "Madadh Richey",
+      "discovery_locator": "Publisher title, author and citation metadata; abstract where available",
+      "discovery_source": "richey-2023-publisher",
+      "doi": "10.1086/727576",
+      "id": "richey-2023",
+      "notes": "Publisher abstract and metadata only. Page reports online date 2023-11-17 and issue date 2023-03-01. Relevance is early-alphabetic interpretation of Umm al-Marra; no candidate membership changed.",
+      "primary_text_examined": false,
+      "publication_locator": "Maarav 27(1–2):1–38",
+      "short_title": "Syria, Mesopotamia, and the Origins of the Alphabet",
+      "year": 2023
     },
     {
       "authors": "Sass",
@@ -531,5 +794,5 @@
       "year": 2007
     }
   ],
-  "version": "1.1.0"
+  "version": "1.2.0"
 }

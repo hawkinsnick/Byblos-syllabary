@@ -2,7 +2,7 @@
 
 `python -m byblos evidence-ledger` lists ten metadata fields for every catalogue
 record. `python -m byblos acquisition-queue` lists source inspection tasks and
-unexamined bibliography leads. Both reports are included in deterministic exports.
+bibliography leads requiring full inspection. Both reports are included in deterministic exports.
 
 The field ledger distinguishes absent fields (`not_recorded`), explicit null
 (`unknown`) and recorded values (`asserted`). Assertions preserve citation
@@ -22,7 +22,10 @@ only or abstract only. It orders tasks by unique records directly citing or link
 to each source, then source ID. This is a transparent workload ordering, not an
 importance score. Sources examined in selected sections may still need extensive
 collation. An absent queue entry never means acquisition or collation is complete.
-Unexamined bibliography entries are listed separately and can overlap source tasks.
+Bibliography entries not marked fully examined are listed separately and can overlap source tasks.
+The legacy `unexamined_bibliography_leads` key includes partially inspected entries;
+`bibliography_inspection_states` preserves the recorded inspection value and
+distinguishes not started from partial or unspecified inspection.
 
 Generating these reports changes no evidence and sends no requests. Source
 acquisition, appropriate reuse terms and independent expert evaluation remain

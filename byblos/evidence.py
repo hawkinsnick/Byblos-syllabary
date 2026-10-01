@@ -70,8 +70,14 @@ def acquisition_queue(bundle):
     return dict(format='byblos-acquisition-queue-v1', version=bundle['coverage']['version'],
                 evidence_sha256=evidence_digest(bundle), source_tasks=tasks,
                 unexamined_bibliography_leads=bibliography,
+                bibliography_inspection_states=[dict(entry_id=e['id'],
+                    status='not_started' if e.get('primary_text_examined') is False
+                    else 'partial_or_unspecified',
+                    recorded_inspection=e.get('primary_text_examined')) for e in bibliography],
                 interpretation='Ordering uses direct catalogue citation/lead linkage counts, then source ID. '
                 'Counts are workload reach, not scientific importance or independent corroboration. '
                 'Sources consulted only in selected sections may still require more inspection; absence from '
-                'this queue does not mean fully collated. Bibliography and source tasks may overlap. '
+                'this queue does not mean fully collated. The legacy unexamined_bibliography_leads key '
+                'means not fully examined, including partial inspection; explicit states distinguish these. '
+                'Bibliography and source tasks may overlap. '
                 'No acquisition, permission request or expert approval is performed by generating this queue.')

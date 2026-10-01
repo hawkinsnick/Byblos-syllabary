@@ -167,6 +167,30 @@
       "query": "\"Byblos\" \"2026\" pseudo-hieroglyphic",
       "searched_on": "2026-10-01",
       "outcome": "Source leads checked where accessible. Search also surfaced self-published decipherment claims; these are not accepted corpus facts and have not undergone assessment."
+    },
+    {
+      "engine": "web_system2",
+      "query": "Byblos script pseudo hieroglyphic 2025 2026 research journal",
+      "searched_on": "2026-10-01",
+      "outcome": "Publisher metadata or abstracts checked for Koller 2022, Richey 2023, Papakitsos 2026 and Hlebec 2022; added attributed bibliography leads only. Self-published decipherment assertions were not adopted. Search is not exhaustive."
+    },
+    {
+      "engine": "web_system2",
+      "query": "Byblos inscriptions Dunand 1930 nouvelle inscription Byblos persee texte",
+      "searched_on": "2026-10-01",
+      "outcome": "Publisher metadata or abstracts checked for Koller 2022, Richey 2023, Papakitsos 2026 and Hlebec 2022; added attributed bibliography leads only. Self-published decipherment assertions were not adopted. Search is not exhaustive."
+    },
+    {
+      "engine": "web_system1",
+      "query": "\"Byblos\" \"script\" \"2026\" journal",
+      "searched_on": "2026-10-01",
+      "outcome": "Publisher metadata or abstracts checked for Koller 2022, Richey 2023, Papakitsos 2026 and Hlebec 2022; added attributed bibliography leads only. Self-published decipherment assertions were not adopted. Search is not exhaustive."
+    },
+    {
+      "engine": "web_system1",
+      "query": "\"Byblos\" \"script\" \"2025\" decipherment scholarly",
+      "searched_on": "2026-10-01",
+      "outcome": "Publisher metadata or abstracts checked for Koller 2022, Richey 2023, Papakitsos 2026 and Hlebec 2022; added attributed bibliography leads only. Self-published decipherment assertions were not adopted. Search is not exhaustive."
     }
   ],
   "access_attempts": [
@@ -199,6 +223,31 @@
     {
       "source_id": "sobelman-publisher",
       "result": "Publisher metadata accessible; full-text purchase or institutional access required."
+    },
+    {
+      "source_id": "dunand-1930",
+      "url": "https://www.persee.fr/doc/syria_0039-7946_1930_num_11_1_3456?pageId=T1_3",
+      "result": "Public page 3 URL not accessible through web retrieval; page 2 accessible. No additional primary-page consultation or complete collation claimed."
+    },
+    {
+      "source_id": "koller-2022-publisher",
+      "url": "https://academic.oup.com/jss/article-abstract/67/2/e35/6644565",
+      "result": "Publisher metadata/abstract accessible; full text not inspected or imported."
+    },
+    {
+      "source_id": "richey-2023-publisher",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/727576",
+      "result": "Publisher metadata/abstract accessible; full text not inspected or imported."
+    },
+    {
+      "source_id": "papakitsos-2026-publisher",
+      "url": "https://www.allsubjectjournal.com/archives/2026/vol13/issue3/13350",
+      "result": "Publisher metadata/abstract accessible; full text not inspected or imported."
+    },
+    {
+      "source_id": "hlebec-2022-publisher",
+      "url": "https://filolog.rs.ba/index.php/filolog/article/view/161",
+      "result": "Publisher metadata/abstract accessible; full text not inspected or imported."
     }
   ]
 }

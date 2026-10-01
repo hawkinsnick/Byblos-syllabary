@@ -54,6 +54,13 @@ class EvidenceTests(unittest.TestCase):
         ledger['records'][0]['claims'][0]['value'] = 'SYNTHETIC MUTATION'
         self.assertEqual(before, self.bundle)
 
+    def test_partial_bibliography_inspection_is_not_hidden(self):
+        queue = acquisition_queue(self.bundle)
+        states = {row['entry_id']: row for row in queue['bibliography_inspection_states']}
+        self.assertEqual('not_started', states['dunand-1945']['status'])
+        self.assertEqual('partial_or_unspecified', states['dhorme-1946']['status'])
+        self.assertEqual('page_1', states['dhorme-1946']['recorded_inspection'])
+
     def test_invalid_data_rejected(self):
         self.bundle['catalogue']['records'][0]['evidence'] = []
         for function in (evidence_ledger, acquisition_queue):

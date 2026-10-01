@@ -1,6 +1,6 @@
 # Byblos syllabary research corpus
 
-Version: 1.1.0 — stable software workflow; provisional research catalogue.
+Version: 1.2.0 — stable software workflow; provisional research catalogue.
 
 An open research project working toward exhaustive, evidence-based coverage of the
 undeciphered Byblos script. Its language affiliation is unresolved. The name
@@ -9,7 +9,7 @@ undeciphered Byblos script. Its language affiliation is unresolved. The name
 ## Current coverage
 
 - 14 reported core entries plus 25 named disputed candidates; membership remains attributed.
-- 47 registered sources/leads and 25 bibliography discovery entries; consultation depth recorded individually.
+- 51 registered sources/leads and 29 bibliography discovery entries; consultation depth recorded individually.
 - 0 verified sign sequences, 0 imported images, 0 independently reviewed records; 6 sourced surface descriptions.
 - Published corpus counts remain unresolved. This is not an exhaustive corpus.
 - Identifiers refer to inscription records, not necessarily distinct physical objects.
