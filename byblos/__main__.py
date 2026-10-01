@@ -49,7 +49,7 @@ def main():
     try:
         if args.command == "release-check":
             report = release_check(args.root)
-            print(json.dumps(report, indent=2, ensure_ascii=False))
+            print(json.dumps(report, indent=2, ensure_ascii=True))
             return 0 if report["repository_consistent"] else 1
         if args.command == "verify-export":
             verify_export(args.directory)
@@ -62,44 +62,44 @@ def main():
                     path = path / "bundle.json"
                 return read_json(path)
             diff = compare_snapshots(read(args.before), read(args.after))
-            print(json.dumps(diff, indent=2, ensure_ascii=False))
+            print(json.dumps(diff, indent=2, ensure_ascii=True))
             return 3 if args.fail_on_change and diff["changes"] else 0
         bundle = load_bundle(args.root)
         result = audit(bundle)
         if not result["structure_valid"]:
-            print(json.dumps(result, indent=2, ensure_ascii=False))
+            print(json.dumps(result, indent=2, ensure_ascii=True))
             return 1
         if args.command == "validate":
             print("PASS: structurally valid; scientific 1.0 ready:",
                   result["scientific_1_0_ready"])
         elif args.command == "evidence-ledger":
-            print(json.dumps(evidence_ledger(bundle), indent=2, ensure_ascii=False))
+            print(json.dumps(evidence_ledger(bundle), indent=2, ensure_ascii=True))
         elif args.command == "acquisition-queue":
-            print(json.dumps(acquisition_queue(bundle), indent=2, ensure_ascii=False))
+            print(json.dumps(acquisition_queue(bundle), indent=2, ensure_ascii=True))
         elif args.command == "provenance":
-            print(json.dumps(provenance_report(bundle, args.source), indent=2, ensure_ascii=False))
+            print(json.dumps(provenance_report(bundle, args.source), indent=2, ensure_ascii=True))
         elif args.command == "audit":
-            print(json.dumps(result, indent=2, ensure_ascii=False))
+            print(json.dumps(result, indent=2, ensure_ascii=True))
             if args.require_1_0 and not result["scientific_1_0_ready"]:
                 return 2
         elif args.command == "export":
             print("Exported", write_export(bundle, args.output), "files")
         elif args.command == "stats":
             print(json.dumps(sequence_statistics(bundle, args.n, args.include_drafts),
-                             indent=2, ensure_ascii=False))
+                             indent=2, ensure_ascii=True))
         elif args.command == "review-packet":
-            print(json.dumps(review_packet(bundle), indent=2, ensure_ascii=False))
+            print(json.dumps(review_packet(bundle), indent=2, ensure_ascii=True))
         elif args.command == "proposal-template":
-            print(json.dumps(proposal_template(bundle, args.record), indent=2, ensure_ascii=False))
+            print(json.dumps(proposal_template(bundle, args.record), indent=2, ensure_ascii=True))
         elif args.command == "check-proposal":
             proposal = read_proposal(args.file)
             report = assess_proposal(bundle, proposal)
-            print(json.dumps(report, indent=2, ensure_ascii=False))
+            print(json.dumps(report, indent=2, ensure_ascii=True))
             return 0 if report["valid_proposal"] else 1
         elif args.command == "stage-proposal":
             proposal = read_proposal(args.file)
             report = stage_proposal(bundle, proposal, args.output)
-            print(json.dumps(report, indent=2, ensure_ascii=False))
+            print(json.dumps(report, indent=2, ensure_ascii=True))
         elif args.command == "verify-proposal":
             verify_staged_proposal(bundle, args.directory)
             print("PASS: staged proposal matches current evidence; no changes admitted")

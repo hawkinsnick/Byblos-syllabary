@@ -123,3 +123,7 @@ Logged reproducible searches and an unsuccessful further Dunand page-access
 attempt. Added explicit partial bibliography inspection states without removing
 existing output fields; release checks now detect stale README coverage counts.
 Scientific 1.0 remains unreleased.
+
+1.2 portability follow-up: explicitly read UTF-8 in release regression tests;
+command-line JSON escapes Unicode for legacy terminal encodings while preserving
+characters after JSON decoding. Added an ASCII-pipe regression case.

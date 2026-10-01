@@ -108,3 +108,6 @@ Open `exports/evidence_ledger.json` for field-by-field attribution and unknowns.
 `exports/acquisition_queue.json` organizes source inspection tasks by the number
 of catalogue records directly linked to each source. Bibliography leads may
 overlap the source tasks. Read [the limits](EVIDENCE_LEDGER.md) before using counts.
+
+Command-line JSON escapes Unicode characters for portable pipes and terminals.
+JSON readers recover the original characters; exported files remain UTF-8.

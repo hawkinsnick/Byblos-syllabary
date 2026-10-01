@@ -1,4 +1,7 @@
 import json
+import os
+import subprocess
+import sys
 from pathlib import Path
 import shutil
 import tempfile
@@ -43,6 +46,16 @@ class ReleaseTests(unittest.TestCase):
         report = release_check()
         self.assertTrue(report['repository_consistent'], report)
         self.assertFalse(report['scientific_1_0_ready'])
+
+    def test_cli_unicode_survives_an_ascii_only_pipe(self):
+        env = dict(os.environ, PYTHONIOENCODING='ascii')
+        result = subprocess.run([sys.executable, '-m', 'byblos', 'acquisition-queue'],
+                                cwd=ROOT, env=env, capture_output=True)
+        self.assertEqual(0, result.returncode, result.stderr)
+        queue = json.loads(result.stdout.decode('ascii'))
+        entry = next(e for e in queue['unexamined_bibliography_leads']
+                     if e['id'] == 'hlebec-2022')
+        self.assertIn('Vinča', entry['notes'])
 
     def test_metadata_drift_and_other_valid_snapshot_detected(self):
         with tempfile.TemporaryDirectory() as d:
