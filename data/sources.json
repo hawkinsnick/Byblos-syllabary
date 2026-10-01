@@ -1,0 +1,57 @@
+{
+  "sources": [
+    {
+      "id": "mnamon-merlo",
+      "citation": "Paolo Merlo, Byblos (Pseudo-hieroglyphic), Mnamon, updated March 2022.",
+      "url": "https://mnamon.sns.it/index.php?id=3&lang=en&page=Scrittura",
+      "doi": "10.25429/sns.it/lettere/mnamon016",
+      "type": "scholarly_guide",
+      "consultation": "consulted_online",
+      "accessed": "2026-10-01",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "No images or transcriptions imported."
+      }
+    },
+    {
+      "id": "maeder-baf",
+      "citation": "Michael Mäder (2022), Detecting word boundaries in an undeciphered script: The Byblos syllabary. BAF-Online 4(1), proceedings of the 2019 forum.",
+      "url": "https://bop.unibe.ch/baf/article/view/7186",
+      "doi": "10.22012/baf.2019.03",
+      "type": "research_abstract",
+      "consultation": "abstract_only",
+      "accessed": "2026-10-01",
+      "rights": {
+        "status": "license_stated",
+        "license": "CC-BY-4.0",
+        "scope": "Journal item; does not establish rights for a separately held corpus."
+      }
+    },
+    {
+      "id": "dunand-1945",
+      "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+      "url": null,
+      "doi": null,
+      "type": "primary_edition_lead",
+      "consultation": "not_consulted",
+      "accessed": null,
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Obtain and examine edition before using plates or transcriptions."
+      }
+    },
+    {
+      "id": "dunand-1978",
+      "citation": "Maurice Dunand (1978), publication adding k–n; full bibliographic details pending verification.",
+      "url": null,
+      "doi": null,
+      "type": "primary_edition_lead",
+      "consultation": "not_consulted",
+      "accessed": null,
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Publication not yet obtained."
+      }
+    }
+  ]
+}
