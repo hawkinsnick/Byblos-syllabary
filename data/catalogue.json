@@ -1,0 +1,481 @@
+{
+  "schema_version": "0.1.0",
+  "records": [
+    {
+      "id": "BYB-A",
+      "edition_label": "a",
+      "material": "stone",
+      "object_type": "stele",
+      "membership": "reported_core",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": "dunand-1945",
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review."
+      ]
+    },
+    {
+      "id": "BYB-B",
+      "edition_label": "b",
+      "material": "bronze",
+      "object_type": "spatula",
+      "membership": "reported_core",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": "dunand-1945",
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review."
+      ]
+    },
+    {
+      "id": "BYB-C",
+      "edition_label": "c",
+      "material": "bronze",
+      "object_type": "tablet",
+      "membership": "reported_core",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": "dunand-1945",
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review."
+      ]
+    },
+    {
+      "id": "BYB-D",
+      "edition_label": "d",
+      "material": "bronze",
+      "object_type": "tablet",
+      "membership": "reported_core",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": "dunand-1945",
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review."
+      ]
+    },
+    {
+      "id": "BYB-E",
+      "edition_label": "e",
+      "material": "bronze",
+      "object_type": "spatula",
+      "membership": "reported_core",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": "dunand-1945",
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review."
+      ]
+    },
+    {
+      "id": "BYB-F",
+      "edition_label": "f",
+      "material": "bronze",
+      "object_type": "spatula",
+      "membership": "reported_core",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": "dunand-1945",
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review."
+      ]
+    },
+    {
+      "id": "BYB-G",
+      "edition_label": "g",
+      "material": "stone",
+      "object_type": "stele",
+      "membership": "reported_core",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": "dunand-1945",
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review."
+      ]
+    },
+    {
+      "id": "BYB-H",
+      "edition_label": "h",
+      "material": "stone",
+      "object_type": "fragment",
+      "membership": "reported_core",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": "dunand-1945",
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review."
+      ]
+    },
+    {
+      "id": "BYB-I",
+      "edition_label": "i",
+      "material": "bronze",
+      "object_type": "spatula",
+      "membership": "reported_core",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": "dunand-1945",
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review."
+      ]
+    },
+    {
+      "id": "BYB-J",
+      "edition_label": "j",
+      "material": "stone",
+      "object_type": "fragment",
+      "membership": "reported_core",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": "dunand-1945",
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review."
+      ]
+    },
+    {
+      "id": "BYB-K",
+      "edition_label": "k",
+      "material": "stone",
+      "object_type": "slab_fragment",
+      "membership": "reported_core",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": "dunand-1978",
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review."
+      ]
+    },
+    {
+      "id": "BYB-L",
+      "edition_label": "l",
+      "material": "stone",
+      "object_type": "slab_fragment",
+      "membership": "reported_core",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": "dunand-1978",
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review."
+      ]
+    },
+    {
+      "id": "BYB-M",
+      "edition_label": "m",
+      "material": "stone",
+      "object_type": "slab_fragment",
+      "membership": "reported_core",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": "dunand-1978",
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review."
+      ]
+    },
+    {
+      "id": "BYB-N",
+      "edition_label": "n",
+      "material": "stone",
+      "object_type": "slab_fragment",
+      "membership": "reported_core",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": "dunand-1978",
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review."
+      ]
+    }
+  ]
+}
