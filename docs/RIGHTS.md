@@ -44,3 +44,11 @@ returned HTTP 403, although the public original was visually inspected through
 web retrieval. The depicted inscription has not been identified to an edition.
 The asset counter includes this declared rights-supported external reference;
 it is not a count of bundled files or independently adjudicated legal clearances.
+
+## Reference-only work while status is pending
+
+[The workflow](REFERENCE_ONLY_WORKFLOW.md) preserves source references and
+original metadata, prepares a small pending pilot review and documents the
+questions needed to investigate each proposed reuse. It neither determines
+public-domain status nor grants permissions. Inspection files stay outside the
+checkout; known media extensions trigger the current release-policy check.

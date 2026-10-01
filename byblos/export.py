@@ -5,6 +5,7 @@ import csv
 import hashlib
 import io
 import json
+from .references import reference_workflow, pilot_packet
 from .evidence import evidence_ledger, acquisition_queue
 from .jsonio import read_json
 from .core import audit, FILE_KEYS
@@ -21,6 +22,8 @@ def export_texts(bundle):
     if not report["structure_valid"]:
         raise ValueError("Refusing export of invalid data: " + "; ".join(report["errors"]))
     texts = {"bundle.json": json_text(bundle), "audit.json": json_text(report)}
+    texts["reference_workflow.json"] = json_text(reference_workflow(bundle))
+    texts["pilot_packet.json"] = json_text(pilot_packet(bundle))
     texts["evidence_ledger.json"] = json_text(evidence_ledger(bundle))
     texts["acquisition_queue.json"] = json_text(acquisition_queue(bundle))
     texts["provenance.json"] = json_text(provenance_report(bundle))

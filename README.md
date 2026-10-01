@@ -1,6 +1,6 @@
 # Byblos syllabary research corpus
 
-Version: 1.2.0 — stable software workflow; provisional research catalogue.
+Version: 1.3.0 — stable software workflow; provisional research catalogue.
 
 An open research project working toward exhaustive, evidence-based coverage of the
 undeciphered Byblos script. Its language affiliation is unresolved. The name
@@ -125,3 +125,12 @@ python -m byblos acquisition-queue
 The [evidence ledger guide](docs/EVIDENCE_LEDGER.md) explains field unknowns,
 citation bindings and the reproducible source inspection queue. These reports
 organize existing evidence; they do not infer expert approval or missing readings.
+
+## Continue with source references
+
+While source reuse status is being established, use the [reference-only workflow](docs/REFERENCE_ONLY_WORKFLOW.md).
+`python -m byblos reference-workflow` prints source-specific next actions.
+`python -m byblos pilot-packet --record BYB-A` prepares one pending metadata review.
+The exported pilot contains references and original catalogue metadata, with no
+plates or sign sequences. Keep inspection PDFs outside the checkout; the current
+release policy rejects known media files in the repository.

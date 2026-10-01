@@ -1,6 +1,6 @@
 # Scientific 1.0 assessment
 
-Current software snapshot: 1.2.0. Scientific 1.0 is **not released**.
+Current software snapshot: 1.3.0. Scientific 1.0 is **not released**.
 
 Software 1.0 stabilizes the dependency-free local workflow and current output
 formats. It does not promote catalogue assertions to verified archaeological facts.
@@ -96,3 +96,7 @@ evidence dependencies easier to inspect without granting scientific approval.
 1.2 extends publication discovery through publisher-checked 2026 metadata and
 distinguishes partial bibliography inspection from no inspection. No new sign
 sequences, archaeological identities or independent expert approvals are claimed.
+
+1.3 adds a source-specific reference-only work plan and a pending metadata pilot
+for inscription A. A media inventory enforces the current publication policy;
+it is not a legal clearance. Copyright investigation and scientific gates remain open.

@@ -1,0 +1,313 @@
+{
+  "evidence_sha256": "46dbe09f09bf85fd5464111108a615c54db229fd7749c56e8d57cf17eeb62d3d",
+  "field_ledger": {
+    "claims": [
+      {
+        "citations": [
+          {
+            "consultation": "consulted_online",
+            "evidence_path": "/catalogue/records/0/evidence/0",
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "distinct_cited_sources": 1,
+        "field": "edition_label",
+        "path": "/catalogue/records/0/edition_label",
+        "status": "asserted",
+        "value": "a"
+      },
+      {
+        "citations": [],
+        "distinct_cited_sources": 0,
+        "field": "display_name",
+        "path": "/catalogue/records/0/display_name",
+        "status": "not_recorded",
+        "value": null
+      },
+      {
+        "citations": [
+          {
+            "consultation": "consulted_online",
+            "evidence_path": "/catalogue/records/0/evidence/0",
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "distinct_cited_sources": 1,
+        "field": "material",
+        "path": "/catalogue/records/0/material",
+        "status": "asserted",
+        "value": "stone"
+      },
+      {
+        "citations": [
+          {
+            "consultation": "consulted_online",
+            "evidence_path": "/catalogue/records/0/evidence/0",
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "distinct_cited_sources": 1,
+        "field": "object_type",
+        "path": "/catalogue/records/0/object_type",
+        "status": "asserted",
+        "value": "stele"
+      },
+      {
+        "citations": [
+          {
+            "consultation": "consulted_online",
+            "evidence_path": "/catalogue/records/0/evidence/0",
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "distinct_cited_sources": 1,
+        "field": "membership",
+        "path": "/catalogue/records/0/membership",
+        "status": "asserted",
+        "value": "reported_core"
+      },
+      {
+        "citations": [],
+        "distinct_cited_sources": 0,
+        "field": "membership_note",
+        "path": "/catalogue/records/0/membership_note",
+        "status": "not_recorded",
+        "value": null
+      },
+      {
+        "citations": [
+          {
+            "consultation": "selected_pages",
+            "evidence_path": "/catalogue/records/0/evidence/1",
+            "locator": "p. 1",
+            "source_id": "dunand-1930"
+          }
+        ],
+        "distinct_cited_sources": 1,
+        "field": "dimensions_mm",
+        "path": "/catalogue/records/0/dimensions_mm",
+        "status": "asserted",
+        "value": {
+          "height": 500,
+          "length": 670,
+          "thickness_mean": 200
+        }
+      },
+      {
+        "citations": [
+          {
+            "consultation": "selected_pages",
+            "evidence_path": "/catalogue/records/0/evidence/1",
+            "locator": "p. 1",
+            "source_id": "dunand-1930"
+          }
+        ],
+        "distinct_cited_sources": 1,
+        "field": "discovery_context",
+        "path": "/catalogue/records/0/discovery_context",
+        "status": "asserted",
+        "value": "Reused in lower courses of a domestic cistern near its southwest corner; not an undisturbed original deposition."
+      },
+      {
+        "citations": [],
+        "distinct_cited_sources": 0,
+        "field": "museum_id",
+        "path": "/catalogue/records/0/museum_id",
+        "status": "unknown",
+        "value": null
+      },
+      {
+        "citations": [],
+        "distinct_cited_sources": 0,
+        "field": "reported_excavation_identifier",
+        "path": "/catalogue/records/0/reported_excavation_identifier",
+        "status": "not_recorded",
+        "value": null
+      }
+    ],
+    "current_independent_record_approval": false,
+    "evidence_level": "secondary_report",
+    "membership": "reported_core",
+    "nested_claims": {
+      "date_claims": [],
+      "direction_claims": null,
+      "reported_museum_identifier": null
+    },
+    "record_id": "BYB-A"
+  },
+  "format": "byblos-metadata-pilot-v1",
+  "limitations": [
+    "No scans, plates or sign sequences included.",
+    "Existing statements retain their recorded evidence levels.",
+    "Empty line targets mean unknown inventory, not zero lines.",
+    "Pending review fields are not approvals; no response is automatically admitted."
+  ],
+  "publication_plan": "metadata_and_source_references_only",
+  "record_id": "BYB-A",
+  "requested_review": [
+    "Check that citations support the stated metadata.",
+    "Distinguish reported inscription labels from verified physical identity.",
+    "Identify missing primary-edition evidence and uncertain coverage.",
+    "Return scoped corrections; no endorsement of decipherment requested."
+  ],
+  "sources": [
+    {
+      "accessed": "2026-10-01",
+      "citation": "Paolo Merlo, Byblos (Pseudo-hieroglyphic), Mnamon, updated March 2022.",
+      "consultation": "consulted_online",
+      "doi": "10.25429/sns.it/lettere/mnamon016",
+      "id": "mnamon-merlo",
+      "rights": {
+        "scope": "No images or transcriptions imported.",
+        "status": "not_assessed"
+      },
+      "type": "scholarly_guide",
+      "url": "https://mnamon.sns.it/index.php?id=3&lang=en&page=Scrittura"
+    },
+    {
+      "accessed": null,
+      "bibliographic_claims": [
+        {
+          "claim": "Contemporary reference gives Beirut 1945.",
+          "locator": "p. 36, footnote 1",
+          "source_id": "dussaud-1946"
+        },
+        {
+          "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined.",
+          "locator": "Publication Date and Edition Identifiers",
+          "source_id": "openlibrary-dunand"
+        }
+      ],
+      "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+      "consultation": "not_consulted",
+      "doi": null,
+      "id": "dunand-1945",
+      "rights": {
+        "scope": "Obtain and examine edition before using plates or transcriptions.",
+        "status": "not_assessed"
+      },
+      "type": "primary_edition_lead",
+      "url": null
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "M. Dunand (1930), Nouvelle inscription découverte à Byblos. Syria 11(1), pp. 1–10.",
+      "consultation": "selected_pages",
+      "doi": "10.3406/syria.1930.3456",
+      "id": "dunand-1930",
+      "notes": "Pages 1–2 read online; PDF endpoint returned HTTP 403.",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "primary_edition",
+      "url": "https://www.persee.fr/doc/syria_0039-7946_1930_num_11_1_3456"
+    }
+  ],
+  "task": {
+    "line_targets": [],
+    "membership": "reported_core",
+    "primary_edition_lead": {
+      "accessed": null,
+      "bibliographic_claims": [
+        {
+          "claim": "Contemporary reference gives Beirut 1945.",
+          "locator": "p. 36, footnote 1",
+          "source_id": "dussaud-1946"
+        },
+        {
+          "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined.",
+          "locator": "Publication Date and Edition Identifiers",
+          "source_id": "openlibrary-dunand"
+        }
+      ],
+      "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+      "consultation": "not_consulted",
+      "doi": null,
+      "id": "dunand-1945",
+      "rights": {
+        "scope": "Obtain and examine edition before using plates or transcriptions.",
+        "status": "not_assessed"
+      },
+      "type": "primary_edition_lead",
+      "url": null
+    },
+    "record": {
+      "date_claims": [],
+      "dimensions_mm": {
+        "height": 500,
+        "length": 670,
+        "thickness_mean": 200
+      },
+      "discovery_context": "Reused in lower courses of a domestic cistern near its southwest corner; not an undisturbed original deposition.",
+      "edition_label": "a",
+      "evidence": [
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "dimensions_mm",
+            "discovery_context"
+          ],
+          "locator": "p. 1",
+          "source_id": "dunand-1930"
+        }
+      ],
+      "evidence_level": "secondary_report",
+      "id": "BYB-A",
+      "material": "stone",
+      "membership": "reported_core",
+      "museum_id": null,
+      "object_id": null,
+      "object_type": "stele",
+      "open_tasks": [
+        "Examine primary edition and precise page/plate.",
+        "Verify physical object and museum identity.",
+        "Record surfaces and direction from evidence.",
+        "Transcribe with source and uncertainty.",
+        "Obtain independent review.",
+        "Primary metadata partly checked; plate and sign sequences still uncollated."
+      ],
+      "primary_edition_lead": "dunand-1945",
+      "review_status": "unreviewed",
+      "surfaces": null,
+      "transcription": null
+    },
+    "record_id": "BYB-A",
+    "requested_checks": [
+      "object_identity",
+      "membership_and_alternatives",
+      "source_and_locator",
+      "surface_inventory",
+      "directions_and_damage",
+      "edition_sign_labels",
+      "transcription_and_encoding",
+      "attribution_and_reuse_terms"
+    ],
+    "response": {
+      "decision": null,
+      "expertise": null,
+      "findings": [],
+      "independence_statement": null,
+      "review_record": null,
+      "reviewed_on": null,
+      "reviewer_id": null,
+      "status": "pending"
+    },
+    "surface_inventory_status": "not_established"
+  },
+  "version": "1.3.0"
+}

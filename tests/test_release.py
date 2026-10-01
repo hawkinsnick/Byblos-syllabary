@@ -9,7 +9,7 @@ import unittest
 from byblos.core import ROOT, load_bundle
 from byblos.export import write_export, verify_export
 from byblos.jsonio import loads
-from byblos.release import release_check
+from byblos.release import release_check, media_files
 
 
 class StrictJSONTests(unittest.TestCase):
@@ -57,6 +57,16 @@ class ReleaseTests(unittest.TestCase):
                      if e['id'] == 'hlebec-2022')
         self.assertIn('Vinča', entry['notes'])
 
+    def test_media_inventory_catches_case_and_nested_files(self):
+        with tempfile.TemporaryDirectory() as d:
+            root = Path(d)
+            (root / 'plates').mkdir()
+            (root / 'plates/SCAN.PDF').write_bytes(b'SYNTHETIC NOT A PDF')
+            (root / '.git').mkdir()
+            (root / '.git/ignored.png').write_bytes(b'SYNTHETIC')
+            (root / 'notes.md').write_text('Original notes', encoding='utf-8')
+            self.assertEqual(['plates/SCAN.PDF'], media_files(root))
+
     def test_metadata_drift_and_other_valid_snapshot_detected(self):
         with tempfile.TemporaryDirectory() as d:
             root = Path(d)
@@ -64,6 +74,11 @@ class ReleaseTests(unittest.TestCase):
                 shutil.copytree(ROOT / name, root / name)
             for name in ('README.md', 'CITATION.cff'):
                 shutil.copyfile(ROOT / name, root / name)
+            (root / 'restricted.PDF').write_bytes(b'SYNTHETIC NOT A PDF')
+            media_report = release_check(root)
+            self.assertFalse(media_report['checks']['reference_only_media_inventory'])
+            self.assertEqual(['restricted.PDF'], media_report['bundled_media_files'])
+            (root / 'restricted.PDF').unlink()
             readme = root / 'README.md'
             readme.write_text(readme.read_text(encoding='utf-8').replace('registered sources/leads', 'missing coverage headline'), encoding='utf-8')
             (root / 'CITATION.cff').write_text('version: "0.0.0"\n')

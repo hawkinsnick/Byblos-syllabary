@@ -2,6 +2,7 @@
 import argparse
 import json
 from pathlib import Path
+from .references import reference_workflow, pilot_packet
 from .evidence import evidence_ledger, acquisition_queue
 from .release import release_check
 from .jsonio import read_json
@@ -16,6 +17,9 @@ def main():
     parser.add_argument("--root", default=str(ROOT), help="Corpus repository root")
     sub = parser.add_subparsers(dest="command", required=True)
     sub.add_parser("validate")
+    sub.add_parser("reference-workflow", help="Print source-by-source reference-only work plan")
+    pilot = sub.add_parser("pilot-packet", help="Print one pending metadata review packet")
+    pilot.add_argument("--record", default="BYB-A")
     sub.add_parser("evidence-ledger", help="Print field-level catalogue attribution")
     sub.add_parser("acquisition-queue", help="Print source inspection backlog")
     sub.add_parser("release-check", help="Check versions and committed export consistency")
@@ -72,6 +76,10 @@ def main():
         if args.command == "validate":
             print("PASS: structurally valid; scientific 1.0 ready:",
                   result["scientific_1_0_ready"])
+        elif args.command == "reference-workflow":
+            print(json.dumps(reference_workflow(bundle), indent=2, ensure_ascii=True))
+        elif args.command == "pilot-packet":
+            print(json.dumps(pilot_packet(bundle, args.record), indent=2, ensure_ascii=True))
         elif args.command == "evidence-ledger":
             print(json.dumps(evidence_ledger(bundle), indent=2, ensure_ascii=True))
         elif args.command == "acquisition-queue":

@@ -111,3 +111,9 @@ overlap the source tasks. Read [the limits](EVIDENCE_LEDGER.md) before using cou
 
 Command-line JSON escapes Unicode characters for portable pipes and terminals.
 JSON readers recover the original characters; exported files remain UTF-8.
+
+## Research with restricted sources
+
+Open `exports/pilot_packet.json` for the pending inscription-A metadata review.
+`exports/reference_workflow.json` lists per-source next actions and scoped rights
+observations. See [the reference-only workflow](REFERENCE_ONLY_WORKFLOW.md).

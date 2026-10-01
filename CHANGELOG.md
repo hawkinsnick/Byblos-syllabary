@@ -127,3 +127,14 @@ Scientific 1.0 remains unreleased.
 1.2 portability follow-up: explicitly read UTF-8 in release regression tests;
 command-line JSON escapes Unicode for legacy terminal encodings while preserving
 characters after JSON decoding. Added an ASCII-pipe regression case.
+
+## 1.3.0 — 2026-10-01 (reference-only research)
+
+Added source-specific publication planning that retains rights observations and
+scoped asset declarations without granting or transferring permissions. Added a
+pending metadata pilot for inscription A, with source citations, field evidence
+and explicit unknowns; other records can be selected by CLI. Both new JSON views
+are generated, checksummed and verified in exports. Added release-policy detection
+of known media files, including nested files and uppercase extensions, plus a
+concrete rights-investigation workflow. No scans, copied texts, plates, third-party
+sequences, permissions or expert approvals added. Scientific 1.0 remains unreleased.

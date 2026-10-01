@@ -1,0 +1,1191 @@
+{
+  "evidence_sha256": "46dbe09f09bf85fd5464111108a615c54db229fd7749c56e8d57cf17eeb62d3d",
+  "format": "byblos-reference-workflow-v1",
+  "interpretation": "A project publication plan, not a legal clearance or finding of infringement. Unknown, denied and unanswered permissions are not grants. Access and attribution do not establish redistribution rights. An asset declaration applies only to its recorded scope; this report never transfers that scope to other media or sequences.",
+  "scientific_1_0_ready": false,
+  "sources": [
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Internet Archive catalogue, Byblia grammata, bybliagrammatado0000duna.",
+      "consultation": "metadata_only",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "archive-dunand",
+      "url": "https://archive.org/details/bybliagrammatado0000duna"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "AUB Press, The Syllabic Inscriptions from Byblos (publisher description).",
+      "consultation": "consulted_online",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "aub-mendenhall",
+      "url": "https://www.aub.edu.lb/aubpress/pages/thesyllabic.aspx"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "B. E. Colless (2011), Amulet from Deir Rifa, Cryptcracker.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-DEIR-RIFA"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "colless-deir-rifa",
+      "url": "https://cryptcracker.blogspot.com/2011/09/from-deir-rifa-gordon-hamilton-has.html"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [
+        {
+          "asset_id": "ASSET-COMMONS-BEIRUT-2019",
+          "declared_rights_supported": true,
+          "delivery": "external_reference_only",
+          "kind": "photograph",
+          "rights": {
+            "attribution": "Onceinawhile, National Museum of Beirut – Byblos syllabary (2019), Wikimedia Commons, CC BY-SA 4.0. No modifications.",
+            "creator": "Onceinawhile",
+            "license": "CC-BY-SA-4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "reference": "Wikimedia Commons file page revision 772165898, Licensing section",
+            "scope": "The photograph only; external reference. Preserve credit and licence link; distribute adaptations under CC BY-SA 4.0 or compatible licence.",
+            "status": "licensed"
+          }
+        }
+      ],
+      "citation": "Onceinawhile (2019), National Museum of Beirut – Byblos syllabary, photograph, Wikimedia Commons.",
+      "consultation": "consulted_online",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "license": "CC-BY-SA-4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "scope": "Photograph only, per creator declaration on the file page; attribution, licence link and ShareAlike conditions. No transfer to OCBI sequences or publication plates.",
+        "status": "licensed"
+      },
+      "source_id": "commons-beirut-photo",
+      "url": "https://commons.wikimedia.org/w/index.php?title=File:National_Museum_of_Beirut_–_Byblos_syllabary.jpg&oldid=772165898"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Hans van Deukeren, stylized redraw of spatula e, Wikimedia Commons.",
+      "consultation": "metadata_only",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "license": "CC-BY-SA-3.0",
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "license_stated"
+      },
+      "source_id": "commons-e",
+      "url": "https://commons.wikimedia.org/wiki/File:Byblos_syll_spat_e.png"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "DEAPS, KAI 003, Digital Editions of Aramaic and Phoenician Sources, Ohio State University.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-PALIMPSEST-KAI3"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "deaps-kai3",
+      "url": "https://deaps.osu.edu/text_objects/11443"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "DEAPS, KAI 004, Digital Editions of Aramaic and Phoenician Sources, Ohio State University.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-PALIMPSEST-KAI4"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "deaps-kai4",
+      "url": "https://deaps.osu.edu/text_objects/11444"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Édouard Dhorme (1946), Déchiffrement des inscriptions pseudo-hiéroglyphiques de Byblos, Syria 25(1):1–35.",
+      "consultation": "selected_pages",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "dhorme-1946",
+      "url": "https://www.persee.fr/doc/syria_0039-7946_1946_num_25_1_4447"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "M. Dunand (1930), Nouvelle inscription découverte à Byblos. Syria 11(1), pp. 1–10.",
+      "consultation": "selected_pages",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-A"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "dunand-1930",
+      "url": "https://www.persee.fr/doc/syria_0039-7946_1930_num_11_1_3456"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+      "consultation": "not_consulted",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-A",
+        "BYB-B",
+        "BYB-C",
+        "BYB-D",
+        "BYB-E",
+        "BYB-F",
+        "BYB-G",
+        "BYB-H",
+        "BYB-I",
+        "BYB-J"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Obtain and examine edition before using plates or transcriptions.",
+        "status": "not_assessed"
+      },
+      "source_id": "dunand-1945",
+      "url": null
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "M. Dunand, Nouvelles inscriptions pseudo-hiéroglyphiques découvertes à Byblos. Bulletin du Musée de Beyrouth 30 (nominal 1978). Pagination and actual publication year disputed in secondary metadata.",
+      "consultation": "not_consulted",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-K",
+        "BYB-L",
+        "BYB-M",
+        "BYB-N"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Publication not yet obtained.",
+        "status": "not_assessed"
+      },
+      "source_id": "dunand-1978",
+      "url": null
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "René Dussaud (1946), L’origine de l’alphabet et son évolution première, d’après les découvertes de Byblos, Syria 25(1):36–52.",
+      "consultation": "selected_pages",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "dussaud-1946",
+      "url": "https://www.persee.fr/doc/syria_0039-7946_1946_num_25_1_4492"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Ben Haring (2023), Hieroglyphs, Pseudo-Scripts and Alphabets: Their Use and Reception in Ancient Egypt and Neighbouring Regions. Cambridge University Press.",
+      "consultation": "metadata_only",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "haring-2023",
+      "url": "https://www.cambridge.org/core/elements/abs/hieroglyphs-pseudoscripts-and-alphabets/98F6CB75E5F4D8A5EC4746318C1A33E8"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Boris F. Hlebec (2022), Deciphering the Byblos “Pseudohieroglyphic” Script, Philologist 13(25):15–28.",
+      "consultation": "abstract_only",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+        "status": "not_assessed"
+      },
+      "source_id": "hlebec-2022-publisher",
+      "url": "https://filolog.rs.ba/index.php/filolog/article/view/161"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "S. Izre'el (1988), review of Mendenhall, The Syllabic Inscriptions from Byblos. JAOS 108(3), pp. 519–521.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "izreel-1988",
+      "url": "https://www.tau.ac.il/~izreel/publications/RevMendenhall_JAOS1988.pdf"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "KeiBi online, Dunand 1978 record KEI00067546.",
+      "consultation": "consulted_online",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "keibi-dunand-1978",
+      "url": "https://ocb.uni-tuebingen.de/Record/KEI00067546/Details"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "KeiBi online, Schwartz 2010, KEI00104326.",
+      "consultation": "consulted_online",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "keibi-schwartz",
+      "url": "https://vergil.uni-tuebingen.de/keibi/Record/KEI00104326/Description"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Aaron Koller (2022), review of Jan Best, How to Decipher the Byblos Script, Journal of Semitic Studies 67(2):e35–e37.",
+      "consultation": "metadata_only",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+        "status": "not_assessed"
+      },
+      "source_id": "koller-2022-publisher",
+      "url": "https://academic.oup.com/jss/article-abstract/67/2/e35/6644565"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Michael Mäder (2022), Detecting word boundaries in an undeciphered script: The Byblos syllabary. BAF-Online 4(1), proceedings of the 2019 forum.",
+      "consultation": "abstract_only",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "license": "CC-BY-4.0",
+        "scope": "Journal item; does not establish rights for a separately held corpus.",
+        "status": "license_stated"
+      },
+      "source_id": "maeder-baf",
+      "url": "https://bop.unibe.ch/baf/article/view/7186"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Mnamon, Byblos bibliography.",
+      "consultation": "consulted_online",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "mnamon-bibliography",
+      "url": "https://mnamon.sns.it/index.php?id=3&lang=en&page=Bibliografia"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Paolo Merlo, Byblos (Pseudo-hieroglyphic), Mnamon, updated March 2022.",
+      "consultation": "consulted_online",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-A",
+        "BYB-B",
+        "BYB-C",
+        "BYB-D",
+        "BYB-E",
+        "BYB-F",
+        "BYB-G",
+        "BYB-H",
+        "BYB-I",
+        "BYB-J",
+        "BYB-K",
+        "BYB-L",
+        "BYB-M",
+        "BYB-N"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "No images or transcriptions imported.",
+        "status": "not_assessed"
+      },
+      "source_id": "mnamon-merlo",
+      "url": "https://mnamon.sns.it/index.php?id=3&lang=en&page=Scrittura"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / Byblicon, Online Corpus of Byblos Inscriptions (OCBI), live compiled application.",
+      "consultation": "metadata_only",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-current",
+      "url": "https://center-for-decipherment.ch/tool/elamicon.js"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS, Introduction to the decipherment tool and Byblicon citation guidance.",
+      "consultation": "consulted_online",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-introduction",
+      "url": "https://center-for-decipherment.ch/tool-introduction/"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide o_recto.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-o_recto",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/o_recto.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide p.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-p",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/p.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide q.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-q",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/q.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide r.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-r",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/r.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide s.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-RIETI"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-s",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/s.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide t.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-t",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/t.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide u.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-u",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/u.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide v.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-TEL-HALIF"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-v",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/v.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide w.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-TELL-JISR"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-w",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/w.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide x.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-ULUBURUN"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-x",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/x.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide y.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-y",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/y.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide z.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-STONE-SEAL-2010"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-z",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide z_a.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-BALUA"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-z_a",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z_a.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide z_b.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-UMM-O3A",
+        "BYB-CAND-UMM-O3B",
+        "BYB-CAND-UMM-O3C"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-z_b",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z_b.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide z_c.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-KAHUN"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-z_c",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z_c.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "GEAS / OCBI, explanatory slide z_d.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-DEIR-RIFA"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-plate-z_d",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z_d.jpg"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Elamicon project, README legalese and encoding notes.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-repository",
+      "url": "https://github.com/elamicon/elamicon/blob/69b4cc2822493146045cb9969586bf5bd9195380/README.md"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Elamicon / GEAS, src/Scripts/Byblos.elm.",
+      "consultation": "metadata_only",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-M"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "ocbi-source",
+      "url": "https://github.com/elamicon/elamicon/blob/69b4cc2822493146045cb9969586bf5bd9195380/src/Scripts/Byblos.elm"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Open Library, Byblia grammata, edition OL6188790M, catalogue record.",
+      "consultation": "metadata_only",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Factual catalogue metadata only; book text and plates not redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "openlibrary-dunand",
+      "url": "https://openlibrary.org/books/OL6188790M/Byblia_grammata"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Evangelos Papakitsos (2026), The epigraphic affinity of the linear syllabic scripts of bronze age Eurasia, International Journal of Multidisciplinary Research and Development 13(3):135–139.",
+      "consultation": "abstract_only",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+        "status": "not_assessed"
+      },
+      "source_id": "papakitsos-2026-publisher",
+      "url": "https://www.allsubjectjournal.com/archives/2026/vol13/issue3/13350"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Madadh Richey (2023), Syria, Mesopotamia, and the Origins of the Alphabet, Maarav 27(1–2):1–38.",
+      "consultation": "abstract_only",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Bibliographic facts and original project notes only; no abstract, full article, images or sign sequences imported.",
+        "status": "not_assessed"
+      },
+      "source_id": "richey-2023-publisher",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/727576"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Benjamin Sass (2019), The pseudo-hieroglyphic inscriptions from Byblos, their elusive dating, and their affinities with the early Phoenician inscriptions, in Ph. Abrahami and L. Battini (eds.), Cultures et sociétés syro-mésopotamiennes, pp. 157–180.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-ARROWHEAD-13104"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "sass-2019",
+      "url": "https://www.academia.edu/38559714"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "E. Schmutz and M. Mäder, Die Byblos-Schrift: Beurteilung des Entzifferungsvorschlags von F. Woudhuizen und J. Best anhand der GEAS-Methodologie. Assessing Decipherment Attempts Series 1, No. 2024/1.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "schmutz-maeder-2024",
+      "url": "https://center-for-decipherment.ch/journal/2024_01__Schmutz-%26-Maeder__Die-Byblos-Schrift_Beurteilung-Woudhuizen-Best.pdf"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Glenn M. Schwartz (2021), Non-cuneiform writing at third-millennium Umm el-Marra, Syria: evidence of an early alphabetic tradition?, Pasiphae XV:255–266 (publisher metadata).",
+      "consultation": "metadata_only",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "schwartz-2021-publisher",
+      "url": "https://www.torrossa.com/en/resources/an/4774696"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Glenn M. Schwartz, author-hosted abstract of Non-cuneiform writing at third-millennium Umm el-Marra, Syria.",
+      "consultation": "abstract_only",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-UMM-O3A",
+        "BYB-CAND-UMM-O3B",
+        "BYB-CAND-UMM-O3C"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "schwartz-author-abstract",
+      "url": "https://johnshopkins.academia.edu/GlennSchwartz/Papers"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "G. M. Schwartz, institutional CV (2025), bibliography.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "source_id": "schwartz-cv",
+      "url": "https://krieger.jhu.edu/near-east/wp-content/uploads/sites/73/2016/03/SCHWARTZ-CV-2025.ACC_.pdf"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "Harvey Sobelman (1961), The Proto-Byblian Inscriptions: A Fresh Approach, JSS 6(2):226–245.",
+      "consultation": "metadata_only",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "sobelman-publisher",
+      "url": "https://academic.oup.com/jss/article-abstract/6/2/226/1606946"
+    },
+    {
+      "actions": [
+        "Preserve source/version and exact locators.",
+        "Inspect only through an authorized access route.",
+        "Record attributable factual observations and original analysis.",
+        "Keep scans, plates, copied prose, fonts and third-party sequences out of this publication workflow.",
+        "Assess each proposed reuse separately before changing delivery."
+      ],
+      "assets": [],
+      "citation": "J.-P. Vita and J.-Á. Zamora (2018), The Byblos Script. Paths into Script Formation in the Ancient Mediterranean, SMEA NS Supplemento 1, pp. 75–102.",
+      "consultation": "selected_sections",
+      "copyright_determination": "not_determined_by_this_report",
+      "linked_record_ids": [
+        "BYB-CAND-CYLINDER-2004",
+        "BYB-CAND-LAMP-1",
+        "BYB-CAND-LAMP-2",
+        "BYB-CAND-LAMP-3",
+        "BYB-CAND-LINEAR-STELA",
+        "BYB-CAND-MEGIDDO-RING",
+        "BYB-CAND-PALIMPSEST-KAI1",
+        "BYB-CAND-PALIMPSEST-KAI3",
+        "BYB-CAND-PALIMPSEST-KAI4",
+        "BYB-CAND-SCARABOID",
+        "BYB-CAND-SINAI-526",
+        "BYB-CAND-THEBES-OSTRACON",
+        "BYB-CAND-TRIESTE",
+        "BYB-M"
+      ],
+      "publication_plan": "references_and_original_metadata_only",
+      "recorded_rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "source_id": "vita-zamora-2018",
+      "url": "https://www.academia.edu/37706221/The_Byblos_Script"
+    }
+  ],
+  "version": "1.3.0"
+}
