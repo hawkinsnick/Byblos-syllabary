@@ -1,0 +1,87 @@
+{
+  "version": "0.1.0",
+  "as_of": "2026-10-01",
+  "scope": "Initial source inventory; no exhaustive coverage claim.",
+  "count_claims": [
+    {
+      "id": "COUNT-14",
+      "source_id": "mnamon-merlo",
+      "locator": "Corpus section, labels a–n",
+      "count": 14,
+      "unit": "labelled_inscription_entries",
+      "derivation": "Enumerating a–j and k–n; not a verified object count."
+    },
+    {
+      "id": "COUNT-15",
+      "source_id": "maeder-baf",
+      "locator": "Abstract, first sentence",
+      "count": 15,
+      "unit": "inscriptions_reported",
+      "derivation": "Author's reported count; crosswalk unavailable."
+    },
+    {
+      "id": "COUNT-28",
+      "source_id": "maeder-baf",
+      "locator": "Abstract, second sentence",
+      "count": 28,
+      "unit": "tentatively_assigned_fragments_reported",
+      "derivation": "Individual identities unavailable; no synthetic fragment records created."
+    }
+  ],
+  "gaps": [
+    {
+      "id": "GAP-COUNT",
+      "status": "open",
+      "source_ids": [
+        "mnamon-merlo",
+        "maeder-baf"
+      ],
+      "task": "Reconcile 14 entries with 15 reported inscriptions using object, surface and edition crosswalks."
+    },
+    {
+      "id": "GAP-FRAGMENTS",
+      "status": "open",
+      "source_ids": [
+        "maeder-baf"
+      ],
+      "task": "Identify the 28 proposed fragments individually, their sources, and membership arguments; do not assume they are disjoint from other counts."
+    },
+    {
+      "id": "GAP-DIGITAL",
+      "status": "open",
+      "source_ids": [
+        "maeder-baf"
+      ],
+      "task": "Locate reported digital transcription and encoding map; inspect licence, variant definitions and provenance. Unicode wording in abstract does not establish a standardized Unicode block."
+    },
+    {
+      "id": "GAP-EDITIONS",
+      "status": "open",
+      "source_ids": [
+        "dunand-1945",
+        "dunand-1978"
+      ],
+      "task": "Acquire and inspect original editions; resolve exact bibliography and plates."
+    },
+    {
+      "id": "GAP-BIBLIOGRAPHY",
+      "status": "open",
+      "source_ids": [
+        "mnamon-merlo"
+      ],
+      "task": "Build a systematic bibliographic search log including later additions, reviews and opposing interpretations."
+    },
+    {
+      "id": "GAP-REVIEW",
+      "status": "open",
+      "source_ids": [],
+      "task": "Arrange independent specialist review; none performed."
+    }
+  ],
+  "release_gates": {
+    "exhaustive_claim_allowed": false,
+    "verified_transcriptions": 0,
+    "independent_reviews": 0,
+    "rights_cleared_assets": 0
+  }
+}
