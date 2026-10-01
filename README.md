@@ -1,6 +1,6 @@
 # Byblos syllabary research corpus
 
-Version: 0.9.0 — research catalogue and reproducible tooling.
+Version: 1.0.0 — stable software workflow; provisional research catalogue.
 
 An open research project working toward exhaustive, evidence-based coverage of the
 undeciphered Byblos script. Its language affiliation is unresolved. The name
@@ -62,9 +62,13 @@ inspection from secondhand reporting. No specialist endorsement is claimed.
 python -m byblos audit --require-1-0
 ```
 
-Currently exits **2**, correctly reporting unmet scientific gates. This project
-has progressed through development snapshots 0.2–0.6; the original
-scientific milestones are not all complete. 1.0 has not been released.
+Currently exits **2**, correctly reporting unmet scientific gates. Software 1.0
+is a stable local validation, contribution and export workflow. The catalogue
+remains provisional and incomplete; scientific 1.0 has not been released.
+
+Run `python -m byblos release-check` to check version consistency, source links,
+export integrity and exact agreement with repository data. Run the tests separately.
+
 
 [Read the generated audit](exports/REPORT.md).
 The JSON bundle is lossless; CSV is a convenience catalogue view.

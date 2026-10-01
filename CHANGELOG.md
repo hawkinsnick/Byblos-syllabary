@@ -90,3 +90,13 @@ Separates explicit field evidence from edition leads, discovery references and
 context links; exposes unresolved source references. Added source filtering and
 a checksummed provenance.json export. Usage counts are not confidence scores or
 independent corroboration. No scientific evidence or approvals added; 1.0 remains open.
+
+## 1.0.0 — 2026-10-01 (software workflow)
+
+Stabilized the local validation, proposal, provenance and deterministic export
+workflow. All file ingestion rejects duplicate JSON keys and nonfinite numbers,
+including overflowing exponents. Export verification rejects symlinks before
+resolving paths. Added repository release checks for version labels, source links,
+export integrity and byte-for-byte agreement with current data. Corrected stale
+citation and release-status versions. CI exercises Python 3.10 and 3.12 on Linux
+and Windows. Scientific 1.0 remains unreleased; no new evidence or review invented.

@@ -8,6 +8,7 @@ from pathlib import Path
 import json
 import re
 from datetime import date
+from .jsonio import read_json
 from .admission import admission_assessment, evidence_digest, approved
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -25,7 +26,7 @@ FILE_KEYS = {
 
 def load_bundle(root=ROOT):
     root = Path(root)
-    return {key: json.loads((root / "data" / name).read_text(encoding="utf-8"))
+    return {key: read_json(root / "data" / name)
             for key, name in FILE_KEYS.items()}
 
 def validate_bundle(bundle):

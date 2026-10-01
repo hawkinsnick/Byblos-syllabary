@@ -1,5 +1,5 @@
 {
-  "evidence_sha256": "4a3792ad97355eda04d2ed4491afb8750b337e33cf38af298ef19c3b9c18e6b2",
+  "evidence_sha256": "86e80037bcb217494907e871ac8ddca7d35e96d2ed42c88239a302aeae8dc073",
   "format": "byblos-provenance-v1",
   "interpretation": "Derived links only. Field evidence records attribution, not correctness. Source references, discovery citations and edition leads are not independent corroboration. Consultation depth and rights are recorded declarations; usage counts are not confidence scores. Paths address this exact snapshot; owners are namespaced by their container.",
   "selected_source": null,

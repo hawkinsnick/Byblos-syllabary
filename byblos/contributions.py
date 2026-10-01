@@ -7,6 +7,7 @@ import math
 from pathlib import Path
 import re
 from urllib.parse import urlsplit
+from .jsonio import read_json
 from .admission import evidence_digest
 from .core import audit, CONSULTED, MEMBERSHIP
 
@@ -30,15 +31,7 @@ def _positive_number(value):
 
 
 def read_proposal(path):
-    def unique_keys(pairs):
-        result = {}
-        for key, value in pairs:
-            if key in result:
-                raise ValueError("Duplicate JSON field: " + key)
-            result[key] = value
-        return result
-    return json.loads(Path(path).read_text(encoding="utf-8"), object_pairs_hook=unique_keys)
-
+    return read_json(path)
 
 def proposal_template(bundle, record_ids=None):
     if not audit(bundle)["structure_valid"]:

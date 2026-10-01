@@ -55,7 +55,7 @@ local. Inspect sibling schemas before declaring interoperable exports.
 
 ## Prerelease implementation status
 
-Versions 0.2–0.8 denote tested development snapshots, not closure of the scientific
+Versions 0.2–0.9 denote tested development snapshots, not closure of the scientific
 milestones above. Source discovery, candidate cataloguing, validation and exports
 can progress while source access, epigraphy, rights and independent review remain
 open. The latest audit is the authority for release readiness.
@@ -69,3 +69,8 @@ Scientific admission now uses the tested policy in ADMISSION_POLICY.md. Its posi
 Generated review packets are task inventories, not research-entity imports. The offline viewer and snapshot comparison preserve recorded assertions without adding observed signs or resolving epigraphic disputes.
 
 Metadata proposal assessment is distinct from scientific admission. Submitted citations and consultation declarations are checked structurally, then require human evidence assessment. Staging never modifies the corpus or grants rights.
+
+Software versions 1.0 and later track the stable research workflow independently
+from the scientific admission milestone above. Scientific completeness continues
+to require the original evidence and independent review gates; software progress
+does not waive any gate.

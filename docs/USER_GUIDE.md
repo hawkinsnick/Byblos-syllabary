@@ -93,3 +93,11 @@ Pending proposal packets are distinct from accepted corpus exports.
 
 `python -m byblos provenance --source mnamon-merlo` lists exact claim and lead
 locations for one source. See [the provenance guide](PROVENANCE.md) for limits.
+
+## Software release verification
+
+Run `python -m byblos release-check` and `python -m unittest discover -s tests`.
+The first checks version labels, source references and exported data against this
+checkout; the second exercises regression cases. Scientific readiness uses the
+separate `python -m byblos audit --require-1-0` command, currently exit 2.
+Ambiguous duplicate-key JSON, nonfinite numbers and symlinked export files fail.

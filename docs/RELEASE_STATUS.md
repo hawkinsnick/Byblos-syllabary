@@ -1,6 +1,14 @@
 # Scientific 1.0 assessment
 
-Current development snapshot: 0.8.0. Scientific 1.0 is **not released**.
+Current software snapshot: 1.0.0. Scientific 1.0 is **not released**.
+
+Software 1.0 stabilizes the dependency-free local workflow and current output
+formats. It does not promote catalogue assertions to verified archaeological facts.
+Breaking output-format changes will use new format identifiers. Additive fields
+and new export files can be introduced in minor software versions.
+
+`python -m byblos release-check` checks repository and export consistency.
+Regression tests remain a separate required check; neither replaces expert review.
 
 The complete available-work pipeline was exercised: structural validation,
 regression tests, deterministic export, checksum verification, lossless bundle
@@ -78,3 +86,6 @@ sequence rights or specialist-review gates. See USER_GUIDE.md.
 plus GitHub issue forms. This strengthens contributor collaboration while source
 permissions and specialist review remain deferred. No proposals, reviews or
 new historical assertions were admitted merely by implementing this workflow.
+
+0.9 adds exact citation tracing. Software 1.0 adds strict JSON ingestion, rejects
+export symlinks and detects stale version labels or exports from a different bundle.

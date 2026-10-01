@@ -5,6 +5,7 @@ import csv
 import hashlib
 import io
 import json
+from .jsonio import read_json
 from .core import audit, FILE_KEYS
 from .provenance import provenance_report
 from .workflow import review_packet
@@ -12,7 +13,7 @@ from .explorer import explorer_html
 from .contributions import proposal_template
 
 def json_text(value):
-    return json.dumps(value, ensure_ascii=False, sort_keys=True, indent=2) + "\n"
+    return json.dumps(value, ensure_ascii=False, sort_keys=True, indent=2, allow_nan=False) + "\n"
 
 def export_texts(bundle):
     report = audit(bundle)
@@ -108,7 +109,9 @@ def write_export(bundle, output):
 
 def verify_export(output):
     output = Path(output).resolve()
-    manifest = json.loads((output / "manifest.json").read_text(encoding="utf-8"))
+    if any(p.is_symlink() for p in output.rglob("*")):
+        raise ValueError("Symlinks are not permitted in export snapshots")
+    manifest = read_json(output / "manifest.json")
     if manifest.get("algorithm") != "sha256" or not isinstance(manifest.get("files"), dict):
         raise ValueError("Invalid manifest")
     expected = set(manifest["files"]) | {"manifest.json"}
@@ -128,7 +131,7 @@ def verify_export(output):
     if errors:
         raise ValueError("; ".join(errors))
     # Hashes alone could accompany invalid scientific assertions; audit embedded data.
-    bundle = json.loads((output / "bundle.json").read_text(encoding="utf-8"))
+    bundle = read_json(output / "bundle.json")
     regenerated = export_texts(bundle)
     if regenerated["manifest.json"] != (output / "manifest.json").read_text(encoding="utf-8"):
         raise ValueError("Manifest inconsistent with embedded bundle")

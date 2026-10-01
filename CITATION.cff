@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-message: "Cite this development snapshot and preserve all underlying source references. This is not a decipherment or an exhaustive corpus."
+message: "Cite this software and research catalogue snapshot and preserve all underlying source references. This is not a decipherment or an exhaustive corpus."
 type: dataset
 title: "Byblos syllabary: evidence-first research catalogue and tools"
 authors:
   - name: "hawkinsnick"
-version: "0.8.0"
+version: "1.0.0"
 date-released: "2026-10-01"
 url: "https://github.com/hawkinsnick/Byblos-syllabary"
 repository-code: "https://github.com/hawkinsnick/Byblos-syllabary"

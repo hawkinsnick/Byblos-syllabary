@@ -2,6 +2,8 @@
 import argparse
 import json
 from pathlib import Path
+from .release import release_check
+from .jsonio import read_json
 from .provenance import provenance_report
 from .core import audit, load_bundle, ROOT
 from .export import sequence_statistics, write_export, verify_export
@@ -13,6 +15,7 @@ def main():
     parser.add_argument("--root", default=str(ROOT), help="Corpus repository root")
     sub = parser.add_subparsers(dest="command", required=True)
     sub.add_parser("validate")
+    sub.add_parser("release-check", help="Check versions and committed export consistency")
     prov = sub.add_parser("provenance", help="Print citation usage and source dependencies")
     prov.add_argument("--source", help="Limit usage inventory to a registered source")
     sub.add_parser("review-packet", help="Print pending review tasks as JSON")
@@ -41,6 +44,10 @@ def main():
     stats.add_argument("--include-drafts", action="store_true")
     args = parser.parse_args()
     try:
+        if args.command == "release-check":
+            report = release_check(args.root)
+            print(json.dumps(report, indent=2, ensure_ascii=False))
+            return 0 if report["repository_consistent"] else 1
         if args.command == "verify-export":
             verify_export(args.directory)
             print("PASS: snapshot hashes and derived views agree")
@@ -50,7 +57,7 @@ def main():
                 path = Path(path)
                 if path.is_dir():
                     path = path / "bundle.json"
-                return json.loads(path.read_text(encoding="utf-8"))
+                return read_json(path)
             diff = compare_snapshots(read(args.before), read(args.after))
             print(json.dumps(diff, indent=2, ensure_ascii=False))
             return 3 if args.fail_on_change and diff["changes"] else 0
