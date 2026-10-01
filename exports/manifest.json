@@ -1,0 +1,25 @@
+{
+  "algorithm": "sha256",
+  "files": {
+    "REPORT.md": "afdf5c86a1505719875379866fdc6358d288dee009dc705a0d76a0a0c70b83e8",
+    "REUSE.md": "b6db64c74324c659827e2bdffbbbf43363385bb8c06faa9586eda408839cb3b8",
+    "audit.json": "f437b3cb66cfd5b89c3fdcba4e7c9efcaba43392ef1007872be9a7c0f1dc8997",
+    "bundle.json": "1a85b896d318f9442ff9167d108f921f2cc46a14da6296813033bf780fe53493",
+    "catalogue.csv": "cd83b5787a3f87c22b3d9d6831903084fbfd58401f58f1905c575fcf9c29df49",
+    "catalogue.jsonl": "338b7af8c4910574e02e566c75f37d69059b781e65933f63bbfa8bef75df760a"
+  },
+  "input_hash_format": "Canonical JSON: sorted keys, ensure_ascii=False, indent=2, trailing newline",
+  "inputs": {
+    "bibliography.json": "b67c6b5e11e786bcdae017e6c2be1a3686c3053d21762133468ed08dad4edc36",
+    "catalogue.json": "446ffb61f4933ecf78a8534d773506182ab3d5e4d5d4e439850c6fef7b5bc9f4",
+    "coverage.json": "26eca00bf8cb153c6f48ab6baf55ab77287dbdec5e2618d8bbcdf43eb29fabbf",
+    "external_crosswalk.json": "1c7d25c17ef244f2eb2520231a688e412bcf8e66dabb00e14a2341d50c74f57e",
+    "relations.json": "3b73c68fef54e7240b1aa239bfa3b474874537fdee36dc81b52a4835f71b330f",
+    "research_entities.json": "5b8da5777cd7ad095cce0094c1b07da4ea30090981319d87ea8cdb7d2d00b280",
+    "search_log.json": "554f0ccca3894560f29775b137e5b4b43e9e30f8301506dde0fb9edb17560082",
+    "sources.json": "f61db07139604d6cc8964e2008303c63e3356221c156c92df4a2b3b03571e88d",
+    "surfaces.json": "f83625794e82f24f90b2c6b28ba1e5f9e027d2186522c9d158eb8bc8e08cdfd3"
+  },
+  "scientific_1_0_ready": false,
+  "version": "0.5.0"
+}

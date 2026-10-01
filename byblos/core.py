@@ -148,6 +148,15 @@ def validate_bundle(bundle):
                 evidence(dc, where + ".date")
                 if not isinstance(dc.get("proposer"), str) or not dc["proposer"]:
                     fail(where, "date hypothesis lacks proposer")
+        for hypothesis in r.get("direction_claims", []):
+            evidence(hypothesis, where + ".direction")
+            if hypothesis.get("value") not in {"ltr", "rtl", "vertical", "unknown"} or not hypothesis.get("proposer"):
+                fail(where, "direction hypothesis lacks value/proposer")
+        if r.get("reported_museum_identifier") is not None:
+            museum = r["reported_museum_identifier"]
+            evidence(museum, where + ".museum")
+            if museum.get("verification") != "reported_only" or not museum.get("value") or not museum.get("institution"):
+                fail(where, "invalid reported museum identity")
         if r.get("review_status") == "reviewed" and not _approved(entities["reviews"], "records", r.get("id")):
             fail(where, "reviewed flag without independent approval")
     if len(labels) != len(set(labels)):
@@ -199,9 +208,9 @@ def validate_bundle(bundle):
         target = entry.get("proposed_project_record")
         if target is not None and target not in rec:
             fail(str(entry.get("id")), "unknown crosswalk target")
-        if entry.get("mapping_status") not in {"unresolved", "label_match_only", "verified"}:
+        if entry.get("mapping_status") not in {"unresolved", "label_match_only", "caption_match_only", "verified"}:
             fail(str(entry.get("id")), "invalid mapping status")
-        if entry.get("mapping_status") == "verified":
+        if entry.get("mapping_status") in {"caption_match_only", "verified"}:
             evidence(entry, str(entry.get("id")))
 
     for obj in entities["objects"]:

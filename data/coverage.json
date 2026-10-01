@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
+  "version": "0.5.0",
   "as_of": "2026-10-01",
   "scope": "Initial source inventory; no exhaustive coverage claim.",
   "count_claims": [
@@ -50,6 +50,14 @@
       "count": 43,
       "unit": "rendered_record_entries",
       "derivation": "Includes separate faces and variants; not an object or inscription total."
+    },
+    {
+      "id": "COUNT-AUB-9",
+      "source_id": "aub-mendenhall",
+      "locator": "publisher description, first sentence",
+      "count": 9,
+      "unit": "publisher_reported_discovered_texts",
+      "derivation": "Publisher synopsis, not an independently checked corpus inventory."
     }
   ],
   "gaps": [
@@ -137,6 +145,34 @@
         "ocbi-current"
       ],
       "task": "Prepare rights-supported sign sequences for each in-scope inscription with uncertainties and independent checks."
+    },
+    {
+      "id": "GAP-PROVIDER-LINK",
+      "status": "open",
+      "source_ids": [
+        "ocbi-source",
+        "ocbi-plate-z_b",
+        "ocbi-plate-z_c"
+      ],
+      "task": "Resolve b'c link to Kahun slide versus O-3c label on separate slide."
+    },
+    {
+      "id": "GAP-DIRECTION-M",
+      "status": "open",
+      "source_ids": [
+        "vita-zamora-2018",
+        "ocbi-source"
+      ],
+      "task": "Collate m: conditional left-to-right in survey, right-to-left in provider config."
+    },
+    {
+      "id": "GAP-UMM",
+      "status": "open",
+      "source_ids": [
+        "ocbi-plate-z_b",
+        "schwartz-cv"
+      ],
+      "task": "Examine Schwartz 2010 and 2021; establish O-3a/b/c identity and evaluate alphabetic alternatives."
     }
   ],
   "release_gates": {

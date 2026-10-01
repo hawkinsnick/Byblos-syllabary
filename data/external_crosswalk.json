@@ -9,7 +9,10 @@
       "provider_label": "a",
       "proposed_project_record": "BYB-A",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 1"
+      "locator": "record b/c fields, entry 1",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/a.jpg"
     },
     {
       "id": "OCBI-ENTRY-02",
@@ -17,7 +20,10 @@
       "provider_label": "b",
       "proposed_project_record": "BYB-B",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 2"
+      "locator": "record b/c fields, entry 2",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/b.jpg"
     },
     {
       "id": "OCBI-ENTRY-03",
@@ -25,7 +31,10 @@
       "provider_label": "c",
       "proposed_project_record": "BYB-C",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 3"
+      "locator": "record b/c fields, entry 3",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/c.jpg"
     },
     {
       "id": "OCBI-ENTRY-04",
@@ -33,7 +42,10 @@
       "provider_label": "d",
       "proposed_project_record": "BYB-D",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 4"
+      "locator": "record b/c fields, entry 4",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/d.jpg"
     },
     {
       "id": "OCBI-ENTRY-05",
@@ -41,7 +53,10 @@
       "provider_label": "e",
       "proposed_project_record": "BYB-E",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 5"
+      "locator": "record b/c fields, entry 5",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/e.jpg"
     },
     {
       "id": "OCBI-ENTRY-06",
@@ -49,7 +64,10 @@
       "provider_label": "f (face a = verso)",
       "proposed_project_record": "BYB-F",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 6"
+      "locator": "record b/c fields, entry 6",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/f.jpg"
     },
     {
       "id": "OCBI-ENTRY-07",
@@ -57,7 +75,10 @@
       "provider_label": "f (face b = recto)",
       "proposed_project_record": "BYB-F",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 7"
+      "locator": "record b/c fields, entry 7",
+      "provider_source": "BYBL",
+      "provider_direction": "LTR",
+      "provider_plate_path": "plates/byblos/f.jpg"
     },
     {
       "id": "OCBI-ENTRY-08",
@@ -65,7 +86,10 @@
       "provider_label": "g",
       "proposed_project_record": "BYB-G",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 8"
+      "locator": "record b/c fields, entry 8",
+      "provider_source": "BYBL",
+      "provider_direction": "TDR",
+      "provider_plate_path": "plates/byblos/g.jpg"
     },
     {
       "id": "OCBI-ENTRY-09",
@@ -73,7 +97,10 @@
       "provider_label": "h",
       "proposed_project_record": "BYB-H",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 9"
+      "locator": "record b/c fields, entry 9",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/h.jpg"
     },
     {
       "id": "OCBI-ENTRY-10",
@@ -81,7 +108,10 @@
       "provider_label": "i",
       "proposed_project_record": "BYB-I",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 10"
+      "locator": "record b/c fields, entry 10",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/i.jpg"
     },
     {
       "id": "OCBI-ENTRY-11",
@@ -89,7 +119,10 @@
       "provider_label": "j",
       "proposed_project_record": "BYB-J",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 11"
+      "locator": "record b/c fields, entry 11",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/j.jpg"
     },
     {
       "id": "OCBI-ENTRY-12",
@@ -97,7 +130,10 @@
       "provider_label": "k",
       "proposed_project_record": "BYB-K",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 12"
+      "locator": "record b/c fields, entry 12",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/k.jpg"
     },
     {
       "id": "OCBI-ENTRY-13",
@@ -105,7 +141,10 @@
       "provider_label": "l",
       "proposed_project_record": "BYB-L",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 13"
+      "locator": "record b/c fields, entry 13",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/l.jpg"
     },
     {
       "id": "OCBI-ENTRY-14",
@@ -113,7 +152,10 @@
       "provider_label": "m",
       "proposed_project_record": "BYB-M",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 14"
+      "locator": "record b/c fields, entry 14",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/m.jpg"
     },
     {
       "id": "OCBI-ENTRY-15",
@@ -121,231 +163,573 @@
       "provider_label": "n",
       "proposed_project_record": "BYB-N",
       "mapping_status": "label_match_only",
-      "locator": "record b/c fields, entry 15"
+      "locator": "record b/c fields, entry 15",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/n.jpg"
     },
     {
       "id": "OCBI-ENTRY-16",
       "provider_group": "BYBL",
       "provider_label": "o (recto)",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 16"
+      "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI3",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 16",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/o_recto.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-o_recto",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-17",
       "provider_group": "BYBL",
       "provider_label": "o (verso) Var. 1",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 17"
+      "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI3",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 17",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/o_verso.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-o_recto",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-18",
       "provider_group": "BYBL",
       "provider_label": "o (verso) Var. 2",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 18"
+      "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI3",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 18",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/o_verso.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-o_recto",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-19",
       "provider_group": "BYBL",
       "provider_label": "p",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 19"
+      "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI4",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 19",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/p.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-p",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-20",
       "provider_group": "BYBL",
       "provider_label": "q",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 20"
+      "proposed_project_record": "BYB-CAND-MEGIDDO-RING",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 20",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/q.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-q",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-21",
       "provider_group": "BYBL",
       "provider_label": "ra",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 21"
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 21",
+      "provider_source": "BYBL",
+      "provider_direction": "TDR",
+      "provider_plate_path": "plates/byblos/r.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-r",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-22",
       "provider_group": "BYBL",
       "provider_label": "rb (Var. 1)",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 22"
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 22",
+      "provider_source": "BYBL",
+      "provider_direction": "TDR",
+      "provider_plate_path": "plates/byblos/r.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-r",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-23",
       "provider_group": "BYBL",
       "provider_label": "rb (Var. 2)",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 23"
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 23",
+      "provider_source": "BYBL",
+      "provider_direction": "TDR",
+      "provider_plate_path": "plates/byblos/r.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-r",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-24",
       "provider_group": "BYBL",
       "provider_label": "rb (Var. 3)",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 24"
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 24",
+      "provider_source": "BYBL",
+      "provider_direction": "TDR",
+      "provider_plate_path": "plates/byblos/r.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-r",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-25",
       "provider_group": "BYBL",
       "provider_label": "rc (Var. 1)",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 25"
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 25",
+      "provider_source": "BYBL",
+      "provider_direction": "TDR",
+      "provider_plate_path": "plates/byblos/r.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-r",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-26",
       "provider_group": "BYBL",
       "provider_label": "rc (Var. 2) ",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 26"
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 26",
+      "provider_source": "BYBL",
+      "provider_direction": "TDR",
+      "provider_plate_path": "plates/byblos/r.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-r",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-27",
       "provider_group": "BYBL",
       "provider_label": "rc (Var. 3)",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 27"
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 27",
+      "provider_source": "BYBL",
+      "provider_direction": "TDR",
+      "provider_plate_path": "plates/byblos/r.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-r",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-28",
       "provider_group": "BYBL",
       "provider_label": "rd",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 28"
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 28",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/r.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-r",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-29",
       "provider_group": "BYBL",
       "provider_label": "s",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 29"
+      "proposed_project_record": "BYB-CAND-RIETI",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 29",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/s.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-s",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-30",
       "provider_group": "BYBL?",
       "provider_label": "t",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 30"
+      "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI1",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 30",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/t.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-t",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-31",
       "provider_group": "BYBL?",
       "provider_label": "u",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 31"
+      "proposed_project_record": "BYB-CAND-LINEAR-STELA",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 31",
+      "provider_source": "BYBL",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/u.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-u",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-32",
       "provider_group": "BYBL?",
       "provider_label": "v",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 32"
+      "proposed_project_record": "BYB-CAND-TEL-HALIF",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 32",
+      "provider_source": "BYBL?",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/v.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-v",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-33",
       "provider_group": "BYBL?",
       "provider_label": "w",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 33"
+      "proposed_project_record": "BYB-CAND-TELL-JISR",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 33",
+      "provider_source": "BYBL?",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/w.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-w",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-34",
       "provider_group": "BYBL?",
       "provider_label": "x",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 34"
+      "proposed_project_record": "BYB-CAND-ULUBURUN",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 34",
+      "provider_source": "BYBL?",
+      "provider_direction": "TDR",
+      "provider_plate_path": "plates/byblos/x.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-x",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-35",
       "provider_group": "BYBL?",
       "provider_label": "y",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 35"
+      "proposed_project_record": "BYB-CAND-TRIESTE",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 35",
+      "provider_source": "BYBL?",
+      "provider_direction": "TDR",
+      "provider_plate_path": "plates/byblos/y.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-y",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-36",
       "provider_group": "BYBL?",
       "provider_label": "z",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 36"
+      "proposed_project_record": "BYB-CAND-STONE-SEAL-2010",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 36",
+      "provider_source": "BYBL?",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/z.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-37",
       "provider_group": "BYBL?",
       "provider_label": "a' (Var. 1)",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 37"
+      "proposed_project_record": "BYB-CAND-BALUA",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 37",
+      "provider_source": "BYBL?",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/z_a.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z_a",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-38",
       "provider_group": "BYBL?",
       "provider_label": "a' (Var. 2)",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 38"
+      "proposed_project_record": "BYB-CAND-BALUA",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 38",
+      "provider_source": "BYBL?",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/z_a.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z_a",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-39",
       "provider_group": "BYBL?",
       "provider_label": "b'a",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 39"
+      "proposed_project_record": "BYB-CAND-UMM-O3A",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 39",
+      "provider_source": "BYBL?",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/z_b.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z_b",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-40",
       "provider_group": "BYBL?",
       "provider_label": "b'b",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 40"
+      "proposed_project_record": "BYB-CAND-UMM-O3B",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 40",
+      "provider_source": "BYBL?",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/z_b.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z_b",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-41",
       "provider_group": "BYBL?",
       "provider_label": "b'c",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 41"
+      "proposed_project_record": "BYB-CAND-UMM-O3C",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 41",
+      "provider_source": "BYBL?",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/z_c.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z_b",
+          "locator": "O-3c labelled example",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ],
+      "mapping_note": "Provider source points b'c to z_c.jpg, whose caption describes Kahun. z_b.jpg labels an O-3c example. Proposed identity follows O-3c slide; conflicting source link remains unresolved."
     },
     {
       "id": "OCBI-ENTRY-42",
       "provider_group": "BYBL?",
       "provider_label": "c'",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 42"
+      "proposed_project_record": "BYB-CAND-KAHUN",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 42",
+      "provider_source": "BYBL?",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/z_c.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z_c",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     },
     {
       "id": "OCBI-ENTRY-43",
       "provider_group": "BYBL?",
       "provider_label": "d'",
-      "proposed_project_record": null,
-      "mapping_status": "unresolved",
-      "locator": "record b/c fields, entry 43"
+      "proposed_project_record": "BYB-CAND-DEIR-RIFA",
+      "mapping_status": "caption_match_only",
+      "locator": "record b/c fields, entry 43",
+      "provider_source": "BYBL?",
+      "provider_direction": "RTL",
+      "provider_plate_path": "plates/byblos/z_d.jpg",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z_d",
+          "locator": "slide caption and matching artifact description",
+          "fields": [
+            "proposed_project_record"
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "metadata_source_id": "ocbi-source",
+  "metadata_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
 }

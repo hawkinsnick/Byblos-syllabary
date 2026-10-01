@@ -29,3 +29,7 @@ own rights. A public GitHub repository is not proof of permission.
 OCBI sequence redistribution and encoding-map reuse: unresolved.
 Primary edition images and plates: unresolved.
 No permission request has been sent, and no grant is claimed.
+
+Elamicon repository legalese has been inspected: its permissive licence is
+promised but unspecified (source ocbi-repository). No sequence permission is
+inferred. Explanatory slides remain source links and metadata references only.

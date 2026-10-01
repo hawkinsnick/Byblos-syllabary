@@ -465,6 +465,38 @@
         "Record surfaces and direction from evidence.",
         "Transcribe with source and uncertainty.",
         "Obtain independent review."
+      ],
+      "direction_claims": [
+        {
+          "value": "ltr",
+          "qualifier": "conditional on comparison of sign orientation",
+          "proposer": "Vita and Zamora",
+          "evidence": [
+            {
+              "source_id": "vita-zamora-2018",
+              "locator": "pp. 81–82, stela m",
+              "fields": [
+                "value",
+                "qualifier"
+              ]
+            }
+          ]
+        },
+        {
+          "value": "rtl",
+          "qualifier": "provider display direction",
+          "proposer": "GEAS / OCBI",
+          "evidence": [
+            {
+              "source_id": "ocbi-source",
+              "locator": "fragments, record id = \"m\", dir = RTL",
+              "fields": [
+                "value",
+                "qualifier"
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -958,6 +990,389 @@
         "Verify physical identity and provenance.",
         "Assess any sign sequences and redistribution rights."
       ]
+    },
+    {
+      "id": "BYB-CAND-RIETI",
+      "edition_label": null,
+      "display_name": "Rieti votive object",
+      "material": "terracotta",
+      "object_type": "votive_object",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-s",
+          "locator": "caption and labelled example",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "material"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine cited primary publication.",
+        "Assess writing and script attribution.",
+        "Confirm identity, provenance and duplicates.",
+        "Record counterarguments."
+      ]
+    },
+    {
+      "id": "BYB-CAND-TEL-HALIF",
+      "edition_label": null,
+      "display_name": "Tel Halif jar handle",
+      "material": "clay",
+      "object_type": "jar_handle",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-v",
+          "locator": "caption and labelled example",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "material"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine cited primary publication.",
+        "Assess writing and script attribution.",
+        "Confirm identity, provenance and duplicates.",
+        "Record counterarguments."
+      ]
+    },
+    {
+      "id": "BYB-CAND-TELL-JISR",
+      "edition_label": null,
+      "display_name": "Tell Jisr sherd",
+      "material": "clay",
+      "object_type": "sherd",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-w",
+          "locator": "caption and labelled example",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "material"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine cited primary publication.",
+        "Assess writing and script attribution.",
+        "Confirm identity, provenance and duplicates.",
+        "Record counterarguments."
+      ]
+    },
+    {
+      "id": "BYB-CAND-ULUBURUN",
+      "edition_label": null,
+      "display_name": "Uluburun writing-board marks",
+      "material": "wood",
+      "object_type": "writing_board",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-x",
+          "locator": "caption and labelled example",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "material"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine cited primary publication.",
+        "Assess writing and script attribution.",
+        "Confirm identity, provenance and duplicates.",
+        "Record counterarguments."
+      ]
+    },
+    {
+      "id": "BYB-CAND-STONE-SEAL-2010",
+      "edition_label": null,
+      "display_name": "Stone seal discussed by Colless",
+      "material": null,
+      "object_type": "seal",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z",
+          "locator": "caption and labelled example",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine cited primary publication.",
+        "Assess writing and script attribution.",
+        "Confirm identity, provenance and duplicates.",
+        "Record counterarguments."
+      ]
+    },
+    {
+      "id": "BYB-CAND-BALUA",
+      "edition_label": null,
+      "display_name": "Balu'a stele",
+      "material": "basalt",
+      "object_type": "stele",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z_a",
+          "locator": "caption and labelled example",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "material"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine cited primary publication.",
+        "Assess writing and script attribution.",
+        "Confirm identity, provenance and duplicates.",
+        "Record counterarguments."
+      ]
+    },
+    {
+      "id": "BYB-CAND-UMM-O3A",
+      "edition_label": null,
+      "display_name": "Schwartz O-3a example",
+      "material": null,
+      "object_type": "inscribed_object",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z_b",
+          "locator": "caption and labelled example",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine cited primary publication.",
+        "Assess writing and script attribution.",
+        "Confirm identity, provenance and duplicates.",
+        "Record counterarguments."
+      ]
+    },
+    {
+      "id": "BYB-CAND-UMM-O3B",
+      "edition_label": null,
+      "display_name": "Schwartz O-3b example",
+      "material": null,
+      "object_type": "inscribed_object",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z_b",
+          "locator": "caption and labelled example",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine cited primary publication.",
+        "Assess writing and script attribution.",
+        "Confirm identity, provenance and duplicates.",
+        "Record counterarguments."
+      ]
+    },
+    {
+      "id": "BYB-CAND-UMM-O3C",
+      "edition_label": null,
+      "display_name": "Schwartz O-3c example",
+      "material": null,
+      "object_type": "inscribed_object",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z_b",
+          "locator": "caption and labelled example",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine cited primary publication.",
+        "Assess writing and script attribution.",
+        "Confirm identity, provenance and duplicates.",
+        "Record counterarguments."
+      ]
+    },
+    {
+      "id": "BYB-CAND-KAHUN",
+      "edition_label": null,
+      "display_name": "Kahun object with proposed writing",
+      "material": null,
+      "object_type": "inscribed_object",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z_c",
+          "locator": "caption and labelled example",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine cited primary publication.",
+        "Assess writing and script attribution.",
+        "Confirm identity, provenance and duplicates.",
+        "Record counterarguments."
+      ]
+    },
+    {
+      "id": "BYB-CAND-DEIR-RIFA",
+      "edition_label": null,
+      "display_name": "Deir Rifa seal-amulet",
+      "material": null,
+      "object_type": "seal_amulet",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "ocbi-plate-z_d",
+          "locator": "caption and labelled example",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "open_tasks": [
+        "Examine cited primary publication.",
+        "Assess writing and script attribution.",
+        "Confirm identity, provenance and duplicates.",
+        "Record counterarguments."
+      ],
+      "reported_museum_identifier": {
+        "value": "UC 51354",
+        "institution": "Petrie Museum",
+        "verification": "reported_only",
+        "evidence": [
+          {
+            "source_id": "colless-deir-rifa",
+            "locator": "opening paragraph",
+            "fields": [
+              "value",
+              "institution"
+            ]
+          }
+        ]
+      }
     }
   ]
 }

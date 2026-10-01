@@ -25,3 +25,14 @@ Implemented evidence and entity validation for future objects, signs, editions,
 rights-supported transcriptions and independent reviews. Structural consistency
 and scientific readiness are separate outputs. Sign and sequence inventories
 remain empty; this is infrastructure progress, not completed epigraphy.
+
+## 0.5.0 — 2026-10-01
+
+Added deterministic JSON/JSONL/CSV exports, attribution-preserving reports,
+SHA-256 manifests, export verification and boundary-sensitive sequence analysis.
+Scientific 1.0 audit intentionally fails on unmet evidence gates. No fabricated
+sign sequences, independent reviews or permissions.
+
+Additional 0.5 research: 16 provider slides inspected, 11 disputed candidates added,
+all 43 external entry labels provisionally mapped, m direction and b'c link
+conflicts retained, and unspecified provider dataset licensing documented.

@@ -150,6 +150,56 @@
       "discovery_source": "mnamon-bibliography",
       "discovery_locator": "entry 15",
       "primary_text_examined": "selected_sections"
+    },
+    {
+      "id": "schwartz-2010",
+      "authors": "Schwartz",
+      "year": 2010,
+      "short_title": "Early Non-Cuneiform Writing?",
+      "publication_locator": "Opening the Tablet Box, pp. 375–395",
+      "discovery_source": "schwartz-cv",
+      "discovery_locator": "CV p. 6",
+      "primary_text_examined": false
+    },
+    {
+      "id": "schwartz-2021",
+      "authors": "Schwartz",
+      "year": 2021,
+      "short_title": "Non-Cuneiform Writing at Umm el-Marra",
+      "publication_locator": "Pasiphae 13:255–266",
+      "discovery_source": "schwartz-cv",
+      "discovery_locator": "CV p. 4",
+      "primary_text_examined": false
+    },
+    {
+      "id": "sobelman-1961",
+      "authors": "Sobelman",
+      "year": 1961,
+      "short_title": "The Proto-byblian Inscriptions: A Fresh Approach",
+      "publication_locator": "JSS 6:226–245",
+      "discovery_source": "izreel-1988",
+      "discovery_locator": "p. 521, bibliography",
+      "primary_text_examined": false
+    },
+    {
+      "id": "hamilton-2009",
+      "authors": "Hamilton",
+      "year": 2009,
+      "short_title": "A proposal to read a seal-amulet from Deir Rifa",
+      "publication_locator": "JSS 54:51–79",
+      "discovery_source": "colless-deir-rifa",
+      "discovery_locator": "opening bibliography",
+      "primary_text_examined": false
+    },
+    {
+      "id": "garbini-2004",
+      "authors": "Garbini; Luiselli; Devoto",
+      "year": 2004,
+      "short_title": "Sigillo di età amarniana da Biblo con iscrizione",
+      "publication_locator": "Rendiconti Lincei 15:377–390",
+      "discovery_source": "schmutz-maeder-2024",
+      "discovery_locator": "bibliography p. 10",
+      "primary_text_examined": false
     }
   ]
 }

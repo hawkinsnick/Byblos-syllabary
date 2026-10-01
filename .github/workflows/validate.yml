@@ -1,0 +1,27 @@
+name: Validate corpus and reproducible export
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m byblos validate
+      - run: python -m unittest discover -s tests
+      - run: python -m byblos export --output ci-snapshot
+      - run: python -m byblos verify-export ci-snapshot
+      - name: Check committed export is reproducible
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from byblos.core import load_bundle
+          from byblos.export import export_texts
+          for name, content in export_texts(load_bundle()).items():
+              assert Path("exports", name).read_text(encoding="utf-8") == content, name
+          PY

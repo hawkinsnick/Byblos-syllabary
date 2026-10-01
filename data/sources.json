@@ -218,6 +218,394 @@
         "license": "CC-BY-SA-3.0",
         "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed."
       }
+    },
+    {
+      "id": "ocbi-repository",
+      "citation": "Elamicon project, README legalese and encoding notes.",
+      "url": "https://github.com/elamicon/elamicon/blob/69b4cc2822493146045cb9969586bf5bd9195380/README.md",
+      "doi": null,
+      "type": "provider_documentation",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Permissive licence promised, not specified. Font rights are separate. Private Use Area is used.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      }
+    },
+    {
+      "id": "ocbi-source",
+      "citation": "Elamicon / GEAS, src/Scripts/Byblos.elm.",
+      "url": "https://github.com/elamicon/elamicon/blob/69b4cc2822493146045cb9969586bf5bd9195380/src/Scripts/Byblos.elm",
+      "doi": null,
+      "type": "digital_corpus",
+      "consultation": "metadata_only",
+      "accessed": "2026-10-01",
+      "notes": "Blob 3c3224f32596b493fd5bb634fff3b8000e591b14. Labels, plate links, directions and source grouping inspected. No sequences, font data or application code reused.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      }
+    },
+    {
+      "id": "schwartz-cv",
+      "citation": "G. M. Schwartz, institutional CV (2025), bibliography.",
+      "url": "https://krieger.jhu.edu/near-east/wp-content/uploads/sites/73/2016/03/SCHWARTZ-CV-2025.ACC_.pdf",
+      "doi": null,
+      "type": "author_bibliography",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Confirms 2010 and 2021 publication leads; does not establish Byblos membership.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      }
+    },
+    {
+      "id": "colless-deir-rifa",
+      "citation": "B. E. Colless (2011), Amulet from Deir Rifa, Cryptcracker.",
+      "url": "https://cryptcracker.blogspot.com/2011/09/from-deir-rifa-gordon-hamilton-has.html",
+      "doi": null,
+      "type": "interpretation_proposal",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Reports Petrie Museum UC 51354; museum identity not independently verified.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      }
+    },
+    {
+      "id": "aub-mendenhall",
+      "citation": "AUB Press, The Syllabic Inscriptions from Byblos (publisher description).",
+      "url": "https://www.aub.edu.lb/aubpress/pages/thesyllabic.aspx",
+      "doi": null,
+      "type": "publisher_catalogue",
+      "consultation": "consulted_online",
+      "accessed": "2026-10-01",
+      "notes": "Publisher synopsis is not independent validation of decipherment claims.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      }
+    },
+    {
+      "id": "keibi-schwartz",
+      "citation": "KeiBi online, Schwartz 2010, KEI00104326.",
+      "url": "https://vergil.uni-tuebingen.de/keibi/Record/KEI00104326/Description",
+      "doi": null,
+      "type": "library_catalogue",
+      "consultation": "consulted_online",
+      "accessed": "2026-10-01",
+      "notes": "Bibliographic metadata only.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      }
+    },
+    {
+      "id": "ocbi-plate-o_recto",
+      "citation": "GEAS / OCBI, explanatory slide o_recto.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/o_recto.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "71d065c55a329ec0c1315455ef1017d4ca5c639ecb3309fb4e0df50398f759c8",
+        "repository_blob_sha": "c2c783a9ffd249cf1aac8c682c01a61d82df1a20",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-p",
+      "citation": "GEAS / OCBI, explanatory slide p.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/p.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "4beb1328f6a9c2506788a879920a3eac07c5734c8f568fddfbc8c646e290e670",
+        "repository_blob_sha": "865c9b2172fc7303b3546e063408c3544fcf3883",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-q",
+      "citation": "GEAS / OCBI, explanatory slide q.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/q.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "65ceb6816342a9b2966347070b619911f4dada12d2f0f5fe7aae1e2e14ca4dc8",
+        "repository_blob_sha": "2ccc58dbcd05875b31f53a17bcc98d8d45945c2e",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-r",
+      "citation": "GEAS / OCBI, explanatory slide r.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/r.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "368d48b733d7b10e53073d2c94dfaab3695bd238f3bdf86b14f8f035a50bdb81",
+        "repository_blob_sha": "8c836709324d129cfc9d4638c3b07a230c5498dc",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-s",
+      "citation": "GEAS / OCBI, explanatory slide s.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/s.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "399fd3c062f3724f733775965046f00269facbec5575bbed41b4dd85d56f4f70",
+        "repository_blob_sha": "fd1932d9865d28959e6f77786183add45f12eeba",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-t",
+      "citation": "GEAS / OCBI, explanatory slide t.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/t.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "9b7cc25fdef24574bce9d47967d320ba117b97e9376a35489baa5eb86adc2fa5",
+        "repository_blob_sha": "fc0e77cf7b5c113221a475c9f6c5c0d0442876d0",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-u",
+      "citation": "GEAS / OCBI, explanatory slide u.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/u.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "5fe993252948f6b1733d4254b34650c34026f73422d91e02e1585b53e4c1ff83",
+        "repository_blob_sha": "96c9353700f670b5e4578bf77c5e37c35332f2ac",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-v",
+      "citation": "GEAS / OCBI, explanatory slide v.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/v.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "7b88ee26991b350a4b43fd08ce411f9e578cf341fb15c0dc376e3056cf1f2013",
+        "repository_blob_sha": "926855483963e25abc5f62c3cc35f7af938101d9",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-w",
+      "citation": "GEAS / OCBI, explanatory slide w.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/w.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "f2bfb521ea245e21caeacc13fc09fb367a071baeb9280a12c375ff4a0a04d537",
+        "repository_blob_sha": "6df7dceba20644ac11efd6657c40592e1b6d61fa",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-x",
+      "citation": "GEAS / OCBI, explanatory slide x.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/x.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "0d0b5e9f1156514727f3e46863b35eec850d83679f047696de3abbfd2f5d93aa",
+        "repository_blob_sha": "6a3bde57df0d5353b9141512f7a2ff1e22615255",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-y",
+      "citation": "GEAS / OCBI, explanatory slide y.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/y.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "feb44ef39555089b425ad5e495c92b46f14f2d385a61041b0243742f6fb3cd48",
+        "repository_blob_sha": "3568d8fb8aa2646b319a456f49f519667db2300a",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-z",
+      "citation": "GEAS / OCBI, explanatory slide z.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "62c945570f1948b7211f6c7fead5dc88ff1e9cea2160244664eea0f7c36d9163",
+        "repository_blob_sha": "7107c5e21499f939e67548c34cdd94c0a63c56c4",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-z_a",
+      "citation": "GEAS / OCBI, explanatory slide z_a.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z_a.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "6d1c83de7493bd7dec885ffa11b7d600479e3cb867caa15c8b15c046c670edea",
+        "repository_blob_sha": "0d057caa75523dea514c8ea0b8eb69ccad615cf9",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-z_b",
+      "citation": "GEAS / OCBI, explanatory slide z_b.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z_b.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "a3f1d2f8127f588783d028e3e86393d9782862f055430405dbabc4f4e757c2f0",
+        "repository_blob_sha": "5007f9b32fa5c8e565fb356fc0b131ee1352e92e",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-z_c",
+      "citation": "GEAS / OCBI, explanatory slide z_c.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z_c.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "d3f6e1a281b15a2bd957bc603d8d7e0d7c33765150f6f6a6fb0e252525ace34f",
+        "repository_blob_sha": "00e79941943ee0d371675ae51081165acc48dbf5",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
+    },
+    {
+      "id": "ocbi-plate-z_d",
+      "citation": "GEAS / OCBI, explanatory slide z_d.",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z_d.jpg",
+      "doi": null,
+      "type": "provider_slide",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-01",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "status": "not_assessed",
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."
+      },
+      "snapshot": {
+        "retrieved_sha256": "4ce1d8ab48e62b5623f3a29c0a78d0290b3a37bbfa6fb388bd5e72ff36e14049",
+        "repository_blob_sha": "fa68dcaf5cf9c4f78551603bc3b4d2b9fbe87a9f",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380"
+      }
     }
   ]
 }

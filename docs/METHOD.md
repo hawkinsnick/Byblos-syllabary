@@ -52,3 +52,14 @@ external datasets it describes.
 Reuse a common envelope for stable IDs, provenance, versioning, uncertainty,
 rights and release gates. Keep Byblos sign identities and linguistic hypotheses
 local. Inspect sibling schemas before declaring interoperable exports.
+
+## Prerelease implementation status
+
+Versions 0.2–0.5 denote tested development snapshots, not closure of the scientific
+milestones above. Source discovery, candidate cataloguing, validation and exports
+can progress while source access, epigraphy, rights and independent review remain
+open. The latest audit is the authority for release readiness.
+
+Do not relabel an infrastructure snapshot as a scientifically complete 1.0.
+The pipeline must return exit status 2 for an attempted scientific 1.0 check until
+its evidence gates pass. A blocked audit is an intended result, not a broken test.
