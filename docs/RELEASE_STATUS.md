@@ -1,6 +1,6 @@
 # Scientific 1.0 assessment
 
-Current software snapshot: 1.0.0. Scientific 1.0 is **not released**.
+Current software snapshot: 1.1.0. Scientific 1.0 is **not released**.
 
 Software 1.0 stabilizes the dependency-free local workflow and current output
 formats. It does not promote catalogue assertions to verified archaeological facts.
@@ -89,3 +89,6 @@ new historical assertions were admitted merely by implementing this workflow.
 
 0.9 adds exact citation tracing. Software 1.0 adds strict JSON ingestion, rejects
 export symlinks and detects stale version labels or exports from a different bundle.
+
+Software 1.1 adds field attribution and acquisition work inventories. These make
+evidence dependencies easier to inspect without granting scientific approval.

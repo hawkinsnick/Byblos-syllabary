@@ -101,3 +101,10 @@ The first checks version labels, source references and exported data against thi
 checkout; the second exercises regression cases. Scientific readiness uses the
 separate `python -m byblos audit --require-1-0` command, currently exit 2.
 Ambiguous duplicate-key JSON, nonfinite numbers and symlinked export files fail.
+
+## See what remains unknown
+
+Open `exports/evidence_ledger.json` for field-by-field attribution and unknowns.
+`exports/acquisition_queue.json` organizes source inspection tasks by the number
+of catalogue records directly linked to each source. Bibliography leads may
+overlap the source tasks. Read [the limits](EVIDENCE_LEDGER.md) before using counts.

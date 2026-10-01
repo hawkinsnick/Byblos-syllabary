@@ -193,8 +193,8 @@
     "surface_inventory": false
   },
   "interpretation": "Passing software checks validates recorded structure, not archaeological truth, licence validity or completeness.",
-  "review_evidence_sha256": "86e80037bcb217494907e871ac8ddca7d35e96d2ed42c88239a302aeae8dc073",
+  "review_evidence_sha256": "e45c461a4b6134c387b0af833a9bc82c8fede36db62015ed1d7e91aabb8a58a3",
   "scientific_1_0_ready": false,
   "structure_valid": true,
-  "version": "1.0.0"
+  "version": "1.1.0"
 }

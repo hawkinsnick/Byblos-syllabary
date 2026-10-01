@@ -1,0 +1,535 @@
+{
+  "evidence_sha256": "e45c461a4b6134c387b0af833a9bc82c8fede36db62015ed1d7e91aabb8a58a3",
+  "format": "byblos-acquisition-queue-v1",
+  "interpretation": "Ordering uses direct catalogue citation/lead linkage counts, then source ID. Counts are workload reach, not scientific importance or independent corroboration. Sources consulted only in selected sections may still require more inspection; absence from this queue does not mean fully collated. Bibliography and source tasks may overlap. No acquisition, permission request or expert approval is performed by generating this queue.",
+  "source_tasks": [
+    {
+      "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+      "consultation": "not_consulted",
+      "linked_record_count": 10,
+      "linked_record_ids": [
+        "BYB-A",
+        "BYB-B",
+        "BYB-C",
+        "BYB-D",
+        "BYB-E",
+        "BYB-F",
+        "BYB-G",
+        "BYB-H",
+        "BYB-I",
+        "BYB-J"
+      ],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "dunand-1945",
+      "source_usage_paths": [
+        "/catalogue/records/0/primary_edition_lead",
+        "/catalogue/records/1/primary_edition_lead",
+        "/catalogue/records/2/primary_edition_lead",
+        "/catalogue/records/3/primary_edition_lead",
+        "/catalogue/records/4/primary_edition_lead",
+        "/catalogue/records/5/primary_edition_lead",
+        "/catalogue/records/6/primary_edition_lead",
+        "/catalogue/records/7/primary_edition_lead",
+        "/catalogue/records/8/primary_edition_lead",
+        "/catalogue/records/9/primary_edition_lead",
+        "/coverage/gaps/3/source_ids/0",
+        "/coverage/gaps/7/source_ids/1",
+        "/coverage/gaps/8/source_ids/0",
+        "/coverage/gaps/9/source_ids/0"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
+      "citation": "M. Dunand, Nouvelles inscriptions pseudo-hiéroglyphiques découvertes à Byblos. Bulletin du Musée de Beyrouth 30 (nominal 1978). Pagination and actual publication year disputed in secondary metadata.",
+      "consultation": "not_consulted",
+      "linked_record_count": 4,
+      "linked_record_ids": [
+        "BYB-K",
+        "BYB-L",
+        "BYB-M",
+        "BYB-N"
+      ],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "dunand-1978",
+      "source_usage_paths": [
+        "/catalogue/records/10/primary_edition_lead",
+        "/catalogue/records/11/primary_edition_lead",
+        "/catalogue/records/12/primary_edition_lead",
+        "/catalogue/records/13/primary_edition_lead",
+        "/coverage/gaps/3/source_ids/1",
+        "/coverage/gaps/7/source_ids/2",
+        "/coverage/gaps/9/source_ids/1"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
+      "citation": "Glenn M. Schwartz, author-hosted abstract of Non-cuneiform writing at third-millennium Umm el-Marra, Syria.",
+      "consultation": "abstract_only",
+      "linked_record_count": 3,
+      "linked_record_ids": [
+        "BYB-CAND-UMM-O3A",
+        "BYB-CAND-UMM-O3B",
+        "BYB-CAND-UMM-O3C"
+      ],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "schwartz-author-abstract",
+      "source_usage_paths": [
+        "/catalogue/records/33/evidence/1/source_id",
+        "/catalogue/records/34/evidence/1/source_id",
+        "/catalogue/records/35/evidence/1/source_id",
+        "/coverage/count_claims/8/source_id",
+        "/coverage/gaps/12/source_ids/3"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
+      "citation": "Elamicon / GEAS, src/Scripts/Byblos.elm.",
+      "consultation": "metadata_only",
+      "linked_record_count": 1,
+      "linked_record_ids": [
+        "BYB-M"
+      ],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "ocbi-source",
+      "source_usage_paths": [
+        "/catalogue/records/12/direction_claims/1/evidence/0/source_id",
+        "/coverage/gaps/10/evidence/0/source_id",
+        "/coverage/gaps/10/source_ids/0",
+        "/coverage/gaps/11/source_ids/1",
+        "/external_crosswalk/metadata_source_id",
+        "/search_log/access_attempts/3/source_id"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
+      "citation": "Internet Archive catalogue, Byblia grammata, bybliagrammatado0000duna.",
+      "consultation": "metadata_only",
+      "linked_record_count": 0,
+      "linked_record_ids": [],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "archive-dunand",
+      "source_usage_paths": [
+        "/search_log/access_attempts/1/source_id"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
+      "citation": "Hans van Deukeren, stylized redraw of spatula e, Wikimedia Commons.",
+      "consultation": "metadata_only",
+      "linked_record_count": 0,
+      "linked_record_ids": [],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "commons-e",
+      "source_usage_paths": [],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
+      "citation": "Ben Haring (2023), Hieroglyphs, Pseudo-Scripts and Alphabets: Their Use and Reception in Ancient Egypt and Neighbouring Regions. Cambridge University Press.",
+      "consultation": "metadata_only",
+      "linked_record_count": 0,
+      "linked_record_ids": [],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "haring-2023",
+      "source_usage_paths": [
+        "/bibliography/entries/22/discovery_source"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
+      "citation": "Michael Mäder (2022), Detecting word boundaries in an undeciphered script: The Byblos syllabary. BAF-Online 4(1), proceedings of the 2019 forum.",
+      "consultation": "abstract_only",
+      "linked_record_count": 0,
+      "linked_record_ids": [],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "maeder-baf",
+      "source_usage_paths": [
+        "/coverage/count_claims/1/source_id",
+        "/coverage/count_claims/2/source_id",
+        "/coverage/gaps/0/source_ids/1",
+        "/coverage/gaps/1/source_ids/0",
+        "/coverage/gaps/2/source_ids/0"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
+      "citation": "GEAS / Byblicon, Online Corpus of Byblos Inscriptions (OCBI), live compiled application.",
+      "consultation": "metadata_only",
+      "linked_record_count": 0,
+      "linked_record_ids": [],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "ocbi-current",
+      "source_usage_paths": [
+        "/coverage/count_claims/3/source_id",
+        "/coverage/count_claims/4/source_id",
+        "/coverage/count_claims/5/source_id",
+        "/coverage/gaps/6/source_ids/0",
+        "/coverage/gaps/7/source_ids/0",
+        "/coverage/gaps/9/source_ids/2",
+        "/external_crosswalk/source_id",
+        "/search_log/access_attempts/2/source_id"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
+      "citation": "Open Library, Byblia grammata, edition OL6188790M, catalogue record.",
+      "consultation": "metadata_only",
+      "linked_record_count": 0,
+      "linked_record_ids": [],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "openlibrary-dunand",
+      "source_usage_paths": [
+        "/sources/sources/2/bibliographic_claims/1/source_id"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
+      "citation": "Glenn M. Schwartz (2021), Non-cuneiform writing at third-millennium Umm el-Marra, Syria: evidence of an early alphabetic tradition?, Pasiphae XV:255–266 (publisher metadata).",
+      "consultation": "metadata_only",
+      "linked_record_count": 0,
+      "linked_record_ids": [],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "schwartz-2021-publisher",
+      "source_usage_paths": [
+        "/bibliography/entries/16/bibliographic_evidence/0/source_id",
+        "/coverage/gaps/12/source_ids/2",
+        "/search_log/access_attempts/4/source_id"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    },
+    {
+      "citation": "Harvey Sobelman (1961), The Proto-Byblian Inscriptions: A Fresh Approach, JSS 6(2):226–245.",
+      "consultation": "metadata_only",
+      "linked_record_count": 0,
+      "linked_record_ids": [],
+      "required_outputs": [
+        "Record lawful access and exact edition/version.",
+        "Record inspected pages/plates and precise field-level citations.",
+        "Assess separate reuse terms before importing images or sequences."
+      ],
+      "source_id": "sobelman-publisher",
+      "source_usage_paths": [
+        "/bibliography/entries/17/bibliographic_evidence/0/source_id",
+        "/search_log/access_attempts/6/source_id"
+      ],
+      "status": "pending_acquisition_or_inspection"
+    }
+  ],
+  "unexamined_bibliography_leads": [
+    {
+      "authors": "Best; Rietveld",
+      "discovery_locator": "entry 14",
+      "discovery_source": "mnamon-bibliography",
+      "id": "best-rietveld-2010",
+      "primary_text_examined": false,
+      "publication_locator": "Ugarit-Forschungen 42",
+      "short_title": "Structuring Tablets c and d",
+      "year": 2010
+    },
+    {
+      "authors": "Best; Woudhuizen",
+      "discovery_locator": "entry 6",
+      "discovery_source": "mnamon-bibliography",
+      "id": "best-woudhuizen-1989",
+      "primary_text_examined": false,
+      "publication_locator": "35–49",
+      "short_title": "Lost Languages",
+      "year": 1989
+    },
+    {
+      "authors": "Colless",
+      "discovery_locator": "entry 7",
+      "discovery_source": "mnamon-bibliography",
+      "id": "colless-1992",
+      "primary_text_examined": false,
+      "publication_locator": "Abr-nahrain 30; pagination unverified",
+      "short_title": "Byblos Syllabary / Proto-Alphabet",
+      "year": 1992
+    },
+    {
+      "authors": "Colless",
+      "discovery_locator": "entry 8",
+      "discovery_source": "mnamon-bibliography",
+      "id": "colless-1993",
+      "primary_text_examined": false,
+      "publication_locator": "Abr-nahrain 31:1–35",
+      "short_title": "Text D",
+      "year": 1993
+    },
+    {
+      "authors": "Colless",
+      "discovery_locator": "entry 9",
+      "discovery_source": "mnamon-bibliography",
+      "id": "colless-1994",
+      "primary_text_examined": false,
+      "publication_locator": "Abr-nahrain 32:59–79",
+      "short_title": "Texts C and A",
+      "year": 1994
+    },
+    {
+      "authors": "Colless",
+      "discovery_locator": "entry 11",
+      "discovery_source": "mnamon-bibliography",
+      "id": "colless-1995",
+      "primary_text_examined": false,
+      "publication_locator": "Abr-nahrain 33:17–29",
+      "short_title": "Texts B, E, F, I, K",
+      "year": 1995
+    },
+    {
+      "authors": "Dhorme",
+      "consulted_source_id": "dhorme-1946",
+      "discovery_locator": "entry 3",
+      "discovery_source": "mnamon-bibliography",
+      "doi": "10.3406/syria.1946.4447",
+      "id": "dhorme-1946",
+      "primary_text_examined": "page_1",
+      "publication_locator": "Syria 25:1–35",
+      "short_title": "Déchiffrement des inscriptions pseudo-hiéroglyphiques de Byblos",
+      "year": 1946
+    },
+    {
+      "authors": "Dunand",
+      "discovery_locator": "entry 1",
+      "discovery_source": "mnamon-bibliography",
+      "id": "dunand-1945",
+      "primary_text_examined": false,
+      "publication_locator": "71–138",
+      "short_title": "Byblia Grammata",
+      "year": 1945
+    },
+    {
+      "authors": "Dunand",
+      "discovery_locator": "entry 4",
+      "discovery_source": "mnamon-bibliography",
+      "id": "dunand-1978",
+      "primary_text_examined": false,
+      "publication_locator": "BMB 30; pagination disputed",
+      "short_title": "Nouvelles inscriptions",
+      "year": 1978
+    },
+    {
+      "authors": "Dussaud",
+      "discovery_locator": "Article metadata and p. 36",
+      "discovery_source": "dussaud-1946",
+      "id": "dussaud-1946",
+      "primary_text_examined": "page_36",
+      "publication_locator": "Syria 25(1):36–52",
+      "short_title": "René Dussaud (1946), L’origine de l’alphabet et son évolution première, d’après les découvertes de Byblos, Syria 25(1):36–52.",
+      "year": 1946
+    },
+    {
+      "authors": "Garbini; Luiselli; Devoto",
+      "discovery_locator": "bibliography p. 10",
+      "discovery_source": "schmutz-maeder-2024",
+      "id": "garbini-2004",
+      "primary_text_examined": false,
+      "publication_locator": "Rendiconti Lincei 15:377–390",
+      "short_title": "Sigillo di età amarniana da Biblo con iscrizione",
+      "year": 2004
+    },
+    {
+      "authors": "Garbini",
+      "discovery_locator": "entry 13",
+      "discovery_source": "mnamon-bibliography",
+      "id": "garbini-2009",
+      "primary_text_examined": false,
+      "publication_locator": "37–62",
+      "short_title": "Decifrazione e origine",
+      "year": 2009
+    },
+    {
+      "authors": "Hamilton",
+      "discovery_locator": "opening bibliography",
+      "discovery_source": "colless-deir-rifa",
+      "id": "hamilton-2009",
+      "primary_text_examined": false,
+      "publication_locator": "JSS 54:51–79",
+      "short_title": "A proposal to read a seal-amulet from Deir Rifa",
+      "year": 2009
+    },
+    {
+      "authors": "Haring",
+      "discovery_locator": "Information",
+      "discovery_source": "haring-2023",
+      "id": "haring-2023",
+      "primary_text_examined": false,
+      "publication_locator": "Cambridge Elements",
+      "short_title": "Ben Haring (2023), Hieroglyphs, Pseudo-Scripts and Alphabets: Their Use and Reception in Ancient Egypt and Neighbouring Regions. Cambridge University Press.",
+      "year": 2023
+    },
+    {
+      "authors": "Hrozný",
+      "discovery_locator": "entry 2",
+      "discovery_source": "mnamon-bibliography",
+      "id": "hrozny-1946",
+      "primary_text_examined": false,
+      "publication_locator": "Archiv Orientální 15:138–157",
+      "short_title": "Die hieroglyphische Stele von Byblos",
+      "year": 1946
+    },
+    {
+      "access_url": "https://www.jstor.org/stable/43073578",
+      "authors": "Martin",
+      "discovery_locator": "Bibliography, Martin entry",
+      "discovery_source": "deaps-kai3",
+      "id": "martin-1961",
+      "primary_text_examined": false,
+      "publication_locator": "Orientalia 30(1):46–78",
+      "short_title": "A Preliminary Report after Re-Examination of the Byblian Inscriptions",
+      "year": 1961
+    },
+    {
+      "authors": "Mendenhall",
+      "discovery_locator": "entry 5",
+      "discovery_source": "mnamon-bibliography",
+      "id": "mendenhall-1985",
+      "primary_text_examined": false,
+      "publication_locator": "Beirut",
+      "short_title": "The Syllabic Inscriptions from Byblos",
+      "year": 1985
+    },
+    {
+      "authors": "Sass",
+      "discovery_locator": "Author-uploaded chapter metadata",
+      "discovery_source": "sass-2019",
+      "id": "sass-2019",
+      "primary_text_examined": "selected_sections",
+      "publication_locator": "157–180",
+      "short_title": "Benjamin Sass (2019), The pseudo-hieroglyphic inscriptions from Byblos, their elusive dating, and their affinities with the early Phoenician inscriptions, in Ph. Abrahami and L. Battini (eds.), Cultures et sociétés syro-mésopotamiennes, pp. 157–180.",
+      "year": 2019
+    },
+    {
+      "authors": "Schwartz",
+      "discovery_locator": "CV p. 6",
+      "discovery_source": "schwartz-cv",
+      "id": "schwartz-2010",
+      "primary_text_examined": false,
+      "publication_locator": "Opening the Tablet Box, pp. 375–395",
+      "short_title": "Early Non-Cuneiform Writing?",
+      "year": 2010
+    },
+    {
+      "authors": "Schwartz",
+      "bibliographic_evidence": [
+        {
+          "locator": "Is part of, pages, DOI",
+          "source_id": "schwartz-2021-publisher"
+        },
+        {
+          "locator": "2021 publication entry",
+          "source_id": "schwartz-cv"
+        }
+      ],
+      "discovery_locator": "CV p. 4",
+      "discovery_source": "schwartz-cv",
+      "doi": "10.19272/202133301018",
+      "id": "schwartz-2021",
+      "primary_text_examined": false,
+      "publication_locator": "Pasiphae XV:255–266 per publisher; XIII in author CV (conflict unresolved)",
+      "short_title": "Non-Cuneiform Writing at Umm el-Marra",
+      "year": 2021
+    },
+    {
+      "authors": "Sobelman",
+      "bibliographic_evidence": [
+        {
+          "locator": "Article metadata",
+          "source_id": "sobelman-publisher"
+        }
+      ],
+      "discovery_locator": "p. 521, bibliography",
+      "discovery_source": "izreel-1988",
+      "doi": "10.1093/jss/6.2.226",
+      "id": "sobelman-1961",
+      "primary_text_examined": false,
+      "publication_locator": "JSS 6(2):226–245",
+      "short_title": "The Proto-byblian Inscriptions: A Fresh Approach",
+      "year": 1961
+    },
+    {
+      "authors": "Sznycer",
+      "discovery_locator": "entry 10",
+      "discovery_source": "mnamon-bibliography",
+      "id": "sznycer-1994",
+      "primary_text_examined": false,
+      "publication_locator": "167–178",
+      "short_title": "Inscriptions pseudo-hiéroglyphiques",
+      "year": 1994
+    },
+    {
+      "authors": "Tubb",
+      "discovery_locator": "p. 169, arrowhead 13104 discussion",
+      "discovery_source": "sass-2019",
+      "id": "tubb-1980",
+      "primary_text_examined": false,
+      "publication_locator": "pp. 2–3 as cited in Sass",
+      "short_title": "Arrowhead discussion (full citation not yet checked)",
+      "year": 1980
+    },
+    {
+      "authors": "Vita; Zamora",
+      "discovery_locator": "entry 15",
+      "discovery_source": "mnamon-bibliography",
+      "id": "vita-zamora-2018",
+      "primary_text_examined": "selected_sections",
+      "publication_locator": "75–102",
+      "short_title": "The Byblos Script",
+      "year": 2018
+    },
+    {
+      "authors": "Woudhuizen",
+      "discovery_locator": "entry 12",
+      "discovery_source": "mnamon-bibliography",
+      "id": "woudhuizen-2007",
+      "primary_text_examined": false,
+      "publication_locator": "Ugarit-Forschungen 39; end page disputed",
+      "short_title": "On the Byblos Script",
+      "year": 2007
+    }
+  ],
+  "version": "1.1.0"
+}

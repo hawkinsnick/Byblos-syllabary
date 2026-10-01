@@ -1,22 +1,24 @@
 {
   "algorithm": "sha256",
   "files": {
-    "REPORT.md": "3f12ec4e7d86e74fd825cf60fa476a0e6fea8d79aeecb61791410e790a6503b9",
+    "REPORT.md": "475664b961db305d959600fef8f4a362744f5ec032d19378b3dd69705e7c3ed4",
     "REUSE.md": "b6db64c74324c659827e2bdffbbbf43363385bb8c06faa9586eda408839cb3b8",
-    "audit.json": "8849b04e8f075a86bdd7cfb2de995f7a71323054b018aef5356ab31005aaa0ca",
-    "bundle.json": "f7d9f5687139f8b1576b44b165cf0f34d136e2e82da8f60e20301d80849e9fbc",
+    "acquisition_queue.json": "be78a80436f32a11fa2897f697c21b2c1f07fd0fb039ad96e0fa177a93816292",
+    "audit.json": "16fd200eec4fd36810e79363eddfa4fab74370d0d8972bf3dd8fad4183ea9572",
+    "bundle.json": "df05fb59712ec7f161e054703d449055618eef2c6b276f858bace92c6d28c40a",
     "catalogue.csv": "6a3a162234c83a1ea7e0428458e9655a976d0fd08342cf11af27f84b81549827",
     "catalogue.jsonl": "eb2928dcf987a4b1164eb77c6741115402034a12eed25348db51cfbf744f2d53",
-    "contribution_template.json": "742d11023a4336f1991a0d91665ca43d490571179debecd04b70b2f2f135f794",
-    "index.html": "f5ef151f6e230575c17c0eba8f1f3fa9f59340bedaf0cb1ea33d2ed27e2b56f9",
-    "provenance.json": "220e08a177bcae8bdea3bebe972f6e8170624ec4636f380b17711e1d423ccc5f",
-    "review_packet.json": "6aed4c3d6c6b95c38f8f0c374b143f8097b38a670e415ece296214f6eb83095a"
+    "contribution_template.json": "4bdaa3fc3b24802e64bb1e725c9371f01058d29963487e059ccf3b1e750f8d5c",
+    "evidence_ledger.json": "187c36f492d705df477806f461cecee5911f0cedca3e2c873ce67937f3bc7f5d",
+    "index.html": "607de19fd3b259a6f592d201c356e66aaa2a72cdc986b6fd886d253e9a612113",
+    "provenance.json": "33d3a1ab516e5f91e818c9ce209e6a8b2c7b39f4dfecb2d8580f9061508d22f0",
+    "review_packet.json": "a983522d9ad689ca062c1264d2d7456c07ca4004aaababb9e2690f404e468d81"
   },
   "input_hash_format": "Canonical JSON: sorted keys, ensure_ascii=False, indent=2, trailing newline",
   "inputs": {
     "bibliography.json": "b8950f28beabc0d450dc8b10f82c9b6c275d13dc6233417eef8145ba2bcf60f0",
     "catalogue.json": "e6e25dfc46a98e8797752d8769ec61422206219c0d8688a349ef575c58612254",
-    "coverage.json": "7053d8fefc5f69059cb84d9e7167945814bca8c1ca9e539e1c0552089a564841",
+    "coverage.json": "19262975d722a9fb7d0fdf9b2e734edac80129b0995754bb24026a76b68824db",
     "external_crosswalk.json": "c2be40c9a75e4264aded5572a06ac7df3c1e31fcd6a6205cf172a19a19895bf5",
     "relations.json": "3b73c68fef54e7240b1aa239bfa3b474874537fdee36dc81b52a4835f71b330f",
     "research_entities.json": "0c57de2c65256566d6dff92e7ddd65d8c5644aad8ddd91763294216cb3b64a8e",
@@ -25,5 +27,5 @@
     "surfaces.json": "f83625794e82f24f90b2c6b28ba1e5f9e027d2186522c9d158eb8bc8e08cdfd3"
   },
   "scientific_1_0_ready": false,
-  "version": "1.0.0"
+  "version": "1.1.0"
 }

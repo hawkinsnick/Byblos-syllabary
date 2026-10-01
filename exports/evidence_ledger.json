@@ -1,0 +1,4814 @@
+{
+  "evidence_sha256": "e45c461a4b6134c387b0af833a9bc82c8fede36db62015ed1d7e91aabb8a58a3",
+  "field_status_counts": {
+    "asserted": 159,
+    "not_recorded": 150,
+    "unknown": 81
+  },
+  "format": "byblos-evidence-ledger-v1",
+  "interpretation": "Fixed catalogue field inventory, not all scientific assertions. Not recorded differs from explicit null/unknown. Nested hypotheses retain their original evidence. Distinct cited sources are not necessarily independent. Attribution and approval declarations do not prove truth; no credibility or decipherment score is computed.",
+  "records": [
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/0/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "edition_label",
+          "path": "/catalogue/records/0/edition_label",
+          "status": "asserted",
+          "value": "a"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "display_name",
+          "path": "/catalogue/records/0/display_name",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/0/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/0/material",
+          "status": "asserted",
+          "value": "stone"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/0/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/0/object_type",
+          "status": "asserted",
+          "value": "stele"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/0/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/0/membership",
+          "status": "asserted",
+          "value": "reported_core"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/0/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_pages",
+              "evidence_path": "/catalogue/records/0/evidence/1",
+              "locator": "p. 1",
+              "source_id": "dunand-1930"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/0/dimensions_mm",
+          "status": "asserted",
+          "value": {
+            "height": 500,
+            "length": 670,
+            "thickness_mean": 200
+          }
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_pages",
+              "evidence_path": "/catalogue/records/0/evidence/1",
+              "locator": "p. 1",
+              "source_id": "dunand-1930"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "discovery_context",
+          "path": "/catalogue/records/0/discovery_context",
+          "status": "asserted",
+          "value": "Reused in lower courses of a domestic cistern near its southwest corner; not an undisturbed original deposition."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/0/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/0/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "reported_core",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-A"
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/1/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "edition_label",
+          "path": "/catalogue/records/1/edition_label",
+          "status": "asserted",
+          "value": "b"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "display_name",
+          "path": "/catalogue/records/1/display_name",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/1/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/1/material",
+          "status": "asserted",
+          "value": "bronze"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/1/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/1/object_type",
+          "status": "asserted",
+          "value": "spatula"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/1/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/1/membership",
+          "status": "asserted",
+          "value": "reported_core"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/1/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/1/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/1/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/1/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/1/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "reported_core",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-B"
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/2/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "edition_label",
+          "path": "/catalogue/records/2/edition_label",
+          "status": "asserted",
+          "value": "c"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "display_name",
+          "path": "/catalogue/records/2/display_name",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/2/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/2/material",
+          "status": "asserted",
+          "value": "bronze"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/2/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/2/object_type",
+          "status": "asserted",
+          "value": "tablet"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/2/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/2/membership",
+          "status": "asserted",
+          "value": "reported_core"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/2/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/2/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/2/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/2/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/2/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "reported_core",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-C"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/38/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/38/evidence/0",
+              "locator": "p. 169, Figure 17 and arrowhead discussion; Byblos II pl. 177 cited",
+              "source_id": "sass-2019"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/38/display_name",
+          "status": "asserted",
+          "value": "Byblos arrowhead 13104, isolated mark"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/38/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/38/evidence/0",
+              "locator": "p. 169, Figure 17 and arrowhead discussion; Byblos II pl. 177 cited",
+              "source_id": "sass-2019"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/38/object_type",
+          "status": "asserted",
+          "value": "arrowhead"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/38/evidence/0",
+              "locator": "p. 169, Figure 17 and arrowhead discussion; Byblos II pl. 177 cited",
+              "source_id": "sass-2019"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/38/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/38/evidence/0",
+              "locator": "p. 169, Figure 17 and arrowhead discussion; Byblos II pl. 177 cited",
+              "source_id": "sass-2019"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/38/membership_note",
+          "status": "asserted",
+          "value": "Sass compares its mark to Dunand G13. A single sign resemblance does not establish Byblos writing. Stratified context and precise date are unestablished."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/38/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/38/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/38/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/38/evidence/0",
+              "locator": "p. 169, Figure 17 and arrowhead discussion; Byblos II pl. 177 cited",
+              "source_id": "sass-2019"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/38/reported_excavation_identifier",
+          "status": "asserted",
+          "value": "13104"
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-ARROWHEAD-13104"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/32/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/32/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_a"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/32/display_name",
+          "status": "asserted",
+          "value": "Balu'a stele"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/32/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_a"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/32/material",
+          "status": "asserted",
+          "value": "basalt"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/32/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_a"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/32/object_type",
+          "status": "asserted",
+          "value": "stele"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/32/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_a"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/32/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/32/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/32/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/32/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/32/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/32/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-BALUA"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/26/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/26/evidence/0",
+              "locator": "p. 89, fig. 21",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/26/display_name",
+          "status": "asserted",
+          "value": "Cylinder seal published by Garbini and colleagues"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/26/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/26/evidence/0",
+              "locator": "p. 89, fig. 21",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/26/object_type",
+          "status": "asserted",
+          "value": "cylinder_seal"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/26/evidence/0",
+              "locator": "p. 89, fig. 21",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/26/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/26/evidence/0",
+              "locator": "p. 89, fig. 21",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/26/membership_note",
+          "status": "asserted",
+          "value": "Byblos identification is disputed; do not treat proposed parallel names as an established bilingual."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/26/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/26/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/26/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/26/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-CYLINDER-2004"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/37/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/37/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_d"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/37/display_name",
+          "status": "asserted",
+          "value": "Deir Rifa seal-amulet"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/37/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/37/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_d"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/37/object_type",
+          "status": "asserted",
+          "value": "seal_amulet"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/37/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_d"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/37/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/37/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/37/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/37/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/37/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/37/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": {
+          "evidence": [
+            {
+              "fields": [
+                "value",
+                "institution"
+              ],
+              "locator": "opening paragraph",
+              "source_id": "colless-deir-rifa"
+            }
+          ],
+          "institution": "Petrie Museum",
+          "value": "UC 51354",
+          "verification": "reported_only"
+        }
+      },
+      "record_id": "BYB-CAND-DEIR-RIFA"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/36/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/36/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_c"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/36/display_name",
+          "status": "asserted",
+          "value": "Kahun object with proposed writing"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/36/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/36/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_c"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/36/object_type",
+          "status": "asserted",
+          "value": "inscribed_object"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/36/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_c"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/36/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/36/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/36/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/36/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/36/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/36/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-KAHUN"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/21/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/21/evidence/0",
+              "locator": "p. 88, fig. 20d",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/21/display_name",
+          "status": "asserted",
+          "value": "Egyptian lamp inscription 1"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/21/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/21/evidence/0",
+              "locator": "p. 88, fig. 20d",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/21/object_type",
+          "status": "asserted",
+          "value": "lamp"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/21/evidence/0",
+              "locator": "p. 88, fig. 20d",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/21/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/21/evidence/0",
+              "locator": "p. 88, fig. 20d",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/21/membership_note",
+          "status": "asserted",
+          "value": "Colless attribution; not admitted to core."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/21/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/21/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/21/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/21/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-LAMP-1"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/22/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/22/evidence/0",
+              "locator": "p. 88, fig. 20e",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/22/display_name",
+          "status": "asserted",
+          "value": "Egyptian lamp inscription 2"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/22/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/22/evidence/0",
+              "locator": "p. 88, fig. 20e",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/22/object_type",
+          "status": "asserted",
+          "value": "lamp"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/22/evidence/0",
+              "locator": "p. 88, fig. 20e",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/22/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/22/evidence/0",
+              "locator": "p. 88, fig. 20e",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/22/membership_note",
+          "status": "asserted",
+          "value": "Colless attribution; not admitted to core."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/22/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/22/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/22/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/22/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-LAMP-2"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/23/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/23/evidence/0",
+              "locator": "p. 88, fig. 20f",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/23/display_name",
+          "status": "asserted",
+          "value": "Egyptian lamp inscription 3"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/23/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/23/evidence/0",
+              "locator": "p. 88, fig. 20f",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/23/object_type",
+          "status": "asserted",
+          "value": "lamp"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/23/evidence/0",
+              "locator": "p. 88, fig. 20f",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/23/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/23/evidence/0",
+              "locator": "p. 88, fig. 20f",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/23/membership_note",
+          "status": "asserted",
+          "value": "Colless attribution; not admitted to core."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/23/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/23/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/23/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/23/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-LAMP-3"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/14/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/14/evidence/0",
+              "locator": "pp. 85–86, fig. 16",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/14/display_name",
+          "status": "asserted",
+          "value": "Linear pseudo-hieroglyphic block"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/14/evidence/0",
+              "locator": "pp. 85–86, fig. 16",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/14/material",
+          "status": "asserted",
+          "value": "limestone"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/14/evidence/0",
+              "locator": "pp. 85–86, fig. 16",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/14/object_type",
+          "status": "asserted",
+          "value": "block"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/14/evidence/0",
+              "locator": "pp. 85–86, fig. 16",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/14/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/14/evidence/0",
+              "locator": "pp. 85–86, fig. 16",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/14/membership_note",
+          "status": "asserted",
+          "value": "Linear inscription and proposed underlying layer need separate assessment."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/14/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/14/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/14/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/14/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-LINEAR-STELA"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/18/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/18/evidence/0",
+              "locator": "p. 88, fig. 20a; n. 7",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/18/display_name",
+          "status": "asserted",
+          "value": "Megiddo ring"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/18/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/18/evidence/0",
+              "locator": "p. 88, fig. 20a; n. 7",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/18/object_type",
+          "status": "asserted",
+          "value": "ring"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/18/evidence/0",
+              "locator": "p. 88, fig. 20a; n. 7",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/18/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/18/evidence/0",
+              "locator": "p. 88, fig. 20a; n. 7",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/18/membership_note",
+          "status": "asserted",
+          "value": "Alternative alphabetic interpretation reported."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/18/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/18/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/18/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/18/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-MEGIDDO-RING"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/17/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/17/evidence/0",
+              "locator": "p. 88, fig. 19 and n. 6",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/17/display_name",
+          "status": "asserted",
+          "value": "Ahirom inscription underlying layer"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/17/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/17/evidence/0",
+              "locator": "p. 88, fig. 19 and n. 6",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/17/object_type",
+          "status": "asserted",
+          "value": "sarcophagus"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/17/evidence/0",
+              "locator": "p. 88, fig. 19 and n. 6",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/17/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/17/evidence/0",
+              "locator": "p. 88, fig. 19 and n. 6",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/17/membership_note",
+          "status": "asserted",
+          "value": "Especially doubtful identification; retain criticism."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/17/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/17/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/17/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/17/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-PALIMPSEST-KAI1"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/15/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/15/evidence/0",
+              "locator": "pp. 86–87, fig. 17",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/15/display_name",
+          "status": "asserted",
+          "value": "Spatula associated with KAI 3"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/15/evidence/0",
+              "locator": "pp. 86–87, fig. 17",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/15/material",
+          "status": "asserted",
+          "value": "bronze"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/15/evidence/0",
+              "locator": "pp. 86–87, fig. 17",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/15/object_type",
+          "status": "asserted",
+          "value": "spatula"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/15/evidence/0",
+              "locator": "pp. 86–87, fig. 17",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/15/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/15/evidence/0",
+              "locator": "pp. 86–87, fig. 17",
+              "source_id": "vita-zamora-2018"
+            },
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/15/evidence/1",
+              "locator": "General Notes, citing Martin 1961 pp. 60–63",
+              "source_id": "deaps-kai3"
+            }
+          ],
+          "distinct_cited_sources": 2,
+          "field": "membership_note",
+          "path": "/catalogue/records/15/membership_note",
+          "status": "asserted",
+          "value": "Possible earlier Byblos layer; not the Phoenician text itself."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/15/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/15/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/15/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/15/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-PALIMPSEST-KAI3"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/16/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/16/evidence/0",
+              "locator": "pp. 87–88, fig. 18",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/16/display_name",
+          "status": "asserted",
+          "value": "Yehimilk inscription underlying layer"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/16/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/16/evidence/0",
+              "locator": "pp. 87–88, fig. 18",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/16/object_type",
+          "status": "asserted",
+          "value": "block"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/16/evidence/0",
+              "locator": "pp. 87–88, fig. 18",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/16/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/16/evidence/0",
+              "locator": "pp. 87–88, fig. 18",
+              "source_id": "vita-zamora-2018"
+            },
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/16/evidence/1",
+              "locator": "General Notes, citing Martin 1961 pp. 66–67",
+              "source_id": "deaps-kai4"
+            }
+          ],
+          "distinct_cited_sources": 2,
+          "field": "membership_note",
+          "path": "/catalogue/records/16/membership_note",
+          "status": "asserted",
+          "value": "Proposed earlier layer; visible-trace identification remains attributed."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/16/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/16/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/16/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/16/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-PALIMPSEST-KAI4"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/27/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/27/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-s"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/27/display_name",
+          "status": "asserted",
+          "value": "Rieti votive object"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/27/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-s"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/27/material",
+          "status": "asserted",
+          "value": "terracotta"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/27/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-s"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/27/object_type",
+          "status": "asserted",
+          "value": "votive_object"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/27/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-s"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/27/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/27/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/27/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/27/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/27/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/27/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-RIETI"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/24/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/24/evidence/0",
+              "locator": "p. 88, fig. 20g",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/24/display_name",
+          "status": "asserted",
+          "value": "Scaraboid seal of unknown origin"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/24/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/24/evidence/0",
+              "locator": "p. 88, fig. 20g",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/24/object_type",
+          "status": "asserted",
+          "value": "seal"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/24/evidence/0",
+              "locator": "p. 88, fig. 20g",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/24/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/24/evidence/0",
+              "locator": "p. 88, fig. 20g",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/24/membership_note",
+          "status": "asserted",
+          "value": "Uncertain attribution and provenance."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/24/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/24/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/24/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/24/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-SCARABOID"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/19/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/19/evidence/0",
+              "locator": "p. 88, fig. 20b",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/19/display_name",
+          "status": "asserted",
+          "value": "Sinai inscription 526"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/19/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/19/evidence/0",
+              "locator": "p. 88, fig. 20b",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/19/object_type",
+          "status": "asserted",
+          "value": "inscription"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/19/evidence/0",
+              "locator": "p. 88, fig. 20b",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/19/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/19/evidence/0",
+              "locator": "p. 88, fig. 20b",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/19/membership_note",
+          "status": "asserted",
+          "value": "Colless attribution; not admitted to core."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/19/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/19/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/19/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/19/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-SINAI-526"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/31/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/31/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/31/display_name",
+          "status": "asserted",
+          "value": "Stone seal discussed by Colless"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/31/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/31/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/31/object_type",
+          "status": "asserted",
+          "value": "seal"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/31/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/31/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/31/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/31/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/31/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/31/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/31/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-STONE-SEAL-2010"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/28/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/28/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-v"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/28/display_name",
+          "status": "asserted",
+          "value": "Tel Halif jar handle"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/28/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-v"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/28/material",
+          "status": "asserted",
+          "value": "clay"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/28/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-v"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/28/object_type",
+          "status": "asserted",
+          "value": "jar_handle"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/28/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-v"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/28/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/28/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/28/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/28/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/28/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/28/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-TEL-HALIF"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/29/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/29/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-w"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/29/display_name",
+          "status": "asserted",
+          "value": "Tell Jisr sherd"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/29/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-w"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/29/material",
+          "status": "asserted",
+          "value": "clay"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/29/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-w"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/29/object_type",
+          "status": "asserted",
+          "value": "sherd"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/29/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-w"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/29/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/29/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/29/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/29/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/29/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/29/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-TELL-JISR"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/20/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/20/evidence/0",
+              "locator": "p. 88, fig. 20c",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/20/display_name",
+          "status": "asserted",
+          "value": "Thebes ostracon"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/20/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/20/evidence/0",
+              "locator": "p. 88, fig. 20c",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/20/object_type",
+          "status": "asserted",
+          "value": "ostracon"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/20/evidence/0",
+              "locator": "p. 88, fig. 20c",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/20/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/20/evidence/0",
+              "locator": "p. 88, fig. 20c",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/20/membership_note",
+          "status": "asserted",
+          "value": "Colless attribution; not admitted to core."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/20/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/20/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/20/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/20/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-THEBES-OSTRACON"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/25/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/25/evidence/0",
+              "locator": "p. 88, fig. 20h",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/25/display_name",
+          "status": "asserted",
+          "value": "Trieste plaque"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/25/evidence/0",
+              "locator": "p. 88, fig. 20h",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/25/material",
+          "status": "asserted",
+          "value": "clay"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/25/evidence/0",
+              "locator": "p. 88, fig. 20h",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/25/object_type",
+          "status": "asserted",
+          "value": "plaque"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/25/evidence/0",
+              "locator": "p. 88, fig. 20h",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/25/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/25/evidence/0",
+              "locator": "p. 88, fig. 20h",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/25/membership_note",
+          "status": "asserted",
+          "value": "Proposed attribution outside Byblos."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/25/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/25/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/25/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/25/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-TRIESTE"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/30/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/30/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-x"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/30/display_name",
+          "status": "asserted",
+          "value": "Uluburun writing-board marks"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/30/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-x"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/30/material",
+          "status": "asserted",
+          "value": "wood"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/30/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-x"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/30/object_type",
+          "status": "asserted",
+          "value": "writing_board"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/30/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-x"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/30/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/30/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/30/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/30/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/30/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/30/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-ULUBURUN"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/33/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/33/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_b"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/33/display_name",
+          "status": "asserted",
+          "value": "Schwartz O-3a example"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/33/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/33/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_b"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/33/object_type",
+          "status": "asserted",
+          "value": "inscribed_object"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/33/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_b"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/33/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "abstract_only",
+              "evidence_path": "/catalogue/records/33/evidence/1",
+              "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+              "source_id": "schwartz-author-abstract"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/33/membership_note",
+          "status": "asserted",
+          "value": "Schwartz’s author-hosted abstract reports few convincing Byblian parallels and proposes an early alphabetic alternative. Mapping of these three provider labels to the four reported cylinders is unresolved."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/33/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/33/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/33/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/33/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-UMM-O3A"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/34/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/34/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_b"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/34/display_name",
+          "status": "asserted",
+          "value": "Schwartz O-3b example"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/34/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/34/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_b"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/34/object_type",
+          "status": "asserted",
+          "value": "inscribed_object"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/34/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_b"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/34/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "abstract_only",
+              "evidence_path": "/catalogue/records/34/evidence/1",
+              "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+              "source_id": "schwartz-author-abstract"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/34/membership_note",
+          "status": "asserted",
+          "value": "Schwartz’s author-hosted abstract reports few convincing Byblian parallels and proposes an early alphabetic alternative. Mapping of these three provider labels to the four reported cylinders is unresolved."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/34/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/34/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/34/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/34/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-UMM-O3B"
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "edition_label",
+          "path": "/catalogue/records/35/edition_label",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/35/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_b"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "display_name",
+          "path": "/catalogue/records/35/display_name",
+          "status": "asserted",
+          "value": "Schwartz O-3c example"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "material",
+          "path": "/catalogue/records/35/material",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/35/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_b"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/35/object_type",
+          "status": "asserted",
+          "value": "inscribed_object"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "selected_sections",
+              "evidence_path": "/catalogue/records/35/evidence/0",
+              "locator": "caption and labelled example",
+              "source_id": "ocbi-plate-z_b"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/35/membership",
+          "status": "asserted",
+          "value": "disputed"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "abstract_only",
+              "evidence_path": "/catalogue/records/35/evidence/1",
+              "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+              "source_id": "schwartz-author-abstract"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership_note",
+          "path": "/catalogue/records/35/membership_note",
+          "status": "asserted",
+          "value": "Schwartz’s author-hosted abstract reports few convincing Byblian parallels and proposes an early alphabetic alternative. Mapping of these three provider labels to the four reported cylinders is unresolved."
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/35/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/35/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/35/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/35/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "disputed",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-CAND-UMM-O3C"
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/3/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "edition_label",
+          "path": "/catalogue/records/3/edition_label",
+          "status": "asserted",
+          "value": "d"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "display_name",
+          "path": "/catalogue/records/3/display_name",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/3/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/3/material",
+          "status": "asserted",
+          "value": "bronze"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/3/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/3/object_type",
+          "status": "asserted",
+          "value": "tablet"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/3/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/3/membership",
+          "status": "asserted",
+          "value": "reported_core"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/3/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/3/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/3/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/3/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/3/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "reported_core",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-D"
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/4/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "edition_label",
+          "path": "/catalogue/records/4/edition_label",
+          "status": "asserted",
+          "value": "e"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "display_name",
+          "path": "/catalogue/records/4/display_name",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/4/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/4/material",
+          "status": "asserted",
+          "value": "bronze"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/4/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/4/object_type",
+          "status": "asserted",
+          "value": "spatula"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/4/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/4/membership",
+          "status": "asserted",
+          "value": "reported_core"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/4/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/4/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/4/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/4/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/4/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "reported_core",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-E"
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/5/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "edition_label",
+          "path": "/catalogue/records/5/edition_label",
+          "status": "asserted",
+          "value": "f"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "display_name",
+          "path": "/catalogue/records/5/display_name",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/5/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/5/material",
+          "status": "asserted",
+          "value": "bronze"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/5/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/5/object_type",
+          "status": "asserted",
+          "value": "spatula"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/5/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/5/membership",
+          "status": "asserted",
+          "value": "reported_core"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/5/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/5/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/5/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/5/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/5/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "reported_core",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-F"
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/6/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "edition_label",
+          "path": "/catalogue/records/6/edition_label",
+          "status": "asserted",
+          "value": "g"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "display_name",
+          "path": "/catalogue/records/6/display_name",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/6/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/6/material",
+          "status": "asserted",
+          "value": "stone"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/6/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/6/object_type",
+          "status": "asserted",
+          "value": "stele"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/6/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/6/membership",
+          "status": "asserted",
+          "value": "reported_core"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/6/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/6/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/6/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/6/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/6/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "reported_core",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-G"
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/7/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "edition_label",
+          "path": "/catalogue/records/7/edition_label",
+          "status": "asserted",
+          "value": "h"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "display_name",
+          "path": "/catalogue/records/7/display_name",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/7/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/7/material",
+          "status": "asserted",
+          "value": "stone"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/7/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/7/object_type",
+          "status": "asserted",
+          "value": "fragment"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/7/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/7/membership",
+          "status": "asserted",
+          "value": "reported_core"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/7/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/7/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/7/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/7/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/7/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "reported_core",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-H"
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/8/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "edition_label",
+          "path": "/catalogue/records/8/edition_label",
+          "status": "asserted",
+          "value": "i"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "display_name",
+          "path": "/catalogue/records/8/display_name",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/8/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/8/material",
+          "status": "asserted",
+          "value": "bronze"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/8/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/8/object_type",
+          "status": "asserted",
+          "value": "spatula"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/8/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/8/membership",
+          "status": "asserted",
+          "value": "reported_core"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/8/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/8/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/8/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/8/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/8/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "reported_core",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-I"
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/9/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "edition_label",
+          "path": "/catalogue/records/9/edition_label",
+          "status": "asserted",
+          "value": "j"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "display_name",
+          "path": "/catalogue/records/9/display_name",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/9/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/9/material",
+          "status": "asserted",
+          "value": "stone"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/9/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/9/object_type",
+          "status": "asserted",
+          "value": "fragment"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/9/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/9/membership",
+          "status": "asserted",
+          "value": "reported_core"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/9/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/9/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/9/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/9/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/9/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "reported_core",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-J"
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/10/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "edition_label",
+          "path": "/catalogue/records/10/edition_label",
+          "status": "asserted",
+          "value": "k"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "display_name",
+          "path": "/catalogue/records/10/display_name",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/10/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/10/material",
+          "status": "asserted",
+          "value": "stone"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/10/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/10/object_type",
+          "status": "asserted",
+          "value": "slab_fragment"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/10/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/10/membership",
+          "status": "asserted",
+          "value": "reported_core"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/10/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/10/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/10/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/10/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/10/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "reported_core",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-K"
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/11/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "edition_label",
+          "path": "/catalogue/records/11/edition_label",
+          "status": "asserted",
+          "value": "l"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "display_name",
+          "path": "/catalogue/records/11/display_name",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/11/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/11/material",
+          "status": "asserted",
+          "value": "stone"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/11/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/11/object_type",
+          "status": "asserted",
+          "value": "slab_fragment"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/11/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/11/membership",
+          "status": "asserted",
+          "value": "reported_core"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/11/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/11/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/11/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/11/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/11/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "reported_core",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-L"
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/12/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "edition_label",
+          "path": "/catalogue/records/12/edition_label",
+          "status": "asserted",
+          "value": "m"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "display_name",
+          "path": "/catalogue/records/12/display_name",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/12/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/12/material",
+          "status": "asserted",
+          "value": "stone"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/12/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/12/object_type",
+          "status": "asserted",
+          "value": "slab_fragment"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/12/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/12/membership",
+          "status": "asserted",
+          "value": "reported_core"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/12/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/12/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/12/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/12/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/12/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "reported_core",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": [
+          {
+            "evidence": [
+              {
+                "fields": [
+                  "value",
+                  "qualifier"
+                ],
+                "locator": "pp. 81–82, stela m",
+                "source_id": "vita-zamora-2018"
+              }
+            ],
+            "proposer": "Vita and Zamora",
+            "qualifier": "conditional on comparison of sign orientation",
+            "value": "ltr"
+          },
+          {
+            "evidence": [
+              {
+                "fields": [
+                  "value",
+                  "qualifier"
+                ],
+                "locator": "fragments, record id = \"m\", dir = RTL",
+                "source_id": "ocbi-source"
+              }
+            ],
+            "proposer": "GEAS / OCBI",
+            "qualifier": "provider display direction",
+            "value": "rtl"
+          }
+        ],
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-M"
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/13/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "edition_label",
+          "path": "/catalogue/records/13/edition_label",
+          "status": "asserted",
+          "value": "n"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "display_name",
+          "path": "/catalogue/records/13/display_name",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/13/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "material",
+          "path": "/catalogue/records/13/material",
+          "status": "asserted",
+          "value": "stone"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/13/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "object_type",
+          "path": "/catalogue/records/13/object_type",
+          "status": "asserted",
+          "value": "slab_fragment"
+        },
+        {
+          "citations": [
+            {
+              "consultation": "consulted_online",
+              "evidence_path": "/catalogue/records/13/evidence/0",
+              "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+              "source_id": "mnamon-merlo"
+            }
+          ],
+          "distinct_cited_sources": 1,
+          "field": "membership",
+          "path": "/catalogue/records/13/membership",
+          "status": "asserted",
+          "value": "reported_core"
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "membership_note",
+          "path": "/catalogue/records/13/membership_note",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "dimensions_mm",
+          "path": "/catalogue/records/13/dimensions_mm",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "discovery_context",
+          "path": "/catalogue/records/13/discovery_context",
+          "status": "not_recorded",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "museum_id",
+          "path": "/catalogue/records/13/museum_id",
+          "status": "unknown",
+          "value": null
+        },
+        {
+          "citations": [],
+          "distinct_cited_sources": 0,
+          "field": "reported_excavation_identifier",
+          "path": "/catalogue/records/13/reported_excavation_identifier",
+          "status": "not_recorded",
+          "value": null
+        }
+      ],
+      "current_independent_record_approval": false,
+      "evidence_level": "secondary_report",
+      "membership": "reported_core",
+      "nested_claims": {
+        "date_claims": [],
+        "direction_claims": null,
+        "reported_museum_identifier": null
+      },
+      "record_id": "BYB-N"
+    }
+  ],
+  "version": "1.1.0"
+}

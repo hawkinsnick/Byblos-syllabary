@@ -100,3 +100,14 @@ resolving paths. Added repository release checks for version labels, source link
 export integrity and byte-for-byte agreement with current data. Corrected stale
 citation and release-status versions. CI exercises Python 3.10 and 3.12 on Linux
 and Windows. Scientific 1.0 remains unreleased; no new evidence or review invented.
+
+## 1.1.0 — 2026-10-01 (evidence planning)
+
+Added a field-level ledger distinguishing unknown, absent and asserted metadata,
+with exact evidence pointers and source consultation declarations. Preserves
+nested hypotheses and bound record approval status. Repeated citations are not
+counted as distinct sources; no source count is treated as independent corroboration.
+Added a reproducible acquisition queue for sources consulted only as metadata,
+abstracts or not at all, ordered by direct catalogue linkage reach. Lists unexamined
+bibliography leads separately. Both JSON views are regenerated and checksummed
+in every export. No scientific facts, sequences, permissions or approvals added.

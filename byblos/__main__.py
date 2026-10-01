@@ -2,6 +2,7 @@
 import argparse
 import json
 from pathlib import Path
+from .evidence import evidence_ledger, acquisition_queue
 from .release import release_check
 from .jsonio import read_json
 from .provenance import provenance_report
@@ -15,6 +16,8 @@ def main():
     parser.add_argument("--root", default=str(ROOT), help="Corpus repository root")
     sub = parser.add_subparsers(dest="command", required=True)
     sub.add_parser("validate")
+    sub.add_parser("evidence-ledger", help="Print field-level catalogue attribution")
+    sub.add_parser("acquisition-queue", help="Print source inspection backlog")
     sub.add_parser("release-check", help="Check versions and committed export consistency")
     prov = sub.add_parser("provenance", help="Print citation usage and source dependencies")
     prov.add_argument("--source", help="Limit usage inventory to a registered source")
@@ -69,6 +72,10 @@ def main():
         if args.command == "validate":
             print("PASS: structurally valid; scientific 1.0 ready:",
                   result["scientific_1_0_ready"])
+        elif args.command == "evidence-ledger":
+            print(json.dumps(evidence_ledger(bundle), indent=2, ensure_ascii=False))
+        elif args.command == "acquisition-queue":
+            print(json.dumps(acquisition_queue(bundle), indent=2, ensure_ascii=False))
         elif args.command == "provenance":
             print(json.dumps(provenance_report(bundle, args.source), indent=2, ensure_ascii=False))
         elif args.command == "audit":

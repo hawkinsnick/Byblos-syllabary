@@ -1,6 +1,6 @@
 # Byblos syllabary research corpus
 
-Version: 1.0.0 — stable software workflow; provisional research catalogue.
+Version: 1.1.0 — stable software workflow; provisional research catalogue.
 
 An open research project working toward exhaustive, evidence-based coverage of the
 undeciphered Byblos script. Its language affiliation is unresolved. The name
@@ -114,3 +114,14 @@ contributor fills identity, date and attributable changes or source leads.
 
 Inspect source dependencies with `python -m byblos provenance` or filter with
 `python -m byblos provenance --source mnamon-merlo`. See [provenance audit](docs/PROVENANCE.md).
+
+## Inspect evidence and acquisition work
+
+```sh
+python -m byblos evidence-ledger
+python -m byblos acquisition-queue
+```
+
+The [evidence ledger guide](docs/EVIDENCE_LEDGER.md) explains field unknowns,
+citation bindings and the reproducible source inspection queue. These reports
+organize existing evidence; they do not infer expert approval or missing readings.
