@@ -55,7 +55,7 @@ local. Inspect sibling schemas before declaring interoperable exports.
 
 ## Prerelease implementation status
 
-Versions 0.2–0.6 denote tested development snapshots, not closure of the scientific
+Versions 0.2–0.7 denote tested development snapshots, not closure of the scientific
 milestones above. Source discovery, candidate cataloguing, validation and exports
 can progress while source access, epigraphy, rights and independent review remain
 open. The latest audit is the authority for release readiness.
@@ -65,3 +65,5 @@ The pipeline must return exit status 2 for an attempted scientific 1.0 check unt
 its evidence gates pass. A blocked audit is an intended result, not a broken test.
 
 Scientific admission now uses the tested policy in ADMISSION_POLICY.md. Its positive fixtures are synthetic; they do not establish review or complete coverage of real inscriptions.
+
+Generated review packets are task inventories, not research-entity imports. The offline viewer and snapshot comparison preserve recorded assertions without adding observed signs or resolving epigraphic disputes.

@@ -47,3 +47,13 @@ adapter, not a tested claim. Shared IDs and provenance principles do not imply
 that other projects have identical schemas.
 
 Review rows now require stable reviewer IDs, expertise, date, durable report reference and the current evidence digest. Every evidence edit invalidates old approvals. Verified sequences require explicit origin, creators, source version and normalization log; imported sequences also need a rights-supported encoding map.
+
+## Review packet and differences (0.7)
+
+`byblos-review-packet-v1` is a derived task format, outside the corpus research
+entities. It carries the evidence digest, copied source records and pending
+responses. Known lines are tasks; unknown inventories are explicitly marked.
+
+`byblos-snapshot-diff-v1` compares complete bundles. Every change has a pointer
+and before/after presence and value. ID-bearing lists match by ID; `@order`
+records list-order changes. Positional token differences are not sign alignments.

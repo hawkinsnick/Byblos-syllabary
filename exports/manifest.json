@@ -1,18 +1,20 @@
 {
   "algorithm": "sha256",
   "files": {
-    "REPORT.md": "b5bd934de7f3953a8ae330dc1a448443a15ee0084ead6e3f6279083dd63d8d17",
+    "REPORT.md": "e65a4f2939ab7012e1b017af1124e5970fb3dfd39c145711b5cc507933530ea7",
     "REUSE.md": "b6db64c74324c659827e2bdffbbbf43363385bb8c06faa9586eda408839cb3b8",
-    "audit.json": "88293cfe808fe0112261247d22739d0d18d2a3d3e0de91711a4260c204d5e397",
-    "bundle.json": "f619884214607279a5b9b426deda1d7541ecacd658d0466b86d73a89671ba1ee",
+    "audit.json": "ab1cb43023e4816cbbd350940044369c13a73401341f8fd7d8d7011200b87069",
+    "bundle.json": "eb3fbe42578496be656de31db5e33141f950e21fe4485df87d8184bb4fc9f2a5",
     "catalogue.csv": "6a3a162234c83a1ea7e0428458e9655a976d0fd08342cf11af27f84b81549827",
-    "catalogue.jsonl": "eb2928dcf987a4b1164eb77c6741115402034a12eed25348db51cfbf744f2d53"
+    "catalogue.jsonl": "eb2928dcf987a4b1164eb77c6741115402034a12eed25348db51cfbf744f2d53",
+    "index.html": "ed5b54b47678146ed58d4e1e3eb0a912e22c0d8b148a627022582b4da1863dc6",
+    "review_packet.json": "f2179e493e758b045f1e3e30dddda2baeaf14b6ea37e78a24f37b68b04eff4d0"
   },
   "input_hash_format": "Canonical JSON: sorted keys, ensure_ascii=False, indent=2, trailing newline",
   "inputs": {
     "bibliography.json": "b8950f28beabc0d450dc8b10f82c9b6c275d13dc6233417eef8145ba2bcf60f0",
     "catalogue.json": "e6e25dfc46a98e8797752d8769ec61422206219c0d8688a349ef575c58612254",
-    "coverage.json": "4b5355851552394261d4c95ad3e5da768e05350a1f0b9d18576374f957d81c30",
+    "coverage.json": "190c43d7d37946b9a8f215913a73e17449d413da1053a4553795281e09c403ee",
     "external_crosswalk.json": "c2be40c9a75e4264aded5572a06ac7df3c1e31fcd6a6205cf172a19a19895bf5",
     "relations.json": "3b73c68fef54e7240b1aa239bfa3b474874537fdee36dc81b52a4835f71b330f",
     "research_entities.json": "0c57de2c65256566d6dff92e7ddd65d8c5644aad8ddd91763294216cb3b64a8e",
@@ -21,5 +23,5 @@
     "surfaces.json": "f83625794e82f24f90b2c6b28ba1e5f9e027d2186522c9d158eb8bc8e08cdfd3"
   },
   "scientific_1_0_ready": false,
-  "version": "0.6.0"
+  "version": "0.7.0"
 }

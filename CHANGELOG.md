@@ -53,3 +53,17 @@ project evidence pointer for OCBI b'c while retaining the provider's original pa
 Registered one CC BY-SA photograph as an external reference only; no image bytes
 or transcription sequences bundled. Prepared exact acquisition, permission and
 independent-review materials. Scientific 1.0 remains blocked.
+
+## 0.7.0 — 2026-10-01
+
+Added a self-contained, searchable offline catalogue to deterministic exports,
+with source citations, consultation depth, rights observations and open gaps.
+Added a generated review packet covering every record and reported line, with
+pending response fields and the exact evidence digest. No automatic admission
+of responses or synthetic sign sequences.
+
+Added snapshot comparison by record ID and JSON pointer, preserving ordering,
+type changes and missing versus null. Added command-line workflows and a
+nontechnical user guide. Export checksums and reconstruction now cover the viewer
+and review packet too. Source acquisition, permissions and specialist review are
+deferred dependencies; scientific 1.0 remains explicitly blocked.

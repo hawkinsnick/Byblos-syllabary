@@ -1,6 +1,6 @@
 # Scientific 1.0 assessment
 
-Current development snapshot: 0.6.0. Scientific 1.0 is **not released**.
+Current development snapshot: 0.7.0. Scientific 1.0 is **not released**.
 
 The complete available-work pipeline was exercised: structural validation,
 regression tests, deterministic export, checksum verification, lossless bundle
@@ -66,3 +66,10 @@ Original editions, item-level fragment identities, full sequences, their reuse
 terms, complete coverage dispositions and actual independent specialist review
 remain external evidence dependencies. The [acquisition and review packet](ACQUISITION_AND_REVIEW.md)
 contains exact requests and review deliverables. Nothing was sent to third parties.
+
+## Work continuing while external dependencies are deferred
+
+0.7 adds an offline inspection catalogue, deterministic review-task packet and
+lossless snapshot comparison. These make the current evidence and remaining work
+reviewable without access to additional editions. They do not close acquisition,
+sequence rights or specialist-review gates. See USER_GUIDE.md.

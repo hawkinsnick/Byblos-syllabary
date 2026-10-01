@@ -1,0 +1,5601 @@
+{
+  "admission_requirements": {
+    "claim_limit": "Complete within the independently reviewed scope and cutoff; future finds and publications remain possible.",
+    "missing": [
+      "scope_evidence",
+      "source_inventory_dispositions",
+      "bibliography_dispositions",
+      "count_reconciliations",
+      "systematic_search_protocol",
+      "all_membership_decisions_reviewed",
+      "core_identity_and_direct_evidence",
+      "complete_sequence:BYB-A",
+      "edition_collation:BYB-A",
+      "complete_sequence:BYB-B",
+      "edition_collation:BYB-B",
+      "complete_sequence:BYB-C",
+      "edition_collation:BYB-C",
+      "complete_sequence:BYB-D",
+      "edition_collation:BYB-D",
+      "complete_sequence:BYB-E",
+      "edition_collation:BYB-E",
+      "complete_sequence:BYB-F",
+      "edition_collation:BYB-F",
+      "complete_sequence:BYB-G",
+      "edition_collation:BYB-G",
+      "complete_sequence:BYB-H",
+      "edition_collation:BYB-H",
+      "complete_sequence:BYB-I",
+      "edition_collation:BYB-I",
+      "complete_sequence:BYB-J",
+      "edition_collation:BYB-J",
+      "complete_sequence:BYB-K",
+      "edition_collation:BYB-K",
+      "complete_sequence:BYB-L",
+      "edition_collation:BYB-L",
+      "complete_sequence:BYB-M",
+      "edition_collation:BYB-M",
+      "complete_sequence:BYB-N",
+      "edition_collation:BYB-N",
+      "external_crosswalk_decisions",
+      "research_gaps_resolved",
+      "independent_admission_review"
+    ],
+    "policy_version": 1,
+    "ready": false
+  },
+  "as_of": "2026-10-01",
+  "assets": [
+    {
+      "delivery": "external_reference_only",
+      "id": "ASSET-COMMONS-BEIRUT-2019",
+      "inscription_id": null,
+      "kind": "photograph",
+      "modifications": "None; external original linked, image bytes not bundled.",
+      "rights": {
+        "attribution": "Onceinawhile, National Museum of Beirut – Byblos syllabary (2019), Wikimedia Commons, CC BY-SA 4.0. No modifications.",
+        "creator": "Onceinawhile",
+        "license": "CC-BY-SA-4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "reference": "Wikimedia Commons file page revision 772165898, Licensing section",
+        "scope": "The photograph only; external reference. Preserve credit and licence link; distribute adaptations under CC BY-SA 4.0 or compatible licence.",
+        "status": "licensed"
+      },
+      "source_id": "commons-beirut-photo",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/National_Museum_of_Beirut_%E2%80%93_Byblos_syllabary.jpg",
+      "surface_id": null
+    }
+  ],
+  "crosswalk": {
+    "entries": [
+      {
+        "id": "OCBI-ENTRY-01",
+        "locator": "record b/c fields, entry 1",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-A",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "a",
+        "provider_plate_path": "plates/byblos/a.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "id": "OCBI-ENTRY-02",
+        "locator": "record b/c fields, entry 2",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-B",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "b",
+        "provider_plate_path": "plates/byblos/b.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "id": "OCBI-ENTRY-03",
+        "locator": "record b/c fields, entry 3",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-C",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "c",
+        "provider_plate_path": "plates/byblos/c.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "id": "OCBI-ENTRY-04",
+        "locator": "record b/c fields, entry 4",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-D",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "d",
+        "provider_plate_path": "plates/byblos/d.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "id": "OCBI-ENTRY-05",
+        "locator": "record b/c fields, entry 5",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-E",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "e",
+        "provider_plate_path": "plates/byblos/e.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "id": "OCBI-ENTRY-06",
+        "locator": "record b/c fields, entry 6",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-F",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "f (face a = verso)",
+        "provider_plate_path": "plates/byblos/f.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "id": "OCBI-ENTRY-07",
+        "locator": "record b/c fields, entry 7",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-F",
+        "provider_direction": "LTR",
+        "provider_group": "BYBL",
+        "provider_label": "f (face b = recto)",
+        "provider_plate_path": "plates/byblos/f.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "id": "OCBI-ENTRY-08",
+        "locator": "record b/c fields, entry 8",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-G",
+        "provider_direction": "TDR",
+        "provider_group": "BYBL",
+        "provider_label": "g",
+        "provider_plate_path": "plates/byblos/g.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "id": "OCBI-ENTRY-09",
+        "locator": "record b/c fields, entry 9",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-H",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "h",
+        "provider_plate_path": "plates/byblos/h.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "id": "OCBI-ENTRY-10",
+        "locator": "record b/c fields, entry 10",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-I",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "i",
+        "provider_plate_path": "plates/byblos/i.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "id": "OCBI-ENTRY-11",
+        "locator": "record b/c fields, entry 11",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-J",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "j",
+        "provider_plate_path": "plates/byblos/j.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "id": "OCBI-ENTRY-12",
+        "locator": "record b/c fields, entry 12",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-K",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "k",
+        "provider_plate_path": "plates/byblos/k.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "id": "OCBI-ENTRY-13",
+        "locator": "record b/c fields, entry 13",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-L",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "l",
+        "provider_plate_path": "plates/byblos/l.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "id": "OCBI-ENTRY-14",
+        "locator": "record b/c fields, entry 14",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-M",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "m",
+        "provider_plate_path": "plates/byblos/m.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "id": "OCBI-ENTRY-15",
+        "locator": "record b/c fields, entry 15",
+        "mapping_status": "label_match_only",
+        "proposed_project_record": "BYB-N",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "n",
+        "provider_plate_path": "plates/byblos/n.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-o_recto"
+          }
+        ],
+        "id": "OCBI-ENTRY-16",
+        "locator": "record b/c fields, entry 16",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI3",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "o (recto)",
+        "provider_plate_path": "plates/byblos/o_recto.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-o_recto"
+          }
+        ],
+        "id": "OCBI-ENTRY-17",
+        "locator": "record b/c fields, entry 17",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI3",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "o (verso) Var. 1",
+        "provider_plate_path": "plates/byblos/o_verso.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-o_recto"
+          }
+        ],
+        "id": "OCBI-ENTRY-18",
+        "locator": "record b/c fields, entry 18",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI3",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "o (verso) Var. 2",
+        "provider_plate_path": "plates/byblos/o_verso.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-p"
+          }
+        ],
+        "id": "OCBI-ENTRY-19",
+        "locator": "record b/c fields, entry 19",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI4",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "p",
+        "provider_plate_path": "plates/byblos/p.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-q"
+          }
+        ],
+        "id": "OCBI-ENTRY-20",
+        "locator": "record b/c fields, entry 20",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-MEGIDDO-RING",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "q",
+        "provider_plate_path": "plates/byblos/q.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-r"
+          }
+        ],
+        "id": "OCBI-ENTRY-21",
+        "locator": "record b/c fields, entry 21",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+        "provider_direction": "TDR",
+        "provider_group": "BYBL",
+        "provider_label": "ra",
+        "provider_plate_path": "plates/byblos/r.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-r"
+          }
+        ],
+        "id": "OCBI-ENTRY-22",
+        "locator": "record b/c fields, entry 22",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+        "provider_direction": "TDR",
+        "provider_group": "BYBL",
+        "provider_label": "rb (Var. 1)",
+        "provider_plate_path": "plates/byblos/r.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-r"
+          }
+        ],
+        "id": "OCBI-ENTRY-23",
+        "locator": "record b/c fields, entry 23",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+        "provider_direction": "TDR",
+        "provider_group": "BYBL",
+        "provider_label": "rb (Var. 2)",
+        "provider_plate_path": "plates/byblos/r.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-r"
+          }
+        ],
+        "id": "OCBI-ENTRY-24",
+        "locator": "record b/c fields, entry 24",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+        "provider_direction": "TDR",
+        "provider_group": "BYBL",
+        "provider_label": "rb (Var. 3)",
+        "provider_plate_path": "plates/byblos/r.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-r"
+          }
+        ],
+        "id": "OCBI-ENTRY-25",
+        "locator": "record b/c fields, entry 25",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+        "provider_direction": "TDR",
+        "provider_group": "BYBL",
+        "provider_label": "rc (Var. 1)",
+        "provider_plate_path": "plates/byblos/r.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-r"
+          }
+        ],
+        "id": "OCBI-ENTRY-26",
+        "locator": "record b/c fields, entry 26",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+        "provider_direction": "TDR",
+        "provider_group": "BYBL",
+        "provider_label": "rc (Var. 2) ",
+        "provider_plate_path": "plates/byblos/r.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-r"
+          }
+        ],
+        "id": "OCBI-ENTRY-27",
+        "locator": "record b/c fields, entry 27",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+        "provider_direction": "TDR",
+        "provider_group": "BYBL",
+        "provider_label": "rc (Var. 3)",
+        "provider_plate_path": "plates/byblos/r.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-r"
+          }
+        ],
+        "id": "OCBI-ENTRY-28",
+        "locator": "record b/c fields, entry 28",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "rd",
+        "provider_plate_path": "plates/byblos/r.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-s"
+          }
+        ],
+        "id": "OCBI-ENTRY-29",
+        "locator": "record b/c fields, entry 29",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-RIETI",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL",
+        "provider_label": "s",
+        "provider_plate_path": "plates/byblos/s.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-t"
+          }
+        ],
+        "id": "OCBI-ENTRY-30",
+        "locator": "record b/c fields, entry 30",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI1",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL?",
+        "provider_label": "t",
+        "provider_plate_path": "plates/byblos/t.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-u"
+          }
+        ],
+        "id": "OCBI-ENTRY-31",
+        "locator": "record b/c fields, entry 31",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-LINEAR-STELA",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL?",
+        "provider_label": "u",
+        "provider_plate_path": "plates/byblos/u.jpg",
+        "provider_source": "BYBL"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-v"
+          }
+        ],
+        "id": "OCBI-ENTRY-32",
+        "locator": "record b/c fields, entry 32",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-TEL-HALIF",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL?",
+        "provider_label": "v",
+        "provider_plate_path": "plates/byblos/v.jpg",
+        "provider_source": "BYBL?"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-w"
+          }
+        ],
+        "id": "OCBI-ENTRY-33",
+        "locator": "record b/c fields, entry 33",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-TELL-JISR",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL?",
+        "provider_label": "w",
+        "provider_plate_path": "plates/byblos/w.jpg",
+        "provider_source": "BYBL?"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-x"
+          }
+        ],
+        "id": "OCBI-ENTRY-34",
+        "locator": "record b/c fields, entry 34",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-ULUBURUN",
+        "provider_direction": "TDR",
+        "provider_group": "BYBL?",
+        "provider_label": "x",
+        "provider_plate_path": "plates/byblos/x.jpg",
+        "provider_source": "BYBL?"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-y"
+          }
+        ],
+        "id": "OCBI-ENTRY-35",
+        "locator": "record b/c fields, entry 35",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-TRIESTE",
+        "provider_direction": "TDR",
+        "provider_group": "BYBL?",
+        "provider_label": "y",
+        "provider_plate_path": "plates/byblos/y.jpg",
+        "provider_source": "BYBL?"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-z"
+          }
+        ],
+        "id": "OCBI-ENTRY-36",
+        "locator": "record b/c fields, entry 36",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-STONE-SEAL-2010",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL?",
+        "provider_label": "z",
+        "provider_plate_path": "plates/byblos/z.jpg",
+        "provider_source": "BYBL?"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-z_a"
+          }
+        ],
+        "id": "OCBI-ENTRY-37",
+        "locator": "record b/c fields, entry 37",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-BALUA",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL?",
+        "provider_label": "a' (Var. 1)",
+        "provider_plate_path": "plates/byblos/z_a.jpg",
+        "provider_source": "BYBL?"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-z_a"
+          }
+        ],
+        "id": "OCBI-ENTRY-38",
+        "locator": "record b/c fields, entry 38",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-BALUA",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL?",
+        "provider_label": "a' (Var. 2)",
+        "provider_plate_path": "plates/byblos/z_a.jpg",
+        "provider_source": "BYBL?"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-z_b"
+          }
+        ],
+        "id": "OCBI-ENTRY-39",
+        "locator": "record b/c fields, entry 39",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-UMM-O3A",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL?",
+        "provider_label": "b'a",
+        "provider_plate_path": "plates/byblos/z_b.jpg",
+        "provider_source": "BYBL?"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-z_b"
+          }
+        ],
+        "id": "OCBI-ENTRY-40",
+        "locator": "record b/c fields, entry 40",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-UMM-O3B",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL?",
+        "provider_label": "b'b",
+        "provider_plate_path": "plates/byblos/z_b.jpg",
+        "provider_source": "BYBL?"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "O-3c labelled example",
+            "source_id": "ocbi-plate-z_b"
+          }
+        ],
+        "id": "OCBI-ENTRY-41",
+        "locator": "record b/c fields, entry 41",
+        "mapping_note": "Provider path z_c.jpg leads to the Kahun slide; the project uses the O-3c caption on z_b.jpg as its provisional evidence reference. Original provider path preserved. Archaeological identity remains unverified.",
+        "mapping_status": "caption_match_only",
+        "project_evidence_source_id": "ocbi-plate-z_b",
+        "proposed_project_record": "BYB-CAND-UMM-O3C",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL?",
+        "provider_label": "b'c",
+        "provider_plate_path": "plates/byblos/z_c.jpg",
+        "provider_source": "BYBL?"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-z_c"
+          }
+        ],
+        "id": "OCBI-ENTRY-42",
+        "locator": "record b/c fields, entry 42",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-KAHUN",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL?",
+        "provider_label": "c'",
+        "provider_plate_path": "plates/byblos/z_c.jpg",
+        "provider_source": "BYBL?"
+      },
+      {
+        "evidence": [
+          {
+            "fields": [
+              "proposed_project_record"
+            ],
+            "locator": "slide caption and matching artifact description",
+            "source_id": "ocbi-plate-z_d"
+          }
+        ],
+        "id": "OCBI-ENTRY-43",
+        "locator": "record b/c fields, entry 43",
+        "mapping_status": "caption_match_only",
+        "proposed_project_record": "BYB-CAND-DEIR-RIFA",
+        "provider_direction": "RTL",
+        "provider_group": "BYBL?",
+        "provider_label": "d'",
+        "provider_plate_path": "plates/byblos/z_d.jpg",
+        "provider_source": "BYBL?"
+      }
+    ],
+    "metadata_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+    "metadata_source_id": "ocbi-source",
+    "scope": "Labels only; no sign sequences or source code included.",
+    "source_id": "ocbi-current",
+    "source_sha256": "cde1cabe09284eca13e7d82d1673f2db165758319730b3faeda41829ff6e9f29"
+  },
+  "format": "byblos-review-packet-v1",
+  "gaps": [
+    {
+      "id": "GAP-COUNT",
+      "source_ids": [
+        "mnamon-merlo",
+        "maeder-baf"
+      ],
+      "status": "open",
+      "task": "Reconcile 14 entries with 15 reported inscriptions using object, surface and edition crosswalks."
+    },
+    {
+      "id": "GAP-FRAGMENTS",
+      "source_ids": [
+        "maeder-baf"
+      ],
+      "status": "open",
+      "task": "Identify the 28 proposed fragments individually, their sources, and membership arguments; do not assume they are disjoint from other counts."
+    },
+    {
+      "id": "GAP-DIGITAL",
+      "source_ids": [
+        "maeder-baf"
+      ],
+      "status": "open",
+      "task": "OCBI located; reconcile provider units and metadata crosswalk, obtain explicit transcription rights and encoding map, inspect edition provenance."
+    },
+    {
+      "id": "GAP-EDITIONS",
+      "source_ids": [
+        "dunand-1945",
+        "dunand-1978"
+      ],
+      "status": "open",
+      "task": "Acquire and inspect original editions; resolve exact bibliography and plates."
+    },
+    {
+      "id": "GAP-BIBLIOGRAPHY",
+      "source_ids": [
+        "mnamon-merlo"
+      ],
+      "status": "open",
+      "task": "Build a systematic bibliographic search log including later additions, reviews and opposing interpretations."
+    },
+    {
+      "id": "GAP-REVIEW",
+      "source_ids": [],
+      "status": "open",
+      "task": "Arrange independent specialist review; none performed."
+    },
+    {
+      "id": "GAP-OCBI",
+      "source_ids": [
+        "ocbi-current"
+      ],
+      "status": "open",
+      "task": "Map all 43 rendered entries to objects, faces, readings and inscription identities; distinguish provider certainty from our assessment."
+    },
+    {
+      "id": "GAP-RIGHTS",
+      "source_ids": [
+        "ocbi-current",
+        "dunand-1945",
+        "dunand-1978"
+      ],
+      "status": "open",
+      "task": "Record explicit permission or licence for every proposed redistributed sequence, image or plate."
+    },
+    {
+      "id": "GAP-SIGNS",
+      "source_ids": [
+        "dunand-1945",
+        "vita-zamora-2018"
+      ],
+      "status": "open",
+      "task": "Collate published sign lists and tokens; do not instantiate unseen signs from reported inventory sizes."
+    },
+    {
+      "id": "GAP-TRANSCRIPTION",
+      "source_ids": [
+        "dunand-1945",
+        "dunand-1978",
+        "ocbi-current"
+      ],
+      "status": "open",
+      "task": "Prepare rights-supported sign sequences for each in-scope inscription with uncertainties and independent checks."
+    },
+    {
+      "evidence": [
+        {
+          "fields": [
+            "resolution"
+          ],
+          "locator": "Byblos.elm b'c record at commit 69b4cc2822493146045cb9969586bf5bd9195380",
+          "source_id": "ocbi-source"
+        },
+        {
+          "fields": [
+            "resolution"
+          ],
+          "locator": "O-3c caption",
+          "source_id": "ocbi-plate-z_b"
+        },
+        {
+          "fields": [
+            "resolution"
+          ],
+          "locator": "Kahun caption",
+          "source_id": "ocbi-plate-z_c"
+        }
+      ],
+      "id": "GAP-PROVIDER-LINK",
+      "resolution": "Project reference corrected to ocbi-plate-z_b for the O-3c caption; original provider path z_c.jpg retained as a documented discrepancy. This resolves the local evidence pointer, not archaeological identity or the upstream code.",
+      "source_ids": [
+        "ocbi-source",
+        "ocbi-plate-z_b",
+        "ocbi-plate-z_c"
+      ],
+      "status": "resolved",
+      "task": "Resolve b'c link to Kahun slide versus O-3c label on separate slide."
+    },
+    {
+      "id": "GAP-DIRECTION-M",
+      "source_ids": [
+        "vita-zamora-2018",
+        "ocbi-source"
+      ],
+      "status": "open",
+      "task": "Collate m: conditional left-to-right in survey, right-to-left in provider config."
+    },
+    {
+      "id": "GAP-UMM",
+      "source_ids": [
+        "ocbi-plate-z_b",
+        "schwartz-cv",
+        "schwartz-2021-publisher",
+        "schwartz-author-abstract"
+      ],
+      "status": "open",
+      "task": "Obtain Schwartz 2010/2021 full text; reconcile four cylinders with three O-3 labels, establish excavation identities, evaluate alphabetic alternative; resolve XIII/XV bibliography conflict."
+    },
+    {
+      "id": "GAP-PHOTO-IDENTITY",
+      "source_ids": [
+        "commons-beirut-photo"
+      ],
+      "status": "open",
+      "task": "Collate the licensed museum photograph with original plates and museum accession records before assigning it to a core inscription or surface."
+    }
+  ],
+  "limitations": [
+    "Reported line targets are not independent surface verification.",
+    "An empty line-target list means unknown inventory, not zero lines.",
+    "This packet is never automatically imported as evidence or approval."
+  ],
+  "purpose": "Review task inventory; pending responses are not approvals or corpus transcriptions.",
+  "reviewed_bundle_sha256": "fd22f65e25aebbe54ea02783ec9353bfeba93f8c53d7377266953e4373fb30af",
+  "scientific_1_0_ready": false,
+  "sources": [
+    {
+      "accessed": "2026-10-01",
+      "citation": "Paolo Merlo, Byblos (Pseudo-hieroglyphic), Mnamon, updated March 2022.",
+      "consultation": "consulted_online",
+      "doi": "10.25429/sns.it/lettere/mnamon016",
+      "id": "mnamon-merlo",
+      "rights": {
+        "scope": "No images or transcriptions imported.",
+        "status": "not_assessed"
+      },
+      "type": "scholarly_guide",
+      "url": "https://mnamon.sns.it/index.php?id=3&lang=en&page=Scrittura"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Michael Mäder (2022), Detecting word boundaries in an undeciphered script: The Byblos syllabary. BAF-Online 4(1), proceedings of the 2019 forum.",
+      "consultation": "abstract_only",
+      "doi": "10.22012/baf.2019.03",
+      "id": "maeder-baf",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "scope": "Journal item; does not establish rights for a separately held corpus.",
+        "status": "license_stated"
+      },
+      "type": "research_abstract",
+      "url": "https://bop.unibe.ch/baf/article/view/7186"
+    },
+    {
+      "accessed": null,
+      "bibliographic_claims": [
+        {
+          "claim": "Contemporary reference gives Beirut 1945.",
+          "locator": "p. 36, footnote 1",
+          "source_id": "dussaud-1946"
+        },
+        {
+          "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined.",
+          "locator": "Publication Date and Edition Identifiers",
+          "source_id": "openlibrary-dunand"
+        }
+      ],
+      "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+      "consultation": "not_consulted",
+      "doi": null,
+      "id": "dunand-1945",
+      "rights": {
+        "scope": "Obtain and examine edition before using plates or transcriptions.",
+        "status": "not_assessed"
+      },
+      "type": "primary_edition_lead",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "bibliographic_claims": [
+        {
+          "appeared_year": null,
+          "locator": "entry 4",
+          "nominal_year": 1978,
+          "pages": "52–58",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "appeared_year": 1981,
+          "locator": "Bibliographic Details / RAW",
+          "nominal_year": 1978,
+          "pages": "51–59",
+          "source_id": "keibi-dunand-1978"
+        }
+      ],
+      "citation": "M. Dunand, Nouvelles inscriptions pseudo-hiéroglyphiques découvertes à Byblos. Bulletin du Musée de Beyrouth 30 (nominal 1978). Pagination and actual publication year disputed in secondary metadata.",
+      "consultation": "not_consulted",
+      "doi": null,
+      "id": "dunand-1978",
+      "rights": {
+        "scope": "Publication not yet obtained.",
+        "status": "not_assessed"
+      },
+      "type": "primary_edition_lead",
+      "url": null
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Mnamon, Byblos bibliography.",
+      "consultation": "consulted_online",
+      "doi": null,
+      "id": "mnamon-bibliography",
+      "notes": "",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "bibliography",
+      "url": "https://mnamon.sns.it/index.php?id=3&lang=en&page=Bibliografia"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "J.-P. Vita and J.-Á. Zamora (2018), The Byblos Script. Paths into Script Formation in the Ancient Mediterranean, SMEA NS Supplemento 1, pp. 75–102.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "vita-zamora-2018",
+      "notes": "Author-hosted text inspected, especially pp. 77–89; figures not independently collated.",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "scholarly_survey",
+      "url": "https://www.academia.edu/37706221/The_Byblos_Script"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "M. Dunand (1930), Nouvelle inscription découverte à Byblos. Syria 11(1), pp. 1–10.",
+      "consultation": "selected_pages",
+      "doi": "10.3406/syria.1930.3456",
+      "id": "dunand-1930",
+      "notes": "Pages 1–2 read online; PDF endpoint returned HTTP 403.",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "primary_edition",
+      "url": "https://www.persee.fr/doc/syria_0039-7946_1930_num_11_1_3456"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "S. Izre'el (1988), review of Mendenhall, The Syllabic Inscriptions from Byblos. JAOS 108(3), pp. 519–521.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "izreel-1988",
+      "notes": "The PDF also contains adjacent reviews; only the Byblos review is relevant.",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "critical_review",
+      "url": "https://www.tau.ac.il/~izreel/publications/RevMendenhall_JAOS1988.pdf"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "E. Schmutz and M. Mäder, Die Byblos-Schrift: Beurteilung des Entzifferungsvorschlags von F. Woudhuizen und J. Best anhand der GEAS-Methodologie. Assessing Decipherment Attempts Series 1, No. 2024/1.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "schmutz-maeder-2024",
+      "notes": "Title page visually checked. PDF cites access in July 2025; issue designation is not a proven file publication date. No peer-review status inferred.",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "methodological_critique",
+      "url": "https://center-for-decipherment.ch/journal/2024_01__Schmutz-%26-Maeder__Die-Byblos-Schrift_Beurteilung-Woudhuizen-Best.pdf"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "KeiBi online, Dunand 1978 record KEI00067546.",
+      "consultation": "consulted_online",
+      "doi": null,
+      "id": "keibi-dunand-1978",
+      "notes": "Reports BMB 30, pp. 51–59, nominal 1978, appeared 1981. Retain conflict with Mnamon pp. 52–58.",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "library_catalogue",
+      "url": "https://ocb.uni-tuebingen.de/Record/KEI00067546/Details"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS, Introduction to the decipherment tool and Byblicon citation guidance.",
+      "consultation": "consulted_online",
+      "doi": null,
+      "id": "ocbi-introduction",
+      "notes": "Font OFL permission is separate from corpus and image rights; libre software wording is not a specified dataset licence.",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "provider_documentation",
+      "url": "https://center-for-decipherment.ch/tool-introduction/"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / Byblicon, Online Corpus of Byblos Inscriptions (OCBI), live compiled application.",
+      "consultation": "metadata_only",
+      "doi": null,
+      "id": "ocbi-current",
+      "notes": "Only introduction and record labels assessed. Locally retrieved JavaScript SHA-256 cde1cabe09284eca13e7d82d1673f2db165758319730b3faeda41829ff6e9f29; no source bundle or sequences committed.",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "digital_corpus",
+      "url": "https://center-for-decipherment.ch/tool/elamicon.js"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Internet Archive catalogue, Byblia grammata, bybliagrammatado0000duna.",
+      "consultation": "metadata_only",
+      "doi": null,
+      "id": "archive-dunand",
+      "notes": "No suitable downloadable files displayed; original book not inspected.",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "library_catalogue",
+      "url": "https://archive.org/details/bybliagrammatado0000duna"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Hans van Deukeren, stylized redraw of spatula e, Wikimedia Commons.",
+      "consultation": "metadata_only",
+      "doi": null,
+      "id": "commons-e",
+      "notes": "Image has added alternative interpretations; low resolution and not an artifact photograph. Not imported.",
+      "rights": {
+        "license": "CC-BY-SA-3.0",
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "license_stated"
+      },
+      "type": "derivative_image_lead",
+      "url": "https://commons.wikimedia.org/wiki/File:Byblos_syll_spat_e.png"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Elamicon project, README legalese and encoding notes.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-repository",
+      "notes": "Permissive licence promised, not specified. Font rights are separate. Private Use Area is used.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "type": "provider_documentation",
+      "url": "https://github.com/elamicon/elamicon/blob/69b4cc2822493146045cb9969586bf5bd9195380/README.md"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Elamicon / GEAS, src/Scripts/Byblos.elm.",
+      "consultation": "metadata_only",
+      "doi": null,
+      "id": "ocbi-source",
+      "notes": "Blob 3c3224f32596b493fd5bb634fff3b8000e591b14. Labels, plate links, directions and source grouping inspected. No sequences, font data or application code reused.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "type": "digital_corpus",
+      "url": "https://github.com/elamicon/elamicon/blob/69b4cc2822493146045cb9969586bf5bd9195380/src/Scripts/Byblos.elm"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "G. M. Schwartz, institutional CV (2025), bibliography.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "schwartz-cv",
+      "notes": "Confirms 2010 and 2021 publication leads; does not establish Byblos membership.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "type": "author_bibliography",
+      "url": "https://krieger.jhu.edu/near-east/wp-content/uploads/sites/73/2016/03/SCHWARTZ-CV-2025.ACC_.pdf"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "B. E. Colless (2011), Amulet from Deir Rifa, Cryptcracker.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "colless-deir-rifa",
+      "notes": "Reports Petrie Museum UC 51354; museum identity not independently verified.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "type": "interpretation_proposal",
+      "url": "https://cryptcracker.blogspot.com/2011/09/from-deir-rifa-gordon-hamilton-has.html"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "AUB Press, The Syllabic Inscriptions from Byblos (publisher description).",
+      "consultation": "consulted_online",
+      "doi": null,
+      "id": "aub-mendenhall",
+      "notes": "Publisher synopsis is not independent validation of decipherment claims.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "type": "publisher_catalogue",
+      "url": "https://www.aub.edu.lb/aubpress/pages/thesyllabic.aspx"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "KeiBi online, Schwartz 2010, KEI00104326.",
+      "consultation": "consulted_online",
+      "doi": null,
+      "id": "keibi-schwartz",
+      "notes": "Bibliographic metadata only.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "type": "library_catalogue",
+      "url": "https://vergil.uni-tuebingen.de/keibi/Record/KEI00104326/Description"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide o_recto.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-o_recto",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "c2c783a9ffd249cf1aac8c682c01a61d82df1a20",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "71d065c55a329ec0c1315455ef1017d4ca5c639ecb3309fb4e0df50398f759c8"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/o_recto.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide p.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-p",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "865c9b2172fc7303b3546e063408c3544fcf3883",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "4beb1328f6a9c2506788a879920a3eac07c5734c8f568fddfbc8c646e290e670"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/p.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide q.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-q",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "2ccc58dbcd05875b31f53a17bcc98d8d45945c2e",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "65ceb6816342a9b2966347070b619911f4dada12d2f0f5fe7aae1e2e14ca4dc8"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/q.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide r.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-r",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "8c836709324d129cfc9d4638c3b07a230c5498dc",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "368d48b733d7b10e53073d2c94dfaab3695bd238f3bdf86b14f8f035a50bdb81"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/r.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide s.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-s",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "fd1932d9865d28959e6f77786183add45f12eeba",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "399fd3c062f3724f733775965046f00269facbec5575bbed41b4dd85d56f4f70"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/s.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide t.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-t",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "fc0e77cf7b5c113221a475c9f6c5c0d0442876d0",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "9b7cc25fdef24574bce9d47967d320ba117b97e9376a35489baa5eb86adc2fa5"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/t.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide u.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-u",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "96c9353700f670b5e4578bf77c5e37c35332f2ac",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "5fe993252948f6b1733d4254b34650c34026f73422d91e02e1585b53e4c1ff83"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/u.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide v.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-v",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "926855483963e25abc5f62c3cc35f7af938101d9",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "7b88ee26991b350a4b43fd08ce411f9e578cf341fb15c0dc376e3056cf1f2013"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/v.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide w.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-w",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "6df7dceba20644ac11efd6657c40592e1b6d61fa",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "f2bfb521ea245e21caeacc13fc09fb367a071baeb9280a12c375ff4a0a04d537"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/w.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide x.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-x",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "6a3bde57df0d5353b9141512f7a2ff1e22615255",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "0d0b5e9f1156514727f3e46863b35eec850d83679f047696de3abbfd2f5d93aa"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/x.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide y.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-y",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "3568d8fb8aa2646b319a456f49f519667db2300a",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "feb44ef39555089b425ad5e495c92b46f14f2d385a61041b0243742f6fb3cd48"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/y.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide z.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-z",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "7107c5e21499f939e67548c34cdd94c0a63c56c4",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "62c945570f1948b7211f6c7fead5dc88ff1e9cea2160244664eea0f7c36d9163"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide z_a.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-z_a",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "0d057caa75523dea514c8ea0b8eb69ccad615cf9",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "6d1c83de7493bd7dec885ffa11b7d600479e3cb867caa15c8b15c046c670edea"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z_a.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide z_b.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-z_b",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "5007f9b32fa5c8e565fb356fc0b131ee1352e92e",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "a3f1d2f8127f588783d028e3e86393d9782862f055430405dbabc4f4e757c2f0"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z_b.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide z_c.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-z_c",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "00e79941943ee0d371675ae51081165acc48dbf5",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "d3f6e1a281b15a2bd957bc603d8d7e0d7c33765150f6f6a6fb0e252525ace34f"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z_c.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "GEAS / OCBI, explanatory slide z_d.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "ocbi-plate-z_d",
+      "notes": "Caption visually inspected. Photographs and scholarly excerpts retain separate underlying rights. Caption placeholders are not facts.",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "snapshot": {
+        "repository_blob_sha": "fa68dcaf5cf9c4f78551603bc3b4d2b9fbe87a9f",
+        "repository_commit": "69b4cc2822493146045cb9969586bf5bd9195380",
+        "retrieved_sha256": "4ce1d8ab48e62b5623f3a29c0a78d0290b3a37bbfa6fb388bd5e72ff36e14049"
+      },
+      "type": "provider_slide",
+      "url": "https://center-for-decipherment.ch/tool/plates/byblos/z_d.jpg"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Édouard Dhorme (1946), Déchiffrement des inscriptions pseudo-hiéroglyphiques de Byblos, Syria 25(1):1–35.",
+      "consultation": "selected_pages",
+      "doi": "10.3406/syria.1946.4447",
+      "id": "dhorme-1946",
+      "notes": "Page 1 read; proposed decipherment is not accepted as canonical. Its reference to Syria 1929 conflicts with the inspected 1930 edition.",
+      "rights": {
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "historical_decipherment_proposal",
+      "url": "https://www.persee.fr/doc/syria_0039-7946_1946_num_25_1_4447"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "René Dussaud (1946), L’origine de l’alphabet et son évolution première, d’après les découvertes de Byblos, Syria 25(1):36–52.",
+      "consultation": "selected_pages",
+      "doi": "10.3406/syria.1946.4492",
+      "id": "dussaud-1946",
+      "notes": "Page 36 and bibliographic footnote read; independent contemporary witness to the 1945 book, not inspection of that book.",
+      "rights": {
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "historical_critical_study",
+      "url": "https://www.persee.fr/doc/syria_0039-7946_1946_num_25_1_4492"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Glenn M. Schwartz (2021), Non-cuneiform writing at third-millennium Umm el-Marra, Syria: evidence of an early alphabetic tradition?, Pasiphae XV:255–266 (publisher metadata).",
+      "consultation": "metadata_only",
+      "doi": "10.19272/202133301018",
+      "id": "schwartz-2021-publisher",
+      "notes": "Publisher lists XV; author CV lists XIII. Full text not inspected; institutional access or purchase required.",
+      "rights": {
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "publisher_metadata",
+      "url": "https://www.torrossa.com/en/resources/an/4774696"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Glenn M. Schwartz, author-hosted abstract of Non-cuneiform writing at third-millennium Umm el-Marra, Syria.",
+      "consultation": "abstract_only",
+      "doi": null,
+      "id": "schwartz-author-abstract",
+      "notes": "Abstract describes four cylinders from Tomb 4 and argues few convincing Byblian parallels; proposes an early alphabetic alternative. Not a demonstrated decipherment or mapping of O-3a/b/c.",
+      "rights": {
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "author_abstract",
+      "url": "https://johnshopkins.academia.edu/GlennSchwartz/Papers"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Onceinawhile (2019), National Museum of Beirut – Byblos syllabary, photograph, Wikimedia Commons.",
+      "consultation": "consulted_online",
+      "doi": null,
+      "id": "commons-beirut-photo",
+      "notes": "Photograph visually inspected via public original; edition label and museum inventory number not established from this photograph. Original-byte retrieval returned HTTP 403; no checksum asserted.",
+      "rights": {
+        "license": "CC-BY-SA-4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "scope": "Photograph only, per creator declaration on the file page; attribution, licence link and ShareAlike conditions. No transfer to OCBI sequences or publication plates.",
+        "status": "licensed"
+      },
+      "type": "artifact_photograph",
+      "url": "https://commons.wikimedia.org/w/index.php?title=File:National_Museum_of_Beirut_–_Byblos_syllabary.jpg&oldid=772165898"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Harvey Sobelman (1961), The Proto-Byblian Inscriptions: A Fresh Approach, JSS 6(2):226–245.",
+      "consultation": "metadata_only",
+      "doi": "10.1093/jss/6.2.226",
+      "id": "sobelman-publisher",
+      "notes": "Publisher citation inspected; full text is available for purchase, not acquired.",
+      "rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "publisher_metadata",
+      "url": "https://academic.oup.com/jss/article-abstract/6/2/226/1606946"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Benjamin Sass (2019), The pseudo-hieroglyphic inscriptions from Byblos, their elusive dating, and their affinities with the early Phoenician inscriptions, in Ph. Abrahami and L. Battini (eds.), Cultures et sociétés syro-mésopotamiennes, pp. 157–180.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "sass-2019",
+      "notes": "Author-hosted sections on chronology and arrowhead 13104, pp. 167–169, inspected. Earlier and Iron Age scenarios are competing proposals, not established dates.",
+      "rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "critical_study",
+      "url": "https://www.academia.edu/38559714"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Ben Haring (2023), Hieroglyphs, Pseudo-Scripts and Alphabets: Their Use and Reception in Ancient Egypt and Neighbouring Regions. Cambridge University Press.",
+      "consultation": "metadata_only",
+      "doi": "10.1017/9781009400800",
+      "id": "haring-2023",
+      "notes": "Publisher metadata and references inspected; online 22 November 2023, print 21 December 2023. Full text not inspected.",
+      "rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "scholarly_study",
+      "url": "https://www.cambridge.org/core/elements/abs/hieroglyphs-pseudoscripts-and-alphabets/98F6CB75E5F4D8A5EC4746318C1A33E8"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "DEAPS, KAI 003, Digital Editions of Aramaic and Phoenician Sources, Ohio State University.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "deaps-kai3",
+      "notes": "General Notes and bibliography read. Study of the Phoenician overtext; underlying-layer attribution not independently verified. Metadata Material field says Bronze Flask while notes say spatula; no silent reconciliation.",
+      "rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "scholarly_digital_edition",
+      "url": "https://deaps.osu.edu/text_objects/11443"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "DEAPS, KAI 004, Digital Editions of Aramaic and Phoenician Sources, Ohio State University.",
+      "consultation": "selected_sections",
+      "doi": null,
+      "id": "deaps-kai4",
+      "notes": "General Notes and bibliography read. Notes report Byblos Castle Museum, while Collection says In Situ at Find-Spot; no silent reconciliation. Phoenician dates and line counts do not automatically date/count the underlying layer.",
+      "rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "scholarly_digital_edition",
+      "url": "https://deaps.osu.edu/text_objects/11444"
+    },
+    {
+      "accessed": "2026-10-01",
+      "citation": "Open Library, Byblia grammata, edition OL6188790M, catalogue record.",
+      "consultation": "metadata_only",
+      "doi": null,
+      "id": "openlibrary-dunand",
+      "notes": "Lists work first published 1945, this edition 1946, OCLC 1191221 and additions/corrections leaf. Original book unexamined; catalogue Borrow button is not acquired access.",
+      "rights": {
+        "scope": "Factual catalogue metadata only; book text and plates not redistributed.",
+        "status": "not_assessed"
+      },
+      "type": "library_catalogue",
+      "url": "https://openlibrary.org/books/OL6188790M/Byblia_grammata"
+    }
+  ],
+  "tasks": [
+    {
+      "line_targets": [],
+      "membership": "reported_core",
+      "primary_edition_lead": {
+        "accessed": null,
+        "bibliographic_claims": [
+          {
+            "claim": "Contemporary reference gives Beirut 1945.",
+            "locator": "p. 36, footnote 1",
+            "source_id": "dussaud-1946"
+          },
+          {
+            "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined.",
+            "locator": "Publication Date and Edition Identifiers",
+            "source_id": "openlibrary-dunand"
+          }
+        ],
+        "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+        "consultation": "not_consulted",
+        "doi": null,
+        "id": "dunand-1945",
+        "rights": {
+          "scope": "Obtain and examine edition before using plates or transcriptions.",
+          "status": "not_assessed"
+        },
+        "type": "primary_edition_lead",
+        "url": null
+      },
+      "record": {
+        "date_claims": [],
+        "dimensions_mm": {
+          "height": 500,
+          "length": 670,
+          "thickness_mean": 200
+        },
+        "discovery_context": "Reused in lower courses of a domestic cistern near its southwest corner; not an undisturbed original deposition.",
+        "edition_label": "a",
+        "evidence": [
+          {
+            "fields": [
+              "edition_label",
+              "material",
+              "object_type",
+              "membership"
+            ],
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          },
+          {
+            "fields": [
+              "dimensions_mm",
+              "discovery_context"
+            ],
+            "locator": "p. 1",
+            "source_id": "dunand-1930"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-A",
+        "material": "stone",
+        "membership": "reported_core",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "stele",
+        "open_tasks": [
+          "Examine primary edition and precise page/plate.",
+          "Verify physical object and museum identity.",
+          "Record surfaces and direction from evidence.",
+          "Transcribe with source and uncertainty.",
+          "Obtain independent review.",
+          "Primary metadata partly checked; plate and sign sequences still uncollated."
+        ],
+        "primary_edition_lead": "dunand-1945",
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-A",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "reported_core",
+      "primary_edition_lead": {
+        "accessed": null,
+        "bibliographic_claims": [
+          {
+            "claim": "Contemporary reference gives Beirut 1945.",
+            "locator": "p. 36, footnote 1",
+            "source_id": "dussaud-1946"
+          },
+          {
+            "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined.",
+            "locator": "Publication Date and Edition Identifiers",
+            "source_id": "openlibrary-dunand"
+          }
+        ],
+        "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+        "consultation": "not_consulted",
+        "doi": null,
+        "id": "dunand-1945",
+        "rights": {
+          "scope": "Obtain and examine edition before using plates or transcriptions.",
+          "status": "not_assessed"
+        },
+        "type": "primary_edition_lead",
+        "url": null
+      },
+      "record": {
+        "date_claims": [],
+        "edition_label": "b",
+        "evidence": [
+          {
+            "fields": [
+              "edition_label",
+              "material",
+              "object_type",
+              "membership"
+            ],
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-B",
+        "material": "bronze",
+        "membership": "reported_core",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "spatula",
+        "open_tasks": [
+          "Examine primary edition and precise page/plate.",
+          "Verify physical object and museum identity.",
+          "Record surfaces and direction from evidence.",
+          "Transcribe with source and uncertainty.",
+          "Obtain independent review."
+        ],
+        "primary_edition_lead": "dunand-1945",
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-B",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 4,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 5,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 6,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 7,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 8,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 9,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 10,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 11,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 12,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 13,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 77",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-C-B"
+        }
+      ],
+      "membership": "reported_core",
+      "primary_edition_lead": {
+        "accessed": null,
+        "bibliographic_claims": [
+          {
+            "claim": "Contemporary reference gives Beirut 1945.",
+            "locator": "p. 36, footnote 1",
+            "source_id": "dussaud-1946"
+          },
+          {
+            "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined.",
+            "locator": "Publication Date and Edition Identifiers",
+            "source_id": "openlibrary-dunand"
+          }
+        ],
+        "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+        "consultation": "not_consulted",
+        "doi": null,
+        "id": "dunand-1945",
+        "rights": {
+          "scope": "Obtain and examine edition before using plates or transcriptions.",
+          "status": "not_assessed"
+        },
+        "type": "primary_edition_lead",
+        "url": null
+      },
+      "record": {
+        "date_claims": [],
+        "edition_label": "c",
+        "evidence": [
+          {
+            "fields": [
+              "edition_label",
+              "material",
+              "object_type",
+              "membership"
+            ],
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-C",
+        "material": "bronze",
+        "membership": "reported_core",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "tablet",
+        "open_tasks": [
+          "Examine primary edition and precise page/plate.",
+          "Verify physical object and museum identity.",
+          "Record surfaces and direction from evidence.",
+          "Transcribe with source and uncertainty.",
+          "Obtain independent review."
+        ],
+        "primary_edition_lead": "dunand-1945",
+        "review_status": "unreviewed",
+        "surfaces": [
+          "BYB-C-A",
+          "BYB-C-B"
+        ],
+        "transcription": null
+      },
+      "record_id": "BYB-C",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "reported_inventory_requires_completeness_check"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Byblos arrowhead 13104, isolated mark",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note",
+              "reported_excavation_identifier"
+            ],
+            "locator": "p. 169, Figure 17 and arrowhead discussion; Byblos II pl. 177 cited",
+            "source_id": "sass-2019"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-ARROWHEAD-13104",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Sass compares its mark to Dunand G13. A single sign resemblance does not establish Byblos writing. Stratified context and precise date are unestablished.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "arrowhead",
+        "primary_edition_lead": null,
+        "reported_excavation_identifier": "13104",
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-ARROWHEAD-13104",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Balu'a stele",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "material"
+            ],
+            "locator": "caption and labelled example",
+            "source_id": "ocbi-plate-z_a"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-BALUA",
+        "material": "basalt",
+        "membership": "disputed",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "stele",
+        "open_tasks": [
+          "Examine cited primary publication.",
+          "Assess writing and script attribution.",
+          "Confirm identity, provenance and duplicates.",
+          "Record counterarguments."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-BALUA",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Cylinder seal published by Garbini and colleagues",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note"
+            ],
+            "locator": "p. 89, fig. 21",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-CYLINDER-2004",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Byblos identification is disputed; do not treat proposed parallel names as an established bilingual.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "cylinder_seal",
+        "open_tasks": [
+          "Examine original publication and artifact evidence.",
+          "Record attribution and counterarguments separately.",
+          "Verify physical identity and provenance.",
+          "Assess any sign sequences and redistribution rights."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-CYLINDER-2004",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Deir Rifa seal-amulet",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership"
+            ],
+            "locator": "caption and labelled example",
+            "source_id": "ocbi-plate-z_d"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-DEIR-RIFA",
+        "material": null,
+        "membership": "disputed",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "seal_amulet",
+        "open_tasks": [
+          "Examine cited primary publication.",
+          "Assess writing and script attribution.",
+          "Confirm identity, provenance and duplicates.",
+          "Record counterarguments."
+        ],
+        "primary_edition_lead": null,
+        "reported_museum_identifier": {
+          "evidence": [
+            {
+              "fields": [
+                "value",
+                "institution"
+              ],
+              "locator": "opening paragraph",
+              "source_id": "colless-deir-rifa"
+            }
+          ],
+          "institution": "Petrie Museum",
+          "value": "UC 51354",
+          "verification": "reported_only"
+        },
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-DEIR-RIFA",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Kahun object with proposed writing",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership"
+            ],
+            "locator": "caption and labelled example",
+            "source_id": "ocbi-plate-z_c"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-KAHUN",
+        "material": null,
+        "membership": "disputed",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "inscribed_object",
+        "open_tasks": [
+          "Examine cited primary publication.",
+          "Assess writing and script attribution.",
+          "Confirm identity, provenance and duplicates.",
+          "Record counterarguments."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-KAHUN",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Egyptian lamp inscription 1",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note"
+            ],
+            "locator": "p. 88, fig. 20d",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-LAMP-1",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Colless attribution; not admitted to core.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "lamp",
+        "open_tasks": [
+          "Examine original publication and artifact evidence.",
+          "Record attribution and counterarguments separately.",
+          "Verify physical identity and provenance.",
+          "Assess any sign sequences and redistribution rights."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-LAMP-1",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Egyptian lamp inscription 2",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note"
+            ],
+            "locator": "p. 88, fig. 20e",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-LAMP-2",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Colless attribution; not admitted to core.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "lamp",
+        "open_tasks": [
+          "Examine original publication and artifact evidence.",
+          "Record attribution and counterarguments separately.",
+          "Verify physical identity and provenance.",
+          "Assess any sign sequences and redistribution rights."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-LAMP-2",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Egyptian lamp inscription 3",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note"
+            ],
+            "locator": "p. 88, fig. 20f",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-LAMP-3",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Colless attribution; not admitted to core.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "lamp",
+        "open_tasks": [
+          "Examine original publication and artifact evidence.",
+          "Record attribution and counterarguments separately.",
+          "Verify physical identity and provenance.",
+          "Assess any sign sequences and redistribution rights."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-LAMP-3",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Linear pseudo-hieroglyphic block",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note",
+              "material"
+            ],
+            "locator": "pp. 85–86, fig. 16",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-LINEAR-STELA",
+        "material": "limestone",
+        "membership": "disputed",
+        "membership_note": "Linear inscription and proposed underlying layer need separate assessment.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "block",
+        "open_tasks": [
+          "Examine original publication and artifact evidence.",
+          "Record attribution and counterarguments separately.",
+          "Verify physical identity and provenance.",
+          "Assess any sign sequences and redistribution rights."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-LINEAR-STELA",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Megiddo ring",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note"
+            ],
+            "locator": "p. 88, fig. 20a; n. 7",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-MEGIDDO-RING",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Alternative alphabetic interpretation reported.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "ring",
+        "open_tasks": [
+          "Examine original publication and artifact evidence.",
+          "Record attribution and counterarguments separately.",
+          "Verify physical identity and provenance.",
+          "Assess any sign sequences and redistribution rights."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-MEGIDDO-RING",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Ahirom inscription underlying layer",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note"
+            ],
+            "locator": "p. 88, fig. 19 and n. 6",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-PALIMPSEST-KAI1",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Especially doubtful identification; retain criticism.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "sarcophagus",
+        "open_tasks": [
+          "Examine original publication and artifact evidence.",
+          "Record attribution and counterarguments separately.",
+          "Verify physical identity and provenance.",
+          "Assess any sign sequences and redistribution rights."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-PALIMPSEST-KAI1",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Spatula associated with KAI 3",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note",
+              "material"
+            ],
+            "locator": "pp. 86–87, fig. 17",
+            "source_id": "vita-zamora-2018"
+          },
+          {
+            "fields": [
+              "membership_note"
+            ],
+            "locator": "General Notes, citing Martin 1961 pp. 60–63",
+            "source_id": "deaps-kai3"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-PALIMPSEST-KAI3",
+        "material": "bronze",
+        "membership": "disputed",
+        "membership_note": "Possible earlier Byblos layer; not the Phoenician text itself.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "spatula",
+        "open_tasks": [
+          "Examine original publication and artifact evidence.",
+          "Record attribution and counterarguments separately.",
+          "Verify physical identity and provenance.",
+          "Assess any sign sequences and redistribution rights."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-PALIMPSEST-KAI3",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Yehimilk inscription underlying layer",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note"
+            ],
+            "locator": "pp. 87–88, fig. 18",
+            "source_id": "vita-zamora-2018"
+          },
+          {
+            "fields": [
+              "membership_note"
+            ],
+            "locator": "General Notes, citing Martin 1961 pp. 66–67",
+            "source_id": "deaps-kai4"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-PALIMPSEST-KAI4",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Proposed earlier layer; visible-trace identification remains attributed.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "block",
+        "open_tasks": [
+          "Examine original publication and artifact evidence.",
+          "Record attribution and counterarguments separately.",
+          "Verify physical identity and provenance.",
+          "Assess any sign sequences and redistribution rights."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-PALIMPSEST-KAI4",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Rieti votive object",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "material"
+            ],
+            "locator": "caption and labelled example",
+            "source_id": "ocbi-plate-s"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-RIETI",
+        "material": "terracotta",
+        "membership": "disputed",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "votive_object",
+        "open_tasks": [
+          "Examine cited primary publication.",
+          "Assess writing and script attribution.",
+          "Confirm identity, provenance and duplicates.",
+          "Record counterarguments."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-RIETI",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Scaraboid seal of unknown origin",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note"
+            ],
+            "locator": "p. 88, fig. 20g",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-SCARABOID",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Uncertain attribution and provenance.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "seal",
+        "open_tasks": [
+          "Examine original publication and artifact evidence.",
+          "Record attribution and counterarguments separately.",
+          "Verify physical identity and provenance.",
+          "Assess any sign sequences and redistribution rights."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-SCARABOID",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Sinai inscription 526",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note"
+            ],
+            "locator": "p. 88, fig. 20b",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-SINAI-526",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Colless attribution; not admitted to core.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "inscription",
+        "open_tasks": [
+          "Examine original publication and artifact evidence.",
+          "Record attribution and counterarguments separately.",
+          "Verify physical identity and provenance.",
+          "Assess any sign sequences and redistribution rights."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-SINAI-526",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Stone seal discussed by Colless",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership"
+            ],
+            "locator": "caption and labelled example",
+            "source_id": "ocbi-plate-z"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-STONE-SEAL-2010",
+        "material": null,
+        "membership": "disputed",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "seal",
+        "open_tasks": [
+          "Examine cited primary publication.",
+          "Assess writing and script attribution.",
+          "Confirm identity, provenance and duplicates.",
+          "Record counterarguments."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-STONE-SEAL-2010",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Tel Halif jar handle",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "material"
+            ],
+            "locator": "caption and labelled example",
+            "source_id": "ocbi-plate-v"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-TEL-HALIF",
+        "material": "clay",
+        "membership": "disputed",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "jar_handle",
+        "open_tasks": [
+          "Examine cited primary publication.",
+          "Assess writing and script attribution.",
+          "Confirm identity, provenance and duplicates.",
+          "Record counterarguments."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-TEL-HALIF",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Tell Jisr sherd",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "material"
+            ],
+            "locator": "caption and labelled example",
+            "source_id": "ocbi-plate-w"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-TELL-JISR",
+        "material": "clay",
+        "membership": "disputed",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "sherd",
+        "open_tasks": [
+          "Examine cited primary publication.",
+          "Assess writing and script attribution.",
+          "Confirm identity, provenance and duplicates.",
+          "Record counterarguments."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-TELL-JISR",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Thebes ostracon",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note"
+            ],
+            "locator": "p. 88, fig. 20c",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-THEBES-OSTRACON",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Colless attribution; not admitted to core.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "ostracon",
+        "open_tasks": [
+          "Examine original publication and artifact evidence.",
+          "Record attribution and counterarguments separately.",
+          "Verify physical identity and provenance.",
+          "Assess any sign sequences and redistribution rights."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-THEBES-OSTRACON",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Trieste plaque",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "membership_note",
+              "material"
+            ],
+            "locator": "p. 88, fig. 20h",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-TRIESTE",
+        "material": "clay",
+        "membership": "disputed",
+        "membership_note": "Proposed attribution outside Byblos.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "plaque",
+        "open_tasks": [
+          "Examine original publication and artifact evidence.",
+          "Record attribution and counterarguments separately.",
+          "Verify physical identity and provenance.",
+          "Assess any sign sequences and redistribution rights."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-TRIESTE",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Uluburun writing-board marks",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership",
+              "material"
+            ],
+            "locator": "caption and labelled example",
+            "source_id": "ocbi-plate-x"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-ULUBURUN",
+        "material": "wood",
+        "membership": "disputed",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "writing_board",
+        "open_tasks": [
+          "Examine cited primary publication.",
+          "Assess writing and script attribution.",
+          "Confirm identity, provenance and duplicates.",
+          "Record counterarguments."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-ULUBURUN",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Schwartz O-3a example",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership"
+            ],
+            "locator": "caption and labelled example",
+            "source_id": "ocbi-plate-z_b"
+          },
+          {
+            "fields": [
+              "membership_note"
+            ],
+            "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+            "source_id": "schwartz-author-abstract"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-UMM-O3A",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Schwartz’s author-hosted abstract reports few convincing Byblian parallels and proposes an early alphabetic alternative. Mapping of these three provider labels to the four reported cylinders is unresolved.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "inscribed_object",
+        "open_tasks": [
+          "Examine cited primary publication.",
+          "Assess writing and script attribution.",
+          "Confirm identity, provenance and duplicates.",
+          "Record counterarguments."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-UMM-O3A",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Schwartz O-3b example",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership"
+            ],
+            "locator": "caption and labelled example",
+            "source_id": "ocbi-plate-z_b"
+          },
+          {
+            "fields": [
+              "membership_note"
+            ],
+            "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+            "source_id": "schwartz-author-abstract"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-UMM-O3B",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Schwartz’s author-hosted abstract reports few convincing Byblian parallels and proposes an early alphabetic alternative. Mapping of these three provider labels to the four reported cylinders is unresolved.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "inscribed_object",
+        "open_tasks": [
+          "Examine cited primary publication.",
+          "Assess writing and script attribution.",
+          "Confirm identity, provenance and duplicates.",
+          "Record counterarguments."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-UMM-O3B",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "disputed",
+      "primary_edition_lead": null,
+      "record": {
+        "date_claims": [],
+        "display_name": "Schwartz O-3c example",
+        "edition_label": null,
+        "evidence": [
+          {
+            "fields": [
+              "display_name",
+              "object_type",
+              "membership"
+            ],
+            "locator": "caption and labelled example",
+            "source_id": "ocbi-plate-z_b"
+          },
+          {
+            "fields": [
+              "membership_note"
+            ],
+            "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+            "source_id": "schwartz-author-abstract"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-CAND-UMM-O3C",
+        "material": null,
+        "membership": "disputed",
+        "membership_note": "Schwartz’s author-hosted abstract reports few convincing Byblian parallels and proposes an early alphabetic alternative. Mapping of these three provider labels to the four reported cylinders is unresolved.",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "inscribed_object",
+        "open_tasks": [
+          "Examine cited primary publication.",
+          "Assess writing and script attribution.",
+          "Confirm identity, provenance and duplicates.",
+          "Record counterarguments."
+        ],
+        "primary_edition_lead": null,
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-CAND-UMM-O3C",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 4,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 5,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 6,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 7,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 8,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 9,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 10,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 11,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 12,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 13,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 14,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 15,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 16,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 17,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 18,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 19,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 20,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 21,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 22,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 4,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 5,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 6,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 7,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 8,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 9,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 10,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 11,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 12,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 13,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 14,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 15,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 16,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 17,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 18,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 77–78",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 19,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-D-B"
+        }
+      ],
+      "membership": "reported_core",
+      "primary_edition_lead": {
+        "accessed": null,
+        "bibliographic_claims": [
+          {
+            "claim": "Contemporary reference gives Beirut 1945.",
+            "locator": "p. 36, footnote 1",
+            "source_id": "dussaud-1946"
+          },
+          {
+            "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined.",
+            "locator": "Publication Date and Edition Identifiers",
+            "source_id": "openlibrary-dunand"
+          }
+        ],
+        "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+        "consultation": "not_consulted",
+        "doi": null,
+        "id": "dunand-1945",
+        "rights": {
+          "scope": "Obtain and examine edition before using plates or transcriptions.",
+          "status": "not_assessed"
+        },
+        "type": "primary_edition_lead",
+        "url": null
+      },
+      "record": {
+        "date_claims": [],
+        "edition_label": "d",
+        "evidence": [
+          {
+            "fields": [
+              "edition_label",
+              "material",
+              "object_type",
+              "membership"
+            ],
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-D",
+        "material": "bronze",
+        "membership": "reported_core",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "tablet",
+        "open_tasks": [
+          "Examine primary edition and precise page/plate.",
+          "Verify physical object and museum identity.",
+          "Record surfaces and direction from evidence.",
+          "Transcribe with source and uncertainty.",
+          "Obtain independent review."
+        ],
+        "primary_edition_lead": "dunand-1945",
+        "review_status": "unreviewed",
+        "surfaces": [
+          "BYB-D-A",
+          "BYB-D-B"
+        ],
+        "transcription": null
+      },
+      "record_id": "BYB-D",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "reported_inventory_requires_completeness_check"
+    },
+    {
+      "line_targets": [],
+      "membership": "reported_core",
+      "primary_edition_lead": {
+        "accessed": null,
+        "bibliographic_claims": [
+          {
+            "claim": "Contemporary reference gives Beirut 1945.",
+            "locator": "p. 36, footnote 1",
+            "source_id": "dussaud-1946"
+          },
+          {
+            "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined.",
+            "locator": "Publication Date and Edition Identifiers",
+            "source_id": "openlibrary-dunand"
+          }
+        ],
+        "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+        "consultation": "not_consulted",
+        "doi": null,
+        "id": "dunand-1945",
+        "rights": {
+          "scope": "Obtain and examine edition before using plates or transcriptions.",
+          "status": "not_assessed"
+        },
+        "type": "primary_edition_lead",
+        "url": null
+      },
+      "record": {
+        "date_claims": [],
+        "edition_label": "e",
+        "evidence": [
+          {
+            "fields": [
+              "edition_label",
+              "material",
+              "object_type",
+              "membership"
+            ],
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-E",
+        "material": "bronze",
+        "membership": "reported_core",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "spatula",
+        "open_tasks": [
+          "Examine primary edition and precise page/plate.",
+          "Verify physical object and museum identity.",
+          "Record surfaces and direction from evidence.",
+          "Transcribe with source and uncertainty.",
+          "Obtain independent review."
+        ],
+        "primary_edition_lead": "dunand-1945",
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-E",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 83–84",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-F-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 83–84",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-F-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 83–84",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-F-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 83–84",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "ltr",
+          "surface_id": "BYB-F-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 83–84",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "ltr",
+          "surface_id": "BYB-F-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 83–84",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "ltr",
+          "surface_id": "BYB-F-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 83–84",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 4,
+          "reported_direction": "ltr",
+          "surface_id": "BYB-F-B"
+        }
+      ],
+      "membership": "reported_core",
+      "primary_edition_lead": {
+        "accessed": null,
+        "bibliographic_claims": [
+          {
+            "claim": "Contemporary reference gives Beirut 1945.",
+            "locator": "p. 36, footnote 1",
+            "source_id": "dussaud-1946"
+          },
+          {
+            "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined.",
+            "locator": "Publication Date and Edition Identifiers",
+            "source_id": "openlibrary-dunand"
+          }
+        ],
+        "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+        "consultation": "not_consulted",
+        "doi": null,
+        "id": "dunand-1945",
+        "rights": {
+          "scope": "Obtain and examine edition before using plates or transcriptions.",
+          "status": "not_assessed"
+        },
+        "type": "primary_edition_lead",
+        "url": null
+      },
+      "record": {
+        "date_claims": [],
+        "edition_label": "f",
+        "evidence": [
+          {
+            "fields": [
+              "edition_label",
+              "material",
+              "object_type",
+              "membership"
+            ],
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-F",
+        "material": "bronze",
+        "membership": "reported_core",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "spatula",
+        "open_tasks": [
+          "Examine primary edition and precise page/plate.",
+          "Verify physical object and museum identity.",
+          "Record surfaces and direction from evidence.",
+          "Transcribe with source and uncertainty.",
+          "Obtain independent review."
+        ],
+        "primary_edition_lead": "dunand-1945",
+        "review_status": "unreviewed",
+        "surfaces": [
+          "BYB-F-A",
+          "BYB-F-B"
+        ],
+        "transcription": null
+      },
+      "record_id": "BYB-F",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "reported_inventory_requires_completeness_check"
+    },
+    {
+      "line_targets": [],
+      "membership": "reported_core",
+      "primary_edition_lead": {
+        "accessed": null,
+        "bibliographic_claims": [
+          {
+            "claim": "Contemporary reference gives Beirut 1945.",
+            "locator": "p. 36, footnote 1",
+            "source_id": "dussaud-1946"
+          },
+          {
+            "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined.",
+            "locator": "Publication Date and Edition Identifiers",
+            "source_id": "openlibrary-dunand"
+          }
+        ],
+        "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+        "consultation": "not_consulted",
+        "doi": null,
+        "id": "dunand-1945",
+        "rights": {
+          "scope": "Obtain and examine edition before using plates or transcriptions.",
+          "status": "not_assessed"
+        },
+        "type": "primary_edition_lead",
+        "url": null
+      },
+      "record": {
+        "date_claims": [],
+        "edition_label": "g",
+        "evidence": [
+          {
+            "fields": [
+              "edition_label",
+              "material",
+              "object_type",
+              "membership"
+            ],
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-G",
+        "material": "stone",
+        "membership": "reported_core",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "stele",
+        "open_tasks": [
+          "Examine primary edition and precise page/plate.",
+          "Verify physical object and museum identity.",
+          "Record surfaces and direction from evidence.",
+          "Transcribe with source and uncertainty.",
+          "Obtain independent review."
+        ],
+        "primary_edition_lead": "dunand-1945",
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-G",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "reported_core",
+      "primary_edition_lead": {
+        "accessed": null,
+        "bibliographic_claims": [
+          {
+            "claim": "Contemporary reference gives Beirut 1945.",
+            "locator": "p. 36, footnote 1",
+            "source_id": "dussaud-1946"
+          },
+          {
+            "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined.",
+            "locator": "Publication Date and Edition Identifiers",
+            "source_id": "openlibrary-dunand"
+          }
+        ],
+        "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+        "consultation": "not_consulted",
+        "doi": null,
+        "id": "dunand-1945",
+        "rights": {
+          "scope": "Obtain and examine edition before using plates or transcriptions.",
+          "status": "not_assessed"
+        },
+        "type": "primary_edition_lead",
+        "url": null
+      },
+      "record": {
+        "date_claims": [],
+        "edition_label": "h",
+        "evidence": [
+          {
+            "fields": [
+              "edition_label",
+              "material",
+              "object_type",
+              "membership"
+            ],
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-H",
+        "material": "stone",
+        "membership": "reported_core",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "fragment",
+        "open_tasks": [
+          "Examine primary edition and precise page/plate.",
+          "Verify physical object and museum identity.",
+          "Record surfaces and direction from evidence.",
+          "Transcribe with source and uncertainty.",
+          "Obtain independent review."
+        ],
+        "primary_edition_lead": "dunand-1945",
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-H",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "reported_core",
+      "primary_edition_lead": {
+        "accessed": null,
+        "bibliographic_claims": [
+          {
+            "claim": "Contemporary reference gives Beirut 1945.",
+            "locator": "p. 36, footnote 1",
+            "source_id": "dussaud-1946"
+          },
+          {
+            "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined.",
+            "locator": "Publication Date and Edition Identifiers",
+            "source_id": "openlibrary-dunand"
+          }
+        ],
+        "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+        "consultation": "not_consulted",
+        "doi": null,
+        "id": "dunand-1945",
+        "rights": {
+          "scope": "Obtain and examine edition before using plates or transcriptions.",
+          "status": "not_assessed"
+        },
+        "type": "primary_edition_lead",
+        "url": null
+      },
+      "record": {
+        "date_claims": [],
+        "edition_label": "i",
+        "evidence": [
+          {
+            "fields": [
+              "edition_label",
+              "material",
+              "object_type",
+              "membership"
+            ],
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-I",
+        "material": "bronze",
+        "membership": "reported_core",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "spatula",
+        "open_tasks": [
+          "Examine primary edition and precise page/plate.",
+          "Verify physical object and museum identity.",
+          "Record surfaces and direction from evidence.",
+          "Transcribe with source and uncertainty.",
+          "Obtain independent review."
+        ],
+        "primary_edition_lead": "dunand-1945",
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-I",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "reported_core",
+      "primary_edition_lead": {
+        "accessed": null,
+        "bibliographic_claims": [
+          {
+            "claim": "Contemporary reference gives Beirut 1945.",
+            "locator": "p. 36, footnote 1",
+            "source_id": "dussaud-1946"
+          },
+          {
+            "claim": "Catalogue edition lists 1946, work 1945; OCLC 1191221. Physical title page unexamined.",
+            "locator": "Publication Date and Edition Identifiers",
+            "source_id": "openlibrary-dunand"
+          }
+        ],
+        "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+        "consultation": "not_consulted",
+        "doi": null,
+        "id": "dunand-1945",
+        "rights": {
+          "scope": "Obtain and examine edition before using plates or transcriptions.",
+          "status": "not_assessed"
+        },
+        "type": "primary_edition_lead",
+        "url": null
+      },
+      "record": {
+        "date_claims": [],
+        "edition_label": "j",
+        "evidence": [
+          {
+            "fields": [
+              "edition_label",
+              "material",
+              "object_type",
+              "membership"
+            ],
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-J",
+        "material": "stone",
+        "membership": "reported_core",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "fragment",
+        "open_tasks": [
+          "Examine primary edition and precise page/plate.",
+          "Verify physical object and museum identity.",
+          "Record surfaces and direction from evidence.",
+          "Transcribe with source and uncertainty.",
+          "Obtain independent review."
+        ],
+        "primary_edition_lead": "dunand-1945",
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-J",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "reported_core",
+      "primary_edition_lead": {
+        "accessed": null,
+        "bibliographic_claims": [
+          {
+            "appeared_year": null,
+            "locator": "entry 4",
+            "nominal_year": 1978,
+            "pages": "52–58",
+            "source_id": "mnamon-bibliography"
+          },
+          {
+            "appeared_year": 1981,
+            "locator": "Bibliographic Details / RAW",
+            "nominal_year": 1978,
+            "pages": "51–59",
+            "source_id": "keibi-dunand-1978"
+          }
+        ],
+        "citation": "M. Dunand, Nouvelles inscriptions pseudo-hiéroglyphiques découvertes à Byblos. Bulletin du Musée de Beyrouth 30 (nominal 1978). Pagination and actual publication year disputed in secondary metadata.",
+        "consultation": "not_consulted",
+        "doi": null,
+        "id": "dunand-1978",
+        "rights": {
+          "scope": "Publication not yet obtained.",
+          "status": "not_assessed"
+        },
+        "type": "primary_edition_lead",
+        "url": null
+      },
+      "record": {
+        "date_claims": [],
+        "edition_label": "k",
+        "evidence": [
+          {
+            "fields": [
+              "edition_label",
+              "material",
+              "object_type",
+              "membership"
+            ],
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-K",
+        "material": "stone",
+        "membership": "reported_core",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "slab_fragment",
+        "open_tasks": [
+          "Examine primary edition and precise page/plate.",
+          "Verify physical object and museum identity.",
+          "Record surfaces and direction from evidence.",
+          "Transcribe with source and uncertainty.",
+          "Obtain independent review."
+        ],
+        "primary_edition_lead": "dunand-1978",
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-K",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "reported_core",
+      "primary_edition_lead": {
+        "accessed": null,
+        "bibliographic_claims": [
+          {
+            "appeared_year": null,
+            "locator": "entry 4",
+            "nominal_year": 1978,
+            "pages": "52–58",
+            "source_id": "mnamon-bibliography"
+          },
+          {
+            "appeared_year": 1981,
+            "locator": "Bibliographic Details / RAW",
+            "nominal_year": 1978,
+            "pages": "51–59",
+            "source_id": "keibi-dunand-1978"
+          }
+        ],
+        "citation": "M. Dunand, Nouvelles inscriptions pseudo-hiéroglyphiques découvertes à Byblos. Bulletin du Musée de Beyrouth 30 (nominal 1978). Pagination and actual publication year disputed in secondary metadata.",
+        "consultation": "not_consulted",
+        "doi": null,
+        "id": "dunand-1978",
+        "rights": {
+          "scope": "Publication not yet obtained.",
+          "status": "not_assessed"
+        },
+        "type": "primary_edition_lead",
+        "url": null
+      },
+      "record": {
+        "date_claims": [],
+        "edition_label": "l",
+        "evidence": [
+          {
+            "fields": [
+              "edition_label",
+              "material",
+              "object_type",
+              "membership"
+            ],
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-L",
+        "material": "stone",
+        "membership": "reported_core",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "slab_fragment",
+        "open_tasks": [
+          "Examine primary edition and precise page/plate.",
+          "Verify physical object and museum identity.",
+          "Record surfaces and direction from evidence.",
+          "Transcribe with source and uncertainty.",
+          "Obtain independent review."
+        ],
+        "primary_edition_lead": "dunand-1978",
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-L",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "reported_core",
+      "primary_edition_lead": {
+        "accessed": null,
+        "bibliographic_claims": [
+          {
+            "appeared_year": null,
+            "locator": "entry 4",
+            "nominal_year": 1978,
+            "pages": "52–58",
+            "source_id": "mnamon-bibliography"
+          },
+          {
+            "appeared_year": 1981,
+            "locator": "Bibliographic Details / RAW",
+            "nominal_year": 1978,
+            "pages": "51–59",
+            "source_id": "keibi-dunand-1978"
+          }
+        ],
+        "citation": "M. Dunand, Nouvelles inscriptions pseudo-hiéroglyphiques découvertes à Byblos. Bulletin du Musée de Beyrouth 30 (nominal 1978). Pagination and actual publication year disputed in secondary metadata.",
+        "consultation": "not_consulted",
+        "doi": null,
+        "id": "dunand-1978",
+        "rights": {
+          "scope": "Publication not yet obtained.",
+          "status": "not_assessed"
+        },
+        "type": "primary_edition_lead",
+        "url": null
+      },
+      "record": {
+        "date_claims": [],
+        "direction_claims": [
+          {
+            "evidence": [
+              {
+                "fields": [
+                  "value",
+                  "qualifier"
+                ],
+                "locator": "pp. 81–82, stela m",
+                "source_id": "vita-zamora-2018"
+              }
+            ],
+            "proposer": "Vita and Zamora",
+            "qualifier": "conditional on comparison of sign orientation",
+            "value": "ltr"
+          },
+          {
+            "evidence": [
+              {
+                "fields": [
+                  "value",
+                  "qualifier"
+                ],
+                "locator": "fragments, record id = \"m\", dir = RTL",
+                "source_id": "ocbi-source"
+              }
+            ],
+            "proposer": "GEAS / OCBI",
+            "qualifier": "provider display direction",
+            "value": "rtl"
+          }
+        ],
+        "edition_label": "m",
+        "evidence": [
+          {
+            "fields": [
+              "edition_label",
+              "material",
+              "object_type",
+              "membership"
+            ],
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-M",
+        "material": "stone",
+        "membership": "reported_core",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "slab_fragment",
+        "open_tasks": [
+          "Examine primary edition and precise page/plate.",
+          "Verify physical object and museum identity.",
+          "Record surfaces and direction from evidence.",
+          "Transcribe with source and uncertainty.",
+          "Obtain independent review."
+        ],
+        "primary_edition_lead": "dunand-1978",
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-M",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    },
+    {
+      "line_targets": [],
+      "membership": "reported_core",
+      "primary_edition_lead": {
+        "accessed": null,
+        "bibliographic_claims": [
+          {
+            "appeared_year": null,
+            "locator": "entry 4",
+            "nominal_year": 1978,
+            "pages": "52–58",
+            "source_id": "mnamon-bibliography"
+          },
+          {
+            "appeared_year": 1981,
+            "locator": "Bibliographic Details / RAW",
+            "nominal_year": 1978,
+            "pages": "51–59",
+            "source_id": "keibi-dunand-1978"
+          }
+        ],
+        "citation": "M. Dunand, Nouvelles inscriptions pseudo-hiéroglyphiques découvertes à Byblos. Bulletin du Musée de Beyrouth 30 (nominal 1978). Pagination and actual publication year disputed in secondary metadata.",
+        "consultation": "not_consulted",
+        "doi": null,
+        "id": "dunand-1978",
+        "rights": {
+          "scope": "Publication not yet obtained.",
+          "status": "not_assessed"
+        },
+        "type": "primary_edition_lead",
+        "url": null
+      },
+      "record": {
+        "date_claims": [],
+        "edition_label": "n",
+        "evidence": [
+          {
+            "fields": [
+              "edition_label",
+              "material",
+              "object_type",
+              "membership"
+            ],
+            "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+            "source_id": "mnamon-merlo"
+          }
+        ],
+        "evidence_level": "secondary_report",
+        "id": "BYB-N",
+        "material": "stone",
+        "membership": "reported_core",
+        "museum_id": null,
+        "object_id": null,
+        "object_type": "slab_fragment",
+        "open_tasks": [
+          "Examine primary edition and precise page/plate.",
+          "Verify physical object and museum identity.",
+          "Record surfaces and direction from evidence.",
+          "Transcribe with source and uncertainty.",
+          "Obtain independent review."
+        ],
+        "primary_edition_lead": "dunand-1978",
+        "review_status": "unreviewed",
+        "surfaces": null,
+        "transcription": null
+      },
+      "record_id": "BYB-N",
+      "requested_checks": [
+        "object_identity",
+        "membership_and_alternatives",
+        "source_and_locator",
+        "surface_inventory",
+        "directions_and_damage",
+        "edition_sign_labels",
+        "transcription_and_encoding",
+        "attribution_and_reuse_terms"
+      ],
+      "response": {
+        "decision": null,
+        "expertise": null,
+        "findings": [],
+        "independence_statement": null,
+        "review_record": null,
+        "reviewed_on": null,
+        "reviewer_id": null,
+        "status": "pending"
+      },
+      "surface_inventory_status": "not_established"
+    }
+  ],
+  "version": "0.7.0"
+}

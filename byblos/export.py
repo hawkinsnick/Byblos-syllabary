@@ -6,6 +6,8 @@ import hashlib
 import io
 import json
 from .core import audit, FILE_KEYS
+from .workflow import review_packet
+from .explorer import explorer_html
 
 def json_text(value):
     return json.dumps(value, ensure_ascii=False, sort_keys=True, indent=2) + "\n"
@@ -15,6 +17,8 @@ def export_texts(bundle):
     if not report["structure_valid"]:
         raise ValueError("Refusing export of invalid data: " + "; ".join(report["errors"]))
     texts = {"bundle.json": json_text(bundle), "audit.json": json_text(report)}
+    texts["review_packet.json"] = json_text(review_packet(bundle))
+    texts["index.html"] = explorer_html(bundle)
     rows = sorted(bundle["catalogue"]["records"], key=lambda r: r["id"])
     texts["catalogue.jsonl"] = "".join(
         json.dumps(r, ensure_ascii=False, sort_keys=True) + "\n" for r in rows)

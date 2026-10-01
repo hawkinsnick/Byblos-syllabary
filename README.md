@@ -1,6 +1,6 @@
 # Byblos syllabary research corpus
 
-Version: 0.6.0 — research catalogue and reproducible tooling.
+Version: 0.7.0 — research catalogue and reproducible tooling.
 
 An open research project working toward exhaustive, evidence-based coverage of the
 undeciphered Byblos script. Its language affiliation is unresolved. The name
@@ -74,3 +74,19 @@ exist. It does not treat reported sign totals as digitized observations.
 [Scientific 1.0 status and required evidence](docs/RELEASE_STATUS.md) | [Research conflicts](docs/FINDINGS.md) | [Data model](docs/DATA_MODEL.md) | [Rights](docs/RIGHTS.md)
 
 The [implemented admission policy](docs/ADMISSION_POLICY.md) binds reviews to the evidence snapshot and requires complete lines, attributed coverage decisions and count reconciliation. The [acquisition and review packet](docs/ACQUISITION_AND_REVIEW.md) supplies exact edition requests, permission scope and specialist acceptance criteria. No correspondence has been sent.
+
+## Explore, prepare review and compare
+
+Download and extract the repository ZIP, then open `exports/index.html` for a
+searchable offline catalogue. No setup, remote assets or background requests.
+The [user guide](docs/USER_GUIDE.md) explains the files and researcher workflow.
+
+```sh
+python -m byblos review-packet
+python -m byblos compare old-snapshot new-snapshot
+```
+
+`exports/review_packet.json` has pending tasks for all 39 records and targets
+for every reported surface line. Unknown inventories remain unknown; no sign
+sequences or approvals are manufactured. Snapshot differences preserve missing
+versus null, record identity, ordering and original token positions.
