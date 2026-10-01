@@ -1,6 +1,6 @@
 # Byblos syllabary research corpus
 
-Version: 0.3.0 — catalogue foundation.
+Version: 0.4.0 — catalogue foundation.
 
 An open research project working toward exhaustive, evidence-based coverage of the
 undeciphered Byblos script. Its language affiliation is unresolved. The name
