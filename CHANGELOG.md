@@ -11,3 +11,10 @@ No verified transcriptions, image assets, completeness claim or peer review.
 Expanded source discovery, bibliographic leads, explicit access failures and
 rights register. Dunand 1978 pagination/year conflicts preserved. Original
 editions remain partly inaccessible; bibliographic gate remains open.
+
+## 0.3.0 — 2026-10-01
+
+Added 13 named disputed candidates, six surface descriptions, partial primary
+metadata for a, an h/j possible-object relation, and 43 OCBI label crosswalk
+entries. Provider membership judgements remain attributed; unidentified fragments
+are not fabricated as catalogue records. No verified sequences added.

@@ -1,0 +1,118 @@
+{
+  "surfaces": [
+    {
+      "id": "BYB-C-A",
+      "inscription_id": "BYB-C",
+      "label": "A",
+      "line_count": 13,
+      "direction": "rtl",
+      "direction_status": "reported",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "p. 77",
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BYB-C-B",
+      "inscription_id": "BYB-C",
+      "label": "B",
+      "line_count": 2,
+      "direction": "rtl",
+      "direction_status": "reported",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "p. 77",
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BYB-D-A",
+      "inscription_id": "BYB-D",
+      "label": "A",
+      "line_count": 22,
+      "direction": "rtl",
+      "direction_status": "reported",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "pp. 77–78",
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BYB-D-B",
+      "inscription_id": "BYB-D",
+      "label": "B",
+      "line_count": 19,
+      "direction": "rtl",
+      "direction_status": "reported",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "pp. 77–78",
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BYB-F-A",
+      "inscription_id": "BYB-F",
+      "label": "A",
+      "line_count": 3,
+      "direction": "rtl",
+      "direction_status": "reported",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "pp. 83–84",
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BYB-F-B",
+      "inscription_id": "BYB-F",
+      "label": "B",
+      "line_count": 4,
+      "direction": "ltr",
+      "direction_status": "reported",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "pp. 83–84",
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ]
+        }
+      ]
+    }
+  ]
+}

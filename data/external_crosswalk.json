@@ -1,0 +1,351 @@
+{
+  "source_id": "ocbi-current",
+  "source_sha256": "cde1cabe09284eca13e7d82d1673f2db165758319730b3faeda41829ff6e9f29",
+  "scope": "Labels only; no sign sequences or source code included.",
+  "entries": [
+    {
+      "id": "OCBI-ENTRY-01",
+      "provider_group": "BYBL",
+      "provider_label": "a",
+      "proposed_project_record": "BYB-A",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 1"
+    },
+    {
+      "id": "OCBI-ENTRY-02",
+      "provider_group": "BYBL",
+      "provider_label": "b",
+      "proposed_project_record": "BYB-B",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 2"
+    },
+    {
+      "id": "OCBI-ENTRY-03",
+      "provider_group": "BYBL",
+      "provider_label": "c",
+      "proposed_project_record": "BYB-C",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 3"
+    },
+    {
+      "id": "OCBI-ENTRY-04",
+      "provider_group": "BYBL",
+      "provider_label": "d",
+      "proposed_project_record": "BYB-D",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 4"
+    },
+    {
+      "id": "OCBI-ENTRY-05",
+      "provider_group": "BYBL",
+      "provider_label": "e",
+      "proposed_project_record": "BYB-E",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 5"
+    },
+    {
+      "id": "OCBI-ENTRY-06",
+      "provider_group": "BYBL",
+      "provider_label": "f (face a = verso)",
+      "proposed_project_record": "BYB-F",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 6"
+    },
+    {
+      "id": "OCBI-ENTRY-07",
+      "provider_group": "BYBL",
+      "provider_label": "f (face b = recto)",
+      "proposed_project_record": "BYB-F",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 7"
+    },
+    {
+      "id": "OCBI-ENTRY-08",
+      "provider_group": "BYBL",
+      "provider_label": "g",
+      "proposed_project_record": "BYB-G",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 8"
+    },
+    {
+      "id": "OCBI-ENTRY-09",
+      "provider_group": "BYBL",
+      "provider_label": "h",
+      "proposed_project_record": "BYB-H",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 9"
+    },
+    {
+      "id": "OCBI-ENTRY-10",
+      "provider_group": "BYBL",
+      "provider_label": "i",
+      "proposed_project_record": "BYB-I",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 10"
+    },
+    {
+      "id": "OCBI-ENTRY-11",
+      "provider_group": "BYBL",
+      "provider_label": "j",
+      "proposed_project_record": "BYB-J",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 11"
+    },
+    {
+      "id": "OCBI-ENTRY-12",
+      "provider_group": "BYBL",
+      "provider_label": "k",
+      "proposed_project_record": "BYB-K",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 12"
+    },
+    {
+      "id": "OCBI-ENTRY-13",
+      "provider_group": "BYBL",
+      "provider_label": "l",
+      "proposed_project_record": "BYB-L",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 13"
+    },
+    {
+      "id": "OCBI-ENTRY-14",
+      "provider_group": "BYBL",
+      "provider_label": "m",
+      "proposed_project_record": "BYB-M",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 14"
+    },
+    {
+      "id": "OCBI-ENTRY-15",
+      "provider_group": "BYBL",
+      "provider_label": "n",
+      "proposed_project_record": "BYB-N",
+      "mapping_status": "label_match_only",
+      "locator": "record b/c fields, entry 15"
+    },
+    {
+      "id": "OCBI-ENTRY-16",
+      "provider_group": "BYBL",
+      "provider_label": "o (recto)",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 16"
+    },
+    {
+      "id": "OCBI-ENTRY-17",
+      "provider_group": "BYBL",
+      "provider_label": "o (verso) Var. 1",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 17"
+    },
+    {
+      "id": "OCBI-ENTRY-18",
+      "provider_group": "BYBL",
+      "provider_label": "o (verso) Var. 2",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 18"
+    },
+    {
+      "id": "OCBI-ENTRY-19",
+      "provider_group": "BYBL",
+      "provider_label": "p",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 19"
+    },
+    {
+      "id": "OCBI-ENTRY-20",
+      "provider_group": "BYBL",
+      "provider_label": "q",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 20"
+    },
+    {
+      "id": "OCBI-ENTRY-21",
+      "provider_group": "BYBL",
+      "provider_label": "ra",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 21"
+    },
+    {
+      "id": "OCBI-ENTRY-22",
+      "provider_group": "BYBL",
+      "provider_label": "rb (Var. 1)",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 22"
+    },
+    {
+      "id": "OCBI-ENTRY-23",
+      "provider_group": "BYBL",
+      "provider_label": "rb (Var. 2)",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 23"
+    },
+    {
+      "id": "OCBI-ENTRY-24",
+      "provider_group": "BYBL",
+      "provider_label": "rb (Var. 3)",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 24"
+    },
+    {
+      "id": "OCBI-ENTRY-25",
+      "provider_group": "BYBL",
+      "provider_label": "rc (Var. 1)",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 25"
+    },
+    {
+      "id": "OCBI-ENTRY-26",
+      "provider_group": "BYBL",
+      "provider_label": "rc (Var. 2) ",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 26"
+    },
+    {
+      "id": "OCBI-ENTRY-27",
+      "provider_group": "BYBL",
+      "provider_label": "rc (Var. 3)",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 27"
+    },
+    {
+      "id": "OCBI-ENTRY-28",
+      "provider_group": "BYBL",
+      "provider_label": "rd",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 28"
+    },
+    {
+      "id": "OCBI-ENTRY-29",
+      "provider_group": "BYBL",
+      "provider_label": "s",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 29"
+    },
+    {
+      "id": "OCBI-ENTRY-30",
+      "provider_group": "BYBL?",
+      "provider_label": "t",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 30"
+    },
+    {
+      "id": "OCBI-ENTRY-31",
+      "provider_group": "BYBL?",
+      "provider_label": "u",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 31"
+    },
+    {
+      "id": "OCBI-ENTRY-32",
+      "provider_group": "BYBL?",
+      "provider_label": "v",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 32"
+    },
+    {
+      "id": "OCBI-ENTRY-33",
+      "provider_group": "BYBL?",
+      "provider_label": "w",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 33"
+    },
+    {
+      "id": "OCBI-ENTRY-34",
+      "provider_group": "BYBL?",
+      "provider_label": "x",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 34"
+    },
+    {
+      "id": "OCBI-ENTRY-35",
+      "provider_group": "BYBL?",
+      "provider_label": "y",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 35"
+    },
+    {
+      "id": "OCBI-ENTRY-36",
+      "provider_group": "BYBL?",
+      "provider_label": "z",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 36"
+    },
+    {
+      "id": "OCBI-ENTRY-37",
+      "provider_group": "BYBL?",
+      "provider_label": "a' (Var. 1)",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 37"
+    },
+    {
+      "id": "OCBI-ENTRY-38",
+      "provider_group": "BYBL?",
+      "provider_label": "a' (Var. 2)",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 38"
+    },
+    {
+      "id": "OCBI-ENTRY-39",
+      "provider_group": "BYBL?",
+      "provider_label": "b'a",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 39"
+    },
+    {
+      "id": "OCBI-ENTRY-40",
+      "provider_group": "BYBL?",
+      "provider_label": "b'b",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 40"
+    },
+    {
+      "id": "OCBI-ENTRY-41",
+      "provider_group": "BYBL?",
+      "provider_label": "b'c",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 41"
+    },
+    {
+      "id": "OCBI-ENTRY-42",
+      "provider_group": "BYBL?",
+      "provider_label": "c'",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 42"
+    },
+    {
+      "id": "OCBI-ENTRY-43",
+      "provider_group": "BYBL?",
+      "provider_label": "d'",
+      "proposed_project_record": null,
+      "mapping_status": "unresolved",
+      "locator": "record b/c fields, entry 43"
+    }
+  ]
+}

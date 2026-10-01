@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "as_of": "2026-10-01",
   "scope": "Initial source inventory; no exhaustive coverage claim.",
   "count_claims": [
@@ -26,6 +26,30 @@
       "count": 28,
       "unit": "tentatively_assigned_fragments_reported",
       "derivation": "Individual identities unavailable; no synthetic fragment records created."
+    },
+    {
+      "id": "COUNT-OCBI-CERTAIN",
+      "source_id": "ocbi-current",
+      "locator": "bu introduction string",
+      "count": 18,
+      "unit": "provider_claimed_certain_inscriptions",
+      "derivation": "Provider's classification, not project endorsement."
+    },
+    {
+      "id": "COUNT-OCBI-POTENTIAL",
+      "source_id": "ocbi-current",
+      "locator": "bu introduction string",
+      "count": 14,
+      "unit": "provider_claimed_potential_inscriptions",
+      "derivation": "Not assumed disjoint from other published candidate lists."
+    },
+    {
+      "id": "COUNT-OCBI-ENTRIES",
+      "source_id": "ocbi-current",
+      "locator": "record fields b / c in retrieved JavaScript",
+      "count": 43,
+      "unit": "rendered_record_entries",
+      "derivation": "Includes separate faces and variants; not an object or inscription total."
     }
   ],
   "gaps": [
@@ -52,7 +76,7 @@
       "source_ids": [
         "maeder-baf"
       ],
-      "task": "Locate reported digital transcription and encoding map; inspect licence, variant definitions and provenance. Unicode wording in abstract does not establish a standardized Unicode block."
+      "task": "OCBI located; reconcile provider units and metadata crosswalk, obtain explicit transcription rights and encoding map, inspect edition provenance."
     },
     {
       "id": "GAP-EDITIONS",
@@ -76,6 +100,43 @@
       "status": "open",
       "source_ids": [],
       "task": "Arrange independent specialist review; none performed."
+    },
+    {
+      "id": "GAP-OCBI",
+      "status": "open",
+      "source_ids": [
+        "ocbi-current"
+      ],
+      "task": "Map all 43 rendered entries to objects, faces, readings and inscription identities; distinguish provider certainty from our assessment."
+    },
+    {
+      "id": "GAP-RIGHTS",
+      "status": "open",
+      "source_ids": [
+        "ocbi-current",
+        "dunand-1945",
+        "dunand-1978"
+      ],
+      "task": "Record explicit permission or licence for every proposed redistributed sequence, image or plate."
+    },
+    {
+      "id": "GAP-SIGNS",
+      "status": "open",
+      "source_ids": [
+        "dunand-1945",
+        "vita-zamora-2018"
+      ],
+      "task": "Collate published sign lists and tokens; do not instantiate unseen signs from reported inventory sizes."
+    },
+    {
+      "id": "GAP-TRANSCRIPTION",
+      "status": "open",
+      "source_ids": [
+        "dunand-1945",
+        "dunand-1978",
+        "ocbi-current"
+      ],
+      "task": "Prepare rights-supported sign sequences for each in-scope inscription with uncertainties and independent checks."
     }
   ],
   "release_gates": {

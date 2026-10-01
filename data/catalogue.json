@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.1.0",
+  "schema_version": "0.3.0",
   "records": [
     {
       "id": "BYB-A",
@@ -18,6 +18,14 @@
             "object_type",
             "membership"
           ]
+        },
+        {
+          "source_id": "dunand-1930",
+          "locator": "p. 1",
+          "fields": [
+            "dimensions_mm",
+            "discovery_context"
+          ]
         }
       ],
       "primary_edition_lead": "dunand-1945",
@@ -32,8 +40,15 @@
         "Verify physical object and museum identity.",
         "Record surfaces and direction from evidence.",
         "Transcribe with source and uncertainty.",
-        "Obtain independent review."
-      ]
+        "Obtain independent review.",
+        "Primary metadata partly checked; plate and sign sequences still uncollated."
+      ],
+      "dimensions_mm": {
+        "length": 670,
+        "height": 500,
+        "thickness_mean": 200
+      },
+      "discovery_context": "Reused in lower courses of a domestic cistern near its southwest corner; not an undisturbed original deposition."
     },
     {
       "id": "BYB-B",
@@ -92,7 +107,10 @@
       "museum_id": null,
       "object_id": null,
       "date_claims": [],
-      "surfaces": null,
+      "surfaces": [
+        "BYB-C-A",
+        "BYB-C-B"
+      ],
       "transcription": null,
       "review_status": "unreviewed",
       "open_tasks": [
@@ -126,7 +144,10 @@
       "museum_id": null,
       "object_id": null,
       "date_claims": [],
-      "surfaces": null,
+      "surfaces": [
+        "BYB-D-A",
+        "BYB-D-B"
+      ],
       "transcription": null,
       "review_status": "unreviewed",
       "open_tasks": [
@@ -194,7 +215,10 @@
       "museum_id": null,
       "object_id": null,
       "date_claims": [],
-      "surfaces": null,
+      "surfaces": [
+        "BYB-F-A",
+        "BYB-F-B"
+      ],
       "transcription": null,
       "review_status": "unreviewed",
       "open_tasks": [
@@ -475,6 +499,464 @@
         "Record surfaces and direction from evidence.",
         "Transcribe with source and uncertainty.",
         "Obtain independent review."
+      ]
+    },
+    {
+      "id": "BYB-CAND-LINEAR-STELA",
+      "edition_label": null,
+      "display_name": "Linear pseudo-hieroglyphic block",
+      "material": "limestone",
+      "object_type": "block",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "pp. 85–86, fig. 16",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note",
+            "material"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "membership_note": "Linear inscription and proposed underlying layer need separate assessment.",
+      "open_tasks": [
+        "Examine original publication and artifact evidence.",
+        "Record attribution and counterarguments separately.",
+        "Verify physical identity and provenance.",
+        "Assess any sign sequences and redistribution rights."
+      ]
+    },
+    {
+      "id": "BYB-CAND-PALIMPSEST-KAI3",
+      "edition_label": null,
+      "display_name": "Spatula associated with KAI 3",
+      "material": "bronze",
+      "object_type": "spatula",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "pp. 86–87, fig. 17",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note",
+            "material"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "membership_note": "Possible earlier Byblos layer; not the Phoenician text itself.",
+      "open_tasks": [
+        "Examine original publication and artifact evidence.",
+        "Record attribution and counterarguments separately.",
+        "Verify physical identity and provenance.",
+        "Assess any sign sequences and redistribution rights."
+      ]
+    },
+    {
+      "id": "BYB-CAND-PALIMPSEST-KAI4",
+      "edition_label": null,
+      "display_name": "Yehimilk inscription underlying layer",
+      "material": null,
+      "object_type": "block",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "pp. 87–88, fig. 18",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "membership_note": "Proposed earlier layer; visible-trace identification remains attributed.",
+      "open_tasks": [
+        "Examine original publication and artifact evidence.",
+        "Record attribution and counterarguments separately.",
+        "Verify physical identity and provenance.",
+        "Assess any sign sequences and redistribution rights."
+      ]
+    },
+    {
+      "id": "BYB-CAND-PALIMPSEST-KAI1",
+      "edition_label": null,
+      "display_name": "Ahirom inscription underlying layer",
+      "material": null,
+      "object_type": "sarcophagus",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "p. 88, fig. 19 and n. 6",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "membership_note": "Especially doubtful identification; retain criticism.",
+      "open_tasks": [
+        "Examine original publication and artifact evidence.",
+        "Record attribution and counterarguments separately.",
+        "Verify physical identity and provenance.",
+        "Assess any sign sequences and redistribution rights."
+      ]
+    },
+    {
+      "id": "BYB-CAND-MEGIDDO-RING",
+      "edition_label": null,
+      "display_name": "Megiddo ring",
+      "material": null,
+      "object_type": "ring",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "p. 88, fig. 20a; n. 7",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "membership_note": "Alternative alphabetic interpretation reported.",
+      "open_tasks": [
+        "Examine original publication and artifact evidence.",
+        "Record attribution and counterarguments separately.",
+        "Verify physical identity and provenance.",
+        "Assess any sign sequences and redistribution rights."
+      ]
+    },
+    {
+      "id": "BYB-CAND-SINAI-526",
+      "edition_label": null,
+      "display_name": "Sinai inscription 526",
+      "material": null,
+      "object_type": "inscription",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "p. 88, fig. 20b",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "membership_note": "Colless attribution; not admitted to core.",
+      "open_tasks": [
+        "Examine original publication and artifact evidence.",
+        "Record attribution and counterarguments separately.",
+        "Verify physical identity and provenance.",
+        "Assess any sign sequences and redistribution rights."
+      ]
+    },
+    {
+      "id": "BYB-CAND-THEBES-OSTRACON",
+      "edition_label": null,
+      "display_name": "Thebes ostracon",
+      "material": null,
+      "object_type": "ostracon",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "p. 88, fig. 20c",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "membership_note": "Colless attribution; not admitted to core.",
+      "open_tasks": [
+        "Examine original publication and artifact evidence.",
+        "Record attribution and counterarguments separately.",
+        "Verify physical identity and provenance.",
+        "Assess any sign sequences and redistribution rights."
+      ]
+    },
+    {
+      "id": "BYB-CAND-LAMP-1",
+      "edition_label": null,
+      "display_name": "Egyptian lamp inscription 1",
+      "material": null,
+      "object_type": "lamp",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "p. 88, fig. 20d",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "membership_note": "Colless attribution; not admitted to core.",
+      "open_tasks": [
+        "Examine original publication and artifact evidence.",
+        "Record attribution and counterarguments separately.",
+        "Verify physical identity and provenance.",
+        "Assess any sign sequences and redistribution rights."
+      ]
+    },
+    {
+      "id": "BYB-CAND-LAMP-2",
+      "edition_label": null,
+      "display_name": "Egyptian lamp inscription 2",
+      "material": null,
+      "object_type": "lamp",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "p. 88, fig. 20e",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "membership_note": "Colless attribution; not admitted to core.",
+      "open_tasks": [
+        "Examine original publication and artifact evidence.",
+        "Record attribution and counterarguments separately.",
+        "Verify physical identity and provenance.",
+        "Assess any sign sequences and redistribution rights."
+      ]
+    },
+    {
+      "id": "BYB-CAND-LAMP-3",
+      "edition_label": null,
+      "display_name": "Egyptian lamp inscription 3",
+      "material": null,
+      "object_type": "lamp",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "p. 88, fig. 20f",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "membership_note": "Colless attribution; not admitted to core.",
+      "open_tasks": [
+        "Examine original publication and artifact evidence.",
+        "Record attribution and counterarguments separately.",
+        "Verify physical identity and provenance.",
+        "Assess any sign sequences and redistribution rights."
+      ]
+    },
+    {
+      "id": "BYB-CAND-SCARABOID",
+      "edition_label": null,
+      "display_name": "Scaraboid seal of unknown origin",
+      "material": null,
+      "object_type": "seal",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "p. 88, fig. 20g",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "membership_note": "Uncertain attribution and provenance.",
+      "open_tasks": [
+        "Examine original publication and artifact evidence.",
+        "Record attribution and counterarguments separately.",
+        "Verify physical identity and provenance.",
+        "Assess any sign sequences and redistribution rights."
+      ]
+    },
+    {
+      "id": "BYB-CAND-TRIESTE",
+      "edition_label": null,
+      "display_name": "Trieste plaque",
+      "material": "clay",
+      "object_type": "plaque",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "p. 88, fig. 20h",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note",
+            "material"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "membership_note": "Proposed attribution outside Byblos.",
+      "open_tasks": [
+        "Examine original publication and artifact evidence.",
+        "Record attribution and counterarguments separately.",
+        "Verify physical identity and provenance.",
+        "Assess any sign sequences and redistribution rights."
+      ]
+    },
+    {
+      "id": "BYB-CAND-CYLINDER-2004",
+      "edition_label": null,
+      "display_name": "Cylinder seal published by Garbini and colleagues",
+      "material": null,
+      "object_type": "cylinder_seal",
+      "membership": "disputed",
+      "evidence_level": "secondary_report",
+      "evidence": [
+        {
+          "source_id": "vita-zamora-2018",
+          "locator": "p. 89, fig. 21",
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ]
+        }
+      ],
+      "primary_edition_lead": null,
+      "museum_id": null,
+      "object_id": null,
+      "date_claims": [],
+      "surfaces": null,
+      "transcription": null,
+      "review_status": "unreviewed",
+      "membership_note": "Byblos identification is disputed; do not treat proposed parallel names as an established bilingual.",
+      "open_tasks": [
+        "Examine original publication and artifact evidence.",
+        "Record attribution and counterarguments separately.",
+        "Verify physical identity and provenance.",
+        "Assess any sign sequences and redistribution rights."
       ]
     }
   ]

@@ -15,7 +15,7 @@ def validate(catalogue, sources, coverage):
     record_ids = [r["id"] for r in records]
     if len(record_ids) != len(set(record_ids)):
         errors.append("Duplicate inscription IDs")
-    labels = [r["edition_label"] for r in records]
+    labels = [r["edition_label"] for r in records if r["edition_label"] is not None]
     if len(labels) != len(set(labels)):
         errors.append("Duplicate edition labels")
     for r in records:
@@ -24,7 +24,7 @@ def validate(catalogue, sources, coverage):
         for e in r["evidence"]:
             if e["source_id"] not in ids or not e["locator"].strip():
                 errors.append(f'{r["id"]}: invalid evidence reference')
-        if r["primary_edition_lead"] not in ids:
+        if r["primary_edition_lead"] is not None and r["primary_edition_lead"] not in ids:
             errors.append(f'{r["id"]}: unknown edition lead')
         if r["membership"] not in {"reported_core", "disputed", "excluded"}:
             errors.append(f'{r["id"]}: invalid membership')

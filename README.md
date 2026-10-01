@@ -1,6 +1,6 @@
 # Byblos syllabary research corpus
 
-Version: 0.2.0 — catalogue foundation.
+Version: 0.3.0 — catalogue foundation.
 
 An open research project working toward exhaustive, evidence-based coverage of the
 undeciphered Byblos script. Its language affiliation is unresolved. The name
@@ -8,11 +8,13 @@ undeciphered Byblos script. Its language affiliation is unresolved. The name
 
 ## Current coverage
 
-- 14 provisional catalogue records (a–n), reported in Mnamon's scholarly guide.
+- 14 reported core entries plus 13 named disputed candidates; membership remains attributed.
 - 14 registered sources/leads and 15 bibliography discovery entries; consultation depth recorded individually.
-- 0 verified sign sequences, 0 imported images, 0 independently reviewed records.
+- 0 verified sign sequences, 0 imported images, 0 independently reviewed records; 6 sourced surface descriptions.
 - Published corpus counts remain unresolved. This is not an exhaustive corpus.
 - Identifiers refer to inscription records, not necessarily distinct physical objects.
+
+43 OCBI entry labels are crosswalked provisionally; entry counts include faces and variants.
 
 Start with [the ledger](data/coverage.json), [sources](data/sources.json),
 and [method and roadmap](docs/METHOD.md).

@@ -1,0 +1,23 @@
+{
+  "relations": [
+    {
+      "id": "REL-H-J",
+      "subjects": [
+        "BYB-H",
+        "BYB-J"
+      ],
+      "predicate": "possibly_same_object",
+      "assessment": "hypothesis",
+      "evidence": [
+        {
+          "source_id": "mnamon-merlo",
+          "locator": "Corpus section, entries h and j",
+          "fields": [
+            "predicate"
+          ]
+        }
+      ],
+      "note": "Do not merge record IDs or count these as proven distinct objects."
+    }
+  ]
+}
