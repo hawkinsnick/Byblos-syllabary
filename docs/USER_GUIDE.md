@@ -88,3 +88,8 @@ Use the repository's Evidence correction or Source lead issue form, or start fro
 `exports/contribution_template.json`. See [CONTRIBUTING.md](CONTRIBUTING.md) for
 expected-value checks, source requirements and read-only staging commands.
 Pending proposal packets are distinct from accepted corpus exports.
+
+## Trace citations
+
+`python -m byblos provenance --source mnamon-merlo` lists exact claim and lead
+locations for one source. See [the provenance guide](PROVENANCE.md) for limits.

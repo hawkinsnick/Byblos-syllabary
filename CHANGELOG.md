@@ -81,3 +81,12 @@ extra or stale content. No candidate corpus is produced and no proposal is appli
 Added GitHub issue forms for evidence corrections and source leads, plus contributor
 instructions. Synthetic tests exercise the full CLI workflow without adding any
 fictional facts to the catalogue. Scientific 1.0 gates remain open.
+
+## 0.9.0 — 2026-10-01
+
+Added a deterministic citation usage audit with snapshot JSON pointers, namespaced
+record owners, exact field bindings, source consultation depth and rights declarations.
+Separates explicit field evidence from edition leads, discovery references and
+context links; exposes unresolved source references. Added source filtering and
+a checksummed provenance.json export. Usage counts are not confidence scores or
+independent corroboration. No scientific evidence or approvals added; 1.0 remains open.

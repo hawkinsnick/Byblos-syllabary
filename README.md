@@ -1,6 +1,6 @@
 # Byblos syllabary research corpus
 
-Version: 0.8.0 — research catalogue and reproducible tooling.
+Version: 0.9.0 — research catalogue and reproducible tooling.
 
 An open research project working toward exhaustive, evidence-based coverage of the
 undeciphered Byblos script. Its language affiliation is unresolved. The name
@@ -107,3 +107,6 @@ python -m byblos verify-proposal pending-submission
 
 The exported `contribution_template.json` is intentionally incomplete until a
 contributor fills identity, date and attributable changes or source leads.
+
+Inspect source dependencies with `python -m byblos provenance` or filter with
+`python -m byblos provenance --source mnamon-merlo`. See [provenance audit](docs/PROVENANCE.md).

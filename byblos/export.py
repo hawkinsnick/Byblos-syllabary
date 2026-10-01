@@ -6,6 +6,7 @@ import hashlib
 import io
 import json
 from .core import audit, FILE_KEYS
+from .provenance import provenance_report
 from .workflow import review_packet
 from .explorer import explorer_html
 from .contributions import proposal_template
@@ -18,6 +19,7 @@ def export_texts(bundle):
     if not report["structure_valid"]:
         raise ValueError("Refusing export of invalid data: " + "; ".join(report["errors"]))
     texts = {"bundle.json": json_text(bundle), "audit.json": json_text(report)}
+    texts["provenance.json"] = json_text(provenance_report(bundle))
     texts["review_packet.json"] = json_text(review_packet(bundle))
     texts["index.html"] = explorer_html(bundle)
     texts["contribution_template.json"] = json_text(proposal_template(bundle))

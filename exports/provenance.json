@@ -1,0 +1,2420 @@
+{
+  "evidence_sha256": "4a3792ad97355eda04d2ed4491afb8750b337e33cf38af298ef19c3b9c18e6b2",
+  "format": "byblos-provenance-v1",
+  "interpretation": "Derived links only. Field evidence records attribution, not correctness. Source references, discovery citations and edition leads are not independent corroboration. Consultation depth and rights are recorded declarations; usage counts are not confidence scores. Paths address this exact snapshot; owners are namespaced by their container.",
+  "selected_source": null,
+  "sources": [
+    {
+      "citation": "Internet Archive catalogue, Byblia grammata, bybliagrammatado0000duna.",
+      "consultation": "metadata_only",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "source_reference": 1
+      },
+      "source_id": "archive-dunand",
+      "uses": [
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/search_log",
+          "path": "/search_log/access_attempts/1/source_id",
+          "role": "source_reference",
+          "source_id": "archive-dunand"
+        }
+      ]
+    },
+    {
+      "citation": "AUB Press, The Syllabic Inscriptions from Byblos (publisher description).",
+      "consultation": "consulted_online",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "source_reference": 1
+      },
+      "source_id": "aub-mendenhall",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "publisher description, first sentence",
+          "owner": "/coverage/count_claims:COUNT-AUB-9",
+          "path": "/coverage/count_claims/6/source_id",
+          "role": "source_reference",
+          "source_id": "aub-mendenhall"
+        }
+      ]
+    },
+    {
+      "citation": "B. E. Colless (2011), Amulet from Deir Rifa, Cryptcracker.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "discovery_source": 1,
+        "field_evidence": 1
+      },
+      "source_id": "colless-deir-rifa",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "opening bibliography",
+          "owner": "/bibliography/entries:hamilton-2009",
+          "path": "/bibliography/entries/18/discovery_source",
+          "role": "discovery_source",
+          "source_id": "colless-deir-rifa"
+        },
+        {
+          "fields": [
+            "value",
+            "institution"
+          ],
+          "locator": "opening paragraph",
+          "owner": "/catalogue/records:BYB-CAND-DEIR-RIFA",
+          "path": "/catalogue/records/37/reported_museum_identifier/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "colless-deir-rifa"
+        }
+      ]
+    },
+    {
+      "citation": "Onceinawhile (2019), National Museum of Beirut – Byblos syllabary, photograph, Wikimedia Commons.",
+      "consultation": "consulted_online",
+      "rights": {
+        "license": "CC-BY-SA-4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "scope": "Photograph only, per creator declaration on the file page; attribution, licence link and ShareAlike conditions. No transfer to OCBI sequences or publication plates.",
+        "status": "licensed"
+      },
+      "role_counts": {
+        "context_source": 1,
+        "source_reference": 2
+      },
+      "source_id": "commons-beirut-photo",
+      "uses": [
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-PHOTO-IDENTITY",
+          "path": "/coverage/gaps/13/source_ids/0",
+          "role": "context_source",
+          "source_id": "commons-beirut-photo"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/research_entities/assets:ASSET-COMMONS-BEIRUT-2019",
+          "path": "/research_entities/assets/0/source_id",
+          "role": "source_reference",
+          "source_id": "commons-beirut-photo"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/search_log",
+          "path": "/search_log/access_attempts/5/source_id",
+          "role": "source_reference",
+          "source_id": "commons-beirut-photo"
+        }
+      ]
+    },
+    {
+      "citation": "Hans van Deukeren, stylized redraw of spatula e, Wikimedia Commons.",
+      "consultation": "metadata_only",
+      "rights": {
+        "license": "CC-BY-SA-3.0",
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "license_stated"
+      },
+      "role_counts": {},
+      "source_id": "commons-e",
+      "uses": []
+    },
+    {
+      "citation": "DEAPS, KAI 003, Digital Editions of Aramaic and Phoenician Sources, Ohio State University.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "discovery_source": 1,
+        "field_evidence": 1
+      },
+      "source_id": "deaps-kai3",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "Bibliography, Martin entry",
+          "owner": "/bibliography/entries:martin-1961",
+          "path": "/bibliography/entries/23/discovery_source",
+          "role": "discovery_source",
+          "source_id": "deaps-kai3"
+        },
+        {
+          "fields": [
+            "membership_note"
+          ],
+          "locator": "General Notes, citing Martin 1961 pp. 60–63",
+          "owner": "/catalogue/records:BYB-CAND-PALIMPSEST-KAI3",
+          "path": "/catalogue/records/15/evidence/1/source_id",
+          "role": "field_evidence",
+          "source_id": "deaps-kai3"
+        }
+      ]
+    },
+    {
+      "citation": "DEAPS, KAI 004, Digital Editions of Aramaic and Phoenician Sources, Ohio State University.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 1
+      },
+      "source_id": "deaps-kai4",
+      "uses": [
+        {
+          "fields": [
+            "membership_note"
+          ],
+          "locator": "General Notes, citing Martin 1961 pp. 66–67",
+          "owner": "/catalogue/records:BYB-CAND-PALIMPSEST-KAI4",
+          "path": "/catalogue/records/16/evidence/1/source_id",
+          "role": "field_evidence",
+          "source_id": "deaps-kai4"
+        }
+      ]
+    },
+    {
+      "citation": "Édouard Dhorme (1946), Déchiffrement des inscriptions pseudo-hiéroglyphiques de Byblos, Syria 25(1):1–35.",
+      "consultation": "selected_pages",
+      "rights": {
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "source_reference": 1
+      },
+      "source_id": "dhorme-1946",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "p. 1, second paragraph",
+          "owner": "/coverage/count_claims:COUNT-DHORME-10",
+          "path": "/coverage/count_claims/7/source_id",
+          "role": "source_reference",
+          "source_id": "dhorme-1946"
+        }
+      ]
+    },
+    {
+      "citation": "M. Dunand (1930), Nouvelle inscription découverte à Byblos. Syria 11(1), pp. 1–10.",
+      "consultation": "selected_pages",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 1,
+        "source_reference": 1
+      },
+      "source_id": "dunand-1930",
+      "uses": [
+        {
+          "fields": [
+            "dimensions_mm",
+            "discovery_context"
+          ],
+          "locator": "p. 1",
+          "owner": "/catalogue/records:BYB-A",
+          "path": "/catalogue/records/0/evidence/1/source_id",
+          "role": "field_evidence",
+          "source_id": "dunand-1930"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/search_log",
+          "path": "/search_log/access_attempts/0/source_id",
+          "role": "source_reference",
+          "source_id": "dunand-1930"
+        }
+      ]
+    },
+    {
+      "citation": "Maurice Dunand (1945), Byblia Grammata, Beirut, pp. 71–138 (bibliographic lead via Mnamon).",
+      "consultation": "not_consulted",
+      "rights": {
+        "scope": "Obtain and examine edition before using plates or transcriptions.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "context_source": 4,
+        "primary_edition_lead": 10
+      },
+      "source_id": "dunand-1945",
+      "uses": [
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/catalogue/records:BYB-A",
+          "path": "/catalogue/records/0/primary_edition_lead",
+          "role": "primary_edition_lead",
+          "source_id": "dunand-1945"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/catalogue/records:BYB-B",
+          "path": "/catalogue/records/1/primary_edition_lead",
+          "role": "primary_edition_lead",
+          "source_id": "dunand-1945"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/catalogue/records:BYB-C",
+          "path": "/catalogue/records/2/primary_edition_lead",
+          "role": "primary_edition_lead",
+          "source_id": "dunand-1945"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/catalogue/records:BYB-D",
+          "path": "/catalogue/records/3/primary_edition_lead",
+          "role": "primary_edition_lead",
+          "source_id": "dunand-1945"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/catalogue/records:BYB-E",
+          "path": "/catalogue/records/4/primary_edition_lead",
+          "role": "primary_edition_lead",
+          "source_id": "dunand-1945"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/catalogue/records:BYB-F",
+          "path": "/catalogue/records/5/primary_edition_lead",
+          "role": "primary_edition_lead",
+          "source_id": "dunand-1945"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/catalogue/records:BYB-G",
+          "path": "/catalogue/records/6/primary_edition_lead",
+          "role": "primary_edition_lead",
+          "source_id": "dunand-1945"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/catalogue/records:BYB-H",
+          "path": "/catalogue/records/7/primary_edition_lead",
+          "role": "primary_edition_lead",
+          "source_id": "dunand-1945"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/catalogue/records:BYB-I",
+          "path": "/catalogue/records/8/primary_edition_lead",
+          "role": "primary_edition_lead",
+          "source_id": "dunand-1945"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/catalogue/records:BYB-J",
+          "path": "/catalogue/records/9/primary_edition_lead",
+          "role": "primary_edition_lead",
+          "source_id": "dunand-1945"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-EDITIONS",
+          "path": "/coverage/gaps/3/source_ids/0",
+          "role": "context_source",
+          "source_id": "dunand-1945"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-RIGHTS",
+          "path": "/coverage/gaps/7/source_ids/1",
+          "role": "context_source",
+          "source_id": "dunand-1945"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-SIGNS",
+          "path": "/coverage/gaps/8/source_ids/0",
+          "role": "context_source",
+          "source_id": "dunand-1945"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-TRANSCRIPTION",
+          "path": "/coverage/gaps/9/source_ids/0",
+          "role": "context_source",
+          "source_id": "dunand-1945"
+        }
+      ]
+    },
+    {
+      "citation": "M. Dunand, Nouvelles inscriptions pseudo-hiéroglyphiques découvertes à Byblos. Bulletin du Musée de Beyrouth 30 (nominal 1978). Pagination and actual publication year disputed in secondary metadata.",
+      "consultation": "not_consulted",
+      "rights": {
+        "scope": "Publication not yet obtained.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "context_source": 3,
+        "primary_edition_lead": 4
+      },
+      "source_id": "dunand-1978",
+      "uses": [
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/catalogue/records:BYB-K",
+          "path": "/catalogue/records/10/primary_edition_lead",
+          "role": "primary_edition_lead",
+          "source_id": "dunand-1978"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/catalogue/records:BYB-L",
+          "path": "/catalogue/records/11/primary_edition_lead",
+          "role": "primary_edition_lead",
+          "source_id": "dunand-1978"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/catalogue/records:BYB-M",
+          "path": "/catalogue/records/12/primary_edition_lead",
+          "role": "primary_edition_lead",
+          "source_id": "dunand-1978"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/catalogue/records:BYB-N",
+          "path": "/catalogue/records/13/primary_edition_lead",
+          "role": "primary_edition_lead",
+          "source_id": "dunand-1978"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-EDITIONS",
+          "path": "/coverage/gaps/3/source_ids/1",
+          "role": "context_source",
+          "source_id": "dunand-1978"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-RIGHTS",
+          "path": "/coverage/gaps/7/source_ids/2",
+          "role": "context_source",
+          "source_id": "dunand-1978"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-TRANSCRIPTION",
+          "path": "/coverage/gaps/9/source_ids/1",
+          "role": "context_source",
+          "source_id": "dunand-1978"
+        }
+      ]
+    },
+    {
+      "citation": "René Dussaud (1946), L’origine de l’alphabet et son évolution première, d’après les découvertes de Byblos, Syria 25(1):36–52.",
+      "consultation": "selected_pages",
+      "rights": {
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "discovery_source": 1,
+        "source_reference": 1
+      },
+      "source_id": "dussaud-1946",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "Article metadata and p. 36",
+          "owner": "/bibliography/entries:dussaud-1946",
+          "path": "/bibliography/entries/20/discovery_source",
+          "role": "discovery_source",
+          "source_id": "dussaud-1946"
+        },
+        {
+          "fields": [],
+          "locator": "p. 36, footnote 1",
+          "owner": "/sources/sources:dunand-1945",
+          "path": "/sources/sources/2/bibliographic_claims/0/source_id",
+          "role": "source_reference",
+          "source_id": "dussaud-1946"
+        }
+      ]
+    },
+    {
+      "citation": "Ben Haring (2023), Hieroglyphs, Pseudo-Scripts and Alphabets: Their Use and Reception in Ancient Egypt and Neighbouring Regions. Cambridge University Press.",
+      "consultation": "metadata_only",
+      "rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "discovery_source": 1
+      },
+      "source_id": "haring-2023",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "Information",
+          "owner": "/bibliography/entries:haring-2023",
+          "path": "/bibliography/entries/22/discovery_source",
+          "role": "discovery_source",
+          "source_id": "haring-2023"
+        }
+      ]
+    },
+    {
+      "citation": "S. Izre'el (1988), review of Mendenhall, The Syllabic Inscriptions from Byblos. JAOS 108(3), pp. 519–521.",
+      "consultation": "selected_sections",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "discovery_source": 1
+      },
+      "source_id": "izreel-1988",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "p. 521, bibliography",
+          "owner": "/bibliography/entries:sobelman-1961",
+          "path": "/bibliography/entries/17/discovery_source",
+          "role": "discovery_source",
+          "source_id": "izreel-1988"
+        }
+      ]
+    },
+    {
+      "citation": "KeiBi online, Dunand 1978 record KEI00067546.",
+      "consultation": "consulted_online",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "source_reference": 1
+      },
+      "source_id": "keibi-dunand-1978",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "Bibliographic Details / RAW",
+          "owner": "/sources/sources:dunand-1978",
+          "path": "/sources/sources/3/bibliographic_claims/1/source_id",
+          "role": "source_reference",
+          "source_id": "keibi-dunand-1978"
+        }
+      ]
+    },
+    {
+      "citation": "KeiBi online, Schwartz 2010, KEI00104326.",
+      "consultation": "consulted_online",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {},
+      "source_id": "keibi-schwartz",
+      "uses": []
+    },
+    {
+      "citation": "Michael Mäder (2022), Detecting word boundaries in an undeciphered script: The Byblos syllabary. BAF-Online 4(1), proceedings of the 2019 forum.",
+      "consultation": "abstract_only",
+      "rights": {
+        "license": "CC-BY-4.0",
+        "scope": "Journal item; does not establish rights for a separately held corpus.",
+        "status": "license_stated"
+      },
+      "role_counts": {
+        "context_source": 3,
+        "source_reference": 2
+      },
+      "source_id": "maeder-baf",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "Abstract, first sentence",
+          "owner": "/coverage/count_claims:COUNT-15",
+          "path": "/coverage/count_claims/1/source_id",
+          "role": "source_reference",
+          "source_id": "maeder-baf"
+        },
+        {
+          "fields": [],
+          "locator": "Abstract, second sentence",
+          "owner": "/coverage/count_claims:COUNT-28",
+          "path": "/coverage/count_claims/2/source_id",
+          "role": "source_reference",
+          "source_id": "maeder-baf"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-COUNT",
+          "path": "/coverage/gaps/0/source_ids/1",
+          "role": "context_source",
+          "source_id": "maeder-baf"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-FRAGMENTS",
+          "path": "/coverage/gaps/1/source_ids/0",
+          "role": "context_source",
+          "source_id": "maeder-baf"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-DIGITAL",
+          "path": "/coverage/gaps/2/source_ids/0",
+          "role": "context_source",
+          "source_id": "maeder-baf"
+        }
+      ]
+    },
+    {
+      "citation": "Mnamon, Byblos bibliography.",
+      "consultation": "consulted_online",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "discovery_source": 15,
+        "source_reference": 1
+      },
+      "source_id": "mnamon-bibliography",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "entry 1",
+          "owner": "/bibliography/entries:dunand-1945",
+          "path": "/bibliography/entries/0/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 2",
+          "owner": "/bibliography/entries:hrozny-1946",
+          "path": "/bibliography/entries/1/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 11",
+          "owner": "/bibliography/entries:colless-1995",
+          "path": "/bibliography/entries/10/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 12",
+          "owner": "/bibliography/entries:woudhuizen-2007",
+          "path": "/bibliography/entries/11/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 13",
+          "owner": "/bibliography/entries:garbini-2009",
+          "path": "/bibliography/entries/12/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 14",
+          "owner": "/bibliography/entries:best-rietveld-2010",
+          "path": "/bibliography/entries/13/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 15",
+          "owner": "/bibliography/entries:vita-zamora-2018",
+          "path": "/bibliography/entries/14/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 3",
+          "owner": "/bibliography/entries:dhorme-1946",
+          "path": "/bibliography/entries/2/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 4",
+          "owner": "/bibliography/entries:dunand-1978",
+          "path": "/bibliography/entries/3/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 5",
+          "owner": "/bibliography/entries:mendenhall-1985",
+          "path": "/bibliography/entries/4/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 6",
+          "owner": "/bibliography/entries:best-woudhuizen-1989",
+          "path": "/bibliography/entries/5/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 7",
+          "owner": "/bibliography/entries:colless-1992",
+          "path": "/bibliography/entries/6/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 8",
+          "owner": "/bibliography/entries:colless-1993",
+          "path": "/bibliography/entries/7/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 9",
+          "owner": "/bibliography/entries:colless-1994",
+          "path": "/bibliography/entries/8/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 10",
+          "owner": "/bibliography/entries:sznycer-1994",
+          "path": "/bibliography/entries/9/discovery_source",
+          "role": "discovery_source",
+          "source_id": "mnamon-bibliography"
+        },
+        {
+          "fields": [],
+          "locator": "entry 4",
+          "owner": "/sources/sources:dunand-1978",
+          "path": "/sources/sources/3/bibliographic_claims/0/source_id",
+          "role": "source_reference",
+          "source_id": "mnamon-bibliography"
+        }
+      ]
+    },
+    {
+      "citation": "Paolo Merlo, Byblos (Pseudo-hieroglyphic), Mnamon, updated March 2022.",
+      "consultation": "consulted_online",
+      "rights": {
+        "scope": "No images or transcriptions imported.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "context_source": 2,
+        "field_evidence": 15,
+        "source_reference": 1
+      },
+      "source_id": "mnamon-merlo",
+      "uses": [
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "owner": "/catalogue/records:BYB-A",
+          "path": "/catalogue/records/0/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "owner": "/catalogue/records:BYB-B",
+          "path": "/catalogue/records/1/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "owner": "/catalogue/records:BYB-K",
+          "path": "/catalogue/records/10/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "owner": "/catalogue/records:BYB-L",
+          "path": "/catalogue/records/11/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "owner": "/catalogue/records:BYB-M",
+          "path": "/catalogue/records/12/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "owner": "/catalogue/records:BYB-N",
+          "path": "/catalogue/records/13/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "owner": "/catalogue/records:BYB-C",
+          "path": "/catalogue/records/2/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "owner": "/catalogue/records:BYB-D",
+          "path": "/catalogue/records/3/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "owner": "/catalogue/records:BYB-E",
+          "path": "/catalogue/records/4/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "owner": "/catalogue/records:BYB-F",
+          "path": "/catalogue/records/5/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "owner": "/catalogue/records:BYB-G",
+          "path": "/catalogue/records/6/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "owner": "/catalogue/records:BYB-H",
+          "path": "/catalogue/records/7/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "owner": "/catalogue/records:BYB-I",
+          "path": "/catalogue/records/8/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "edition_label",
+            "material",
+            "object_type",
+            "membership"
+          ],
+          "locator": "Corpus of the pseudo-hieroglyphic inscriptions of Byblos",
+          "owner": "/catalogue/records:BYB-J",
+          "path": "/catalogue/records/9/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [],
+          "locator": "Corpus section, labels a–n",
+          "owner": "/coverage/count_claims:COUNT-14",
+          "path": "/coverage/count_claims/0/source_id",
+          "role": "source_reference",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-COUNT",
+          "path": "/coverage/gaps/0/source_ids/0",
+          "role": "context_source",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-BIBLIOGRAPHY",
+          "path": "/coverage/gaps/4/source_ids/0",
+          "role": "context_source",
+          "source_id": "mnamon-merlo"
+        },
+        {
+          "fields": [
+            "predicate"
+          ],
+          "locator": "Corpus section, entries h and j",
+          "owner": "/relations/relations:REL-H-J",
+          "path": "/relations/relations/0/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "mnamon-merlo"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / Byblicon, Online Corpus of Byblos Inscriptions (OCBI), live compiled application.",
+      "consultation": "metadata_only",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "context_source": 3,
+        "source_reference": 5
+      },
+      "source_id": "ocbi-current",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "bu introduction string",
+          "owner": "/coverage/count_claims:COUNT-OCBI-CERTAIN",
+          "path": "/coverage/count_claims/3/source_id",
+          "role": "source_reference",
+          "source_id": "ocbi-current"
+        },
+        {
+          "fields": [],
+          "locator": "bu introduction string",
+          "owner": "/coverage/count_claims:COUNT-OCBI-POTENTIAL",
+          "path": "/coverage/count_claims/4/source_id",
+          "role": "source_reference",
+          "source_id": "ocbi-current"
+        },
+        {
+          "fields": [],
+          "locator": "record fields b / c in retrieved JavaScript",
+          "owner": "/coverage/count_claims:COUNT-OCBI-ENTRIES",
+          "path": "/coverage/count_claims/5/source_id",
+          "role": "source_reference",
+          "source_id": "ocbi-current"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-OCBI",
+          "path": "/coverage/gaps/6/source_ids/0",
+          "role": "context_source",
+          "source_id": "ocbi-current"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-RIGHTS",
+          "path": "/coverage/gaps/7/source_ids/0",
+          "role": "context_source",
+          "source_id": "ocbi-current"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-TRANSCRIPTION",
+          "path": "/coverage/gaps/9/source_ids/2",
+          "role": "context_source",
+          "source_id": "ocbi-current"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/external_crosswalk",
+          "path": "/external_crosswalk/source_id",
+          "role": "source_reference",
+          "source_id": "ocbi-current"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/search_log",
+          "path": "/search_log/access_attempts/2/source_id",
+          "role": "source_reference",
+          "source_id": "ocbi-current"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS, Introduction to the decipherment tool and Byblicon citation guidance.",
+      "consultation": "consulted_online",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {},
+      "source_id": "ocbi-introduction",
+      "uses": []
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide o_recto.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 3
+      },
+      "source_id": "ocbi-plate-o_recto",
+      "uses": [
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-16",
+          "path": "/external_crosswalk/entries/15/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-o_recto"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-17",
+          "path": "/external_crosswalk/entries/16/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-o_recto"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-18",
+          "path": "/external_crosswalk/entries/17/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-o_recto"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide p.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 1
+      },
+      "source_id": "ocbi-plate-p",
+      "uses": [
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-19",
+          "path": "/external_crosswalk/entries/18/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-p"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide q.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 1
+      },
+      "source_id": "ocbi-plate-q",
+      "uses": [
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-20",
+          "path": "/external_crosswalk/entries/19/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-q"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide r.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 8
+      },
+      "source_id": "ocbi-plate-r",
+      "uses": [
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-21",
+          "path": "/external_crosswalk/entries/20/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-r"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-22",
+          "path": "/external_crosswalk/entries/21/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-r"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-23",
+          "path": "/external_crosswalk/entries/22/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-r"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-24",
+          "path": "/external_crosswalk/entries/23/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-r"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-25",
+          "path": "/external_crosswalk/entries/24/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-r"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-26",
+          "path": "/external_crosswalk/entries/25/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-r"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-27",
+          "path": "/external_crosswalk/entries/26/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-r"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-28",
+          "path": "/external_crosswalk/entries/27/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-r"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide s.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 2
+      },
+      "source_id": "ocbi-plate-s",
+      "uses": [
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "material"
+          ],
+          "locator": "caption and labelled example",
+          "owner": "/catalogue/records:BYB-CAND-RIETI",
+          "path": "/catalogue/records/27/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-s"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-29",
+          "path": "/external_crosswalk/entries/28/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-s"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide t.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 1
+      },
+      "source_id": "ocbi-plate-t",
+      "uses": [
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-30",
+          "path": "/external_crosswalk/entries/29/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-t"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide u.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 1
+      },
+      "source_id": "ocbi-plate-u",
+      "uses": [
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-31",
+          "path": "/external_crosswalk/entries/30/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-u"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide v.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 2
+      },
+      "source_id": "ocbi-plate-v",
+      "uses": [
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "material"
+          ],
+          "locator": "caption and labelled example",
+          "owner": "/catalogue/records:BYB-CAND-TEL-HALIF",
+          "path": "/catalogue/records/28/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-v"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-32",
+          "path": "/external_crosswalk/entries/31/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-v"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide w.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 2
+      },
+      "source_id": "ocbi-plate-w",
+      "uses": [
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "material"
+          ],
+          "locator": "caption and labelled example",
+          "owner": "/catalogue/records:BYB-CAND-TELL-JISR",
+          "path": "/catalogue/records/29/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-w"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-33",
+          "path": "/external_crosswalk/entries/32/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-w"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide x.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 2
+      },
+      "source_id": "ocbi-plate-x",
+      "uses": [
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "material"
+          ],
+          "locator": "caption and labelled example",
+          "owner": "/catalogue/records:BYB-CAND-ULUBURUN",
+          "path": "/catalogue/records/30/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-x"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-34",
+          "path": "/external_crosswalk/entries/33/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-x"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide y.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 1
+      },
+      "source_id": "ocbi-plate-y",
+      "uses": [
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-35",
+          "path": "/external_crosswalk/entries/34/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-y"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide z.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 2
+      },
+      "source_id": "ocbi-plate-z",
+      "uses": [
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership"
+          ],
+          "locator": "caption and labelled example",
+          "owner": "/catalogue/records:BYB-CAND-STONE-SEAL-2010",
+          "path": "/catalogue/records/31/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-36",
+          "path": "/external_crosswalk/entries/35/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide z_a.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 3
+      },
+      "source_id": "ocbi-plate-z_a",
+      "uses": [
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "material"
+          ],
+          "locator": "caption and labelled example",
+          "owner": "/catalogue/records:BYB-CAND-BALUA",
+          "path": "/catalogue/records/32/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_a"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-37",
+          "path": "/external_crosswalk/entries/36/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_a"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-38",
+          "path": "/external_crosswalk/entries/37/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_a"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide z_b.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "context_source": 2,
+        "field_evidence": 7,
+        "project_evidence_source_id": 1
+      },
+      "source_id": "ocbi-plate-z_b",
+      "uses": [
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership"
+          ],
+          "locator": "caption and labelled example",
+          "owner": "/catalogue/records:BYB-CAND-UMM-O3A",
+          "path": "/catalogue/records/33/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_b"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership"
+          ],
+          "locator": "caption and labelled example",
+          "owner": "/catalogue/records:BYB-CAND-UMM-O3B",
+          "path": "/catalogue/records/34/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_b"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership"
+          ],
+          "locator": "caption and labelled example",
+          "owner": "/catalogue/records:BYB-CAND-UMM-O3C",
+          "path": "/catalogue/records/35/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_b"
+        },
+        {
+          "fields": [
+            "resolution"
+          ],
+          "locator": "O-3c caption",
+          "owner": "/coverage/gaps:GAP-PROVIDER-LINK",
+          "path": "/coverage/gaps/10/evidence/1/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_b"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-PROVIDER-LINK",
+          "path": "/coverage/gaps/10/source_ids/1",
+          "role": "context_source",
+          "source_id": "ocbi-plate-z_b"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-UMM",
+          "path": "/coverage/gaps/12/source_ids/0",
+          "role": "context_source",
+          "source_id": "ocbi-plate-z_b"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-39",
+          "path": "/external_crosswalk/entries/38/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_b"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-40",
+          "path": "/external_crosswalk/entries/39/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_b"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "O-3c labelled example",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-41",
+          "path": "/external_crosswalk/entries/40/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_b"
+        },
+        {
+          "fields": [],
+          "locator": "record b/c fields, entry 41",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-41",
+          "path": "/external_crosswalk/entries/40/project_evidence_source_id",
+          "role": "project_evidence_source_id",
+          "source_id": "ocbi-plate-z_b"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide z_c.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "context_source": 1,
+        "field_evidence": 3
+      },
+      "source_id": "ocbi-plate-z_c",
+      "uses": [
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership"
+          ],
+          "locator": "caption and labelled example",
+          "owner": "/catalogue/records:BYB-CAND-KAHUN",
+          "path": "/catalogue/records/36/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_c"
+        },
+        {
+          "fields": [
+            "resolution"
+          ],
+          "locator": "Kahun caption",
+          "owner": "/coverage/gaps:GAP-PROVIDER-LINK",
+          "path": "/coverage/gaps/10/evidence/2/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_c"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-PROVIDER-LINK",
+          "path": "/coverage/gaps/10/source_ids/2",
+          "role": "context_source",
+          "source_id": "ocbi-plate-z_c"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-42",
+          "path": "/external_crosswalk/entries/41/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_c"
+        }
+      ]
+    },
+    {
+      "citation": "GEAS / OCBI, explanatory slide z_d.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "field_evidence": 2
+      },
+      "source_id": "ocbi-plate-z_d",
+      "uses": [
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership"
+          ],
+          "locator": "caption and labelled example",
+          "owner": "/catalogue/records:BYB-CAND-DEIR-RIFA",
+          "path": "/catalogue/records/37/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_d"
+        },
+        {
+          "fields": [
+            "proposed_project_record"
+          ],
+          "locator": "slide caption and matching artifact description",
+          "owner": "/external_crosswalk/entries:OCBI-ENTRY-43",
+          "path": "/external_crosswalk/entries/42/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-plate-z_d"
+        }
+      ]
+    },
+    {
+      "citation": "Elamicon project, README legalese and encoding notes.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {},
+      "source_id": "ocbi-repository",
+      "uses": []
+    },
+    {
+      "citation": "Elamicon / GEAS, src/Scripts/Byblos.elm.",
+      "consultation": "metadata_only",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "context_source": 2,
+        "field_evidence": 2,
+        "metadata_source_id": 1,
+        "source_reference": 1
+      },
+      "source_id": "ocbi-source",
+      "uses": [
+        {
+          "fields": [
+            "value",
+            "qualifier"
+          ],
+          "locator": "fragments, record id = \"m\", dir = RTL",
+          "owner": "/catalogue/records:BYB-M",
+          "path": "/catalogue/records/12/direction_claims/1/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-source"
+        },
+        {
+          "fields": [
+            "resolution"
+          ],
+          "locator": "Byblos.elm b'c record at commit 69b4cc2822493146045cb9969586bf5bd9195380",
+          "owner": "/coverage/gaps:GAP-PROVIDER-LINK",
+          "path": "/coverage/gaps/10/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "ocbi-source"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-PROVIDER-LINK",
+          "path": "/coverage/gaps/10/source_ids/0",
+          "role": "context_source",
+          "source_id": "ocbi-source"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-DIRECTION-M",
+          "path": "/coverage/gaps/11/source_ids/1",
+          "role": "context_source",
+          "source_id": "ocbi-source"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/external_crosswalk",
+          "path": "/external_crosswalk/metadata_source_id",
+          "role": "metadata_source_id",
+          "source_id": "ocbi-source"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/search_log",
+          "path": "/search_log/access_attempts/3/source_id",
+          "role": "source_reference",
+          "source_id": "ocbi-source"
+        }
+      ]
+    },
+    {
+      "citation": "Open Library, Byblia grammata, edition OL6188790M, catalogue record.",
+      "consultation": "metadata_only",
+      "rights": {
+        "scope": "Factual catalogue metadata only; book text and plates not redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "source_reference": 1
+      },
+      "source_id": "openlibrary-dunand",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "Publication Date and Edition Identifiers",
+          "owner": "/sources/sources:dunand-1945",
+          "path": "/sources/sources/2/bibliographic_claims/1/source_id",
+          "role": "source_reference",
+          "source_id": "openlibrary-dunand"
+        }
+      ]
+    },
+    {
+      "citation": "Benjamin Sass (2019), The pseudo-hieroglyphic inscriptions from Byblos, their elusive dating, and their affinities with the early Phoenician inscriptions, in Ph. Abrahami and L. Battini (eds.), Cultures et sociétés syro-mésopotamiennes, pp. 157–180.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "discovery_source": 2,
+        "field_evidence": 1
+      },
+      "source_id": "sass-2019",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "Author-uploaded chapter metadata",
+          "owner": "/bibliography/entries:sass-2019",
+          "path": "/bibliography/entries/21/discovery_source",
+          "role": "discovery_source",
+          "source_id": "sass-2019"
+        },
+        {
+          "fields": [],
+          "locator": "p. 169, arrowhead 13104 discussion",
+          "owner": "/bibliography/entries:tubb-1980",
+          "path": "/bibliography/entries/24/discovery_source",
+          "role": "discovery_source",
+          "source_id": "sass-2019"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note",
+            "reported_excavation_identifier"
+          ],
+          "locator": "p. 169, Figure 17 and arrowhead discussion; Byblos II pl. 177 cited",
+          "owner": "/catalogue/records:BYB-CAND-ARROWHEAD-13104",
+          "path": "/catalogue/records/38/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "sass-2019"
+        }
+      ]
+    },
+    {
+      "citation": "E. Schmutz and M. Mäder, Die Byblos-Schrift: Beurteilung des Entzifferungsvorschlags von F. Woudhuizen und J. Best anhand der GEAS-Methodologie. Assessing Decipherment Attempts Series 1, No. 2024/1.",
+      "consultation": "selected_sections",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "discovery_source": 1
+      },
+      "source_id": "schmutz-maeder-2024",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "bibliography p. 10",
+          "owner": "/bibliography/entries:garbini-2004",
+          "path": "/bibliography/entries/19/discovery_source",
+          "role": "discovery_source",
+          "source_id": "schmutz-maeder-2024"
+        }
+      ]
+    },
+    {
+      "citation": "Glenn M. Schwartz (2021), Non-cuneiform writing at third-millennium Umm el-Marra, Syria: evidence of an early alphabetic tradition?, Pasiphae XV:255–266 (publisher metadata).",
+      "consultation": "metadata_only",
+      "rights": {
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "context_source": 1,
+        "source_reference": 2
+      },
+      "source_id": "schwartz-2021-publisher",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "Is part of, pages, DOI",
+          "owner": "/bibliography/entries:schwartz-2021",
+          "path": "/bibliography/entries/16/bibliographic_evidence/0/source_id",
+          "role": "source_reference",
+          "source_id": "schwartz-2021-publisher"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-UMM",
+          "path": "/coverage/gaps/12/source_ids/2",
+          "role": "context_source",
+          "source_id": "schwartz-2021-publisher"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/search_log",
+          "path": "/search_log/access_attempts/4/source_id",
+          "role": "source_reference",
+          "source_id": "schwartz-2021-publisher"
+        }
+      ]
+    },
+    {
+      "citation": "Glenn M. Schwartz, author-hosted abstract of Non-cuneiform writing at third-millennium Umm el-Marra, Syria.",
+      "consultation": "abstract_only",
+      "rights": {
+        "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "context_source": 1,
+        "field_evidence": 3,
+        "source_reference": 1
+      },
+      "source_id": "schwartz-author-abstract",
+      "uses": [
+        {
+          "fields": [
+            "membership_note"
+          ],
+          "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+          "owner": "/catalogue/records:BYB-CAND-UMM-O3A",
+          "path": "/catalogue/records/33/evidence/1/source_id",
+          "role": "field_evidence",
+          "source_id": "schwartz-author-abstract"
+        },
+        {
+          "fields": [
+            "membership_note"
+          ],
+          "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+          "owner": "/catalogue/records:BYB-CAND-UMM-O3B",
+          "path": "/catalogue/records/34/evidence/1/source_id",
+          "role": "field_evidence",
+          "source_id": "schwartz-author-abstract"
+        },
+        {
+          "fields": [
+            "membership_note"
+          ],
+          "locator": "Non-cuneiform writing abstract, comparison and hypothesis sentences",
+          "owner": "/catalogue/records:BYB-CAND-UMM-O3C",
+          "path": "/catalogue/records/35/evidence/1/source_id",
+          "role": "field_evidence",
+          "source_id": "schwartz-author-abstract"
+        },
+        {
+          "fields": [],
+          "locator": "Non-cuneiform writing abstract, first sentence",
+          "owner": "/coverage/count_claims:COUNT-UMM-4",
+          "path": "/coverage/count_claims/8/source_id",
+          "role": "source_reference",
+          "source_id": "schwartz-author-abstract"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-UMM",
+          "path": "/coverage/gaps/12/source_ids/3",
+          "role": "context_source",
+          "source_id": "schwartz-author-abstract"
+        }
+      ]
+    },
+    {
+      "citation": "G. M. Schwartz, institutional CV (2025), bibliography.",
+      "consultation": "selected_sections",
+      "rights": {
+        "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "context_source": 1,
+        "discovery_source": 2,
+        "source_reference": 1
+      },
+      "source_id": "schwartz-cv",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "CV p. 6",
+          "owner": "/bibliography/entries:schwartz-2010",
+          "path": "/bibliography/entries/15/discovery_source",
+          "role": "discovery_source",
+          "source_id": "schwartz-cv"
+        },
+        {
+          "fields": [],
+          "locator": "2021 publication entry",
+          "owner": "/bibliography/entries:schwartz-2021",
+          "path": "/bibliography/entries/16/bibliographic_evidence/1/source_id",
+          "role": "source_reference",
+          "source_id": "schwartz-cv"
+        },
+        {
+          "fields": [],
+          "locator": "CV p. 4",
+          "owner": "/bibliography/entries:schwartz-2021",
+          "path": "/bibliography/entries/16/discovery_source",
+          "role": "discovery_source",
+          "source_id": "schwartz-cv"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-UMM",
+          "path": "/coverage/gaps/12/source_ids/1",
+          "role": "context_source",
+          "source_id": "schwartz-cv"
+        }
+      ]
+    },
+    {
+      "citation": "Harvey Sobelman (1961), The Proto-Byblian Inscriptions: A Fresh Approach, JSS 6(2):226–245.",
+      "consultation": "metadata_only",
+      "rights": {
+        "scope": "Factual metadata and original attributed summaries only; no publication text, image or transcription redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "source_reference": 2
+      },
+      "source_id": "sobelman-publisher",
+      "uses": [
+        {
+          "fields": [],
+          "locator": "Article metadata",
+          "owner": "/bibliography/entries:sobelman-1961",
+          "path": "/bibliography/entries/17/bibliographic_evidence/0/source_id",
+          "role": "source_reference",
+          "source_id": "sobelman-publisher"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/search_log",
+          "path": "/search_log/access_attempts/6/source_id",
+          "role": "source_reference",
+          "source_id": "sobelman-publisher"
+        }
+      ]
+    },
+    {
+      "citation": "J.-P. Vita and J.-Á. Zamora (2018), The Byblos Script. Paths into Script Formation in the Ancient Mediterranean, SMEA NS Supplemento 1, pp. 75–102.",
+      "consultation": "selected_sections",
+      "rights": {
+        "license": null,
+        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "status": "not_assessed"
+      },
+      "role_counts": {
+        "context_source": 2,
+        "field_evidence": 20
+      },
+      "source_id": "vita-zamora-2018",
+      "uses": [
+        {
+          "fields": [
+            "value",
+            "qualifier"
+          ],
+          "locator": "pp. 81–82, stela m",
+          "owner": "/catalogue/records:BYB-M",
+          "path": "/catalogue/records/12/direction_claims/0/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note",
+            "material"
+          ],
+          "locator": "pp. 85–86, fig. 16",
+          "owner": "/catalogue/records:BYB-CAND-LINEAR-STELA",
+          "path": "/catalogue/records/14/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note",
+            "material"
+          ],
+          "locator": "pp. 86–87, fig. 17",
+          "owner": "/catalogue/records:BYB-CAND-PALIMPSEST-KAI3",
+          "path": "/catalogue/records/15/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ],
+          "locator": "pp. 87–88, fig. 18",
+          "owner": "/catalogue/records:BYB-CAND-PALIMPSEST-KAI4",
+          "path": "/catalogue/records/16/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ],
+          "locator": "p. 88, fig. 19 and n. 6",
+          "owner": "/catalogue/records:BYB-CAND-PALIMPSEST-KAI1",
+          "path": "/catalogue/records/17/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ],
+          "locator": "p. 88, fig. 20a; n. 7",
+          "owner": "/catalogue/records:BYB-CAND-MEGIDDO-RING",
+          "path": "/catalogue/records/18/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ],
+          "locator": "p. 88, fig. 20b",
+          "owner": "/catalogue/records:BYB-CAND-SINAI-526",
+          "path": "/catalogue/records/19/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ],
+          "locator": "p. 88, fig. 20c",
+          "owner": "/catalogue/records:BYB-CAND-THEBES-OSTRACON",
+          "path": "/catalogue/records/20/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ],
+          "locator": "p. 88, fig. 20d",
+          "owner": "/catalogue/records:BYB-CAND-LAMP-1",
+          "path": "/catalogue/records/21/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ],
+          "locator": "p. 88, fig. 20e",
+          "owner": "/catalogue/records:BYB-CAND-LAMP-2",
+          "path": "/catalogue/records/22/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ],
+          "locator": "p. 88, fig. 20f",
+          "owner": "/catalogue/records:BYB-CAND-LAMP-3",
+          "path": "/catalogue/records/23/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ],
+          "locator": "p. 88, fig. 20g",
+          "owner": "/catalogue/records:BYB-CAND-SCARABOID",
+          "path": "/catalogue/records/24/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note",
+            "material"
+          ],
+          "locator": "p. 88, fig. 20h",
+          "owner": "/catalogue/records:BYB-CAND-TRIESTE",
+          "path": "/catalogue/records/25/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "display_name",
+            "object_type",
+            "membership",
+            "membership_note"
+          ],
+          "locator": "p. 89, fig. 21",
+          "owner": "/catalogue/records:BYB-CAND-CYLINDER-2004",
+          "path": "/catalogue/records/26/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-DIRECTION-M",
+          "path": "/coverage/gaps/11/source_ids/0",
+          "role": "context_source",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/coverage/gaps:GAP-SIGNS",
+          "path": "/coverage/gaps/8/source_ids/1",
+          "role": "context_source",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "p. 77",
+          "owner": "/surfaces/surfaces:BYB-C-A",
+          "path": "/surfaces/surfaces/0/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "p. 77",
+          "owner": "/surfaces/surfaces:BYB-C-B",
+          "path": "/surfaces/surfaces/1/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "pp. 77–78",
+          "owner": "/surfaces/surfaces:BYB-D-A",
+          "path": "/surfaces/surfaces/2/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "pp. 77–78",
+          "owner": "/surfaces/surfaces:BYB-D-B",
+          "path": "/surfaces/surfaces/3/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "pp. 83–84",
+          "owner": "/surfaces/surfaces:BYB-F-A",
+          "path": "/surfaces/surfaces/4/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "pp. 83–84",
+          "owner": "/surfaces/surfaces:BYB-F-B",
+          "path": "/surfaces/surfaces/5/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        }
+      ]
+    }
+  ],
+  "unresolved_references": []
+}

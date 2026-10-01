@@ -2,6 +2,7 @@
 import argparse
 import json
 from pathlib import Path
+from .provenance import provenance_report
 from .core import audit, load_bundle, ROOT
 from .export import sequence_statistics, write_export, verify_export
 from .workflow import review_packet, compare_snapshots
@@ -12,6 +13,8 @@ def main():
     parser.add_argument("--root", default=str(ROOT), help="Corpus repository root")
     sub = parser.add_subparsers(dest="command", required=True)
     sub.add_parser("validate")
+    prov = sub.add_parser("provenance", help="Print citation usage and source dependencies")
+    prov.add_argument("--source", help="Limit usage inventory to a registered source")
     sub.add_parser("review-packet", help="Print pending review tasks as JSON")
     template = sub.add_parser("proposal-template", help="Print an empty contribution form")
     template.add_argument("--record", action="append", help="Limit form targets to a known record; repeat as needed")
@@ -59,6 +62,8 @@ def main():
         if args.command == "validate":
             print("PASS: structurally valid; scientific 1.0 ready:",
                   result["scientific_1_0_ready"])
+        elif args.command == "provenance":
+            print(json.dumps(provenance_report(bundle, args.source), indent=2, ensure_ascii=False))
         elif args.command == "audit":
             print(json.dumps(result, indent=2, ensure_ascii=False))
             if args.require_1_0 and not result["scientific_1_0_ready"]:

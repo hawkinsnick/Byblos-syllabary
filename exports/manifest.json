@@ -1,21 +1,22 @@
 {
   "algorithm": "sha256",
   "files": {
-    "REPORT.md": "f67fa1044822ecd396d271962d00ef3a776889db8997812436d4cb30a3f02f4d",
+    "REPORT.md": "726f9eb6944d465bbbd4e2b7c11ff0fcf01d497c94eb6cddbadef80d36e391d7",
     "REUSE.md": "b6db64c74324c659827e2bdffbbbf43363385bb8c06faa9586eda408839cb3b8",
-    "audit.json": "d0812129f791fc490fabe288910d9d80e2e97d8f96e7cfa1032b37906533fe65",
-    "bundle.json": "d435371db261d8bee23a402bdfe3b4dae72320c06ff2e9675e2c90955a075692",
+    "audit.json": "49f7767c200686fb3628e26afd21a5ccf77fc318da7c2ba090b2bde850ab15f4",
+    "bundle.json": "28bec0eddbc07e9b21c0177e5b319c8cedab7b0a3ac93a541f8a5b1023018b1d",
     "catalogue.csv": "6a3a162234c83a1ea7e0428458e9655a976d0fd08342cf11af27f84b81549827",
     "catalogue.jsonl": "eb2928dcf987a4b1164eb77c6741115402034a12eed25348db51cfbf744f2d53",
-    "contribution_template.json": "4c2e27c7379f9533d159df7bf5367e0ed7af76c8cdc3d1f5ee92e17f12ea8f23",
-    "index.html": "63506cb5a9e1671782dbb7a0ed753a286e48cb6b25052e042f90d0c83f526f2d",
-    "review_packet.json": "25a01c3d0dd420b3abecd98befa18dbc6c723548e20b442269f07dc6bf1e22f4"
+    "contribution_template.json": "d1a1c56a8377e8d65205151db248046c31e089a6cf3961c46770457fbe078a52",
+    "index.html": "d5bb38e6b88bcecceab65b909c0c982e66aa16a8bd1938c93699ebeb2a300a9f",
+    "provenance.json": "58a67efd8c4c8c61c90377341b0f53ff209353a1509c75fc59206a706d504332",
+    "review_packet.json": "bac4690947716554558970a8c551cd8438e160cdf1e1d3255667b7b505cc2dcf"
   },
   "input_hash_format": "Canonical JSON: sorted keys, ensure_ascii=False, indent=2, trailing newline",
   "inputs": {
     "bibliography.json": "b8950f28beabc0d450dc8b10f82c9b6c275d13dc6233417eef8145ba2bcf60f0",
     "catalogue.json": "e6e25dfc46a98e8797752d8769ec61422206219c0d8688a349ef575c58612254",
-    "coverage.json": "0b031c0cd950ae0d27e9f281a3a8e4695743071590da10257ebe8b1c7097fdb2",
+    "coverage.json": "68222cfa599825ac134f6cba4a23d1e60a69779a6bba7f4b6e79edf245624e22",
     "external_crosswalk.json": "c2be40c9a75e4264aded5572a06ac7df3c1e31fcd6a6205cf172a19a19895bf5",
     "relations.json": "3b73c68fef54e7240b1aa239bfa3b474874537fdee36dc81b52a4835f71b330f",
     "research_entities.json": "0c57de2c65256566d6dff92e7ddd65d8c5644aad8ddd91763294216cb3b64a8e",
@@ -24,5 +25,5 @@
     "surfaces.json": "f83625794e82f24f90b2c6b28ba1e5f9e027d2186522c9d158eb8bc8e08cdfd3"
   },
   "scientific_1_0_ready": false,
-  "version": "0.8.0"
+  "version": "0.9.0"
 }
