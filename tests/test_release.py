@@ -52,7 +52,7 @@ class ReleaseTests(unittest.TestCase):
             for name in ('README.md', 'CITATION.cff'):
                 shutil.copyfile(ROOT / name, root / name)
             readme = root / 'README.md'
-            readme.write_text(readme.read_text().replace('registered sources/leads', 'missing coverage headline'))
+            readme.write_text(readme.read_text(encoding='utf-8').replace('registered sources/leads', 'missing coverage headline'), encoding='utf-8')
             (root / 'CITATION.cff').write_text('version: "0.0.0"\n')
             report = release_check(root)
             self.assertFalse(report['checks']['citation_version'])
