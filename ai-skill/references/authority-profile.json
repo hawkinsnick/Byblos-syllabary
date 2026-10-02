@@ -16,6 +16,11 @@
       "role": "rights",
       "path": "docs/RIGHTS.md",
       "required": true
+    },
+    {
+      "role": "institutional_corpus_baseline",
+      "path": "research/authoritative-corpus-baseline.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -23,6 +28,7 @@
     "Zero verified sign sequences means no sequence-frequency inference",
     "Reported counts use incompatible units and must not be silently reconciled",
     "The term syllabary is conventional and proposed sound values remain hypotheses",
-    "No project-wide data license; unresolved sequence and plate rights remain explicit"
+    "No project-wide data license; unresolved sequence and plate rights remain explicit",
+    "The institutional 14-object baseline constrains corpus identity but does not supply verified sign sequences."
   ]
 }
