@@ -21,6 +21,11 @@
       "role": "institutional_corpus_baseline",
       "path": "research/authoritative-corpus-baseline.json",
       "required": true
+    },
+    {
+      "role": "core_object_reconciliation",
+      "path": "research/core-object-reconciliation.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -29,6 +34,7 @@
     "Reported counts use incompatible units and must not be silently reconciled",
     "The term syllabary is conventional and proposed sound values remain hypotheses",
     "No project-wide data license; unresolved sequence and plate rights remain explicit",
-    "The institutional 14-object baseline constrains corpus identity but does not supply verified sign sequences."
+    "The institutional 14-object baseline constrains corpus identity but does not supply verified sign sequences.",
+    "The 14 Dunand core labels now have institutionally reconciled object classes, but h/j may be one physical stele and no core sign sequence is thereby verified."
   ]
 }

@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-02",
+  "unit": "institutionally_reconciled_core_object_label",
+  "authority": "Mnamon / Dunand corpus bibliography",
+  "objects": [
+    {
+      "project_id": "BYB-A",
+      "dunand_label": "a",
+      "object_class": "fragmentary stone stele",
+      "edition": "Dunand 1945",
+      "identity_status": "CORE_LABEL_RECONCILED",
+      "verified_sequence": false,
+      "independent_review": false
+    },
+    {
+      "project_id": "BYB-B",
+      "dunand_label": "b",
+      "object_class": "bronze spatula",
+      "edition": "Dunand 1945",
+      "identity_status": "CORE_LABEL_RECONCILED",
+      "verified_sequence": false,
+      "independent_review": false
+    },
+    {
+      "project_id": "BYB-C",
+      "dunand_label": "c",
+      "object_class": "bronze tablet",
+      "edition": "Dunand 1945",
+      "identity_status": "CORE_LABEL_RECONCILED",
+      "verified_sequence": false,
+      "independent_review": false
+    },
+    {
+      "project_id": "BYB-D",
+      "dunand_label": "d",
+      "object_class": "bronze tablet",
+      "edition": "Dunand 1945",
+      "identity_status": "CORE_LABEL_RECONCILED",
+      "verified_sequence": false,
+      "independent_review": false
+    },
+    {
+      "project_id": "BYB-E",
+      "dunand_label": "e",
+      "object_class": "bronze spatula",
+      "edition": "Dunand 1945",
+      "identity_status": "CORE_LABEL_RECONCILED",
+      "verified_sequence": false,
+      "independent_review": false
+    },
+    {
+      "project_id": "BYB-F",
+      "dunand_label": "f",
+      "object_class": "bronze spatula",
+      "edition": "Dunand 1945",
+      "identity_status": "CORE_LABEL_RECONCILED",
+      "verified_sequence": false,
+      "independent_review": false
+    },
+    {
+      "project_id": "BYB-G",
+      "dunand_label": "g",
+      "object_class": "fragmentary stone stele",
+      "edition": "Dunand 1945",
+      "identity_status": "CORE_LABEL_RECONCILED",
+      "verified_sequence": false,
+      "independent_review": false
+    },
+    {
+      "project_id": "BYB-H",
+      "dunand_label": "h",
+      "object_class": "stone fragment; possibly same stele as j",
+      "edition": "Dunand 1945",
+      "identity_status": "CORE_LABEL_RECONCILED",
+      "verified_sequence": false,
+      "independent_review": false
+    },
+    {
+      "project_id": "BYB-I",
+      "dunand_label": "i",
+      "object_class": "bronze spatula",
+      "edition": "Dunand 1945",
+      "identity_status": "CORE_LABEL_RECONCILED",
+      "verified_sequence": false,
+      "independent_review": false
+    },
+    {
+      "project_id": "BYB-J",
+      "dunand_label": "j",
+      "object_class": "stone fragment; possibly same stele as h",
+      "edition": "Dunand 1945",
+      "identity_status": "CORE_LABEL_RECONCILED",
+      "verified_sequence": false,
+      "independent_review": false
+    },
+    {
+      "project_id": "BYB-K",
+      "dunand_label": "k",
+      "object_class": "fragmentary stone slab",
+      "edition": "Dunand 1978",
+      "identity_status": "CORE_LABEL_RECONCILED",
+      "verified_sequence": false,
+      "independent_review": false
+    },
+    {
+      "project_id": "BYB-L",
+      "dunand_label": "l",
+      "object_class": "fragmentary stone slab",
+      "edition": "Dunand 1978",
+      "identity_status": "CORE_LABEL_RECONCILED",
+      "verified_sequence": false,
+      "independent_review": false
+    },
+    {
+      "project_id": "BYB-M",
+      "dunand_label": "m",
+      "object_class": "fragmentary stone slab",
+      "edition": "Dunand 1978",
+      "identity_status": "CORE_LABEL_RECONCILED",
+      "verified_sequence": false,
+      "independent_review": false
+    },
+    {
+      "project_id": "BYB-N",
+      "dunand_label": "n",
+      "object_class": "fragmentary stone slab",
+      "edition": "Dunand 1978",
+      "identity_status": "CORE_LABEL_RECONCILED",
+      "verified_sequence": false,
+      "independent_review": false
+    }
+  ],
+  "identity_count": 14,
+  "sequence_verified_count": 0,
+  "cautions": [
+    "h and j may belong to the same stele; do not infer 14 unique physical monuments from 14 corpus labels.",
+    "Object-class reconciliation does not verify sign sequence.",
+    "Later disputed/candidate materials remain outside this core register until individually reconciled."
+  ]
+}
