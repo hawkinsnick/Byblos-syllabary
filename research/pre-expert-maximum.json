@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Byblos syllabary",
+  "target": "PRE_EXPERT_MAXIMUM",
+  "checked": "2026-10-02",
+  "established": [
+    {
+      "gate": "attributed_count_claims",
+      "status": "PASS"
+    },
+    {
+      "gate": "core_and_candidate_catalogue",
+      "status": "PASS"
+    },
+    {
+      "gate": "provider_discrepancy_tracking",
+      "status": "PASS"
+    },
+    {
+      "gate": "interpretive_admission",
+      "status": "SEALED",
+      "verified_transcriptions": 0,
+      "independent_reviews": 0
+    }
+  ],
+  "remaining_nonexpert_work": [
+    {
+      "id": "BYB-PRE-001",
+      "scope": "Dunand 1945 and 1978 core editions",
+      "action": "Acquire or inspect lawful copies and record exact pages or plates, object identities and rights.",
+      "blocked_by": "primary_edition_access"
+    },
+    {
+      "id": "BYB-PRE-002",
+      "scope": "43 OCBI rendered entries",
+      "action": "Crosswalk provider entries to physical objects, faces and catalogue labels without endorsing provider certainty.",
+      "blocked_by": "source_reconciliation"
+    },
+    {
+      "id": "BYB-PRE-003",
+      "scope": "14 versus 15 core count and 28 proposed fragments",
+      "action": "Reconcile reported units and candidate identities.",
+      "blocked_by": "source_access"
+    },
+    {
+      "id": "BYB-PRE-004",
+      "scope": "bibliography queue",
+      "action": "Inspect accessible scholarship and record explicit inspection states, locators and lineage.",
+      "blocked_by": "publication_access"
+    }
+  ],
+  "human_only_boundary": [
+    {
+      "id": "BYB-HUM-001",
+      "decision": "adjudicate inscription membership and disputed candidate status"
+    },
+    {
+      "id": "BYB-HUM-002",
+      "decision": "adjudicate sign identity, direction and competing transcriptions"
+    },
+    {
+      "id": "BYB-HUM-003",
+      "decision": "independently review any admitted transcription"
+    },
+    {
+      "id": "BYB-HUM-004",
+      "decision": "evaluate linguistic or decipherment claims"
+    }
+  ],
+  "completion_rule": "Pre-Expert Maximum requires every acquisition gap and bibliography lead to receive a completed, rights-blocked, access-blocked, or human-only disposition; no unseen signs, sequences or object identities may be synthesized."
+}
