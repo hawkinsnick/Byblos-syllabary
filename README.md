@@ -18,7 +18,7 @@ For questions spanning multiple corpus projects, use the **Combined Corpus Resea
 
 - 14 reported core entries plus 25 named disputed candidates; membership remains attributed.
 - 51 registered sources/leads and 29 bibliography discovery entries; consultation depth recorded individually.
-- 0 verified sign sequences, 0 imported images, 0 independently reviewed records; 6 sourced surface descriptions.
+- 0 verified sign sequences, 0 imported images, 0 independently reviewed records; 7 sourced surface descriptions.
 - Published corpus counts remain unresolved. This is not an exhaustive corpus.
 - Identifiers refer to inscription records, not necessarily distinct physical objects.
 

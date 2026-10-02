@@ -20,12 +20,13 @@ class ReferenceTests(unittest.TestCase):
         self.assertEqual('references_and_original_metadata_only', rows['commons-beirut-photo']['publication_plan'])
         self.assertEqual([], rows['dunand-1945']['assets'])
 
-    def test_pilot_is_pending_attributed_and_inventory_unknown(self):
+    def test_pilot_inventory_is_reported_without_sequence_admission(self):
         packet = pilot_packet(self.bundle)
         self.assertEqual('BYB-A', packet['record_id'])
         self.assertEqual('pending', packet['task']['response']['status'])
-        self.assertEqual('not_established', packet['task']['surface_inventory_status'])
-        self.assertEqual([], packet['task']['line_targets'])
+        self.assertEqual('reported_inventory_requires_completeness_check', packet['task']['surface_inventory_status'])
+        self.assertEqual(10, len(packet['task']['line_targets']))
+        self.assertTrue(all(t['inventory_evidence'][0]['source_id']=='dunand-1930' for t in packet['task']['line_targets']))
         self.assertEqual({'dunand-1945','dunand-1930','mnamon-merlo'}, {s['id'] for s in packet['sources']})
         self.assertIsNone(packet['task']['record']['transcription'])
 

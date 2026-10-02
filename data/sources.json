@@ -118,13 +118,14 @@
       "doi": "10.3406/syria.1930.3456",
       "type": "primary_edition",
       "consultation": "selected_pages",
-      "accessed": "2026-10-01",
+      "accessed": "2026-10-02",
       "notes": "Pages 1–2 read online; PDF endpoint returned HTTP 403.",
       "rights": {
         "status": "not_assessed",
         "license": null,
-        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed."
-      }
+        "scope": "Bounded factual object and surface metadata only; publisher scans and full sign sequence not redistributed."
+      },
+      "inspection": "pages_1_2_3"
     },
     {
       "id": "izreel-1988",

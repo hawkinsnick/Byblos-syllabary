@@ -11,7 +11,7 @@ Structural validity is not proof of accuracy or exhaustive coverage.
 | reported core | 14 |
 | disputed candidates | 25 |
 | sources and leads | 51 |
-| surfaces described | 6 |
+| surfaces described | 7 |
 | signs registered | 0 |
 | transcriptions | 0 |
 | verified core sequences | 0 |
@@ -33,7 +33,7 @@ Structural validity is not proof of accuracy or exhaustive coverage.
 
 ## Admission evidence
 
-Evidence snapshot SHA-256: `46dbe09f09bf85fd5464111108a615c54db229fd7749c56e8d57cf17eeb62d3d`
+Evidence snapshot SHA-256: `edf6905e51cb79c27686a19d8fe3358e32f93fbff21315373f98d97887a14b96`
 
 Complete within the independently reviewed scope and cutoff; future finds and publications remain possible.
 
@@ -107,12 +107,14 @@ These counts describe different source-defined units; do not sum them.
 | aub-mendenhall | 9 | publisher_reported_discovered_texts |
 | dhorme-1946 | 10 | inscriptions_reported_in_1945_corpus |
 | schwartz-author-abstract | 4 | incised_clay_cylinders_reported |
+| dunand-1930 | 119 | surviving_signs_reported_on_first_stele |
+| dunand-1930 | 3 | lost_sign_positions_reported_on_first_stele |
 
 ## Catalogue
 
 | ID | Membership | Description | Evidence |
 |---|---|---|---|
-| BYB-A | reported_core | a | mnamon-merlo, Corpus of the pseudo-hieroglyphic inscriptions of Byblos; dunand-1930, p. 1 |
+| BYB-A | reported_core | a | mnamon-merlo, Corpus of the pseudo-hieroglyphic inscriptions of Byblos; dunand-1930, p. 1; dunand-1930, pp. 2–3 |
 | BYB-B | reported_core | b | mnamon-merlo, Corpus of the pseudo-hieroglyphic inscriptions of Byblos |
 | BYB-C | reported_core | c | mnamon-merlo, Corpus of the pseudo-hieroglyphic inscriptions of Byblos |
 | BYB-CAND-ARROWHEAD-13104 | disputed | Byblos arrowhead 13104, isolated mark | sass-2019, p. 169, Figure 17 and arrowhead discussion; Byblos II pl. 177 cited |
