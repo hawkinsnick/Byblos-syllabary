@@ -17,6 +17,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python }}
+      - run: python scripts/check_interoperability.py
       - run: python -m byblos release-check
       - run: python -m byblos validate
       - run: python -m unittest discover -s tests
