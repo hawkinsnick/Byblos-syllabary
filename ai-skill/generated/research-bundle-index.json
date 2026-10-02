@@ -1,0 +1,83 @@
+{
+  "schema_version": "0.3.1",
+  "skill_version": "0.3.1",
+  "source_commit": "f0b67104e15f42c371ae6bcdf9dfa4d6a59dcc3d",
+  "canonical_repository": true,
+  "generated_at_utc": "2026-10-02T23:18:45+00:00",
+  "contract": {
+    "corpus_is_authoritative": true,
+    "missing_means_unknown": true,
+    "cross_corpus_equivalence_requires_explicit_evidence": true,
+    "preserve_uncertainty": true,
+    "preserve_source_independence": true,
+    "preserve_rights": true
+  },
+  "artifacts": [
+    {
+      "role": "source_inspection",
+      "path": "research/source-inspection-2026-10-02.json",
+      "sha256": "71e2a19bee9d3f624aa4e52c83bee2762c123ebfbb383638d9975a71f1c12a61",
+      "bytes": 1559
+    },
+    {
+      "role": "native_catalogue",
+      "path": "data/catalogue.json",
+      "sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "bytes": 43862
+    },
+    {
+      "role": "surface_inventory",
+      "path": "data/surfaces.json",
+      "sha256": "8dee5c608f5fd07766d7a8d465b8b7b25455c0a849c5d0b5e281c4f73adac3e7",
+      "bytes": 2912
+    },
+    {
+      "role": "institutional_corpus_baseline",
+      "path": "research/authoritative-corpus-baseline.json",
+      "sha256": "f2afb0c898d904dd54ee74667e01ff6ea3adae02585902d1c679f3d9df91d0b3",
+      "bytes": 1429
+    },
+    {
+      "role": "audit",
+      "path": "exports/audit.json",
+      "sha256": "41b95413d2bbe29b1ff71b5354974174c3524447b7e8b0678a6ca866d3e8f5e7",
+      "bytes": 4802
+    },
+    {
+      "role": "coverage",
+      "path": "data/coverage.json",
+      "sha256": "d9a703844c1f64f93b02db7947c28977c2f181bf16125cd72c2219a0dcd7eb3a",
+      "bytes": 8716
+    },
+    {
+      "role": "sources",
+      "path": "data/sources.json",
+      "sha256": "dc2a5e4a121b9b0421fd76c276d53d004e48c9669d3746d06ebef416e3acfe6a",
+      "bytes": 40070
+    },
+    {
+      "role": "rights",
+      "path": "docs/RIGHTS.md",
+      "sha256": "252c527ccbc35f0a9ac330408a48611b437bb6e0a61f5f436ce004be70aa9cbe",
+      "bytes": 2812
+    },
+    {
+      "role": "rights",
+      "path": "docs/RIGHTS.md",
+      "sha256": "252c527ccbc35f0a9ac330408a48611b437bb6e0a61f5f436ce004be70aa9cbe",
+      "bytes": 2812
+    },
+    {
+      "role": "core_object_reconciliation",
+      "path": "research/core-object-reconciliation.json",
+      "sha256": "b7259ddfdf9344dbbfb413b98ddcdbebc8533a4df559f515efe3e8024011741f",
+      "bytes": 4273
+    },
+    {
+      "role": "pre_expert_maximum",
+      "path": "research/pre-expert-maximum.json",
+      "sha256": "3fb3d24fa5342152e03fe7cd034cc22ca4e9bf1b2022acf53e6004bd291d5034",
+      "bytes": 2264
+    }
+  ]
+}
