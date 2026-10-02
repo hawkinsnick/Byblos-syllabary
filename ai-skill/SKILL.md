@@ -1,7 +1,7 @@
 ---
 name: byblos-syllabary-research
 description: Evidence-first AI research skill for the Byblos syllabary corpus.
-version: 0.1.0
+version: 0.3.1
 ---
 
 # Byblos syllabary Research Skill
@@ -26,3 +26,10 @@ Give the direct answer, followed as relevant by Evidence; Evidentiary status; Un
 
 ## Synchronization
 Read `ai-skill/generated/source-state.json` before substantive work. It records the corpus commit from which the AI-facing package was synchronized. Generated files are rebuildable views; canonical corpus files govern if a discrepancy is found.
+
+## Academic-scrutiny gates
+- Software maturity is distinct from scientific corpus maturity.
+- Do not perform sequence-frequency inference without verified sequences.
+- Reported counts with incompatible units remain separate.
+- Proposed sound values remain hypotheses.
+- Rights remain source-specific.
