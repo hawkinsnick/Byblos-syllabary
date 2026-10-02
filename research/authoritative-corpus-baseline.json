@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-01",
+  "source": {
+    "name": "Mnamon — Byblos (Pseudo-hieroglyphic)",
+    "institution": "Scuola Normale Superiore",
+    "doi": "10.25429/sns.it/lettere/mnamon016",
+    "updated": "2022"
+  },
+  "core_corpus": {
+    "count": 14,
+    "dunand_1945": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h",
+      "i",
+      "j"
+    ],
+    "dunand_1978": [
+      "k",
+      "l",
+      "m",
+      "n"
+    ],
+    "object_classes": {
+      "fragmentary_stone_stelae": [
+        "a",
+        "g"
+      ],
+      "bronze_tablets": [
+        "c",
+        "d"
+      ],
+      "bronze_spatulae": [
+        "b",
+        "e",
+        "f",
+        "i"
+      ],
+      "stone_fragments": [
+        "h",
+        "j"
+      ],
+      "later_fragmentary_stone": [
+        "k",
+        "l",
+        "m",
+        "n"
+      ]
+    }
+  },
+  "published_sign_inventory": {
+    "dunand_1945": 114,
+    "long_bronze_tablets_distinct": 74,
+    "other_1945_texts_additional": 30,
+    "later_1978_new_signs": 6
+  },
+  "scientific_status": {
+    "deciphered": false,
+    "note": "No decipherment attempt has unanimous scholarly acceptance; do not promote historical proposed readings to corpus facts."
+  },
+  "use_policy": "Catalogue facts and bibliography used as verification baseline. Do not infer sign sequences from descriptive counts and do not copy restricted images."
+}
