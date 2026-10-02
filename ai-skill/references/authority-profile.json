@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Byblos-syllabary",
+  "required_authorities": [
+    {
+      "role": "coverage",
+      "path": "data/coverage.json",
+      "required": true
+    },
+    {
+      "role": "sources",
+      "path": "data/sources.json",
+      "required": true
+    },
+    {
+      "role": "rights",
+      "path": "docs/RIGHTS.md",
+      "required": true
+    }
+  ],
+  "behavioral_gates": [
+    "Scientific corpus 1.0 is not achieved by software 1.0",
+    "Zero verified sign sequences means no sequence-frequency inference",
+    "Reported counts use incompatible units and must not be silently reconciled",
+    "The term syllabary is conventional and proposed sound values remain hypotheses",
+    "No project-wide data license; unresolved sequence and plate rights remain explicit"
+  ]
+}
