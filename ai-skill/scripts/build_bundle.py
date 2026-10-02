@@ -4,7 +4,7 @@ from datetime import datetime,timezone
 from pathlib import Path
 R=Path(__file__).resolve().parents[2];O=R/"ai-skill"/"generated";O.mkdir(parents=True,exist_ok=True)
 sha=os.environ.get("SOURCE_COMMIT") or subprocess.check_output(["git","rev-parse","HEAD"],cwd=R,text=True).strip()
-c=[("current_status","analysis/current-status.json"),("audit","exports/audit.json"),("coverage","data/coverage.json"),("sources","data/sources.json"),("rights","docs/RIGHTS.md"),("claims","release/CLAIM-REGISTRY.csv"),("corpus_json","exports/corpus.json"),("corpus_jsonl","exports/corpus.jsonl"),("greek_subset","exports/greek-subset.json"),("eteocypriot_components","exports/eteocypriot-components.json"),("rights_matrix","DATA-LICENSE-MATRIX.md"),("rights","docs/RIGHTS.md"),("rights_and_licensing","docs/RIGHTS-AND-LICENSING.md"),("notice","NOTICE"),("third_party","THIRD-PARTY-NOTICES.md")]
+c=[("current_status","analysis/current-status.json"),("institutional_corpus_baseline","research/authoritative-corpus-baseline.json"),("audit","exports/audit.json"),("coverage","data/coverage.json"),("sources","data/sources.json"),("rights","docs/RIGHTS.md"),("claims","release/CLAIM-REGISTRY.csv"),("corpus_json","exports/corpus.json"),("corpus_jsonl","exports/corpus.jsonl"),("greek_subset","exports/greek-subset.json"),("eteocypriot_components","exports/eteocypriot-components.json"),("rights_matrix","DATA-LICENSE-MATRIX.md"),("rights","docs/RIGHTS.md"),("rights_and_licensing","docs/RIGHTS-AND-LICENSING.md"),("notice","NOTICE"),("third_party","THIRD-PARTY-NOTICES.md")]
 a=[]
 for role,rel in c:
  p=R/rel
