@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "source": "Mnamon — Byblos (Pseudo-hieroglyphic), Scuola Normale Superiore",
+  "authority_class": "INSTITUTIONAL_ACADEMIC_SCRIPT_RESOURCE",
+  "corpus_genealogy": {
+    "dunand_1945": {
+      "labels": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j"
+      ],
+      "count": 10,
+      "classes": {
+        "stone_stelae": [
+          "a",
+          "g"
+        ],
+        "bronze_tablets": [
+          "c",
+          "d"
+        ],
+        "bronze_spatulae": [
+          "b",
+          "e",
+          "f",
+          "i"
+        ],
+        "stone_fragments": [
+          "h",
+          "j"
+        ]
+      },
+      "physical_identity_caution": "Mnamon reports h and j probably belonged to the same stela."
+    },
+    "dunand_1978": {
+      "labels": [
+        "k",
+        "l",
+        "m",
+        "n"
+      ],
+      "count": 4,
+      "description": "additional short fragmentary inscriptions on stone slabs"
+    },
+    "conventional_total_labels": 14
+  },
+  "sign_inventory_claim": {
+    "dunand_1945": 114,
+    "long_bronze_tablets_distinct_signs": 74,
+    "other_shorter_fragmentary_additional_signs": 30,
+    "status": "SOURCE_ATTRIBUTED_NOT_PROJECT_ADJUDICATED"
+  },
+  "project_conclusion": "The conventional 14-label corpus has an explicit 10+4 publication genealogy. Physical-object denominator is not necessarily 14 because h/j may be one monument; retain inscription-label and physical-object units separately.",
+  "rights": "Record factual bibliographic/corpus metadata and source locators; do not reproduce protected drawings/transcriptions absent permission.",
+  "status": "INSTITUTIONAL_14_LABEL_GENEALOGY_CONFIRMED"
+}
