@@ -26,13 +26,22 @@
             "dimensions_mm",
             "discovery_context"
           ]
+        },
+        {
+          "source_id": "dunand-1930",
+          "locator": "pp. 2–3",
+          "fields": [
+            "surfaces"
+          ]
         }
       ],
       "primary_edition_lead": "dunand-1945",
       "museum_id": null,
       "object_id": null,
       "date_claims": [],
-      "surfaces": null,
+      "surfaces": [
+        "BYB-A-INSCRIBED"
+      ],
       "transcription": null,
       "review_status": "unreviewed",
       "open_tasks": [

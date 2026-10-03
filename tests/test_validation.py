@@ -36,7 +36,7 @@ class ValidationTests(unittest.TestCase):
         self.data["catalogue"]["records"][1]["dimensions_mm"] = {"height": 200}
         self.rejected()
     def test_surface_wrong_parent_rejected(self):
-        self.data["surfaces"]["surfaces"][0]["inscription_id"] = "BYB-A"
+        self.data["surfaces"]["surfaces"][0]["inscription_id"] = "BYB-B"
         self.rejected()
     def test_duplicate_surface_rejected(self):
         self.data["surfaces"]["surfaces"].append(copy.deepcopy(self.data["surfaces"]["surfaces"][0]))

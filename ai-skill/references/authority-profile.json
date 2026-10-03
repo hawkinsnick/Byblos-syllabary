@@ -26,6 +26,21 @@
       "role": "core_object_reconciliation",
       "path": "research/core-object-reconciliation.json",
       "required": true
+    },
+    {
+      "role": "source_inspection",
+      "path": "research/source-inspection-2026-10-02.json",
+      "required": true
+    },
+    {
+      "role": "native_catalogue",
+      "path": "data/catalogue.json",
+      "required": true
+    },
+    {
+      "role": "surface_inventory",
+      "path": "data/surfaces.json",
+      "required": true
     }
   ],
   "behavioral_gates": [

@@ -1,5 +1,5 @@
 {
-  "evidence_sha256": "46dbe09f09bf85fd5464111108a615c54db229fd7749c56e8d57cf17eeb62d3d",
+  "evidence_sha256": "edf6905e51cb79c27686a19d8fe3358e32f93fbff21315373f98d97887a14b96",
   "format": "byblos-reference-workflow-v1",
   "interpretation": "A project publication plan, not a legal clearance or finding of infringement. Unknown, denied and unanswered permissions are not grants. Access and attribution do not establish redistribution rights. An asset declaration applies only to its recorded scope; this report never transfers that scope to other media or sequences.",
   "scientific_1_0_ready": false,
@@ -216,7 +216,7 @@
       "publication_plan": "references_and_original_metadata_only",
       "recorded_rights": {
         "license": null,
-        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "scope": "Bounded factual object and surface metadata only; publisher scans and full sign sequence not redistributed.",
         "status": "not_assessed"
       },
       "source_id": "dunand-1930",

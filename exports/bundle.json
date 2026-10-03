@@ -352,6 +352,13 @@
             ],
             "locator": "p. 1",
             "source_id": "dunand-1930"
+          },
+          {
+            "fields": [
+              "surfaces"
+            ],
+            "locator": "pp. 2–3",
+            "source_id": "dunand-1930"
           }
         ],
         "evidence_level": "secondary_report",
@@ -371,7 +378,9 @@
         ],
         "primary_edition_lead": "dunand-1945",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-A-INSCRIBED"
+        ],
         "transcription": null
       },
       {
@@ -1860,6 +1869,22 @@
         "locator": "Non-cuneiform writing abstract, first sentence",
         "source_id": "schwartz-author-abstract",
         "unit": "incised_clay_cylinders_reported"
+      },
+      {
+        "count": 119,
+        "derivation": "Dunand printed count, not a project-encoded sign sequence.",
+        "id": "COUNT-A-1930-SURVIVING",
+        "locator": "p. 3",
+        "source_id": "dunand-1930",
+        "unit": "surviving_signs_reported_on_first_stele"
+      },
+      {
+        "count": 3,
+        "derivation": "Dunand reports certain missing positions; no lost sign identities supplied or inferred.",
+        "id": "COUNT-A-1930-LOST",
+        "locator": "p. 3",
+        "source_id": "dunand-1930",
+        "unit": "lost_sign_positions_reported_on_first_stele"
       }
     ],
     "gaps": [
@@ -3175,15 +3200,16 @@
         "url": "https://www.academia.edu/37706221/The_Byblos_Script"
       },
       {
-        "accessed": "2026-10-01",
+        "accessed": "2026-10-02",
         "citation": "M. Dunand (1930), Nouvelle inscription découverte à Byblos. Syria 11(1), pp. 1–10.",
         "consultation": "selected_pages",
         "doi": "10.3406/syria.1930.3456",
         "id": "dunand-1930",
+        "inspection": "pages_1_2_3",
         "notes": "Pages 1–2 read online; PDF endpoint returned HTTP 403.",
         "rights": {
           "license": null,
-          "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+          "scope": "Bounded factual object and surface metadata only; publisher scans and full sign sequence not redistributed.",
           "status": "not_assessed"
         },
         "type": "primary_edition",
@@ -3898,6 +3924,25 @@
   },
   "surfaces": {
     "surfaces": [
+      {
+        "direction": "rtl",
+        "direction_status": "reported",
+        "evidence": [
+          {
+            "fields": [
+              "label",
+              "line_count",
+              "direction"
+            ],
+            "locator": "p. 3; facsimile p. 2",
+            "source_id": "dunand-1930"
+          }
+        ],
+        "id": "BYB-A-INSCRIBED",
+        "inscription_id": "BYB-A",
+        "label": "inscribed face (project label)",
+        "line_count": 10
+      },
       {
         "direction": "rtl",
         "direction_status": "reported",

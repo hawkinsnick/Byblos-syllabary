@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "checked": "2026-10-02",
+  "scope": "First stele surface description checked against Dunand 1930; sequence admission remains blocked.",
+  "sources": [
+    {
+      "source_id": "dunand-1930",
+      "url": "https://www.persee.fr/doc/syria_0039-7946_1930_num_11_1_3456",
+      "locator": "pp. 2–3",
+      "role": "primary_publication",
+      "inspection": [
+        {
+          "file_name": "byblos2.jpg",
+          "sha256": "b4755abaa63489edae0c7b13e818f0a8fb26866f2ae8c017aa8490161e360bc5",
+          "bytes": 131538,
+          "redistributed": false
+        },
+        {
+          "file_name": "byblos3.jpg",
+          "sha256": "a221dcc0080ea019b024715bb6e66cbe5c21f21ce69cc4eb7f25d8736d5d8350",
+          "bytes": 169290,
+          "redistributed": false
+        }
+      ]
+    }
+  ],
+  "assertions": [
+    {
+      "record_id": "BYB-A",
+      "surface_id": "BYB-A-INSCRIBED",
+      "line_count": 10,
+      "direction": "rtl",
+      "surviving_signs_reported": 119,
+      "lost_sign_positions_reported": 3,
+      "sequence_verified": false,
+      "museum_id_verified": false,
+      "damage": "Upper-left break affects ends of first four lines; abrasion and moisture damage are discussed separately."
+    }
+  ],
+  "independent_review": false,
+  "canonical_admission_granted": false,
+  "limitations": [
+    "Printed count is not an encoded or independently verified sequence.",
+    "Project surface label is not an ancient face label or museum identity.",
+    "No complete transnumeration or source image redistributed."
+  ]
+}

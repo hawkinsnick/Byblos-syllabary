@@ -958,7 +958,7 @@
     "This packet is never automatically imported as evidence or approval."
   ],
   "purpose": "Review task inventory; pending responses are not approvals or corpus transcriptions.",
-  "reviewed_bundle_sha256": "46dbe09f09bf85fd5464111108a615c54db229fd7749c56e8d57cf17eeb62d3d",
+  "reviewed_bundle_sha256": "edf6905e51cb79c27686a19d8fe3358e32f93fbff21315373f98d97887a14b96",
   "scientific_1_0_ready": false,
   "sources": [
     {
@@ -1073,15 +1073,16 @@
       "url": "https://www.academia.edu/37706221/The_Byblos_Script"
     },
     {
-      "accessed": "2026-10-01",
+      "accessed": "2026-10-02",
       "citation": "M. Dunand (1930), Nouvelle inscription découverte à Byblos. Syria 11(1), pp. 1–10.",
       "consultation": "selected_pages",
       "doi": "10.3406/syria.1930.3456",
       "id": "dunand-1930",
+      "inspection": "pages_1_2_3",
       "notes": "Pages 1–2 read online; PDF endpoint returned HTTP 403.",
       "rights": {
         "license": null,
-        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "scope": "Bounded factual object and surface metadata only; publisher scans and full sign sequence not redistributed.",
         "status": "not_assessed"
       },
       "type": "primary_edition",
@@ -1795,7 +1796,168 @@
   ],
   "tasks": [
     {
-      "line_targets": [],
+      "line_targets": [
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 3; facsimile p. 2",
+              "source_id": "dunand-1930"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-A-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 3; facsimile p. 2",
+              "source_id": "dunand-1930"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-A-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 3; facsimile p. 2",
+              "source_id": "dunand-1930"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-A-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 3; facsimile p. 2",
+              "source_id": "dunand-1930"
+            }
+          ],
+          "line": 4,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-A-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 3; facsimile p. 2",
+              "source_id": "dunand-1930"
+            }
+          ],
+          "line": 5,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-A-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 3; facsimile p. 2",
+              "source_id": "dunand-1930"
+            }
+          ],
+          "line": 6,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-A-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 3; facsimile p. 2",
+              "source_id": "dunand-1930"
+            }
+          ],
+          "line": 7,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-A-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 3; facsimile p. 2",
+              "source_id": "dunand-1930"
+            }
+          ],
+          "line": 8,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-A-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 3; facsimile p. 2",
+              "source_id": "dunand-1930"
+            }
+          ],
+          "line": 9,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-A-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 3; facsimile p. 2",
+              "source_id": "dunand-1930"
+            }
+          ],
+          "line": 10,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-A-INSCRIBED"
+        }
+      ],
       "membership": "reported_core",
       "primary_edition_lead": {
         "accessed": null,
@@ -1849,6 +2011,13 @@
             ],
             "locator": "p. 1",
             "source_id": "dunand-1930"
+          },
+          {
+            "fields": [
+              "surfaces"
+            ],
+            "locator": "pp. 2–3",
+            "source_id": "dunand-1930"
           }
         ],
         "evidence_level": "secondary_report",
@@ -1868,7 +2037,9 @@
         ],
         "primary_edition_lead": "dunand-1945",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-A-INSCRIBED"
+        ],
         "transcription": null
       },
       "record_id": "BYB-A",
@@ -1892,7 +2063,7 @@
         "reviewer_id": null,
         "status": "pending"
       },
-      "surface_inventory_status": "not_established"
+      "surface_inventory_status": "reported_inventory_requires_completeness_check"
     },
     {
       "line_targets": [],

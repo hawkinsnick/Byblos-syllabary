@@ -35,7 +35,7 @@ reference-only next actions. It grants no new rights or permissions.
 `exports/pilot_packet.json` is a pending metadata packet for inscription A. It
 includes the recorded facts, field-level citations, primary-edition lead and
 unknowns. Sources are limited to citations in the record and line inventory.
-Its surface inventory remains unknown and its transcription remains null. A
+Its reported ten-line surface inventory now cites Dunand 1930 pp. 2–3; its transcription remains null. A
 reviewer can assess citation fidelity without being asked to endorse decipherment.
 Use the CLI to prepare a different record; reported line targets remain reported.
 

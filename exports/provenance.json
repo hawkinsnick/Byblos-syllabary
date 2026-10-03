@@ -1,5 +1,5 @@
 {
-  "evidence_sha256": "46dbe09f09bf85fd5464111108a615c54db229fd7749c56e8d57cf17eeb62d3d",
+  "evidence_sha256": "edf6905e51cb79c27686a19d8fe3358e32f93fbff21315373f98d97887a14b96",
   "format": "byblos-provenance-v1",
   "interpretation": "Derived links only. Field evidence records attribution, not correctness. Source references, discovery citations and edition leads are not independent corroboration. Consultation depth and rights are recorded declarations; usage counts are not confidence scores. Paths address this exact snapshot; owners are namespaced by their container.",
   "selected_source": null,
@@ -220,12 +220,12 @@
       "consultation": "selected_pages",
       "rights": {
         "license": null,
-        "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
+        "scope": "Bounded factual object and surface metadata only; publisher scans and full sign sequence not redistributed.",
         "status": "not_assessed"
       },
       "role_counts": {
-        "field_evidence": 1,
-        "source_reference": 2
+        "field_evidence": 3,
+        "source_reference": 4
       },
       "source_id": "dunand-1930",
       "uses": [
@@ -238,6 +238,32 @@
           "owner": "/catalogue/records:BYB-A",
           "path": "/catalogue/records/0/evidence/1/source_id",
           "role": "field_evidence",
+          "source_id": "dunand-1930"
+        },
+        {
+          "fields": [
+            "surfaces"
+          ],
+          "locator": "pp. 2–3",
+          "owner": "/catalogue/records:BYB-A",
+          "path": "/catalogue/records/0/evidence/2/source_id",
+          "role": "field_evidence",
+          "source_id": "dunand-1930"
+        },
+        {
+          "fields": [],
+          "locator": "p. 3",
+          "owner": "/coverage/count_claims:COUNT-A-1930-LOST",
+          "path": "/coverage/count_claims/10/source_id",
+          "role": "source_reference",
+          "source_id": "dunand-1930"
+        },
+        {
+          "fields": [],
+          "locator": "p. 3",
+          "owner": "/coverage/count_claims:COUNT-A-1930-SURVIVING",
+          "path": "/coverage/count_claims/9/source_id",
+          "role": "source_reference",
           "source_id": "dunand-1930"
         },
         {
@@ -254,6 +280,18 @@
           "owner": "/search_log",
           "path": "/search_log/access_attempts/7/source_id",
           "role": "source_reference",
+          "source_id": "dunand-1930"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "p. 3; facsimile p. 2",
+          "owner": "/surfaces/surfaces:BYB-A-INSCRIBED",
+          "path": "/surfaces/surfaces/0/evidence/0/source_id",
+          "role": "field_evidence",
           "source_id": "dunand-1930"
         }
       ]
@@ -2481,7 +2519,7 @@
           ],
           "locator": "p. 77",
           "owner": "/surfaces/surfaces:BYB-C-A",
-          "path": "/surfaces/surfaces/0/evidence/0/source_id",
+          "path": "/surfaces/surfaces/1/evidence/0/source_id",
           "role": "field_evidence",
           "source_id": "vita-zamora-2018"
         },
@@ -2493,18 +2531,6 @@
           ],
           "locator": "p. 77",
           "owner": "/surfaces/surfaces:BYB-C-B",
-          "path": "/surfaces/surfaces/1/evidence/0/source_id",
-          "role": "field_evidence",
-          "source_id": "vita-zamora-2018"
-        },
-        {
-          "fields": [
-            "label",
-            "line_count",
-            "direction"
-          ],
-          "locator": "pp. 77–78",
-          "owner": "/surfaces/surfaces:BYB-D-A",
           "path": "/surfaces/surfaces/2/evidence/0/source_id",
           "role": "field_evidence",
           "source_id": "vita-zamora-2018"
@@ -2516,7 +2542,7 @@
             "direction"
           ],
           "locator": "pp. 77–78",
-          "owner": "/surfaces/surfaces:BYB-D-B",
+          "owner": "/surfaces/surfaces:BYB-D-A",
           "path": "/surfaces/surfaces/3/evidence/0/source_id",
           "role": "field_evidence",
           "source_id": "vita-zamora-2018"
@@ -2527,8 +2553,8 @@
             "line_count",
             "direction"
           ],
-          "locator": "pp. 83–84",
-          "owner": "/surfaces/surfaces:BYB-F-A",
+          "locator": "pp. 77–78",
+          "owner": "/surfaces/surfaces:BYB-D-B",
           "path": "/surfaces/surfaces/4/evidence/0/source_id",
           "role": "field_evidence",
           "source_id": "vita-zamora-2018"
@@ -2540,8 +2566,20 @@
             "direction"
           ],
           "locator": "pp. 83–84",
-          "owner": "/surfaces/surfaces:BYB-F-B",
+          "owner": "/surfaces/surfaces:BYB-F-A",
           "path": "/surfaces/surfaces/5/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "pp. 83–84",
+          "owner": "/surfaces/surfaces:BYB-F-B",
+          "path": "/surfaces/surfaces/6/evidence/0/source_id",
           "role": "field_evidence",
           "source_id": "vita-zamora-2018"
         }

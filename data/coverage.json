@@ -74,6 +74,22 @@
       "count": 4,
       "unit": "incised_clay_cylinders_reported",
       "derivation": "Not equated with three provider O-3 labels; candidate membership remains disputed."
+    },
+    {
+      "id": "COUNT-A-1930-SURVIVING",
+      "source_id": "dunand-1930",
+      "locator": "p. 3",
+      "count": 119,
+      "unit": "surviving_signs_reported_on_first_stele",
+      "derivation": "Dunand printed count, not a project-encoded sign sequence."
+    },
+    {
+      "id": "COUNT-A-1930-LOST",
+      "source_id": "dunand-1930",
+      "locator": "p. 3",
+      "count": 3,
+      "unit": "lost_sign_positions_reported_on_first_stele",
+      "derivation": "Dunand reports certain missing positions; no lost sign identities supplied or inferred."
     }
   ],
   "gaps": [
