@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "ac789583c6ed99e0ecb05b50d1c6baf513ba3e52",
+  "source_commit": "e5ed2796fbd93ccb723f06d4781a691261caaec2",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-03T03:39:27+00:00",
+  "generated_at_utc": "2026-10-03T17:38:43+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -66,6 +66,12 @@
       "path": "docs/RIGHTS.md",
       "sha256": "252c527ccbc35f0a9ac330408a48611b437bb6e0a61f5f436ce004be70aa9cbe",
       "bytes": 2812
+    },
+    {
+      "role": "notice",
+      "path": "NOTICE",
+      "sha256": "cc5120da762ed398aac92590de299e5f07114af48ec2766259df03dc81c98cdb",
+      "bytes": 918
     },
     {
       "role": "core_object_reconciliation",
