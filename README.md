@@ -56,8 +56,7 @@ corpus projects; compatibility with their current schemas has not been verified.
 
 ## Reuse and contributions
 
-No blanket licence is granted in this initial snapshot. Third-party material
-retains its own rights. Source access does not establish redistribution rights.
+Licensing is component-specific: project-original software is PolyForm Noncommercial 1.0.0 and project-owned corpus content/documentation is CC BY-NC 4.0. Third-party and public-domain material retains its upstream status. Source access does not establish redistribution rights. See `LICENSE`, `LICENSE-CODE`, `LICENSE-CONTENT.md`, and `LICENSING.md`.
 No photographs, plate drawings, or third-party transcriptions are redistributed.
 See the rights fields in the source register.
 
