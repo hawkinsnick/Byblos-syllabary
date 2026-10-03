@@ -21,6 +21,12 @@
       "status": "SEALED",
       "verified_transcriptions": 0,
       "independent_reviews": 0
+    },
+    {
+      "gate": "conventional_14_label_genealogy",
+      "status": "PASS_INSTITUTIONAL",
+      "evidence": "research/mnamon-corpus-genealogy.json",
+      "caution": "14 inscription labels do not necessarily equal 14 physical objects"
     }
   ],
   "remaining_nonexpert_work": [
@@ -39,14 +45,16 @@
     {
       "id": "BYB-PRE-003",
       "scope": "14 versus 15 core count and 28 proposed fragments",
-      "action": "Reconcile reported units and candidate identities.",
-      "blocked_by": "source_access"
+      "action": "Conventional 14-label Dunand genealogy is now institutionally grounded as 10 (1945) + 4 (1978); reconcile the remaining 15-count/provider discrepancy and candidate identities while keeping h/j possible same-stela identity separate.",
+      "blocked_by": "provider/source reconciliation",
+      "status": "CONVENTIONAL_14_GENEALOGY_RESOLVED_15_DISCREPANCY_OPEN"
     },
     {
       "id": "BYB-PRE-004",
       "scope": "bibliography queue",
       "action": "Inspect accessible scholarship and record explicit inspection states, locators and lineage.",
-      "blocked_by": "publication_access"
+      "blocked_by": "publication_access",
+      "status": "ACTIVE_PUBLIC_SCHOLARSHIP_ROUTE"
     }
   ],
   "human_only_boundary": [
