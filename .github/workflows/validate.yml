@@ -34,3 +34,4 @@ jobs:
               assert Path("exports", name).read_text(encoding="utf-8") == content, name
           PY
       - run: python scripts/check_edition_locators.py --check
+      - run: python scripts/audit_core_provenance.py --check

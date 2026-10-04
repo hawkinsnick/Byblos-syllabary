@@ -8,8 +8,11 @@ The native surface register grows from seven to eighteen reported surfaces, cove
 
 `research/core-edition-locators.json` records the survey page, reported edition pages, material, line/face layout and qualified direction for every core label. `research/edition-locator-audit.json` binds that table to the native catalogue and surface register by byte hashes.
 
+`research/core-field-provenance-audit.json` now separates direct primary inspection from reported locators at field level. All fourteen core labels have survey-reported edition locators. Only BYB-A presently has directly inspected primary metadata (selected factual fields from Dunand 1930); no core label has a directly collated corpus-edition sequence, verified sign sequence, or established museum/object identifier. Direct metadata inspection is not promoted into sign-level verification.
+
 ```sh
 python scripts/check_edition_locators.py --check
+python scripts/audit_core_provenance.py --check
 python -m byblos validate
 python -m byblos release-check
 python -m byblos review-packet

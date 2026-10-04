@@ -51,6 +51,11 @@
       "role": "edition_locator_audit",
       "path": "research/edition-locator-audit.json",
       "required": true
+    },
+    {
+      "role": "core_field_provenance_audit",
+      "path": "research/core-field-provenance-audit.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
