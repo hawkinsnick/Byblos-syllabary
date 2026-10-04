@@ -2,6 +2,7 @@
 
 - Registered fourteen attributed core count records with explicit source units and approximation.
 - Inspected all 43 pinned OCBI entries structurally without redistributing readings; retained g/h/m/n discrepancies.
+- Registered all 38 Dunand 1930 numeric type-table rows with explicit variants, one printed ordinal collision and eight table gaps; corrected two pilot ordinals from the original figure before merge.
 - Added a Dunand 1930 primary numbering pilot: five edition-specific type groups, fourteen source positions and one numerically checked recurrence.
 - Added replayable acquisition, source comparison, numbering and current-status audits, regression checks and AI authorities. No verified full sequence, independent review or rights clearance is claimed.
 

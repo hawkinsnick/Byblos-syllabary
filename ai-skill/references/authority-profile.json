@@ -126,6 +126,21 @@
       "role": "current_status",
       "path": "analysis/current-status.json",
       "required": true
+    },
+    {
+      "role": "primary_numeric_type_table",
+      "path": "research/stele-a-type-table.json",
+      "required": true
+    },
+    {
+      "role": "primary_numeric_type_table_audit",
+      "path": "research/stele-a-type-table-audit.json",
+      "required": true
+    },
+    {
+      "role": "primary_facsimile_number_index",
+      "path": "research/stele-a-facsimile-number-index.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -143,6 +158,7 @@
     "Dunand 1978 pagination remains Mnamon 52–58 versus KeiBi 51–59; the union is an acquisition target, not a resolved citation or content claim.",
     "Five Dunand 1930 edition-specific type groups and fourteen source-numbered positions form a selected primary pilot, not a verified full sequence or certified native glyph inventory.",
     "Provider serialization rows are not ancient lines or columns; g/h layout, m direction and n first-line reading remain unresolved.",
-    "Dunand 1930 and the survey use unreconciled count conventions for stele a; source type components must not be pooled into a global sign inventory."
+    "Dunand 1930 and the survey use unreconciled count conventions for stele a; source type components must not be pooled into a global sign inventory.",
+    "The 38-row numeric source table contains a printed position-32 collision and eight unassigned ordinals. Preserve them as table discrepancies, not certified ancient loss or a reconstructed complete reading."
   ]
 }

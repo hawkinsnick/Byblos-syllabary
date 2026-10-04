@@ -6,7 +6,7 @@
     "research/core-edition-locators.json": "657a7efe91447d2fa4592d87c2f3f1bfd6b1705807a095554e2b3f68004b5718",
     "research/core-count-assertions.json": "726f301aa984f9b11084f04922ab6633879733ee050967c9516d9e0508beeee4",
     "research/stele-a-count-comparison.json": "9aa4f58fa81a0e7d641b4c4c526a994118cafdd05c9a3382f6a8f9ba8a731db5",
-    "research/dunand-1930-acquisition.json": "0a4bee252aaa88e9314171004e9f6c4f50204a9541df2c94b275d0d992c4994d"
+    "research/dunand-1930-acquisition.json": "8770e8ab2001b989e66d50ba4f5e47fa1de0af859d2b9722a494adb952e18731"
   },
   "provider_entries": 43,
   "provider_groups": {
@@ -566,7 +566,7 @@
     "BYB-M"
   ],
   "acquired_primary_page_views": 12,
-  "visually_inspected_primary_views_this_checkpoint": 7,
+  "visually_inspected_primary_views_this_checkpoint": 12,
   "verified_sequences_added": 0,
   "independent_reviews_added": 0,
   "boundary": "Metadata replay and source-conditional comparisons. Numeric agreement is neither sign-level collation nor physical-object certification; candidate variants, faces and native source directions are preserved. No glyph frequencies or corpus-wide sign total is inferred."

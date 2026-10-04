@@ -1,10 +1,10 @@
 {
   "format": "byblos-numbering-audit-v1",
   "input_hashes": {
-    "data/research_entities.json": "772ff0660c26f1bd03f899cb5acd716a258fbe64f11fee3ceba41d6103dfed8f",
-    "research/stele-a-numbered-assertions.json": "220b4df325774627303a4b05fc8f1581653ea445f8bd9946eb10740ea3e4470c",
-    "research/dunand-1930-acquisition.json": "0a4bee252aaa88e9314171004e9f6c4f50204a9541df2c94b275d0d992c4994d",
-    "data/sources.json": "18349cbc64255c09c3daf6474cc9961748e5f4523089fd1c95ea6d0c152c561d"
+    "data/research_entities.json": "be181d196efb4c0fb27866bdaab4539be6a68ed6a56fa6c0b183109ede6700d7",
+    "research/stele-a-numbered-assertions.json": "8d66a098802aa26b715663ac4010c8b559ae527ac267a741d1fb33841a88a442",
+    "research/dunand-1930-acquisition.json": "8770e8ab2001b989e66d50ba4f5e47fa1de0af859d2b9722a494adb952e18731",
+    "data/sources.json": "535a3439058bbb7430991ac50e6b837f33af7b29799b9e37af03ad4b08cbed5b"
   },
   "source_type_groups": 5,
   "source_numbered_position_assertions": 14,

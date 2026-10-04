@@ -24,9 +24,9 @@
       "source_numbered_positions": [
         4,
         37,
-        67,
+        61,
         70,
-        104,
+        110,
         119
       ]
     },
@@ -77,5 +77,5 @@
     "facsimile": "Dunand consolidated prior work by Abbé Dupont and Père Barrois and inspected differing readings (p. 3).",
     "independence": "Names in that production history do not establish independently available witness datasets."
   },
-  "unresolved": "Complete source numbering, all 38 type rows, damaged positions and modern concordances remain to be collated. No uninspected position or type is instantiated."
+  "unresolved": "Full numeric table is separately registered; numbered facsimile collation, printed collision 32, unassigned ordinals, damaged positions and modern concordances remain unresolved."
 }

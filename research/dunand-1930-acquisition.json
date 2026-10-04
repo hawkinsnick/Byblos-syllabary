@@ -18,7 +18,7 @@
       "printed_page": 1,
       "acquisition_status": "ACQUIRED",
       "image_redistributed": false,
-      "inspection_status": "ACQUIRED_NOT_VISUALLY_INSPECTED_THIS_CHECKPOINT"
+      "inspection_status": "VISUALLY_INSPECTED"
     },
     {
       "page_index": 2,
@@ -93,7 +93,7 @@
       "printed_page": 6,
       "acquisition_status": "ACQUIRED",
       "image_redistributed": false,
-      "inspection_status": "ACQUIRED_NOT_VISUALLY_INSPECTED_THIS_CHECKPOINT"
+      "inspection_status": "VISUALLY_INSPECTED"
     },
     {
       "page_index": 7,
@@ -108,7 +108,7 @@
       "printed_page": 7,
       "acquisition_status": "ACQUIRED",
       "image_redistributed": false,
-      "inspection_status": "ACQUIRED_NOT_VISUALLY_INSPECTED_THIS_CHECKPOINT"
+      "inspection_status": "VISUALLY_INSPECTED"
     },
     {
       "page_index": 8,
@@ -153,7 +153,7 @@
       "printed_page": "plate verso",
       "acquisition_status": "ACQUIRED",
       "image_redistributed": false,
-      "inspection_status": "ACQUIRED_NOT_VISUALLY_INSPECTED_THIS_CHECKPOINT"
+      "inspection_status": "VISUALLY_INSPECTED"
     },
     {
       "page_index": 11,
@@ -183,10 +183,39 @@
       "printed_page": 10,
       "acquisition_status": "ACQUIRED",
       "image_redistributed": false,
-      "inspection_status": "ACQUIRED_NOT_VISUALLY_INSPECTED_THIS_CHECKPOINT"
+      "inspection_status": "VISUALLY_INSPECTED"
     }
   ],
   "source_instances_not_independent": true,
   "rights": "Locators, byte identities and original factual summaries only; publisher scans and OCR remain outside the repository.",
-  "verified_sequences_added": 0
+  "verified_sequences_added": 0,
+  "additional_figures": [
+    {
+      "locator": "p. 5 sign table",
+      "url": "https://www.persee.fr/renderIllustration/syria_0039-7946_1930_num_11_1_T1_0005_0000_1.png",
+      "sha256": "5a2c816c6ce062f56f90648e46f25a97cbd92c76423b0ab0d4bc8497fb9dfb85",
+      "bytes": 70833,
+      "inspection_status": "VISUALLY_INSPECTED",
+      "redistributed": false,
+      "scope": "All numeric row memberships and drawn-variant buckets; glyph contours not transcribed."
+    },
+    {
+      "locator": "p. 2 numbered facsimile",
+      "url": "https://www.persee.fr/renderIllustration/syria_0039-7946_1930_num_11_1_T1_0002_0000_1.png",
+      "sha256": "ef0e9222509a5f316eab7b59100b9fcb0b3beadeac50fffc397e18d4c95f799f",
+      "bytes": 81678,
+      "inspection_status": "VISUALLY_INSPECTED",
+      "redistributed": false,
+      "scope": "Ten source line labels and continuous source ordinal ranges; no complete glyph transcription."
+    },
+    {
+      "locator": "plate I object photograph",
+      "url": "https://www.persee.fr/renderIllustration/syria_0039-7946_1930_num_11_1_T1_0008_0001_2.png",
+      "sha256": "9de55e2c55c6280ca66cc5850b2f007b8d9799434de0c13be92b8d1d0dd42194",
+      "bytes": 1904939,
+      "inspection_status": "VISUALLY_INSPECTED",
+      "redistributed": false,
+      "scope": "Overall object photograph inspected; no sign-by-sign surface collation or museum identity certification."
+    }
+  ]
 }

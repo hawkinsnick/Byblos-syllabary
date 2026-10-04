@@ -1,0 +1,126 @@
+{
+  "format": "byblos-source-facsimile-number-index-v1",
+  "checked": "2026-10-04",
+  "record_id": "BYB-A",
+  "edition_id": "BYB-A-D1930",
+  "source_id": "dunand-1930",
+  "locator": "p. 2 numbered facsimile, lines I–X",
+  "figure_sha256": "ef0e9222509a5f316eab7b59100b9fcb0b3beadeac50fffc397e18d4c95f799f",
+  "numbering_scope": "Printed Arabic ordinals, including damaged and empty indicated positions; not a count of surviving glyphs.",
+  "lines": [
+    {
+      "source_line_label": "I",
+      "first_source_ordinal": 1,
+      "last_source_ordinal": 7,
+      "source_ordinal_count": 7
+    },
+    {
+      "source_line_label": "II",
+      "first_source_ordinal": 8,
+      "last_source_ordinal": 16,
+      "source_ordinal_count": 9
+    },
+    {
+      "source_line_label": "III",
+      "first_source_ordinal": 17,
+      "last_source_ordinal": 27,
+      "source_ordinal_count": 11
+    },
+    {
+      "source_line_label": "IV",
+      "first_source_ordinal": 28,
+      "last_source_ordinal": 38,
+      "source_ordinal_count": 11
+    },
+    {
+      "source_line_label": "V",
+      "first_source_ordinal": 39,
+      "last_source_ordinal": 51,
+      "source_ordinal_count": 13
+    },
+    {
+      "source_line_label": "VI",
+      "first_source_ordinal": 52,
+      "last_source_ordinal": 66,
+      "source_ordinal_count": 15
+    },
+    {
+      "source_line_label": "VII",
+      "first_source_ordinal": 67,
+      "last_source_ordinal": 81,
+      "source_ordinal_count": 15
+    },
+    {
+      "source_line_label": "VIII",
+      "first_source_ordinal": 82,
+      "last_source_ordinal": 96,
+      "source_ordinal_count": 15
+    },
+    {
+      "source_line_label": "IX",
+      "first_source_ordinal": 97,
+      "last_source_ordinal": 113,
+      "source_ordinal_count": 17
+    },
+    {
+      "source_line_label": "X",
+      "first_source_ordinal": 114,
+      "last_source_ordinal": 123,
+      "source_ordinal_count": 10
+    }
+  ],
+  "table_gap_observations": [
+    {
+      "source_ordinal": 14,
+      "source_line_label": "II",
+      "table_membership": null,
+      "review_status": "NUMBERED_FACSIMILE_PRESENT_TYPE_AND_DAMAGE_STATUS_UNADJUDICATED"
+    },
+    {
+      "source_ordinal": 27,
+      "source_line_label": "III",
+      "table_membership": null,
+      "review_status": "NUMBERED_FACSIMILE_PRESENT_TYPE_AND_DAMAGE_STATUS_UNADJUDICATED"
+    },
+    {
+      "source_ordinal": 34,
+      "source_line_label": "IV",
+      "table_membership": null,
+      "review_status": "NUMBERED_FACSIMILE_PRESENT_TYPE_AND_DAMAGE_STATUS_UNADJUDICATED"
+    },
+    {
+      "source_ordinal": 40,
+      "source_line_label": "V",
+      "table_membership": null,
+      "review_status": "NUMBERED_FACSIMILE_PRESENT_TYPE_AND_DAMAGE_STATUS_UNADJUDICATED"
+    },
+    {
+      "source_ordinal": 41,
+      "source_line_label": "V",
+      "table_membership": null,
+      "review_status": "NUMBERED_FACSIMILE_PRESENT_TYPE_AND_DAMAGE_STATUS_UNADJUDICATED"
+    },
+    {
+      "source_ordinal": 42,
+      "source_line_label": "V",
+      "table_membership": null,
+      "review_status": "NUMBERED_FACSIMILE_PRESENT_TYPE_AND_DAMAGE_STATUS_UNADJUDICATED"
+    },
+    {
+      "source_ordinal": 92,
+      "source_line_label": "VIII",
+      "table_membership": null,
+      "review_status": "NUMBERED_FACSIMILE_PRESENT_TYPE_AND_DAMAGE_STATUS_UNADJUDICATED"
+    },
+    {
+      "source_ordinal": 95,
+      "source_line_label": "VIII",
+      "table_membership": null,
+      "review_status": "NUMBERED_FACSIMILE_PRESENT_TYPE_AND_DAMAGE_STATUS_UNADJUDICATED"
+    }
+  ],
+  "no_forced_reconciliation": "The facsimile number range ends at 123; Dunand separately reports 119 surviving and three certainly lost. No ordinal is inserted, removed or automatically classified to equate these denominators. The table omissions and duplicate 32 require reading-specific review.",
+  "glyph_collation_completed": false,
+  "verified_full_sequence": false,
+  "independent_review": false
+}

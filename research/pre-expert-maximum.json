@@ -108,5 +108,14 @@
       "decision": "evaluate linguistic or decipherment claims"
     }
   ],
-  "completion_rule": "Pre-Expert Maximum requires every acquisition gap and bibliography lead to receive a completed, rights-blocked, access-blocked, or human-only disposition; no unseen signs, sequences or object identities may be synthesized."
+  "completion_rule": "Pre-Expert Maximum requires every acquisition gap and bibliography lead to receive a completed, rights-blocked, access-blocked, or human-only disposition; no unseen signs, sequences or object identities may be synthesized.",
+  "primary_numeric_table_checkpoint": {
+    "rows": 38,
+    "numeric_memberships": 116,
+    "distinct_source_ordinals": 115,
+    "facsimile_line_spans": 10,
+    "facsimile_source_ordinals": 123,
+    "source_conflict": "Printed duplicate 32; table gaps 14,27,34,40,41,42,92,95; no glyph/damage adjudication.",
+    "terminal_readiness_granted": false
+  }
 }

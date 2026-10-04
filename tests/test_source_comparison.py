@@ -9,7 +9,7 @@ R=Path(__file__).resolve().parents[1]
 def module(name):
     s=importlib.util.spec_from_file_location(name,R/'scripts'/f'{name}.py')
     m=importlib.util.module_from_spec(s);s.loader.exec_module(m);return m
-M=module('audit_source_comparison');N=module('audit_numbered_assertions');I=module('inspect_ocbi_structure')
+M=module('audit_source_comparison');N=module('audit_numbered_assertions');I=module('inspect_ocbi_structure');T=module('audit_type_table')
 
 class SourceEvidenceTests(unittest.TestCase):
     def mutate(self,path,change,builder):
@@ -49,3 +49,18 @@ class SourceEvidenceTests(unittest.TestCase):
     def test_source_number_cannot_be_assigned_two_type_labels(self):
         def change(x):x['signs'][1]['source_numbered_positions'].append(1)
         self.mutate('data/research_entities.json',change,N.build)
+    def test_complete_printed_table_retains_ambiguous_membership(self):
+        x=T.build();self.assertEqual(x['source_type_rows'],38)
+        self.assertEqual(x['printed_collisions'],[{'source_numbered_position':32,'type_labels':['VIII','XIX']}])
+        self.assertEqual(x['unassigned_ordinals_in_observed_number_range'],[14,27,34,40,41,42,92,95])
+    def test_pilot_misread_cannot_survive_full_table_check(self):
+        def change(x):
+            row=next(r for r in x['selected_source_groups'] if r['edition_sign_label']=='IV')
+            row['source_numbered_positions']=[4,37,67,70,104,119]
+        self.mutate('research/stele-a-numbered-assertions.json',change,T.build)
+    def test_printed_collision_cannot_be_erased(self):
+        self.mutate('research/stele-a-type-table.json',lambda x:x.update(printed_conflicts=[]),T.build)
+    def test_shapes_cannot_leak_into_numeric_table(self):
+        self.mutate('research/stele-a-type-table.json',lambda x:x['rows'][0].update(sound_value='a'),T.build)
+    def test_facsimile_line_overlap_is_rejected(self):
+        self.mutate('research/stele-a-facsimile-number-index.json',lambda x:x['lines'][1].update(first_source_ordinal=7),T.build)

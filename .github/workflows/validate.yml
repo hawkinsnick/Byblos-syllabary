@@ -42,3 +42,4 @@ jobs:
       - run: python scripts/audit_source_comparison.py --check
       - run: python scripts/audit_numbered_assertions.py --check
       - run: python scripts/build_current_status.py --check
+      - run: python scripts/audit_type_table.py --check

@@ -20,9 +20,14 @@
     "survey_core_count_records": 14,
     "provider_entries_structurally_inspected": 43,
     "acquired_primary_page_views": 12,
-    "visually_inspected_primary_views_this_checkpoint": 7,
+    "visually_inspected_primary_views_this_checkpoint": 12,
     "selected_primary_type_groups": 5,
     "selected_source_numbered_positions": 14,
+    "complete_printed_type_rows_numerically_registered": 38,
+    "printed_numeric_membership_assertions": 116,
+    "distinct_source_ordinals_in_table": 115,
+    "facsimile_numbered_line_spans": 10,
+    "facsimile_source_ordinals": 123,
     "source_recurrence_assertions_numerically_checked": 1
   },
   "scientific_results": {
@@ -45,6 +50,25 @@
     ],
     "first_line_reading": [
       "BYB-N"
+    ],
+    "printed_type_membership": [
+      {
+        "source_numbered_position": 32,
+        "type_labels": [
+          "VIII",
+          "XIX"
+        ]
+      }
+    ],
+    "ordinals_unassigned_in_table": [
+      14,
+      27,
+      34,
+      40,
+      41,
+      42,
+      92,
+      95
     ]
   },
   "source_redistribution": {
@@ -54,7 +78,7 @@
     "selected_primary_numeric_metadata": "Original attributed factual assertions only"
   },
   "next_work": [
-    "Collate the rest of stele a numbering and type table with explicit damage/variant status.",
+    "Collate stele a numbered facsimile against the 38-row numeric table, including duplicate 32, unassigned ordinals and printed qualifiers.",
     "Acquire lawful Dunand 1945 and 1978 edition/plate access for complete source sequences.",
     "Resolve provider face/variant/object identities and g/h/m/n source discrepancies.",
     "Obtain applicable upstream terms before distributing provider readings or images."
@@ -64,7 +88,8 @@
     "research/source-comparison-audit.json",
     "research/stele-a-numbering-audit.json",
     "research/stele-a-count-comparison.json",
-    "research/dunand-1930-acquisition.json"
+    "research/dunand-1930-acquisition.json",
+    "research/stele-a-type-table-audit.json"
   ],
   "boundary": "Five edition-specific type labels and fourteen numbered-position assertions are a selected primary-source pilot, not five certified native sign identities or a verified full sequence. Source counts, provider rows and ancient occurrences remain distinct."
 }
