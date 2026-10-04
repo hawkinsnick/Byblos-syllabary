@@ -12,10 +12,13 @@ The native surface register grows from seven to eighteen reported surfaces, cove
 
 `research/core-publication-genealogy-audit.json` reconciles the institutional Mnamon genealogy against the native catalogue: ten labels (`a`–`j`) belong to the 1945 publication cohort and four (`k`–`n`) to the 1978 cohort. The resulting fourteen publication labels are not asserted to be fourteen monuments because `h` and `j` may belong to one stele. The audit deliberately leaves physical-monument bounds unset.
 
+`research/core-counting-unit-ledger.json` unifies the incompatible denominators without collapsing them: 14 publication labels in two cohorts; 13 labels represented by 18 line surfaces; 126 reported line targets; one column-only label (`g`) with six reported columns, only five certainly textual; zero verified sequences; and no certified physical-monument count.
+
 ```sh
 python scripts/check_edition_locators.py --check
 python scripts/audit_core_provenance.py --check
 python scripts/audit_core_genealogy.py --check
+python scripts/audit_core_counting_units.py --check
 python -m byblos validate
 python -m byblos release-check
 python -m byblos review-packet

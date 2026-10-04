@@ -61,6 +61,11 @@
       "role": "core_publication_genealogy_audit",
       "path": "research/core-publication-genealogy-audit.json",
       "required": true
+    },
+    {
+      "role": "core_counting_unit_ledger",
+      "path": "research/core-counting-unit-ledger.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -72,6 +77,7 @@
     "The institutional 14-object baseline constrains corpus identity but does not supply verified sign sequences.",
     "The 14 Dunand core labels now have institutionally reconciled object classes, but h/j may be one physical stele and no core sign sequence is thereby verified.",
     "Eighteen reported surfaces cover thirteen core labels; BYB-G remains a column layout rather than an invented line inventory.",
-    "Primary edition locators reported by the survey do not establish direct primary collation. Keep j entry page-range/caption anomalies unresolved."
+    "Primary edition locators reported by the survey do not establish direct primary collation. Keep j entry page-range/caption anomalies unresolved.",
+    "Publication labels, surfaces, lines, columns, physical monuments and verified sequences remain incompatible denominators."
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "format": "byblos-core-counting-unit-ledger-v1",
+  "input_hashes": {
+    "data/catalogue.json": "cfbe9ad6fbfb40b14cc0df3f5a53022a30aa3bbb0b7cfc87a2c10f5546fa0fb9",
+    "data/surfaces.json": "c554dd2941514b3bfbf4915f37459340a5c37783cd057ccc69a9882f9c5acb7e",
+    "research/core-publication-genealogy-audit.json": "9d4ed03d245085b49d53839af8062e13c082d07c4b02d2000087876b48e23765",
+    "research/core-edition-locators.json": "657a7efe91447d2fa4592d87c2f3f1bfd6b1705807a095554e2b3f68004b5718"
+  },
+  "denominators": {
+    "publication_labels": 14,
+    "publication_cohorts": 2,
+    "core_labels_with_line_surfaces": 13,
+    "reported_surfaces": 18,
+    "reported_line_targets": 126,
+    "column_only_core_labels": 1,
+    "BYB_G_reported_columns": 6,
+    "BYB_G_certainly_textual_columns": 5,
+    "verified_sign_sequences": 0,
+    "certified_distinct_physical_monuments": null
+  },
+  "excluded_from_arithmetic": [
+    {
+      "unit": "physical monuments",
+      "reason": "BYB-H and BYB-J may be one stele; no certified physical-object crosswalk exists."
+    },
+    {
+      "unit": "approximate corpus texts",
+      "reason": "The survey's approximate fifteen-text scope is not the same denominator as the fourteen explicitly enumerated Dunand labels."
+    },
+    {
+      "unit": "sign occurrences",
+      "reason": "Reported lines and columns are review targets, not collated sign sequences."
+    }
+  ],
+  "boundary": "Publication labels, publication cohorts, project surfaces, reported lines, reported columns, possible physical monuments and verified sign sequences are incompatible units. This ledger exposes each denominator and performs no conversion among them."
+}
