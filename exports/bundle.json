@@ -410,11 +410,15 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1945",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-B-A",
+          "BYB-B-B"
+        ],
         "transcription": null
       },
       {
@@ -518,11 +522,14 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1945",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-E-A"
+        ],
         "transcription": null
       },
       {
@@ -623,11 +630,14 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1945",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-H-INSCRIBED"
+        ],
         "transcription": null
       },
       {
@@ -657,11 +667,15 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1945",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-I-A",
+          "BYB-I-B"
+        ],
         "transcription": null
       },
       {
@@ -691,11 +705,14 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1945",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-J-INSCRIBED"
+        ],
         "transcription": null
       },
       {
@@ -725,11 +742,14 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1978",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-K-INSCRIBED"
+        ],
         "transcription": null
       },
       {
@@ -759,11 +779,14 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1978",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-L-INSCRIBED"
+        ],
         "transcription": null
       },
       {
@@ -825,11 +848,14 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1978",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-M-INSCRIBED"
+        ],
         "transcription": null
       },
       {
@@ -859,11 +885,14 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1978",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-N-INSCRIBED"
+        ],
         "transcription": null
       },
       {
@@ -4056,6 +4085,237 @@
         "inscription_id": "BYB-F",
         "label": "B",
         "line_count": 4
+      },
+      {
+        "direction": "rtl",
+        "direction_status": "reported",
+        "evidence": [
+          {
+            "fields": [
+              "label",
+              "line_count",
+              "direction"
+            ],
+            "locator": "pp. 82–83, Spatula b; counts continue at top of p. 83",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "id": "BYB-B-A",
+        "inscription_id": "BYB-B",
+        "inventory_status": "reported_layout_not_verified_complete_transcription",
+        "label": "A (project surface label; survey-derived)",
+        "layout_note": "Reported line layout includes poorly preserved rows where stated; not analytical sign occurrences.",
+        "line_count": 4
+      },
+      {
+        "direction": "rtl",
+        "direction_status": "reported",
+        "evidence": [
+          {
+            "fields": [
+              "label",
+              "line_count",
+              "direction"
+            ],
+            "locator": "pp. 82–83, Spatula b; counts continue at top of p. 83",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "id": "BYB-B-B",
+        "inscription_id": "BYB-B",
+        "inventory_status": "reported_layout_not_verified_complete_transcription",
+        "label": "B (project surface label; survey-derived)",
+        "layout_note": "Reported line layout includes poorly preserved rows where stated; not analytical sign occurrences.",
+        "line_count": 3
+      },
+      {
+        "direction": "rtl",
+        "direction_status": "reported",
+        "evidence": [
+          {
+            "fields": [
+              "label",
+              "line_count",
+              "direction"
+            ],
+            "locator": "p. 83, Spatula e",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "id": "BYB-E-A",
+        "inscription_id": "BYB-E",
+        "inventory_status": "reported_layout_not_verified_complete_transcription",
+        "label": "A (project surface label; survey-derived)",
+        "layout_note": "Reported line layout includes poorly preserved rows where stated; not analytical sign occurrences.",
+        "line_count": 3
+      },
+      {
+        "direction": "rtl",
+        "direction_status": "inferred_from_blank_margins",
+        "evidence": [
+          {
+            "fields": [
+              "label",
+              "line_count",
+              "direction"
+            ],
+            "locator": "p. 80, Stela h",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "id": "BYB-H-INSCRIBED",
+        "inscription_id": "BYB-H",
+        "inventory_status": "reported_layout_not_verified_complete_transcription",
+        "label": "INSCRIBED (project surface label; survey-derived)",
+        "layout_note": "Reported line layout includes poorly preserved rows where stated; not analytical sign occurrences.",
+        "line_count": 4
+      },
+      {
+        "direction": "rtl",
+        "direction_status": "apparently",
+        "evidence": [
+          {
+            "fields": [
+              "label",
+              "line_count",
+              "direction"
+            ],
+            "locator": "p. 84, Spatula i",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "id": "BYB-I-A",
+        "inscription_id": "BYB-I",
+        "inventory_status": "reported_layout_not_verified_complete_transcription",
+        "label": "A (project surface label; survey-derived)",
+        "layout_note": "Reported line layout includes poorly preserved rows where stated; not analytical sign occurrences.",
+        "line_count": 4
+      },
+      {
+        "direction": "rtl",
+        "direction_status": "apparently",
+        "evidence": [
+          {
+            "fields": [
+              "label",
+              "line_count",
+              "direction"
+            ],
+            "locator": "p. 84, Spatula i",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "id": "BYB-I-B",
+        "inscription_id": "BYB-I",
+        "inventory_status": "reported_layout_not_verified_complete_transcription",
+        "label": "B (project surface label; survey-derived)",
+        "layout_note": "Reported line layout includes poorly preserved rows where stated; not analytical sign occurrences.",
+        "line_count": 5
+      },
+      {
+        "direction": "rtl",
+        "direction_status": "presumably",
+        "evidence": [
+          {
+            "fields": [
+              "label",
+              "line_count",
+              "direction"
+            ],
+            "locator": "p. 80, Stela j",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "id": "BYB-J-INSCRIBED",
+        "inscription_id": "BYB-J",
+        "inventory_status": "reported_layout_not_verified_complete_transcription",
+        "label": "INSCRIBED (project surface label; survey-derived)",
+        "layout_note": "Reported line layout includes poorly preserved rows where stated; not analytical sign occurrences.",
+        "line_count": 4
+      },
+      {
+        "direction": "rtl",
+        "direction_status": "apparently",
+        "evidence": [
+          {
+            "fields": [
+              "label",
+              "line_count",
+              "direction"
+            ],
+            "locator": "p. 80, Stela k",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "id": "BYB-K-INSCRIBED",
+        "inscription_id": "BYB-K",
+        "inventory_status": "reported_layout_not_verified_complete_transcription",
+        "label": "INSCRIBED (project surface label; survey-derived)",
+        "layout_note": "Reported line layout includes poorly preserved rows where stated; not analytical sign occurrences.",
+        "line_count": 5
+      },
+      {
+        "direction": "rtl",
+        "direction_status": "probably; line 12 exception unresolved",
+        "evidence": [
+          {
+            "fields": [
+              "label",
+              "line_count",
+              "direction"
+            ],
+            "locator": "p. 81, Stela l",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "id": "BYB-L-INSCRIBED",
+        "inscription_id": "BYB-L",
+        "inventory_status": "reported_layout_not_verified_complete_transcription",
+        "label": "INSCRIBED (project surface label; survey-derived)",
+        "layout_note": "Reported line layout includes poorly preserved rows where stated; not analytical sign occurrences.",
+        "line_count": 13
+      },
+      {
+        "direction": "ltr",
+        "direction_status": "conditional_on_sign_orientation",
+        "evidence": [
+          {
+            "fields": [
+              "label",
+              "line_count",
+              "direction"
+            ],
+            "locator": "p. 81, Stela m",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "id": "BYB-M-INSCRIBED",
+        "inscription_id": "BYB-M",
+        "inventory_status": "reported_layout_not_verified_complete_transcription",
+        "label": "INSCRIBED (project surface label; survey-derived)",
+        "layout_note": "Reported line layout includes poorly preserved rows where stated; not analytical sign occurrences.",
+        "line_count": 3
+      },
+      {
+        "direction": "rtl",
+        "direction_status": "probably",
+        "evidence": [
+          {
+            "fields": [
+              "label",
+              "line_count",
+              "direction"
+            ],
+            "locator": "p. 82, Stela n",
+            "source_id": "vita-zamora-2018"
+          }
+        ],
+        "id": "BYB-N-INSCRIBED",
+        "inscription_id": "BYB-N",
+        "inventory_status": "reported_layout_not_verified_complete_transcription",
+        "label": "INSCRIBED (project surface label; survey-derived)",
+        "layout_note": "First preserved line has no noticeable signs; authors see no sixth line.",
+        "line_count": 5
       }
     ]
   }

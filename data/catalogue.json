@@ -82,7 +82,10 @@
       "museum_id": null,
       "object_id": null,
       "date_claims": [],
-      "surfaces": null,
+      "surfaces": [
+        "BYB-B-A",
+        "BYB-B-B"
+      ],
       "transcription": null,
       "review_status": "unreviewed",
       "open_tasks": [
@@ -90,7 +93,8 @@
         "Verify physical object and museum identity.",
         "Record surfaces and direction from evidence.",
         "Transcribe with source and uncertainty.",
-        "Obtain independent review."
+        "Obtain independent review.",
+        "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
       ]
     },
     {
@@ -190,7 +194,9 @@
       "museum_id": null,
       "object_id": null,
       "date_claims": [],
-      "surfaces": null,
+      "surfaces": [
+        "BYB-E-A"
+      ],
       "transcription": null,
       "review_status": "unreviewed",
       "open_tasks": [
@@ -198,7 +204,8 @@
         "Verify physical object and museum identity.",
         "Record surfaces and direction from evidence.",
         "Transcribe with source and uncertainty.",
-        "Obtain independent review."
+        "Obtain independent review.",
+        "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
       ]
     },
     {
@@ -295,7 +302,9 @@
       "museum_id": null,
       "object_id": null,
       "date_claims": [],
-      "surfaces": null,
+      "surfaces": [
+        "BYB-H-INSCRIBED"
+      ],
       "transcription": null,
       "review_status": "unreviewed",
       "open_tasks": [
@@ -303,7 +312,8 @@
         "Verify physical object and museum identity.",
         "Record surfaces and direction from evidence.",
         "Transcribe with source and uncertainty.",
-        "Obtain independent review."
+        "Obtain independent review.",
+        "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
       ]
     },
     {
@@ -329,7 +339,10 @@
       "museum_id": null,
       "object_id": null,
       "date_claims": [],
-      "surfaces": null,
+      "surfaces": [
+        "BYB-I-A",
+        "BYB-I-B"
+      ],
       "transcription": null,
       "review_status": "unreviewed",
       "open_tasks": [
@@ -337,7 +350,8 @@
         "Verify physical object and museum identity.",
         "Record surfaces and direction from evidence.",
         "Transcribe with source and uncertainty.",
-        "Obtain independent review."
+        "Obtain independent review.",
+        "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
       ]
     },
     {
@@ -363,7 +377,9 @@
       "museum_id": null,
       "object_id": null,
       "date_claims": [],
-      "surfaces": null,
+      "surfaces": [
+        "BYB-J-INSCRIBED"
+      ],
       "transcription": null,
       "review_status": "unreviewed",
       "open_tasks": [
@@ -371,7 +387,8 @@
         "Verify physical object and museum identity.",
         "Record surfaces and direction from evidence.",
         "Transcribe with source and uncertainty.",
-        "Obtain independent review."
+        "Obtain independent review.",
+        "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
       ]
     },
     {
@@ -397,7 +414,9 @@
       "museum_id": null,
       "object_id": null,
       "date_claims": [],
-      "surfaces": null,
+      "surfaces": [
+        "BYB-K-INSCRIBED"
+      ],
       "transcription": null,
       "review_status": "unreviewed",
       "open_tasks": [
@@ -405,7 +424,8 @@
         "Verify physical object and museum identity.",
         "Record surfaces and direction from evidence.",
         "Transcribe with source and uncertainty.",
-        "Obtain independent review."
+        "Obtain independent review.",
+        "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
       ]
     },
     {
@@ -431,7 +451,9 @@
       "museum_id": null,
       "object_id": null,
       "date_claims": [],
-      "surfaces": null,
+      "surfaces": [
+        "BYB-L-INSCRIBED"
+      ],
       "transcription": null,
       "review_status": "unreviewed",
       "open_tasks": [
@@ -439,7 +461,8 @@
         "Verify physical object and museum identity.",
         "Record surfaces and direction from evidence.",
         "Transcribe with source and uncertainty.",
-        "Obtain independent review."
+        "Obtain independent review.",
+        "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
       ]
     },
     {
@@ -465,7 +488,9 @@
       "museum_id": null,
       "object_id": null,
       "date_claims": [],
-      "surfaces": null,
+      "surfaces": [
+        "BYB-M-INSCRIBED"
+      ],
       "transcription": null,
       "review_status": "unreviewed",
       "open_tasks": [
@@ -473,7 +498,8 @@
         "Verify physical object and museum identity.",
         "Record surfaces and direction from evidence.",
         "Transcribe with source and uncertainty.",
-        "Obtain independent review."
+        "Obtain independent review.",
+        "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
       ],
       "direction_claims": [
         {
@@ -531,7 +557,9 @@
       "museum_id": null,
       "object_id": null,
       "date_claims": [],
-      "surfaces": null,
+      "surfaces": [
+        "BYB-N-INSCRIBED"
+      ],
       "transcription": null,
       "review_status": "unreviewed",
       "open_tasks": [
@@ -539,7 +567,8 @@
         "Verify physical object and museum identity.",
         "Record surfaces and direction from evidence.",
         "Transcribe with source and uncertainty.",
-        "Obtain independent review."
+        "Obtain independent review.",
+        "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
       ]
     },
     {

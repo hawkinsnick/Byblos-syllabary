@@ -958,7 +958,7 @@
     "This packet is never automatically imported as evidence or approval."
   ],
   "purpose": "Review task inventory; pending responses are not approvals or corpus transcriptions.",
-  "reviewed_bundle_sha256": "edf6905e51cb79c27686a19d8fe3358e32f93fbff21315373f98d97887a14b96",
+  "reviewed_bundle_sha256": "1306f68e1cb58c62b519e1a58a56cfabc53e6d6a22375c3843bff1e335a4e6eb",
   "scientific_1_0_ready": false,
   "sources": [
     {
@@ -2066,7 +2066,120 @@
       "surface_inventory_status": "reported_inventory_requires_completeness_check"
     },
     {
-      "line_targets": [],
+      "line_targets": [
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 82–83, Spatula b; counts continue at top of p. 83",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-B-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 82–83, Spatula b; counts continue at top of p. 83",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-B-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 82–83, Spatula b; counts continue at top of p. 83",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-B-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 82–83, Spatula b; counts continue at top of p. 83",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 4,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-B-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 82–83, Spatula b; counts continue at top of p. 83",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-B-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 82–83, Spatula b; counts continue at top of p. 83",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-B-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "pp. 82–83, Spatula b; counts continue at top of p. 83",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-B-B"
+        }
+      ],
       "membership": "reported_core",
       "primary_edition_lead": {
         "accessed": null,
@@ -2120,11 +2233,15 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1945",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-B-A",
+          "BYB-B-B"
+        ],
         "transcription": null
       },
       "record_id": "BYB-B",
@@ -2148,7 +2265,7 @@
         "reviewer_id": null,
         "status": "pending"
       },
-      "surface_inventory_status": "not_established"
+      "surface_inventory_status": "reported_inventory_requires_completeness_check"
     },
     {
       "line_targets": [
@@ -4810,7 +4927,56 @@
       "surface_inventory_status": "reported_inventory_requires_completeness_check"
     },
     {
-      "line_targets": [],
+      "line_targets": [
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 83, Spatula e",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-E-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 83, Spatula e",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-E-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 83, Spatula e",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-E-A"
+        }
+      ],
       "membership": "reported_core",
       "primary_edition_lead": {
         "accessed": null,
@@ -4864,11 +5030,14 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1945",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-E-A"
+        ],
         "transcription": null
       },
       "record_id": "BYB-E",
@@ -4892,7 +5061,7 @@
         "reviewer_id": null,
         "status": "pending"
       },
-      "surface_inventory_status": "not_established"
+      "surface_inventory_status": "reported_inventory_requires_completeness_check"
     },
     {
       "line_targets": [
@@ -5181,7 +5350,72 @@
       "surface_inventory_status": "not_established"
     },
     {
-      "line_targets": [],
+      "line_targets": [
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 80, Stela h",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-H-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 80, Stela h",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-H-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 80, Stela h",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-H-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 80, Stela h",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 4,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-H-INSCRIBED"
+        }
+      ],
       "membership": "reported_core",
       "primary_edition_lead": {
         "accessed": null,
@@ -5235,11 +5469,14 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1945",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-H-INSCRIBED"
+        ],
         "transcription": null
       },
       "record_id": "BYB-H",
@@ -5263,10 +5500,155 @@
         "reviewer_id": null,
         "status": "pending"
       },
-      "surface_inventory_status": "not_established"
+      "surface_inventory_status": "reported_inventory_requires_completeness_check"
     },
     {
-      "line_targets": [],
+      "line_targets": [
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 84, Spatula i",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-I-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 84, Spatula i",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-I-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 84, Spatula i",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-I-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 84, Spatula i",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 4,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-I-A"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 84, Spatula i",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-I-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 84, Spatula i",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-I-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 84, Spatula i",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-I-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 84, Spatula i",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 4,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-I-B"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 84, Spatula i",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 5,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-I-B"
+        }
+      ],
       "membership": "reported_core",
       "primary_edition_lead": {
         "accessed": null,
@@ -5320,11 +5702,15 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1945",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-I-A",
+          "BYB-I-B"
+        ],
         "transcription": null
       },
       "record_id": "BYB-I",
@@ -5348,10 +5734,75 @@
         "reviewer_id": null,
         "status": "pending"
       },
-      "surface_inventory_status": "not_established"
+      "surface_inventory_status": "reported_inventory_requires_completeness_check"
     },
     {
-      "line_targets": [],
+      "line_targets": [
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 80, Stela j",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-J-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 80, Stela j",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-J-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 80, Stela j",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-J-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 80, Stela j",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 4,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-J-INSCRIBED"
+        }
+      ],
       "membership": "reported_core",
       "primary_edition_lead": {
         "accessed": null,
@@ -5405,11 +5856,14 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1945",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-J-INSCRIBED"
+        ],
         "transcription": null
       },
       "record_id": "BYB-J",
@@ -5433,10 +5887,91 @@
         "reviewer_id": null,
         "status": "pending"
       },
-      "surface_inventory_status": "not_established"
+      "surface_inventory_status": "reported_inventory_requires_completeness_check"
     },
     {
-      "line_targets": [],
+      "line_targets": [
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 80, Stela k",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-K-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 80, Stela k",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-K-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 80, Stela k",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-K-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 80, Stela k",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 4,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-K-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 80, Stela k",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 5,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-K-INSCRIBED"
+        }
+      ],
       "membership": "reported_core",
       "primary_edition_lead": {
         "accessed": null,
@@ -5494,11 +6029,14 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1978",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-K-INSCRIBED"
+        ],
         "transcription": null
       },
       "record_id": "BYB-K",
@@ -5522,10 +6060,219 @@
         "reviewer_id": null,
         "status": "pending"
       },
-      "surface_inventory_status": "not_established"
+      "surface_inventory_status": "reported_inventory_requires_completeness_check"
     },
     {
-      "line_targets": [],
+      "line_targets": [
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela l",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-L-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela l",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-L-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela l",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-L-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela l",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 4,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-L-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela l",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 5,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-L-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela l",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 6,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-L-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela l",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 7,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-L-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela l",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 8,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-L-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela l",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 9,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-L-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela l",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 10,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-L-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela l",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 11,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-L-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela l",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 12,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-L-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela l",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 13,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-L-INSCRIBED"
+        }
+      ],
       "membership": "reported_core",
       "primary_edition_lead": {
         "accessed": null,
@@ -5583,11 +6330,14 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1978",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-L-INSCRIBED"
+        ],
         "transcription": null
       },
       "record_id": "BYB-L",
@@ -5611,10 +6361,59 @@
         "reviewer_id": null,
         "status": "pending"
       },
-      "surface_inventory_status": "not_established"
+      "surface_inventory_status": "reported_inventory_requires_completeness_check"
     },
     {
-      "line_targets": [],
+      "line_targets": [
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela m",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "ltr",
+          "surface_id": "BYB-M-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela m",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "ltr",
+          "surface_id": "BYB-M-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 81, Stela m",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "ltr",
+          "surface_id": "BYB-M-INSCRIBED"
+        }
+      ],
       "membership": "reported_core",
       "primary_edition_lead": {
         "accessed": null,
@@ -5704,11 +6503,14 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1978",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-M-INSCRIBED"
+        ],
         "transcription": null
       },
       "record_id": "BYB-M",
@@ -5732,10 +6534,91 @@
         "reviewer_id": null,
         "status": "pending"
       },
-      "surface_inventory_status": "not_established"
+      "surface_inventory_status": "reported_inventory_requires_completeness_check"
     },
     {
-      "line_targets": [],
+      "line_targets": [
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 82, Stela n",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 1,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-N-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 82, Stela n",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 2,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-N-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 82, Stela n",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 3,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-N-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 82, Stela n",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 4,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-N-INSCRIBED"
+        },
+        {
+          "inventory_evidence": [
+            {
+              "fields": [
+                "label",
+                "line_count",
+                "direction"
+              ],
+              "locator": "p. 82, Stela n",
+              "source_id": "vita-zamora-2018"
+            }
+          ],
+          "line": 5,
+          "reported_direction": "rtl",
+          "surface_id": "BYB-N-INSCRIBED"
+        }
+      ],
       "membership": "reported_core",
       "primary_edition_lead": {
         "accessed": null,
@@ -5793,11 +6676,14 @@
           "Verify physical object and museum identity.",
           "Record surfaces and direction from evidence.",
           "Transcribe with source and uncertainty.",
-          "Obtain independent review."
+          "Obtain independent review.",
+          "Survey-located layout recorded; verify each line against primary edition and preserve conditional direction."
         ],
         "primary_edition_lead": "dunand-1978",
         "review_status": "unreviewed",
-        "surfaces": null,
+        "surfaces": [
+          "BYB-N-INSCRIBED"
+        ],
         "transcription": null
       },
       "record_id": "BYB-N",
@@ -5821,7 +6707,7 @@
         "reviewer_id": null,
         "status": "pending"
       },
-      "surface_inventory_status": "not_established"
+      "surface_inventory_status": "reported_inventory_requires_completeness_check"
     }
   ],
   "version": "1.3.0"

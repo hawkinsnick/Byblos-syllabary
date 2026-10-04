@@ -33,3 +33,8 @@ Read `ai-skill/generated/source-state.json` before substantive work. It records 
 - Reported counts with incompatible units remain separate.
 - Proposed sound values remain hypotheses.
 - Rights remain source-specific.
+
+## Source reconciliation checkpoint
+Read `docs/SOURCE-RECONCILIATION.md` and the indexed source-reconciliation artifacts before comparing versions, counting identities, or preparing specialist review.
+- Eighteen reported surfaces cover thirteen core labels; BYB-G remains a column layout rather than an invented line inventory.
+- Primary edition locators reported by the survey do not establish direct primary collation. Keep j entry page-range/caption anomalies unresolved.

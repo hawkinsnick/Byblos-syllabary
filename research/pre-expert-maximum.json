@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "corpus": "Byblos syllabary",
   "target": "PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-02",
+  "checked": "2026-10-04",
   "established": [
     {
       "gate": "attributed_count_claims",
@@ -27,6 +27,15 @@
       "status": "PASS_INSTITUTIONAL",
       "evidence": "research/mnamon-corpus-genealogy.json",
       "caution": "14 inscription labels do not necessarily equal 14 physical objects"
+    },
+    {
+      "gate": "source_reconciliation_checkpoint",
+      "status": "PASS_SCOPED",
+      "evidence_paths": [
+        "research/core-edition-locators.json",
+        "research/edition-locator-audit.json"
+      ],
+      "independent_review": false
     }
   ],
   "remaining_nonexpert_work": [
@@ -34,7 +43,9 @@
       "id": "BYB-PRE-001",
       "scope": "Dunand 1945 and 1978 core editions",
       "action": "Acquire or inspect lawful copies and record exact pages or plates, object identities and rights.",
-      "blocked_by": "primary_edition_access"
+      "blocked_by": "primary_edition_access",
+      "status": "ALL_14_PRIMARY_EDITION_LOCATORS_REPORTED_DIRECT_COLLATION_OPEN",
+      "evidence": "research/core-edition-locators.json"
     },
     {
       "id": "BYB-PRE-002",
@@ -47,7 +58,8 @@
       "scope": "14 versus 15 core count and 28 proposed fragments",
       "action": "Conventional 14-label Dunand genealogy is now institutionally grounded as 10 (1945) + 4 (1978); reconcile the remaining 15-count/provider discrepancy and candidate identities while keeping h/j possible same-stela identity separate.",
       "blocked_by": "provider/source reconciliation",
-      "status": "CONVENTIONAL_14_GENEALOGY_RESOLVED_15_DISCREPANCY_OPEN"
+      "status": "SURVEY_COUNT_SCOPES_SEPARATED_PROVIDER_IDENTITY_OPEN",
+      "evidence": "research/core-edition-locators.json"
     },
     {
       "id": "BYB-PRE-004",

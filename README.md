@@ -18,7 +18,7 @@ For questions spanning multiple corpus projects, use the **Combined Corpus Resea
 
 - 14 reported core entries plus 25 named disputed candidates; membership remains attributed.
 - 51 registered sources/leads and 29 bibliography discovery entries; consultation depth recorded individually.
-- 0 verified sign sequences, 0 imported images, 0 independently reviewed records; 7 sourced surface descriptions.
+- 0 verified sign sequences, 0 imported images, 0 independently reviewed records; 18 sourced surface descriptions.
 - Published corpus counts remain unresolved. This is not an exhaustive corpus.
 - Identifiers refer to inscription records, not necessarily distinct physical objects.
 
@@ -141,3 +141,7 @@ While source reuse status is being established, use the [reference-only workflow
 The exported pilot contains references and original catalogue metadata, with no
 plates or sign sequences. Keep inspection PDFs outside the checkout; the current
 release policy rejects known media files in the repository.
+
+## Source reconciliation checkpoint
+
+See [the 4 October 2026 evidence checkpoint](docs/SOURCE-RECONCILIATION.md) for new source-located evidence, reproducible checks, unresolved anomalies and the remaining primary-source work.

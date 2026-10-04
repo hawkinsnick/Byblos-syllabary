@@ -1,5 +1,5 @@
 {
-  "evidence_sha256": "edf6905e51cb79c27686a19d8fe3358e32f93fbff21315373f98d97887a14b96",
+  "evidence_sha256": "1306f68e1cb58c62b519e1a58a56cfabc53e6d6a22375c3843bff1e335a4e6eb",
   "format": "byblos-provenance-v1",
   "interpretation": "Derived links only. Field evidence records attribution, not correctness. Source references, discovery citations and edition leads are not independent corroboration. Consultation depth and rights are recorded declarations; usage counts are not confidence scores. Paths address this exact snapshot; owners are namespaced by their container.",
   "selected_source": null,
@@ -2308,7 +2308,7 @@
       },
       "role_counts": {
         "context_source": 2,
-        "field_evidence": 20
+        "field_evidence": 31
       },
       "source_id": "vita-zamora-2018",
       "uses": [
@@ -2529,6 +2529,102 @@
             "line_count",
             "direction"
           ],
+          "locator": "p. 80, Stela h",
+          "owner": "/surfaces/surfaces:BYB-H-INSCRIBED",
+          "path": "/surfaces/surfaces/10/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "p. 84, Spatula i",
+          "owner": "/surfaces/surfaces:BYB-I-A",
+          "path": "/surfaces/surfaces/11/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "p. 84, Spatula i",
+          "owner": "/surfaces/surfaces:BYB-I-B",
+          "path": "/surfaces/surfaces/12/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "p. 80, Stela j",
+          "owner": "/surfaces/surfaces:BYB-J-INSCRIBED",
+          "path": "/surfaces/surfaces/13/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "p. 80, Stela k",
+          "owner": "/surfaces/surfaces:BYB-K-INSCRIBED",
+          "path": "/surfaces/surfaces/14/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "p. 81, Stela l",
+          "owner": "/surfaces/surfaces:BYB-L-INSCRIBED",
+          "path": "/surfaces/surfaces/15/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "p. 81, Stela m",
+          "owner": "/surfaces/surfaces:BYB-M-INSCRIBED",
+          "path": "/surfaces/surfaces/16/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "p. 82, Stela n",
+          "owner": "/surfaces/surfaces:BYB-N-INSCRIBED",
+          "path": "/surfaces/surfaces/17/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
           "locator": "p. 77",
           "owner": "/surfaces/surfaces:BYB-C-B",
           "path": "/surfaces/surfaces/2/evidence/0/source_id",
@@ -2580,6 +2676,42 @@
           "locator": "pp. 83–84",
           "owner": "/surfaces/surfaces:BYB-F-B",
           "path": "/surfaces/surfaces/6/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "pp. 82–83, Spatula b; counts continue at top of p. 83",
+          "owner": "/surfaces/surfaces:BYB-B-A",
+          "path": "/surfaces/surfaces/7/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "pp. 82–83, Spatula b; counts continue at top of p. 83",
+          "owner": "/surfaces/surfaces:BYB-B-B",
+          "path": "/surfaces/surfaces/8/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [
+            "label",
+            "line_count",
+            "direction"
+          ],
+          "locator": "p. 83, Spatula e",
+          "owner": "/surfaces/surfaces:BYB-E-A",
+          "path": "/surfaces/surfaces/9/evidence/0/source_id",
           "role": "field_evidence",
           "source_id": "vita-zamora-2018"
         }

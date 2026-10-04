@@ -78,16 +78,7 @@
       "BYB-N"
     ],
     "core_without_surface_inventory": [
-      "BYB-B",
-      "BYB-E",
-      "BYB-G",
-      "BYB-H",
-      "BYB-I",
-      "BYB-J",
-      "BYB-K",
-      "BYB-L",
-      "BYB-M",
-      "BYB-N"
+      "BYB-G"
     ],
     "core_without_verified_sequence": [
       "BYB-A",
@@ -174,7 +165,7 @@
     "reported_core": 14,
     "signs_registered": 0,
     "sources_and_leads": 51,
-    "surfaces_described": 7,
+    "surfaces_described": 18,
     "transcriptions": 0,
     "verified_core_sequences": 0
   },
@@ -192,7 +183,7 @@
     "surface_inventory": false
   },
   "interpretation": "Passing software checks validates recorded structure, not archaeological truth, licence validity or completeness.",
-  "review_evidence_sha256": "edf6905e51cb79c27686a19d8fe3358e32f93fbff21315373f98d97887a14b96",
+  "review_evidence_sha256": "1306f68e1cb58c62b519e1a58a56cfabc53e6d6a22375c3843bff1e335a4e6eb",
   "scientific_1_0_ready": false,
   "structure_valid": true,
   "version": "1.3.0"

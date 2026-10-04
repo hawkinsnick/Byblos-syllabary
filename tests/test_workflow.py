@@ -44,7 +44,7 @@ class WorkflowTests(unittest.TestCase):
         expected = [(s["id"], n) for s in self.bundle["surfaces"]["surfaces"] for n in range(1, s["line_count"] + 1)]
         self.assertEqual(sorted(targets), sorted(expected))
         self.assertTrue(all(t["response"]["decision"] is None and t["response"]["status"] == "pending" for t in packet["tasks"]))
-        unknown = next(t for t in packet["tasks"] if t["record_id"] == "BYB-B")
+        unknown = next(t for t in packet["tasks"] if t["record_id"] == "BYB-G")
         self.assertEqual(unknown["surface_inventory_status"], "not_established")
         self.assertEqual(unknown["line_targets"], [])
     def test_identical_snapshot_has_no_changes(self):

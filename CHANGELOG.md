@@ -1,3 +1,10 @@
+# Source reconciliation checkpoint — 2026-10-04
+
+- Added all fourteen survey-located core edition references and retained printed source anomalies.
+- Expanded reported native surfaces from seven to eighteen, with 126 pending line targets for thirteen core labels.
+- Preserved g column layout and conditional directions; scientific admission remains closed.
+- Added reproducible source/native reconciliation checks and regenerated research exports and AI authority index.
+
 # Changelog
 
 ## 0.1.0 — 2026-10-01

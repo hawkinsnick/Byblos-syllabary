@@ -146,7 +146,7 @@
       "status": "not_started"
     }
   ],
-  "evidence_sha256": "edf6905e51cb79c27686a19d8fe3358e32f93fbff21315373f98d97887a14b96",
+  "evidence_sha256": "1306f68e1cb58c62b519e1a58a56cfabc53e6d6a22375c3843bff1e335a4e6eb",
   "format": "byblos-acquisition-queue-v1",
   "interpretation": "Ordering uses direct catalogue citation/lead linkage counts, then source ID. Counts are workload reach, not scientific importance or independent corroboration. Sources consulted only in selected sections may still require more inspection; absence from this queue does not mean fully collated. The legacy unexamined_bibliography_leads key means not fully examined, including partial inspection; explicit states distinguish these. Bibliography and source tasks may overlap. No acquisition, permission request or expert approval is performed by generating this queue.",
   "source_tasks": [

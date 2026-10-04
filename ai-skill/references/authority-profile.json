@@ -41,6 +41,16 @@
       "role": "surface_inventory",
       "path": "data/surfaces.json",
       "required": true
+    },
+    {
+      "role": "core_edition_locators",
+      "path": "research/core-edition-locators.json",
+      "required": true
+    },
+    {
+      "role": "edition_locator_audit",
+      "path": "research/edition-locator-audit.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -50,6 +60,8 @@
     "The term syllabary is conventional and proposed sound values remain hypotheses",
     "No project-wide data license; unresolved sequence and plate rights remain explicit",
     "The institutional 14-object baseline constrains corpus identity but does not supply verified sign sequences.",
-    "The 14 Dunand core labels now have institutionally reconciled object classes, but h/j may be one physical stele and no core sign sequence is thereby verified."
+    "The 14 Dunand core labels now have institutionally reconciled object classes, but h/j may be one physical stele and no core sign sequence is thereby verified.",
+    "Eighteen reported surfaces cover thirteen core labels; BYB-G remains a column layout rather than an invented line inventory.",
+    "Primary edition locators reported by the survey do not establish direct primary collation. Keep j entry page-range/caption anomalies unresolved."
   ]
 }

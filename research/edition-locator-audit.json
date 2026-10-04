@@ -1,0 +1,27 @@
+{
+  "format": "byblos-edition-locator-audit-v1",
+  "input_hashes": {
+    "research/core-edition-locators.json": "657a7efe91447d2fa4592d87c2f3f1bfd6b1705807a095554e2b3f68004b5718",
+    "data/catalogue.json": "cfbe9ad6fbfb40b14cc0df3f5a53022a30aa3bbb0b7cfc87a2c10f5546fa0fb9",
+    "data/surfaces.json": "c554dd2941514b3bfbf4915f37459340a5c37783cd057ccc69a9882f9c5acb7e"
+  },
+  "core_labels_with_edition_locators": 14,
+  "core_labels_with_native_line_surfaces": 13,
+  "native_surfaces": 18,
+  "reported_line_targets": 126,
+  "column_layouts_kept_separate": [
+    "BYB-G"
+  ],
+  "unresolved_printed_source_anomalies": [
+    {
+      "record_id": "BYB-J",
+      "anomalies": [
+        "Descending page range 83–76 in printed entry; do not silently emend.",
+        "Figure 7 caption says f, while entry and cited Dunand label refer to j; retain mismatch pending primary plate inspection."
+      ]
+    }
+  ],
+  "verified_sequences_added": 0,
+  "independent_reviews_added": 0,
+  "scientific_completeness_established": false
+}

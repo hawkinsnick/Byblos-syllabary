@@ -1,32 +1,32 @@
 {
   "algorithm": "sha256",
   "files": {
-    "REPORT.md": "77378161b6ac4717b0eecd71aba4ef8825fec1212d04bd2b083766b18638adac",
+    "REPORT.md": "d26c11a8ab0c422a36b20c234fe4f36d214d2d7ada7983abfae825fa9c5dec3b",
     "REUSE.md": "b6db64c74324c659827e2bdffbbbf43363385bb8c06faa9586eda408839cb3b8",
-    "acquisition_queue.json": "3d5b6aecb1804a20c66b383bfb4ebc25b0c943b1d329bc79a898427c3f1daa8d",
-    "audit.json": "41b95413d2bbe29b1ff71b5354974174c3524447b7e8b0678a6ca866d3e8f5e7",
-    "bundle.json": "0aa50ec267808e123a7408534541fb79d10ec6be632caf3916e580f7eb3e2616",
+    "acquisition_queue.json": "550189a1207c6a2ed36944336f01c935fd45db9830531a90c76f0949757bf68b",
+    "audit.json": "2f44b476208b9ed80cd48b4a8f24a8b135807969861d4a3f211f831bfe3fa8b5",
+    "bundle.json": "6d61e4b9ab62a0228771c0635efb8982fd925a69cd124d1109b6d8187ec1aab7",
     "catalogue.csv": "b314338c72cb11c7367e84a7801c93228d3bbbcc10c505363f7ea39014014e7f",
-    "catalogue.jsonl": "edd00cb005155ba20e774c81825024a6a60a02a1297cb1fc89e63cada4108cd2",
-    "contribution_template.json": "25a58381658140796df7c8470a244c5be009881373a48b522a7886081b7d4b45",
-    "evidence_ledger.json": "f19250f4873e4ea9118bcb6e5c919aed9ad26131ce47720ba0e7c4409233d231",
-    "index.html": "e50b7ffd85633ba1f5c9aa0f8f7f2ce1b070908f62080745cd68c4b2be74f366",
-    "pilot_packet.json": "b5f401d265d66397c5fa2af7d65f8da5a9b2915f1039cd7bc2ff7e33ef1784dc",
-    "provenance.json": "409e8fa79d8bcb3b87fb68c566e67c81a2854a1bec42ea15c0f34e8d584c0df0",
-    "reference_workflow.json": "b25b530a13661f6a9315ce253d5de5d22d98ddef842f8c44a224dbb8168bd79c",
-    "review_packet.json": "caa5dd21868dcc6d1893bdae40a3bb167f39cc2344cb2181ebfbeb73a98bab32"
+    "catalogue.jsonl": "134a09201df31ab0f6c65275f5f59190ff053dc267ce87a9465c0bb39ee54838",
+    "contribution_template.json": "3596234fd500033ea36fcfbc2ac754ab137c3eb1b9bc7a05a59457c40a515a2a",
+    "evidence_ledger.json": "dbd76cb9546ca3acc387c2d2525d5d5d9738f26bb1777e5c5196c8ba4231ca1a",
+    "index.html": "8e7d4cddff0e15a1373eb10f84ed17e540f4e5fae091806bc3fb02202cacbfcd",
+    "pilot_packet.json": "fe6e302984a5d20cc3ff6b0a503f72d27dbb388ba6b265e6d22ce6689fd2cfeb",
+    "provenance.json": "c1de83e8133acd4d19b2a3a61dbcf6370ee86518809940925daa18e167742530",
+    "reference_workflow.json": "76e7e6b9f2d4a888c6d7dc31819fc3e7a52fedb302e98413fde04917ab4d6804",
+    "review_packet.json": "670d115c2e70ee20c57830503580126e7a67e30797416bca003f652b892471e6"
   },
   "input_hash_format": "Canonical JSON: sorted keys, ensure_ascii=False, indent=2, trailing newline",
   "inputs": {
     "bibliography.json": "0e449fbb7c60ce4a5e7b7120b4049405a17b4d536ed2e5d34a5999f9a89eacf1",
-    "catalogue.json": "34bd17b3809810fc68e7dae7286ae13a0117d376baf2803620db4d8c7ae5f79c",
+    "catalogue.json": "25994e446c721ca19484e1de1d104ac57cff2d123acf5140e2a6f2c14da2d92c",
     "coverage.json": "16fa20eb15a59eb5480c26172279bcd49950992f95dfff755a3990d878bac572",
     "external_crosswalk.json": "c2be40c9a75e4264aded5572a06ac7df3c1e31fcd6a6205cf172a19a19895bf5",
     "relations.json": "3b73c68fef54e7240b1aa239bfa3b474874537fdee36dc81b52a4835f71b330f",
     "research_entities.json": "0c57de2c65256566d6dff92e7ddd65d8c5644aad8ddd91763294216cb3b64a8e",
     "search_log.json": "fd0536ce62b44f994312d60e7870daac677b67383185e76c9090228ba5bf56ed",
     "sources.json": "408d98306a8ba55f8ae7959d9c227a885c6d580a2866b62c1278fbc7c066520b",
-    "surfaces.json": "4655f5f2295aaa264fad42e9dabdd6666733898486aae8031d6b40c2374ca2d7"
+    "surfaces.json": "e8f0368aaffa4a6800f7b35c3087ea5de69e0b37cd7422e79da6a07eb403e87a"
   },
   "scientific_1_0_ready": false,
   "version": "1.3.0"

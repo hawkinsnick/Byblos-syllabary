@@ -11,7 +11,7 @@ Structural validity is not proof of accuracy or exhaustive coverage.
 | reported core | 14 |
 | disputed candidates | 25 |
 | sources and leads | 51 |
-| surfaces described | 7 |
+| surfaces described | 18 |
 | signs registered | 0 |
 | transcriptions | 0 |
 | verified core sequences | 0 |
@@ -33,7 +33,7 @@ Structural validity is not proof of accuracy or exhaustive coverage.
 
 ## Admission evidence
 
-Evidence snapshot SHA-256: `edf6905e51cb79c27686a19d8fe3358e32f93fbff21315373f98d97887a14b96`
+Evidence snapshot SHA-256: `1306f68e1cb58c62b519e1a58a56cfabc53e6d6a22375c3843bff1e335a4e6eb`
 
 Complete within the independently reviewed scope and cutoff; future finds and publications remain possible.
 

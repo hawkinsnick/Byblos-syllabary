@@ -1,0 +1,339 @@
+{
+  "format": "byblos-core-edition-locators-v1",
+  "checked": "2026-10-04",
+  "source_id": "vita-zamora-2018",
+  "source_citation": "Juan-Pablo Vita and José-Ángel Zamora, The Byblos Script, SMEA NS Supplemento 1 (2018), 75–102",
+  "inspection": {
+    "file_sha256": "69724761c8a633f1fcd7f409fe892eaccf52ba29f8bbc13f3f4235a51284bb1e",
+    "pdf_pages": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "printed_pages": [
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "figures_redistributed": false,
+    "full_text_redistributed": false
+  },
+  "entries": [
+    {
+      "record_id": "BYB-A",
+      "source_id": "vita-zamora-2018",
+      "survey_locator": "p. 79, Stela a",
+      "source_pdf_page": 8,
+      "primary_edition_locator_reported": "Dunand 1930; 1945, 71–73",
+      "material_reported": "limestone",
+      "layout": {
+        "reported_lines": 10,
+        "reported_face_lines": null
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "reported"
+      },
+      "primary_edition_directly_collated": false,
+      "verified_sign_sequence": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "record_id": "BYB-B",
+      "source_id": "vita-zamora-2018",
+      "survey_locator": "pp. 82–83, Spatula b; counts continue at top of p. 83",
+      "source_pdf_page": 11,
+      "primary_edition_locator_reported": "Dunand 1945, 73–74",
+      "material_reported": "bronze",
+      "layout": {
+        "reported_lines": 7,
+        "reported_face_lines": {
+          "A": 4,
+          "B": 3
+        }
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "reported"
+      },
+      "primary_edition_directly_collated": false,
+      "verified_sign_sequence": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "record_id": "BYB-C",
+      "source_id": "vita-zamora-2018",
+      "survey_locator": "p. 77, Tablet c",
+      "source_pdf_page": 6,
+      "primary_edition_locator_reported": "Dunand 1945, 74–76",
+      "material_reported": "bronze",
+      "layout": {
+        "reported_lines": 15,
+        "reported_face_lines": {
+          "A": 13,
+          "B": 2
+        }
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "reported"
+      },
+      "primary_edition_directly_collated": false,
+      "verified_sign_sequence": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "record_id": "BYB-D",
+      "source_id": "vita-zamora-2018",
+      "survey_locator": "p. 78, Tablet d",
+      "source_pdf_page": 7,
+      "primary_edition_locator_reported": "Dunand 1945, 76–78",
+      "material_reported": "bronze",
+      "layout": {
+        "reported_lines": 41,
+        "reported_face_lines": {
+          "A": 22,
+          "B": 19
+        }
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "reported"
+      },
+      "primary_edition_directly_collated": false,
+      "verified_sign_sequence": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "record_id": "BYB-E",
+      "source_id": "vita-zamora-2018",
+      "survey_locator": "p. 83, Spatula e",
+      "source_pdf_page": 12,
+      "primary_edition_locator_reported": "Dunand 1945, 78–79",
+      "material_reported": "bronze",
+      "layout": {
+        "reported_lines": 3,
+        "reported_face_lines": {
+          "A": 3,
+          "B": 0
+        }
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "reported"
+      },
+      "primary_edition_directly_collated": false,
+      "verified_sign_sequence": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "record_id": "BYB-F",
+      "source_id": "vita-zamora-2018",
+      "survey_locator": "p. 83, Spatula f",
+      "source_pdf_page": 12,
+      "primary_edition_locator_reported": "Dunand 1945, 79–80",
+      "material_reported": "bronze",
+      "layout": {
+        "reported_lines": 7,
+        "reported_face_lines": {
+          "A": 3,
+          "B": 4
+        }
+      },
+      "direction_claim": {
+        "value": "face_dependent",
+        "qualification": "inferred_by_authors",
+        "faces": {
+          "A": "right_to_left",
+          "B": "left_to_right"
+        }
+      },
+      "primary_edition_directly_collated": false,
+      "verified_sign_sequence": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "record_id": "BYB-G",
+      "source_id": "vita-zamora-2018",
+      "survey_locator": "p. 79, Stela g",
+      "source_pdf_page": 8,
+      "primary_edition_locator_reported": "Dunand 1945, 80–81",
+      "material_reported": "white limestone",
+      "layout": {
+        "reported_lines": null,
+        "reported_face_lines": null,
+        "reported_columns": 6,
+        "certainly_textual_columns": 5,
+        "note": "Columns, not six lines; last column unclear."
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "inferred_from_sign_orientation"
+      },
+      "primary_edition_directly_collated": false,
+      "verified_sign_sequence": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "record_id": "BYB-H",
+      "source_id": "vita-zamora-2018",
+      "survey_locator": "p. 80, Stela h",
+      "source_pdf_page": 9,
+      "primary_edition_locator_reported": "Dunand 1945, 82",
+      "material_reported": "stone, unspecified",
+      "layout": {
+        "reported_lines": 4,
+        "reported_face_lines": null,
+        "certainly_textual_lines": 3
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "inferred_from_blank_margins"
+      },
+      "primary_edition_directly_collated": false,
+      "verified_sign_sequence": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "record_id": "BYB-I",
+      "source_id": "vita-zamora-2018",
+      "survey_locator": "p. 84, Spatula i",
+      "source_pdf_page": 13,
+      "primary_edition_locator_reported": "Dunand 1945, 82",
+      "material_reported": "bronze",
+      "layout": {
+        "reported_lines": 9,
+        "reported_face_lines": {
+          "A": 4,
+          "B": 5
+        }
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "apparently"
+      },
+      "primary_edition_directly_collated": false,
+      "verified_sign_sequence": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "record_id": "BYB-J",
+      "source_id": "vita-zamora-2018",
+      "survey_locator": "p. 80, Stela j",
+      "source_pdf_page": 9,
+      "primary_edition_locator_reported": "Dunand 1945, 83–76 [as printed; unresolved]",
+      "material_reported": "limestone",
+      "layout": {
+        "reported_lines": 4,
+        "reported_face_lines": null
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "presumably"
+      },
+      "primary_edition_directly_collated": false,
+      "verified_sign_sequence": false,
+      "independent_epigraphic_review": false,
+      "source_anomalies": [
+        "Descending page range 83–76 in printed entry; do not silently emend.",
+        "Figure 7 caption says f, while entry and cited Dunand label refer to j; retain mismatch pending primary plate inspection."
+      ],
+      "possible_same_inscription_as": "BYB-H"
+    },
+    {
+      "record_id": "BYB-K",
+      "source_id": "vita-zamora-2018",
+      "survey_locator": "p. 80, Stela k",
+      "source_pdf_page": 9,
+      "primary_edition_locator_reported": "Dunand 1978, 51–53",
+      "material_reported": "limestone",
+      "layout": {
+        "reported_lines": 5,
+        "reported_face_lines": null
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "apparently"
+      },
+      "primary_edition_directly_collated": false,
+      "verified_sign_sequence": false,
+      "independent_epigraphic_review": false,
+      "direction_locator": "p. 81, continuation adjacent to Fig. 8; page visually checked"
+    },
+    {
+      "record_id": "BYB-L",
+      "source_id": "vita-zamora-2018",
+      "survey_locator": "p. 81, Stela l",
+      "source_pdf_page": 10,
+      "primary_edition_locator_reported": "Dunand 1978, 53–56; Hoch 1995",
+      "material_reported": "limestone",
+      "layout": {
+        "reported_lines": 13,
+        "reported_face_lines": null
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "probably; line 12 exception unresolved"
+      },
+      "primary_edition_directly_collated": false,
+      "verified_sign_sequence": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "record_id": "BYB-M",
+      "source_id": "vita-zamora-2018",
+      "survey_locator": "p. 81, Stela m",
+      "source_pdf_page": 10,
+      "primary_edition_locator_reported": "Dunand 1978, 58",
+      "material_reported": "limestone",
+      "layout": {
+        "reported_lines": 3,
+        "reported_face_lines": null
+      },
+      "direction_claim": {
+        "value": "left_to_right",
+        "qualification": "conditional_on_sign_orientation"
+      },
+      "primary_edition_directly_collated": false,
+      "verified_sign_sequence": false,
+      "independent_epigraphic_review": false
+    },
+    {
+      "record_id": "BYB-N",
+      "source_id": "vita-zamora-2018",
+      "survey_locator": "p. 82, Stela n",
+      "source_pdf_page": 11,
+      "primary_edition_locator_reported": "Dunand 1978, 58–59",
+      "material_reported": "stone, unspecified",
+      "layout": {
+        "reported_lines": 5,
+        "reported_face_lines": null,
+        "note": "First preserved line has no noticeable signs; authors see no sixth line."
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "probably"
+      },
+      "primary_edition_directly_collated": false,
+      "verified_sign_sequence": false,
+      "independent_epigraphic_review": false
+    }
+  ],
+  "count_unit": "14 source edition labels, not certified unique physical objects",
+  "count_conflict_disposition": {
+    "fourteen": "Enumerated Dunand a–n core, pp. 76–84",
+    "about_fifteen": "Approximate wider total in summary p. 75; p. 85 discusses additional linear pseudo-hieroglyphic/palimpsest candidate.",
+    "resolution": "Different explicit scopes are preserved; this does not establish an exact 15th core object or settle wider corpus membership."
+  },
+  "boundary": "Survey-derived factual metadata and source locators only. Reported lines/directions never create transcribed sign occurrences or independent review."
+}

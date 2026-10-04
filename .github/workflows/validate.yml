@@ -33,3 +33,4 @@ jobs:
           for name, content in export_texts(load_bundle()).items():
               assert Path("exports", name).read_text(encoding="utf-8") == content, name
           PY
+      - run: python scripts/check_edition_locators.py --check
