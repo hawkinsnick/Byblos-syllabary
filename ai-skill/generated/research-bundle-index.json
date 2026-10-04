@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "5e0f6e4b19df3484c593ea8f22d9361693fb194f",
+  "source_commit": "7e4de4c09647136562b8bff6db3a7dbc717e080b",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T10:11:00+00:00",
+  "generated_at_utc": "2026-10-04T16:10:06+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -16,8 +16,8 @@
     {
       "role": "source_reconciliation_guide",
       "path": "docs/SOURCE-RECONCILIATION.md",
-      "sha256": "1899b480c0dda4d177c7099c001fd1cb80fae7effbfa8abbe6e4abda48d1b978",
-      "bytes": 5834
+      "sha256": "ef62c3bbdce440ced7d3df4d654adb55d463f3990ce53426d6afd59d14ba4327",
+      "bytes": 6464
     },
     {
       "role": "core_edition_locators",
@@ -52,13 +52,13 @@
     {
       "role": "core_primary_access_routes",
       "path": "research/core-primary-access-routes.json",
-      "sha256": "bc8ff86bae22dc31a42daaf5851c86cd29d702857a32bfc0a59435a3f7ec4f10",
-      "bytes": 2307
+      "sha256": "110243bdfa4242c72ce26c20836eb008638fbd22bd94bc5009e3b6a501957f42",
+      "bytes": 3714
     },
     {
       "role": "core_primary_access_route_audit",
       "path": "research/core-primary-access-route-audit.json",
-      "sha256": "bb00e56f3c4cb77d1fef8b6b9f8e39a253c89285daacd19927f2e19b569b38d3",
+      "sha256": "bbeef8da2b023c5de686a56cf7ceafae860cc3cd05add889dec260b33cab5734",
       "bytes": 1238
     },
     {
