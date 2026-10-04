@@ -35,3 +35,4 @@ jobs:
           PY
       - run: python scripts/check_edition_locators.py --check
       - run: python scripts/audit_core_provenance.py --check
+      - run: python scripts/audit_core_genealogy.py --check

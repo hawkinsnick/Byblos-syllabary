@@ -56,6 +56,11 @@
       "role": "core_field_provenance_audit",
       "path": "research/core-field-provenance-audit.json",
       "required": true
+    },
+    {
+      "role": "core_publication_genealogy_audit",
+      "path": "research/core-publication-genealogy-audit.json",
+      "required": true
     }
   ],
   "behavioral_gates": [

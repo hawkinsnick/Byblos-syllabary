@@ -10,9 +10,12 @@ The native surface register grows from seven to eighteen reported surfaces, cove
 
 `research/core-field-provenance-audit.json` now separates direct primary inspection from reported locators at field level. All fourteen core labels have survey-reported edition locators. Only BYB-A presently has directly inspected primary metadata (selected factual fields from Dunand 1930); no core label has a directly collated corpus-edition sequence, verified sign sequence, or established museum/object identifier. Direct metadata inspection is not promoted into sign-level verification.
 
+`research/core-publication-genealogy-audit.json` reconciles the institutional Mnamon genealogy against the native catalogue: ten labels (`a`–`j`) belong to the 1945 publication cohort and four (`k`–`n`) to the 1978 cohort. The resulting fourteen publication labels are not asserted to be fourteen monuments because `h` and `j` may belong to one stele. The audit deliberately leaves physical-monument bounds unset.
+
 ```sh
 python scripts/check_edition_locators.py --check
 python scripts/audit_core_provenance.py --check
+python scripts/audit_core_genealogy.py --check
 python -m byblos validate
 python -m byblos release-check
 python -m byblos review-packet

@@ -1,0 +1,123 @@
+{
+  "format": "byblos-core-publication-genealogy-audit-v1",
+  "input_hashes": {
+    "research/mnamon-corpus-genealogy.json": "a9b13ed589233ea724c03878e618b4632f5fba2cdd0ceb1f4926e7ed1839966e",
+    "research/core-object-reconciliation.json": "b7259ddfdf9344dbbfb413b98ddcdbebc8533a4df559f515efe3e8024011741f",
+    "data/catalogue.json": "cfbe9ad6fbfb40b14cc0df3f5a53022a30aa3bbb0b7cfc87a2c10f5546fa0fb9"
+  },
+  "publication_label_counts": {
+    "Dunand 1945": 10,
+    "Dunand 1978": 4
+  },
+  "conventional_core_label_count": 14,
+  "minimum_distinct_physical_monument_count": null,
+  "maximum_distinct_physical_monument_count": null,
+  "potential_coreference_groups": [
+    [
+      "BYB-H",
+      "BYB-J"
+    ]
+  ],
+  "verified_sequence_count": 0,
+  "records": [
+    {
+      "edition_cohort": "Dunand 1945",
+      "dunand_label": "a",
+      "project_id": "BYB-A",
+      "object_class": "fragmentary stone stele",
+      "verified_sequence": false
+    },
+    {
+      "edition_cohort": "Dunand 1945",
+      "dunand_label": "b",
+      "project_id": "BYB-B",
+      "object_class": "bronze spatula",
+      "verified_sequence": false
+    },
+    {
+      "edition_cohort": "Dunand 1945",
+      "dunand_label": "c",
+      "project_id": "BYB-C",
+      "object_class": "bronze tablet",
+      "verified_sequence": false
+    },
+    {
+      "edition_cohort": "Dunand 1945",
+      "dunand_label": "d",
+      "project_id": "BYB-D",
+      "object_class": "bronze tablet",
+      "verified_sequence": false
+    },
+    {
+      "edition_cohort": "Dunand 1945",
+      "dunand_label": "e",
+      "project_id": "BYB-E",
+      "object_class": "bronze spatula",
+      "verified_sequence": false
+    },
+    {
+      "edition_cohort": "Dunand 1945",
+      "dunand_label": "f",
+      "project_id": "BYB-F",
+      "object_class": "bronze spatula",
+      "verified_sequence": false
+    },
+    {
+      "edition_cohort": "Dunand 1945",
+      "dunand_label": "g",
+      "project_id": "BYB-G",
+      "object_class": "fragmentary stone stele",
+      "verified_sequence": false
+    },
+    {
+      "edition_cohort": "Dunand 1945",
+      "dunand_label": "h",
+      "project_id": "BYB-H",
+      "object_class": "stone fragment; possibly same stele as j",
+      "verified_sequence": false
+    },
+    {
+      "edition_cohort": "Dunand 1945",
+      "dunand_label": "i",
+      "project_id": "BYB-I",
+      "object_class": "bronze spatula",
+      "verified_sequence": false
+    },
+    {
+      "edition_cohort": "Dunand 1945",
+      "dunand_label": "j",
+      "project_id": "BYB-J",
+      "object_class": "stone fragment; possibly same stele as h",
+      "verified_sequence": false
+    },
+    {
+      "edition_cohort": "Dunand 1978",
+      "dunand_label": "k",
+      "project_id": "BYB-K",
+      "object_class": "fragmentary stone slab",
+      "verified_sequence": false
+    },
+    {
+      "edition_cohort": "Dunand 1978",
+      "dunand_label": "l",
+      "project_id": "BYB-L",
+      "object_class": "fragmentary stone slab",
+      "verified_sequence": false
+    },
+    {
+      "edition_cohort": "Dunand 1978",
+      "dunand_label": "m",
+      "project_id": "BYB-M",
+      "object_class": "fragmentary stone slab",
+      "verified_sequence": false
+    },
+    {
+      "edition_cohort": "Dunand 1978",
+      "dunand_label": "n",
+      "project_id": "BYB-N",
+      "object_class": "fragmentary stone slab",
+      "verified_sequence": false
+    }
+  ],
+  "boundary": "Ten 1945 labels plus four 1978 labels yield fourteen publication labels, not fourteen certified physical monuments. The reported h/j possible join is retained without adjudication; publication cohorts do not verify sequences or the source-attributed sign inventory."
+}

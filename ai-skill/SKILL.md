@@ -39,3 +39,4 @@ Read `docs/SOURCE-RECONCILIATION.md` and the indexed source-reconciliation artif
 - Eighteen reported surfaces cover thirteen core labels; BYB-G remains a column layout rather than an invented line inventory.
 - Primary edition locators reported by the survey do not establish direct primary collation. Keep j entry page-range/caption anomalies unresolved.
 - The field-provenance audit distinguishes BYB-A's selected Dunand 1930 factual metadata from later corpus-edition and sign-sequence collation; the latter remain zero for all fourteen core labels.
+- The publication genealogy is 10 labels in the 1945 cohort plus 4 in the 1978 cohort; this is a label count, while h/j possible coreference keeps the physical-monument denominator unresolved.
