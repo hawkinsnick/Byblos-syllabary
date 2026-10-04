@@ -16,12 +16,15 @@ The native surface register grows from seven to eighteen reported surfaces, cove
 
 `research/core-primary-access-routes.json` resolves catalogue-level access identities for both core editions without claiming page inspection. Dunand's 1945 *Byblia Grammata* is cross-identified as Open Library **OL6188790M**, Internet Archive item **bybliagrammatado0000duna**, LCCN **55042246**, OCLC **1191221**, and Google Books **RnYtAAAAMAAJ** (xix + 200 pages); the available Internet Archive route is access-restricted/borrow and Google Books exposes metadata/snippets, not a collated edition. Dunand's later article is Tübingen KeiBi **KEI00067546 / KeiBi 43:205**, *Bulletin du Musée de Beyrouth* 30, pp. 51–59, four figures and two plates, nominally 1978 but recorded as appearing in 1981. `research/core-primary-access-route-audit.json` binds these three catalogue records to all ten 1945 labels and four 1978 labels. It adds zero inspected primary pages, verified sequences, or physical identities.
 
+`research/dunand-1978-bibliographic-conflict-audit.json` preserves a narrower unresolved conflict: Mnamon reports pp. 52–58, while KeiBi reports pp. 51–59 and an appearance year of 1981 for the nominal 1978 article. The shared span is 52–58; boundary pages 51 and 59 are disputed. The union 51–59 is an acquisition target only, not a resolved citation. No appearance year, content, plate, or sequence is independently certified until the physical article is inspected.
+
 ```sh
 python scripts/check_edition_locators.py --check
 python scripts/audit_core_provenance.py --check
 python scripts/audit_core_genealogy.py --check
 python scripts/audit_core_counting_units.py --check
 python scripts/audit_core_access_routes.py --check
+python scripts/audit_dunand_1978_bibliography.py --check
 python -m byblos validate
 python -m byblos release-check
 python -m byblos review-packet
