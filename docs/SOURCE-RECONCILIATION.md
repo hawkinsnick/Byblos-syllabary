@@ -45,3 +45,7 @@ Source: Juan-Pablo Vita and José-Ángel Zamora, “The Byblos Script,” in *Pa
 ## Remaining frontier
 
 Inspect lawful copies of Dunand's original editions and plates; the exact catalogue routes now distinguish borrow-restricted, metadata/snippet-only and bibliographic-only access states. Establish museum/object identities; resolve provider face/variant crosswalks; collate sign sequences and uncertain directions. Software integrity, catalogue discovery and expanded review targets do not establish scientific corpus 1.0 or exhaustive coverage.
+
+## Digital catalogue access check
+
+WorldCat digital record **OCLC 1244511616** (eBook, 1945 [i.e. 1946]) is distinct from the print record OCLC 1191221. Its “Access free” link leads to the same Internet Archive item **bybliagrammatado0000duna**, whose public metadata reports `Access-restricted-item: true`. The 264 scan-page count is distinct from xix + 200 printed pages and from inscription counts. Checked 4 October 2026 at https://search.worldcat.org/oclc/1244511616 and https://archive.org/details/bybliagrammatado0000duna . This route supplies no collated edition pages or plates; lawful delivery remains the barrier.

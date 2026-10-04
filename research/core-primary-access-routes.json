@@ -4,21 +4,84 @@
   "routes": [
     {
       "edition": "Dunand 1945",
-      "core_labels": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"],
+      "core_labels": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j"
+      ],
       "citation": "Maurice Dunand, Byblia Grammata, Beirut 1945 [catalogued edition dated 1946]",
       "catalogues": [
-        {"institution": "Open Library / Internet Archive", "url": "https://openlibrary.org/books/OL6188790M/Byblia_grammata", "open_library_edition": "OL6188790M", "internet_archive_item": "bybliagrammatado0000duna", "lccn": "55042246", "oclc": "1191221", "pagination": "xix, 200 p.", "access_state": "borrow_required_access_restricted", "content_inspected": false},
-        {"institution": "Google Books", "url": "https://books.google.com/books?id=RnYtAAAAMAAJ", "google_books_id": "RnYtAAAAMAAJ", "publisher": "Imprimerie catholique", "publication_year": 1945, "length_pages": 200, "digitized": "2007-03-09", "access_state": "metadata_and_snippets_only", "content_inspected": false}
+        {
+          "institution": "Open Library / Internet Archive",
+          "url": "https://openlibrary.org/books/OL6188790M/Byblia_grammata",
+          "open_library_edition": "OL6188790M",
+          "internet_archive_item": "bybliagrammatado0000duna",
+          "lccn": "55042246",
+          "oclc": "1191221",
+          "pagination": "xix, 200 p.",
+          "access_state": "borrow_required_access_restricted",
+          "content_inspected": false,
+          "digital_catalogue_crosswalk": {
+            "institution": "OCLC WorldCat",
+            "url": "https://search.worldcat.org/oclc/1244511616",
+            "oclc_digital_record": "1244511616",
+            "catalogue_format": "eBook",
+            "catalogue_date_label": "1945 [i.e. 1946]",
+            "displayed_access_label": "Access free",
+            "link_target": "https://archive.org/details/bybliagrammatado0000duna",
+            "target_access_restricted_item": true,
+            "target_scan_pages": 264,
+            "print_pagination": "xix, 200 p.",
+            "inspection_scope": "Catalogue entry and linked Internet Archive public metadata only; no book pages inspected.",
+            "interpretation": "The digital record and print OCLC 1191221 are distinct catalogue identities. The free-access label does not establish unrestricted edition delivery. Scan pages are not printed pagination or monument counts."
+          }
+        },
+        {
+          "institution": "Google Books",
+          "url": "https://books.google.com/books?id=RnYtAAAAMAAJ",
+          "google_books_id": "RnYtAAAAMAAJ",
+          "publisher": "Imprimerie catholique",
+          "publication_year": 1945,
+          "length_pages": 200,
+          "digitized": "2007-03-09",
+          "access_state": "metadata_and_snippets_only",
+          "content_inspected": false
+        }
       ],
       "primary_pages_collated": 0,
       "verified_sequences": 0
     },
     {
       "edition": "Dunand 1978",
-      "core_labels": ["k", "l", "m", "n"],
+      "core_labels": [
+        "k",
+        "l",
+        "m",
+        "n"
+      ],
       "citation": "Maurice Dunand, Nouvelles inscriptions pseudo-hiéroglyphiques découvertes à Byblos, Bulletin du Musée de Beyrouth 30 (1978; appeared 1981), 51–59",
       "catalogues": [
-        {"institution": "Keilschriftbibliographie Online, Universität Tübingen", "url": "https://ocb.uni-tuebingen.de/Record/KEI00067546/Details", "record_id": "KEI00067546", "keibi_identifier": "43:205", "format": "Print Article", "pages": "51–59", "figures": 4, "plates": 2, "nominal_year": 1978, "appearance_year": 1981, "access_state": "bibliographic_record_only", "content_inspected": false}
+        {
+          "institution": "Keilschriftbibliographie Online, Universität Tübingen",
+          "url": "https://ocb.uni-tuebingen.de/Record/KEI00067546/Details",
+          "record_id": "KEI00067546",
+          "keibi_identifier": "43:205",
+          "format": "Print Article",
+          "pages": "51–59",
+          "figures": 4,
+          "plates": 2,
+          "nominal_year": 1978,
+          "appearance_year": 1981,
+          "access_state": "bibliographic_record_only",
+          "content_inspected": false
+        }
       ],
       "primary_pages_collated": 0,
       "verified_sequences": 0
