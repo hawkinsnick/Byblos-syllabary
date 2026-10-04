@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "55801c6b2660f422c006c64c612506eb072c9d98",
+  "source_commit": "8d542e99114b96d9dd70d864352d9d04b0417b61",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T09:01:30+00:00",
+  "generated_at_utc": "2026-10-04T10:08:13+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -16,8 +16,8 @@
     {
       "role": "source_reconciliation_guide",
       "path": "docs/SOURCE-RECONCILIATION.md",
-      "sha256": "fb5f64477523563508939a80825033a1e6f5cd96e8044542ca593bc6e600fb00",
-      "bytes": 5299
+      "sha256": "1899b480c0dda4d177c7099c001fd1cb80fae7effbfa8abbe6e4abda48d1b978",
+      "bytes": 5834
     },
     {
       "role": "core_edition_locators",
@@ -60,6 +60,12 @@
       "path": "research/core-primary-access-route-audit.json",
       "sha256": "bb00e56f3c4cb77d1fef8b6b9f8e39a253c89285daacd19927f2e19b569b38d3",
       "bytes": 1238
+    },
+    {
+      "role": "dunand_1978_bibliographic_conflict_audit",
+      "path": "research/dunand-1978-bibliographic-conflict-audit.json",
+      "sha256": "01a77d26fd00edab572eade84d5b4806f5f21f07461d41f0fda49000c5156624",
+      "bytes": 1197
     },
     {
       "role": "source_inspection",
