@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "79ed8729a4dce3adc1ca02e1ed7fb71e8f618999",
+  "source_commit": "8ae2288057373a135a3d74204575ba92afb55c1b",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T23:27:36+00:00",
+  "generated_at_utc": "2026-10-04T23:37:20+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -14,9 +14,27 @@
   },
   "artifacts": [
     {
+      "role": "primary_facsimile_number_index",
+      "path": "research/stele-a-facsimile-number-index.json",
+      "sha256": "e65598e16b5c9a2dbccdb2a5583154bef53d7f09528547904eea90f61c4c237e",
+      "bytes": 3916
+    },
+    {
+      "role": "primary_numeric_type_table",
+      "path": "research/stele-a-type-table.json",
+      "sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "bytes": 17255
+    },
+    {
+      "role": "primary_numeric_type_table_audit",
+      "path": "research/stele-a-type-table-audit.json",
+      "sha256": "24d27394b8ff0ae80f2e06258955349426df628e188ffc557bc2de53507f0fc6",
+      "bytes": 1368
+    },
+    {
       "role": "native_research_entities",
       "path": "data/research_entities.json",
-      "sha256": "772ff0660c26f1bd03f899cb5acd716a258fbe64f11fee3ceba41d6103dfed8f",
+      "sha256": "be181d196efb4c0fb27866bdaab4539be6a68ed6a56fa6c0b183109ede6700d7",
       "bytes": 5962
     },
     {
@@ -34,14 +52,14 @@
     {
       "role": "source_comparison_audit",
       "path": "research/source-comparison-audit.json",
-      "sha256": "4ce419cccd099fd0a6f84c85b0874bfaffbe33c6dbc67a5f4b8f828771c5e57f",
-      "bytes": 19511
+      "sha256": "99396fe22d46ad0bf975386795b37e765d4337e7d46eeb13dbd9d043b8e79107",
+      "bytes": 19512
     },
     {
       "role": "dunand_1930_acquisition",
       "path": "research/dunand-1930-acquisition.json",
-      "sha256": "0a4bee252aaa88e9314171004e9f6c4f50204a9541df2c94b275d0d992c4994d",
-      "bytes": 8976
+      "sha256": "8770e8ab2001b989e66d50ba4f5e47fa1de0af859d2b9722a494adb952e18731",
+      "bytes": 10238
     },
     {
       "role": "stele_a_count_comparison",
@@ -52,26 +70,26 @@
     {
       "role": "stele_a_numbered_assertions",
       "path": "research/stele-a-numbered-assertions.json",
-      "sha256": "220b4df325774627303a4b05fc8f1581653ea445f8bd9946eb10740ea3e4470c",
-      "bytes": 2433
+      "sha256": "8d66a098802aa26b715663ac4010c8b559ae527ac267a741d1fb33841a88a442",
+      "bytes": 2453
     },
     {
       "role": "stele_a_numbering_audit",
       "path": "research/stele-a-numbering-audit.json",
-      "sha256": "7d6a36e7cf4bc15d4cf83be7cad8b8d4f298a405ade8cc5c6708a8e8e0b91965",
+      "sha256": "f60744ebd85cf15b0faa56f4579a25b74434c874b070f2b219085c8403a38a31",
       "bytes": 1369
     },
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "02ecd9d7ec1c827ba0b4d17d997fa06be4366db0353bd61123aa3418ce4835d5",
-      "bytes": 2492
+      "sha256": "e03fa3bc41950b9b1a704e3e2742ffcb3a5384ef39a7de1b04d267ec8e2e4430",
+      "bytes": 3111
     },
     {
       "role": "source_reconciliation_guide",
       "path": "docs/SOURCE-RECONCILIATION.md",
-      "sha256": "cea5a10089aacbf754e138c73f9f89c70baa8380a68f672a3149c7b9cba7ec7a",
-      "bytes": 8757
+      "sha256": "9c87cf4df2da24699febe86c9d270dcaed13e1e74bce4d27cd939c18728b20cf",
+      "bytes": 10002
     },
     {
       "role": "core_edition_locators",
@@ -88,7 +106,7 @@
     {
       "role": "core_field_provenance_audit",
       "path": "research/core-field-provenance-audit.json",
-      "sha256": "405eadecb783308c227a5ceeacfc7644b4b69397b04026cbfde95be3f419a57a",
+      "sha256": "1394b6213f00ba93fc9d71ce64ab434eaab2c7d4c81905ee60aa95882f6f3acc",
       "bytes": 10012
     },
     {
@@ -118,7 +136,7 @@
     {
       "role": "dunand_1978_bibliographic_conflict_audit",
       "path": "research/dunand-1978-bibliographic-conflict-audit.json",
-      "sha256": "039ecd64dfd54dc8117df8e06dd13e5289cbdd12edc982de394128f0ac335c99",
+      "sha256": "ef53c685a978c6e946dd7861a5b00e3f9d261679e75b2e9db0e10be3f655ae33",
       "bytes": 1289
     },
     {
@@ -148,7 +166,7 @@
     {
       "role": "audit",
       "path": "exports/audit.json",
-      "sha256": "be46fc66d864260d99790a616d105ff95072e5236ddc21259842eda7d39ae6e7",
+      "sha256": "c4656164944b9317dc242885ca5c93c6675db2dcf414736eb2b7f47863b3430e",
       "bytes": 4668
     },
     {
@@ -160,8 +178,8 @@
     {
       "role": "sources",
       "path": "data/sources.json",
-      "sha256": "18349cbc64255c09c3daf6474cc9961748e5f4523089fd1c95ea6d0c152c561d",
-      "bytes": 40427
+      "sha256": "535a3439058bbb7430991ac50e6b837f33af7b29799b9e37af03ad4b08cbed5b",
+      "bytes": 40718
     },
     {
       "role": "rights",
@@ -184,8 +202,8 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "42cd279b11f7d7b7a23723551296e000f336b13147c6f9ce399d137eb5fce68a",
-      "bytes": 3883
+      "sha256": "501bacdec82b2c80eaff54e1638fbfad87df0426ab13ac75fe974e2fe8f3a6de",
+      "bytes": 4237
     }
   ]
 }
