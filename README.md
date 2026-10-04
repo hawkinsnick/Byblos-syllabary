@@ -1,6 +1,6 @@
 # Byblos syllabary research corpus
 
-Version: 1.3.0 — stable software workflow; provisional research catalogue.
+Version: 1.3.1 — stable software workflow; provisional research catalogue.
 
 An open research project working toward exhaustive, evidence-based coverage of the
 undeciphered Byblos script. Its language affiliation is unresolved. The name
@@ -19,6 +19,8 @@ For questions spanning multiple corpus projects, use the **Combined Corpus Resea
 - 14 reported core entries plus 25 named disputed candidates; membership remains attributed.
 - 51 registered sources/leads and 29 bibliography discovery entries; consultation depth recorded individually.
 - 0 verified sign sequences, 0 imported images, 0 independently reviewed records; 18 sourced surface descriptions.
+- Five edition-specific Dunand 1930 type groups record fourteen source-numbered positions; no shapes or sound values are certified.
+- All fourteen core labels have attributed count records; all 43 OCBI entries have a pinned metadata-only structure inspection. See [the current checkpoint](docs/SOURCE-RECONCILIATION.md).
 - Published corpus counts remain unresolved. This is not an exhaustive corpus.
 - Identifiers refer to inscription records, not necessarily distinct physical objects.
 

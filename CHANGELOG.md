@@ -1,3 +1,10 @@
+## 1.3.1 — 2026-10-04
+
+- Registered fourteen attributed core count records with explicit source units and approximation.
+- Inspected all 43 pinned OCBI entries structurally without redistributing readings; retained g/h/m/n discrepancies.
+- Added a Dunand 1930 primary numbering pilot: five edition-specific type groups, fourteen source positions and one numerically checked recurrence.
+- Added replayable acquisition, source comparison, numbering and current-status audits, regression checks and AI authorities. No verified full sequence, independent review or rights clearance is claimed.
+
 # Source reconciliation checkpoint — 2026-10-04
 
 - Added all fourteen survey-located core edition references and retained printed source anomalies.

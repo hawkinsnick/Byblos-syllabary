@@ -44,7 +44,7 @@
     "policy_version": 1,
     "ready": false
   },
-  "as_of": "2026-10-01",
+  "as_of": "2026-10-04",
   "assets": [
     {
       "delivery": "external_reference_only",
@@ -958,7 +958,7 @@
     "This packet is never automatically imported as evidence or approval."
   ],
   "purpose": "Review task inventory; pending responses are not approvals or corpus transcriptions.",
-  "reviewed_bundle_sha256": "1306f68e1cb58c62b519e1a58a56cfabc53e6d6a22375c3843bff1e335a4e6eb",
+  "reviewed_bundle_sha256": "8662175a0a2003ff90c449c9d01553421ee0f0d434b56de6b4490b9447d6c0b7",
   "scientific_1_0_ready": false,
   "sources": [
     {
@@ -1058,12 +1058,12 @@
       "url": "https://mnamon.sns.it/index.php?id=3&lang=en&page=Bibliografia"
     },
     {
-      "accessed": "2026-10-01",
+      "accessed": "2026-10-04",
       "citation": "J.-P. Vita and J.-Á. Zamora (2018), The Byblos Script. Paths into Script Formation in the Ancient Mediterranean, SMEA NS Supplemento 1, pp. 75–102.",
       "consultation": "selected_sections",
       "doi": null,
       "id": "vita-zamora-2018",
-      "notes": "Author-hosted text inspected, especially pp. 77–89; figures not independently collated.",
+      "notes": "Supplied PDF hash 69724761c8a633f1fcd7f409fe892eaccf52ba29f8bbc13f3f4235a51284bb1e. Printed pages 77–84 visually inspected for all fourteen core count/layout assertions; figures and full text not redistributed.",
       "rights": {
         "license": null,
         "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
@@ -1073,13 +1073,13 @@
       "url": "https://www.academia.edu/37706221/The_Byblos_Script"
     },
     {
-      "accessed": "2026-10-02",
+      "accessed": "2026-10-04",
       "citation": "M. Dunand (1930), Nouvelle inscription découverte à Byblos. Syria 11(1), pp. 1–10.",
       "consultation": "selected_pages",
       "doi": "10.3406/syria.1930.3456",
       "id": "dunand-1930",
-      "inspection": "pages_1_2_3",
-      "notes": "Pages 1–2 read online; PDF endpoint returned HTTP 403.",
+      "inspection": "selected_pages_2_3_4_5_8_9_and_plate_I",
+      "notes": "Public article and twelve page views acquired. Selected facsimile, printed sign table, counts and recurrence discussion visually inspected; no publisher images, OCR, glyph outlines or full sequence redistributed.",
       "rights": {
         "license": null,
         "scope": "Bounded factual object and surface metadata only; publisher scans and full sign sequence not redistributed.",
@@ -1208,12 +1208,12 @@
       "url": "https://github.com/elamicon/elamicon/blob/69b4cc2822493146045cb9969586bf5bd9195380/README.md"
     },
     {
-      "accessed": "2026-10-01",
+      "accessed": "2026-10-04",
       "citation": "Elamicon / GEAS, src/Scripts/Byblos.elm.",
-      "consultation": "metadata_only",
+      "consultation": "selected_sections",
       "doi": null,
       "id": "ocbi-source",
-      "notes": "Blob 3c3224f32596b493fd5bb634fff3b8000e591b14. Labels, plate links, directions and source grouping inspected. No sequences, font data or application code reused.",
+      "notes": "Pinned source blob inspected for all 43 entry labels and encoded row structure. Source code, readings, glyphs and font data remain outside the repository. README does not supply a settled corpus/code licence.",
       "rights": {
         "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
         "status": "not_assessed"
@@ -6710,5 +6710,5 @@
       "surface_inventory_status": "reported_inventory_requires_completeness_check"
     }
   ],
-  "version": "1.3.0"
+  "version": "1.3.1"
 }

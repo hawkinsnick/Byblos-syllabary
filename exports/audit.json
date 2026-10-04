@@ -163,7 +163,7 @@
     "external_entries": 43,
     "independent_approvals": 0,
     "reported_core": 14,
-    "signs_registered": 0,
+    "signs_registered": 5,
     "sources_and_leads": 51,
     "surfaces_described": 18,
     "transcriptions": 0,
@@ -183,8 +183,8 @@
     "surface_inventory": false
   },
   "interpretation": "Passing software checks validates recorded structure, not archaeological truth, licence validity or completeness.",
-  "review_evidence_sha256": "1306f68e1cb58c62b519e1a58a56cfabc53e6d6a22375c3843bff1e335a4e6eb",
+  "review_evidence_sha256": "8662175a0a2003ff90c449c9d01553421ee0f0d434b56de6b4490b9447d6c0b7",
   "scientific_1_0_ready": false,
   "structure_valid": true,
-  "version": "1.3.0"
+  "version": "1.3.1"
 }

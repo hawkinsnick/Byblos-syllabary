@@ -1,0 +1,59 @@
+{
+  "format": "byblos-source-count-comparison-v1",
+  "checked": "2026-10-04",
+  "record_id": "BYB-A",
+  "assertions": [
+    {
+      "id": "BYB-A-D1930-SURVIVING",
+      "source_id": "dunand-1930",
+      "locator": "p. 3",
+      "value": 119,
+      "unit": "surviving_signs_reported",
+      "direct_primary_page_inspected": true
+    },
+    {
+      "id": "BYB-A-D1930-LOST",
+      "source_id": "dunand-1930",
+      "locator": "p. 3",
+      "value": 3,
+      "unit": "certain_lost_positions_reported",
+      "direct_primary_page_inspected": true
+    },
+    {
+      "id": "BYB-A-D1930-TYPES",
+      "source_id": "dunand-1930",
+      "locator": "p. 4",
+      "value": 38,
+      "unit": "source_grouped_sign_types",
+      "direct_primary_page_inspected": true
+    },
+    {
+      "id": "BYB-A-VZ2018-VISIBLE",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 79",
+      "value": 123,
+      "unit": "visible_or_partly_visible_signs_reported",
+      "direct_primary_page_inspected": false
+    },
+    {
+      "id": "BYB-A-VZ2018-REPERTOIRE",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 79",
+      "components": [
+        34,
+        3
+      ],
+      "unit": "source_reported_repertoire_components",
+      "direct_primary_page_inspected": false
+    }
+  ],
+  "disposition": "UNRESOLVED_COUNTING_AND_CLASSIFICATION_CONVENTIONS",
+  "questions": [
+    "Which damaged, lost or partly visible positions account for the different reported totals?",
+    "How does the 1930 38-type grouping correspond to the survey 34 + 3 convention?"
+  ],
+  "not_a_resolution": "Do not equate 119 + 3 lost positions with 123 visible/partly visible signs, or 38 types with 34 + 3; no unseen occurrence is created.",
+  "source_lineage": "The 2018 survey cites Dunand 1930/1945; it is not an independent epigraphic confirmation.",
+  "verified_sequence": false,
+  "independent_review": false
+}

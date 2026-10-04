@@ -103,8 +103,8 @@
       "doi": null,
       "type": "scholarly_survey",
       "consultation": "selected_sections",
-      "accessed": "2026-10-01",
-      "notes": "Author-hosted text inspected, especially pp. 77–89; figures not independently collated.",
+      "accessed": "2026-10-04",
+      "notes": "Supplied PDF hash 69724761c8a633f1fcd7f409fe892eaccf52ba29f8bbc13f3f4235a51284bb1e. Printed pages 77–84 visually inspected for all fourteen core count/layout assertions; figures and full text not redistributed.",
       "rights": {
         "status": "not_assessed",
         "license": null,
@@ -118,14 +118,14 @@
       "doi": "10.3406/syria.1930.3456",
       "type": "primary_edition",
       "consultation": "selected_pages",
-      "accessed": "2026-10-02",
-      "notes": "Pages 1–2 read online; PDF endpoint returned HTTP 403.",
+      "accessed": "2026-10-04",
+      "notes": "Public article and twelve page views acquired. Selected facsimile, printed sign table, counts and recurrence discussion visually inspected; no publisher images, OCR, glyph outlines or full sequence redistributed.",
       "rights": {
         "status": "not_assessed",
         "license": null,
         "scope": "Bounded factual object and surface metadata only; publisher scans and full sign sequence not redistributed."
       },
-      "inspection": "pages_1_2_3"
+      "inspection": "selected_pages_2_3_4_5_8_9_and_plate_I"
     },
     {
       "id": "izreel-1988",
@@ -252,9 +252,9 @@
       "url": "https://github.com/elamicon/elamicon/blob/69b4cc2822493146045cb9969586bf5bd9195380/src/Scripts/Byblos.elm",
       "doi": null,
       "type": "digital_corpus",
-      "consultation": "metadata_only",
-      "accessed": "2026-10-01",
-      "notes": "Blob 3c3224f32596b493fd5bb634fff3b8000e591b14. Labels, plate links, directions and source grouping inspected. No sequences, font data or application code reused.",
+      "consultation": "selected_sections",
+      "accessed": "2026-10-04",
+      "notes": "Pinned source blob inspected for all 43 entry labels and encoded row structure. Source code, readings, glyphs and font data remain outside the repository. README does not supply a settled corpus/code licence.",
       "rights": {
         "status": "not_assessed",
         "scope": "Original attributed metadata only; source text, images and sign sequences are not republished."

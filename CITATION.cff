@@ -4,7 +4,7 @@ type: dataset
 title: "Byblos syllabary: evidence-first research catalogue and tools"
 authors:
   - name: "hawkinsnick"
-version: "1.3.0"
-date-released: "2026-10-01"
+version: "1.3.1"
+date-released: "2026-10-04"
 url: "https://github.com/hawkinsnick/Byblos-syllabary"
 repository-code: "https://github.com/hawkinsnick/Byblos-syllabary"

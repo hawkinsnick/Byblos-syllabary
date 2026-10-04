@@ -1,0 +1,573 @@
+{
+  "format": "byblos-source-comparison-audit-v1",
+  "input_hashes": {
+    "research/ocbi-structure-inspection.json": "ef87a87c7ffc67a4964ff864a8df74ceab61a79c0e1f79592eb0bdc38ad54e3a",
+    "data/external_crosswalk.json": "0bc52b58f405aa13f9120203c9cb936aa3f40d9148122c2e6b32c23cfefb9372",
+    "research/core-edition-locators.json": "657a7efe91447d2fa4592d87c2f3f1bfd6b1705807a095554e2b3f68004b5718",
+    "research/core-count-assertions.json": "726f301aa984f9b11084f04922ab6633879733ee050967c9516d9e0508beeee4",
+    "research/stele-a-count-comparison.json": "9aa4f58fa81a0e7d641b4c4c526a994118cafdd05c9a3382f6a8f9ba8a731db5",
+    "research/dunand-1930-acquisition.json": "0a4bee252aaa88e9314171004e9f6c4f50204a9541df2c94b275d0d992c4994d"
+  },
+  "provider_entries": 43,
+  "provider_groups": {
+    "BYBL": 29,
+    "BYBL?": 14
+  },
+  "provider_entries_mapped_to_core_labels": 15,
+  "distinct_core_labels_targeted": 14,
+  "core_count_assertion_records": 14,
+  "all_provider_entry_dispositions": [
+    {
+      "entry_id": "OCBI-ENTRY-01",
+      "proposed_project_record": "BYB-A",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-02",
+      "proposed_project_record": "BYB-B",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-03",
+      "proposed_project_record": "BYB-C",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-04",
+      "proposed_project_record": "BYB-D",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-05",
+      "proposed_project_record": "BYB-E",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-06",
+      "proposed_project_record": "BYB-F",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-07",
+      "proposed_project_record": "BYB-F",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-08",
+      "proposed_project_record": "BYB-G",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-09",
+      "proposed_project_record": "BYB-H",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-10",
+      "proposed_project_record": "BYB-I",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-11",
+      "proposed_project_record": "BYB-J",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-12",
+      "proposed_project_record": "BYB-K",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-13",
+      "proposed_project_record": "BYB-L",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-14",
+      "proposed_project_record": "BYB-M",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-15",
+      "proposed_project_record": "BYB-N",
+      "mapping_status": "label_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-16",
+      "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI3",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-17",
+      "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI3",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-18",
+      "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI3",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-19",
+      "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI4",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-20",
+      "proposed_project_record": "BYB-CAND-MEGIDDO-RING",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-21",
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-22",
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-23",
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-24",
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-25",
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-26",
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-27",
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-28",
+      "proposed_project_record": "BYB-CAND-CYLINDER-2004",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-29",
+      "proposed_project_record": "BYB-CAND-RIETI",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-30",
+      "proposed_project_record": "BYB-CAND-PALIMPSEST-KAI1",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-31",
+      "proposed_project_record": "BYB-CAND-LINEAR-STELA",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-32",
+      "proposed_project_record": "BYB-CAND-TEL-HALIF",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-33",
+      "proposed_project_record": "BYB-CAND-TELL-JISR",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-34",
+      "proposed_project_record": "BYB-CAND-ULUBURUN",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-35",
+      "proposed_project_record": "BYB-CAND-TRIESTE",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-36",
+      "proposed_project_record": "BYB-CAND-STONE-SEAL-2010",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-37",
+      "proposed_project_record": "BYB-CAND-BALUA",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-38",
+      "proposed_project_record": "BYB-CAND-BALUA",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-39",
+      "proposed_project_record": "BYB-CAND-UMM-O3A",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-40",
+      "proposed_project_record": "BYB-CAND-UMM-O3B",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-41",
+      "proposed_project_record": "BYB-CAND-UMM-O3C",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-42",
+      "proposed_project_record": "BYB-CAND-KAHUN",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    },
+    {
+      "entry_id": "OCBI-ENTRY-43",
+      "proposed_project_record": "BYB-CAND-DEIR-RIFA",
+      "mapping_status": "caption_match_only",
+      "identity_verified": false,
+      "sequence_redistribution": "UNRESOLVED",
+      "count_as_independent_object": false
+    }
+  ],
+  "core_layout_comparison": [
+    {
+      "record_id": "BYB-A",
+      "provider_entry_ids": [
+        "OCBI-ENTRY-01"
+      ],
+      "encoded_nonempty_rows": 10,
+      "survey_reported_layout_count": 10,
+      "survey_layout_unit": "lines",
+      "layout_comparison": "NUMERIC_LAYOUT_MATCH_ONLY",
+      "physical_identity_verified": false,
+      "sequence_verified": false,
+      "face_correspondence": "UNADJUDICATED"
+    },
+    {
+      "record_id": "BYB-B",
+      "provider_entry_ids": [
+        "OCBI-ENTRY-02"
+      ],
+      "encoded_nonempty_rows": 7,
+      "survey_reported_layout_count": 7,
+      "survey_layout_unit": "lines",
+      "layout_comparison": "NUMERIC_LAYOUT_MATCH_ONLY",
+      "physical_identity_verified": false,
+      "sequence_verified": false,
+      "face_correspondence": "UNADJUDICATED"
+    },
+    {
+      "record_id": "BYB-C",
+      "provider_entry_ids": [
+        "OCBI-ENTRY-03"
+      ],
+      "encoded_nonempty_rows": 15,
+      "survey_reported_layout_count": 15,
+      "survey_layout_unit": "lines",
+      "layout_comparison": "NUMERIC_LAYOUT_MATCH_ONLY",
+      "physical_identity_verified": false,
+      "sequence_verified": false,
+      "face_correspondence": "UNADJUDICATED"
+    },
+    {
+      "record_id": "BYB-D",
+      "provider_entry_ids": [
+        "OCBI-ENTRY-04"
+      ],
+      "encoded_nonempty_rows": 41,
+      "survey_reported_layout_count": 41,
+      "survey_layout_unit": "lines",
+      "layout_comparison": "NUMERIC_LAYOUT_MATCH_ONLY",
+      "physical_identity_verified": false,
+      "sequence_verified": false,
+      "face_correspondence": "UNADJUDICATED"
+    },
+    {
+      "record_id": "BYB-E",
+      "provider_entry_ids": [
+        "OCBI-ENTRY-05"
+      ],
+      "encoded_nonempty_rows": 3,
+      "survey_reported_layout_count": 3,
+      "survey_layout_unit": "lines",
+      "layout_comparison": "NUMERIC_LAYOUT_MATCH_ONLY",
+      "physical_identity_verified": false,
+      "sequence_verified": false,
+      "face_correspondence": "UNADJUDICATED"
+    },
+    {
+      "record_id": "BYB-F",
+      "provider_entry_ids": [
+        "OCBI-ENTRY-06",
+        "OCBI-ENTRY-07"
+      ],
+      "encoded_nonempty_rows": 7,
+      "survey_reported_layout_count": 7,
+      "survey_layout_unit": "lines",
+      "layout_comparison": "NUMERIC_LAYOUT_MATCH_ONLY",
+      "physical_identity_verified": false,
+      "sequence_verified": false,
+      "face_correspondence": "LABEL_LAYOUT_COMPATIBILITY_ONLY"
+    },
+    {
+      "record_id": "BYB-G",
+      "provider_entry_ids": [
+        "OCBI-ENTRY-08"
+      ],
+      "encoded_nonempty_rows": 5,
+      "survey_reported_layout_count": 6,
+      "survey_layout_unit": "columns",
+      "layout_comparison": "ROW_COLUMN_DIFFERENCE_UNRESOLVED",
+      "physical_identity_verified": false,
+      "sequence_verified": false,
+      "face_correspondence": "UNADJUDICATED",
+      "certainly_textual_columns_reported": 5,
+      "caution": "Five encoded rows numerically match five certainly textual columns; the sixth reported column is still unresolved."
+    },
+    {
+      "record_id": "BYB-H",
+      "provider_entry_ids": [
+        "OCBI-ENTRY-09"
+      ],
+      "encoded_nonempty_rows": 3,
+      "survey_reported_layout_count": 4,
+      "survey_layout_unit": "lines",
+      "layout_comparison": "ROW_LINE_DIFFERENCE_UNRESOLVED",
+      "physical_identity_verified": false,
+      "sequence_verified": false,
+      "face_correspondence": "UNADJUDICATED",
+      "certainly_textual_lines_reported": 3,
+      "caution": "Three encoded rows numerically match three certainly textual lines; retain the fourth reported line as a review target."
+    },
+    {
+      "record_id": "BYB-I",
+      "provider_entry_ids": [
+        "OCBI-ENTRY-10"
+      ],
+      "encoded_nonempty_rows": 9,
+      "survey_reported_layout_count": 9,
+      "survey_layout_unit": "lines",
+      "layout_comparison": "NUMERIC_LAYOUT_MATCH_ONLY",
+      "physical_identity_verified": false,
+      "sequence_verified": false,
+      "face_correspondence": "UNADJUDICATED"
+    },
+    {
+      "record_id": "BYB-J",
+      "provider_entry_ids": [
+        "OCBI-ENTRY-11"
+      ],
+      "encoded_nonempty_rows": 4,
+      "survey_reported_layout_count": 4,
+      "survey_layout_unit": "lines",
+      "layout_comparison": "NUMERIC_LAYOUT_MATCH_ONLY",
+      "physical_identity_verified": false,
+      "sequence_verified": false,
+      "face_correspondence": "UNADJUDICATED"
+    },
+    {
+      "record_id": "BYB-K",
+      "provider_entry_ids": [
+        "OCBI-ENTRY-12"
+      ],
+      "encoded_nonempty_rows": 5,
+      "survey_reported_layout_count": 5,
+      "survey_layout_unit": "lines",
+      "layout_comparison": "NUMERIC_LAYOUT_MATCH_ONLY",
+      "physical_identity_verified": false,
+      "sequence_verified": false,
+      "face_correspondence": "UNADJUDICATED"
+    },
+    {
+      "record_id": "BYB-L",
+      "provider_entry_ids": [
+        "OCBI-ENTRY-13"
+      ],
+      "encoded_nonempty_rows": 13,
+      "survey_reported_layout_count": 13,
+      "survey_layout_unit": "lines",
+      "layout_comparison": "NUMERIC_LAYOUT_MATCH_ONLY",
+      "physical_identity_verified": false,
+      "sequence_verified": false,
+      "face_correspondence": "UNADJUDICATED"
+    },
+    {
+      "record_id": "BYB-M",
+      "provider_entry_ids": [
+        "OCBI-ENTRY-14"
+      ],
+      "encoded_nonempty_rows": 3,
+      "survey_reported_layout_count": 3,
+      "survey_layout_unit": "lines",
+      "layout_comparison": "NUMERIC_LAYOUT_MATCH_ONLY",
+      "physical_identity_verified": false,
+      "sequence_verified": false,
+      "face_correspondence": "UNADJUDICATED",
+      "direction_comparison": {
+        "provider": "RTL",
+        "survey": "left_to_right",
+        "survey_qualification": "conditional_on_sign_orientation",
+        "status": "UNRESOLVED_OPPOSING_CLAIMS"
+      }
+    },
+    {
+      "record_id": "BYB-N",
+      "provider_entry_ids": [
+        "OCBI-ENTRY-15"
+      ],
+      "encoded_nonempty_rows": 5,
+      "survey_reported_layout_count": 5,
+      "survey_layout_unit": "lines",
+      "layout_comparison": "NUMERIC_LAYOUT_MATCH_ONLY",
+      "physical_identity_verified": false,
+      "sequence_verified": false,
+      "face_correspondence": "UNADJUDICATED",
+      "caution": "Both sources represent five rows, but the survey reports no noticeable signs in the first preserved line. Numeric row agreement does not validate its reading."
+    }
+  ],
+  "unresolved_core_layout_differences": [
+    "BYB-G",
+    "BYB-H"
+  ],
+  "unresolved_direction_conflicts": [
+    "BYB-M"
+  ],
+  "acquired_primary_page_views": 12,
+  "visually_inspected_primary_views_this_checkpoint": 7,
+  "verified_sequences_added": 0,
+  "independent_reviews_added": 0,
+  "boundary": "Metadata replay and source-conditional comparisons. Numeric agreement is neither sign-level collation nor physical-object certification; candidate variants, faces and native source directions are preserved. No glyph frequencies or corpus-wide sign total is inferred."
+}

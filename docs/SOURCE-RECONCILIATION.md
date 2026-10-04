@@ -49,3 +49,23 @@ Inspect lawful copies of Dunand's original editions and plates; the exact catalo
 ## Digital catalogue access check
 
 WorldCat digital record **OCLC 1244511616** (eBook, 1945 [i.e. 1946]) is distinct from the print record OCLC 1191221. Its “Access free” link leads to the same Internet Archive item **bybliagrammatado0000duna**, whose public metadata reports `Access-restricted-item: true`. The 264 scan-page count is distinct from xix + 200 printed pages and from inscription counts. Checked 4 October 2026 at https://search.worldcat.org/oclc/1244511616 and https://archive.org/details/bybliagrammatado0000duna . This route supplies no collated edition pages or plates; lawful delivery remains the barrier.
+
+## Primary numbering and source structure — 4 October 2026
+
+The openly accessible Dunand 1930 article supplies a bounded primary-source pilot for stele a. Twelve page views were acquired privately, including plate I and its verso; seven were visually inspected in this checkpoint. The registered selected sign groups I, II, IV, V and VI contain fourteen source-numbered position assertions. One repeated three-position span is numerically consistent with those groups. This does not establish independently verified glyph identities, a complete transcription, or a reading.
+
+The article reports 119 surviving signs, three certainly lost positions and 38 grouped types. Vita and Zamora report 123 visible or partly visible signs and a qualified type count of 34+3. These are retained as source-specific claims with unresolved counting conventions. The rest of the original sign table and numbering still require collation.
+
+All fourteen survey core entries now have typed count assertions, retaining approximate counts, numerals and dividers. A pinned OCBI source inspection covers all 43 provider entries using metadata only. Its 15 core entries map provisionally to 14 labels because f has separate faces. Provider row counts disagree with the survey's total layout for g and h; m has a direction conflict; n's numeric line agreement does not certify the first line's reading. These discrepancies are explicit review targets.
+
+No primary scans, provider readings, code or fonts are redistributed. Applicable OCBI corpus terms remain unresolved. The five native sign records are edition-specific type labels with source ordinals, no encoded shapes or sound values, and no independent certification. Verified full sequences remain zero.
+
+Replay the new checkpoint:
+
+```sh
+python scripts/audit_source_comparison.py --check
+python scripts/audit_numbered_assertions.py --check
+python scripts/build_current_status.py --check
+```
+
+`inspect_ocbi_structure.py --source-file PRIVATE_PATH --check` additionally reproduces the provider metadata from the exact upstream Git blob recorded in `research/ocbi-structure-inspection.json`. The private source is deliberately absent from the repository. Acquisition digests document consulted copies; they do not grant rights or establish independent review.

@@ -36,6 +36,27 @@
         "research/edition-locator-audit.json"
       ],
       "independent_review": false
+    },
+    {
+      "gate": "selected_primary_numbering_assertions",
+      "status": "PASS_SOURCE_SCOPED",
+      "source_groups": 5,
+      "source_numbered_positions": 14,
+      "full_sequence_verified": false,
+      "evidence": "research/stele-a-numbered-assertions.json"
+    },
+    {
+      "gate": "provider_structure_reconciliation",
+      "status": "PASS_SOURCE_SCOPED",
+      "provider_entries": 43,
+      "unresolved_layouts": [
+        "BYB-G",
+        "BYB-H"
+      ],
+      "unresolved_direction_conflicts": [
+        "BYB-M"
+      ],
+      "evidence": "research/source-comparison-audit.json"
     }
   ],
   "remaining_nonexpert_work": [
