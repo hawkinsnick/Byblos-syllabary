@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "b817b788d3f06759f6a0e4d3516cbeca65e633d7",
+  "source_commit": "cdbea65044b615ff52ce4cb80b812aaf235827ed",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T03:58:37+00:00",
+  "generated_at_utc": "2026-10-04T05:10:52+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -16,8 +16,8 @@
     {
       "role": "source_reconciliation_guide",
       "path": "docs/SOURCE-RECONCILIATION.md",
-      "sha256": "e1c5e461181b9ab1080177db7e33ca47dfb19f63d8dd1e74a2834d938d1207e2",
-      "bytes": 2763
+      "sha256": "0ca8f3b9aac3ed1a50aad7f62793e2ffe0e71eb7a9935686bc6c4e8e3ec507f4",
+      "bytes": 3305
     },
     {
       "role": "core_edition_locators",
@@ -30,6 +30,12 @@
       "path": "research/edition-locator-audit.json",
       "sha256": "5cd47c8f5e9dfc2237f19cb79119e3ea63f4f70840e0f8f8223a49d862a57755",
       "bytes": 1020
+    },
+    {
+      "role": "core_field_provenance_audit",
+      "path": "research/core-field-provenance-audit.json",
+      "sha256": "a49d286514eee2a1edc567a2671e4d128c7dd62cea07d20d3e5caf1028a50ae5",
+      "bytes": 10012
     },
     {
       "role": "source_inspection",
