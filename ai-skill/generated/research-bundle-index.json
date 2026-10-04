@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "7e4de4c09647136562b8bff6db3a7dbc717e080b",
+  "source_commit": "678f7269347e77eb8d2090f8fef5d57b180911a3",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T16:10:06+00:00",
+  "generated_at_utc": "2026-10-04T16:11:31+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -64,8 +64,8 @@
     {
       "role": "dunand_1978_bibliographic_conflict_audit",
       "path": "research/dunand-1978-bibliographic-conflict-audit.json",
-      "sha256": "01a77d26fd00edab572eade84d5b4806f5f21f07461d41f0fda49000c5156624",
-      "bytes": 1197
+      "sha256": "4ad9b1286d94397e0bbf75f1951aaa1d07605b25c033b3d68db45d6b09a7a412",
+      "bytes": 1289
     },
     {
       "role": "source_inspection",
