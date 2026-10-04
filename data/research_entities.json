@@ -1,8 +1,167 @@
 {
   "schema_version": "0.4.0",
   "objects": [],
-  "signs": [],
-  "editions": [],
+  "signs": [
+    {
+      "id": "BYB-A-D1930-I",
+      "edition_id": "BYB-A-D1930",
+      "edition_sign_label": "I",
+      "sound_value": null,
+      "source_numbered_positions": [
+        1
+      ],
+      "position_unit": "Dunand 1930 Arabic numbering; not physical coordinates or global corpus IDs.",
+      "scope": "Selected source grouping assertion, not an adjudicated cross-edition sign identity.",
+      "shape_encoded": false,
+      "independently_reviewed": false,
+      "evidence": [
+        {
+          "source_id": "dunand-1930",
+          "locator": "p. 5, sign table, row I; numbering convention p. 4",
+          "fields": [
+            "edition_sign_label",
+            "edition_id",
+            "source_numbered_positions",
+            "position_unit",
+            "scope"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BYB-A-D1930-II",
+      "edition_id": "BYB-A-D1930",
+      "edition_sign_label": "II",
+      "sound_value": null,
+      "source_numbered_positions": [
+        2,
+        24
+      ],
+      "position_unit": "Dunand 1930 Arabic numbering; not physical coordinates or global corpus IDs.",
+      "scope": "Selected source grouping assertion, not an adjudicated cross-edition sign identity.",
+      "shape_encoded": false,
+      "independently_reviewed": false,
+      "evidence": [
+        {
+          "source_id": "dunand-1930",
+          "locator": "p. 5, sign table, row II; numbering convention p. 4",
+          "fields": [
+            "edition_sign_label",
+            "edition_id",
+            "source_numbered_positions",
+            "position_unit",
+            "scope"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BYB-A-D1930-IV",
+      "edition_id": "BYB-A-D1930",
+      "edition_sign_label": "IV",
+      "sound_value": null,
+      "source_numbered_positions": [
+        4,
+        37,
+        61,
+        70,
+        110,
+        119
+      ],
+      "position_unit": "Dunand 1930 Arabic numbering; not physical coordinates or global corpus IDs.",
+      "scope": "Selected source grouping assertion, not an adjudicated cross-edition sign identity.",
+      "shape_encoded": false,
+      "independently_reviewed": false,
+      "evidence": [
+        {
+          "source_id": "dunand-1930",
+          "locator": "p. 5, sign table, row IV; numbering convention p. 4",
+          "fields": [
+            "edition_sign_label",
+            "edition_id",
+            "source_numbered_positions",
+            "position_unit",
+            "scope"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BYB-A-D1930-V",
+      "edition_id": "BYB-A-D1930",
+      "edition_sign_label": "V",
+      "sound_value": null,
+      "source_numbered_positions": [
+        5,
+        63,
+        120
+      ],
+      "position_unit": "Dunand 1930 Arabic numbering; not physical coordinates or global corpus IDs.",
+      "scope": "Selected source grouping assertion, not an adjudicated cross-edition sign identity.",
+      "shape_encoded": false,
+      "independently_reviewed": false,
+      "evidence": [
+        {
+          "source_id": "dunand-1930",
+          "locator": "p. 5, sign table, row V; numbering convention p. 4",
+          "fields": [
+            "edition_sign_label",
+            "edition_id",
+            "source_numbered_positions",
+            "position_unit",
+            "scope"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BYB-A-D1930-VI",
+      "edition_id": "BYB-A-D1930",
+      "edition_sign_label": "VI",
+      "sound_value": null,
+      "source_numbered_positions": [
+        6,
+        121
+      ],
+      "position_unit": "Dunand 1930 Arabic numbering; not physical coordinates or global corpus IDs.",
+      "scope": "Selected source grouping assertion, not an adjudicated cross-edition sign identity.",
+      "shape_encoded": false,
+      "independently_reviewed": false,
+      "evidence": [
+        {
+          "source_id": "dunand-1930",
+          "locator": "p. 5, sign table, row VI; numbering convention p. 4",
+          "fields": [
+            "edition_sign_label",
+            "edition_id",
+            "source_numbered_positions",
+            "position_unit",
+            "scope"
+          ]
+        }
+      ]
+    }
+  ],
+  "editions": [
+    {
+      "id": "BYB-A-D1930",
+      "source_id": "dunand-1930",
+      "inscription_id": "BYB-A",
+      "scope": "Selected numbering and grouping assertions from the 1930 edition, not a full transcription.",
+      "evidence": [
+        {
+          "source_id": "dunand-1930",
+          "locator": "pp. 3–5, 8–9; facsimile p. 2",
+          "fields": [
+            "source_id",
+            "inscription_id",
+            "scope"
+          ]
+        }
+      ],
+      "source_independence": "Same 1930 consolidated facsimile/printed discussion; multiple pages are not independent witnesses."
+    }
+  ],
   "transcriptions": [],
   "reviews": [],
   "assets": [

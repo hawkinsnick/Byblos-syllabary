@@ -81,6 +81,66 @@
       "role": "dunand_1978_bibliographic_conflict_audit",
       "path": "research/dunand-1978-bibliographic-conflict-audit.json",
       "required": true
+    },
+    {
+      "role": "native_research_entities",
+      "path": "data/research_entities.json",
+      "required": true
+    },
+    {
+      "role": "core_count_assertions",
+      "path": "research/core-count-assertions.json",
+      "required": true
+    },
+    {
+      "role": "ocbi_structure_inspection",
+      "path": "research/ocbi-structure-inspection.json",
+      "required": true
+    },
+    {
+      "role": "source_comparison_audit",
+      "path": "research/source-comparison-audit.json",
+      "required": true
+    },
+    {
+      "role": "dunand_1930_acquisition",
+      "path": "research/dunand-1930-acquisition.json",
+      "required": true
+    },
+    {
+      "role": "stele_a_count_comparison",
+      "path": "research/stele-a-count-comparison.json",
+      "required": true
+    },
+    {
+      "role": "stele_a_numbered_assertions",
+      "path": "research/stele-a-numbered-assertions.json",
+      "required": true
+    },
+    {
+      "role": "stele_a_numbering_audit",
+      "path": "research/stele-a-numbering-audit.json",
+      "required": true
+    },
+    {
+      "role": "current_status",
+      "path": "analysis/current-status.json",
+      "required": true
+    },
+    {
+      "role": "primary_numeric_type_table",
+      "path": "research/stele-a-type-table.json",
+      "required": true
+    },
+    {
+      "role": "primary_numeric_type_table_audit",
+      "path": "research/stele-a-type-table-audit.json",
+      "required": true
+    },
+    {
+      "role": "primary_facsimile_number_index",
+      "path": "research/stele-a-facsimile-number-index.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -95,6 +155,10 @@
     "Primary edition locators reported by the survey do not establish direct primary collation. Keep j entry page-range/caption anomalies unresolved.",
     "Publication labels, surfaces, lines, columns, physical monuments and verified sequences remain incompatible denominators.",
     "Catalogue identifiers and access routes are discovery metadata; borrow restrictions, snippets and bibliographic records do not establish primary-page inspection, verified sequences, or physical-object identity.",
-    "Dunand 1978 pagination remains Mnamon 52–58 versus KeiBi 51–59; the union is an acquisition target, not a resolved citation or content claim."
+    "Dunand 1978 pagination remains Mnamon 52–58 versus KeiBi 51–59; the union is an acquisition target, not a resolved citation or content claim.",
+    "Five Dunand 1930 edition-specific type groups and fourteen source-numbered positions form a selected primary pilot, not a verified full sequence or certified native glyph inventory.",
+    "Provider serialization rows are not ancient lines or columns; g/h layout, m direction and n first-line reading remain unresolved.",
+    "Dunand 1930 and the survey use unreconciled count conventions for stele a; source type components must not be pooled into a global sign inventory.",
+    "The 38-row numeric source table contains a printed position-32 collision and eight unassigned ordinals. Preserve them as table discrepancies, not certified ancient loss or a reconstructed complete reading."
   ]
 }

@@ -1,0 +1,735 @@
+{
+  "format": "byblos-primary-numeric-type-table-v1",
+  "checked": "2026-10-04",
+  "record_id": "BYB-A",
+  "edition_id": "BYB-A-D1930",
+  "source_id": "dunand-1930",
+  "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+  "consulted_figure_url": "https://www.persee.fr/renderIllustration/syria_0039-7946_1930_num_11_1_T1_0005_0000_1.png",
+  "consulted_figure_sha256": "5a2c816c6ce062f56f90648e46f25a97cbd92c76423b0ab0d4bc8497fb9dfb85",
+  "consulted_figure_bytes": 70833,
+  "figure_redistributed": false,
+  "rows": [
+    {
+      "edition_sign_label": "I",
+      "drawn_variant_position_groups": [
+        [
+          1
+        ]
+      ],
+      "source_numbered_positions": [
+        1
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "II",
+      "drawn_variant_position_groups": [
+        [
+          2
+        ],
+        [
+          24
+        ]
+      ],
+      "source_numbered_positions": [
+        2,
+        24
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "III",
+      "drawn_variant_position_groups": [
+        [
+          3,
+          25,
+          35,
+          82
+        ],
+        [
+          74
+        ]
+      ],
+      "source_numbered_positions": [
+        3,
+        25,
+        35,
+        82,
+        74
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "IV",
+      "drawn_variant_position_groups": [
+        [
+          4,
+          37,
+          61,
+          70,
+          110,
+          119
+        ]
+      ],
+      "source_numbered_positions": [
+        4,
+        37,
+        61,
+        70,
+        110,
+        119
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "V",
+      "drawn_variant_position_groups": [
+        [
+          5,
+          63,
+          120
+        ]
+      ],
+      "source_numbered_positions": [
+        5,
+        63,
+        120
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "VI",
+      "drawn_variant_position_groups": [
+        [
+          6,
+          121
+        ]
+      ],
+      "source_numbered_positions": [
+        6,
+        121
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "VII",
+      "drawn_variant_position_groups": [
+        [
+          8
+        ]
+      ],
+      "source_numbered_positions": [
+        8
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "VIII",
+      "drawn_variant_position_groups": [
+        [
+          9,
+          32
+        ],
+        [
+          15
+        ]
+      ],
+      "source_numbered_positions": [
+        9,
+        32,
+        15
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "IX",
+      "drawn_variant_position_groups": [
+        [
+          10
+        ],
+        [
+          33
+        ],
+        [
+          85
+        ]
+      ],
+      "source_numbered_positions": [
+        10,
+        33,
+        85
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "X",
+      "drawn_variant_position_groups": [
+        [
+          11
+        ],
+        [
+          36
+        ]
+      ],
+      "source_numbered_positions": [
+        11,
+        36
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XI",
+      "drawn_variant_position_groups": [
+        [
+          12,
+          16,
+          21,
+          38,
+          58,
+          71,
+          99,
+          112
+        ]
+      ],
+      "source_numbered_positions": [
+        12,
+        16,
+        21,
+        38,
+        58,
+        71,
+        99,
+        112
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XII",
+      "drawn_variant_position_groups": [
+        [
+          13
+        ]
+      ],
+      "source_numbered_positions": [
+        13
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XIII",
+      "drawn_variant_position_groups": [
+        [
+          17
+        ],
+        [
+          54
+        ],
+        [
+          80,
+          114
+        ]
+      ],
+      "source_numbered_positions": [
+        17,
+        54,
+        80,
+        114
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XIV",
+      "drawn_variant_position_groups": [
+        [
+          18,
+          81,
+          115
+        ]
+      ],
+      "source_numbered_positions": [
+        18,
+        81,
+        115
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XV",
+      "drawn_variant_position_groups": [
+        [
+          19,
+          83,
+          116
+        ],
+        [
+          75
+        ]
+      ],
+      "source_numbered_positions": [
+        19,
+        83,
+        116,
+        75
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XVI",
+      "drawn_variant_position_groups": [
+        [
+          20,
+          57
+        ],
+        [
+          98
+        ],
+        [
+          111
+        ]
+      ],
+      "source_numbered_positions": [
+        20,
+        57,
+        98,
+        111
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XVII",
+      "drawn_variant_position_groups": [
+        [
+          22,
+          73
+        ]
+      ],
+      "source_numbered_positions": [
+        22,
+        73
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XVIII",
+      "drawn_variant_position_groups": [
+        [
+          23,
+          91,
+          102
+        ],
+        [
+          50,
+          76
+        ]
+      ],
+      "source_numbered_positions": [
+        23,
+        91,
+        102,
+        50,
+        76
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XIX",
+      "drawn_variant_position_groups": [
+        [
+          26,
+          32,
+          39,
+          52,
+          67,
+          93,
+          107
+        ]
+      ],
+      "source_numbered_positions": [
+        26,
+        32,
+        39,
+        52,
+        67,
+        93,
+        107
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": [
+        32
+      ]
+    },
+    {
+      "edition_sign_label": "XX",
+      "drawn_variant_position_groups": [
+        [
+          28,
+          45,
+          46,
+          55,
+          96
+        ]
+      ],
+      "source_numbered_positions": [
+        28,
+        45,
+        46,
+        55,
+        96
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXI",
+      "drawn_variant_position_groups": [
+        [
+          29,
+          104
+        ]
+      ],
+      "source_numbered_positions": [
+        29,
+        104
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXII",
+      "drawn_variant_position_groups": [
+        [
+          30
+        ],
+        [
+          65,
+          105
+        ]
+      ],
+      "source_numbered_positions": [
+        30,
+        65,
+        105
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXIII",
+      "drawn_variant_position_groups": [
+        [
+          31,
+          47,
+          66,
+          79,
+          87,
+          106,
+          117
+        ]
+      ],
+      "source_numbered_positions": [
+        31,
+        47,
+        66,
+        79,
+        87,
+        106,
+        117
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXIV",
+      "drawn_variant_position_groups": [
+        [
+          43
+        ]
+      ],
+      "source_numbered_positions": [
+        43
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXV",
+      "drawn_variant_position_groups": [
+        [
+          48,
+          59,
+          89,
+          100,
+          113
+        ]
+      ],
+      "source_numbered_positions": [
+        48,
+        59,
+        89,
+        100,
+        113
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": [
+        113
+      ]
+    },
+    {
+      "edition_sign_label": "XXVI",
+      "drawn_variant_position_groups": [
+        [
+          44,
+          49,
+          60,
+          90
+        ],
+        [
+          101
+        ]
+      ],
+      "source_numbered_positions": [
+        44,
+        49,
+        60,
+        90,
+        101
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": [
+        44
+      ]
+    },
+    {
+      "edition_sign_label": "XXVII",
+      "drawn_variant_position_groups": [
+        [
+          53,
+          94,
+          122
+        ]
+      ],
+      "source_numbered_positions": [
+        53,
+        94,
+        122
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXVIII",
+      "drawn_variant_position_groups": [
+        [
+          56,
+          97
+        ],
+        [
+          51
+        ],
+        [
+          88
+        ]
+      ],
+      "source_numbered_positions": [
+        56,
+        97,
+        51,
+        88
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXIX",
+      "drawn_variant_position_groups": [
+        [
+          62
+        ]
+      ],
+      "source_numbered_positions": [
+        62
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXX",
+      "drawn_variant_position_groups": [
+        [
+          64
+        ]
+      ],
+      "source_numbered_positions": [
+        64
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXXI",
+      "drawn_variant_position_groups": [
+        [
+          68,
+          108
+        ]
+      ],
+      "source_numbered_positions": [
+        68,
+        108
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXXII",
+      "drawn_variant_position_groups": [
+        [
+          72
+        ]
+      ],
+      "source_numbered_positions": [
+        72
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXXIII",
+      "drawn_variant_position_groups": [
+        [
+          77
+        ],
+        [
+          86
+        ]
+      ],
+      "source_numbered_positions": [
+        77,
+        86
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXXIV",
+      "drawn_variant_position_groups": [
+        [
+          78
+        ]
+      ],
+      "source_numbered_positions": [
+        78
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXXV",
+      "drawn_variant_position_groups": [
+        [
+          118,
+          123,
+          7
+        ]
+      ],
+      "source_numbered_positions": [
+        118,
+        123,
+        7
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": [
+        7
+      ]
+    },
+    {
+      "edition_sign_label": "XXXVI",
+      "drawn_variant_position_groups": [
+        [
+          69,
+          109
+        ]
+      ],
+      "source_numbered_positions": [
+        69,
+        109
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXXVII",
+      "drawn_variant_position_groups": [
+        [
+          84
+        ]
+      ],
+      "source_numbered_positions": [
+        84
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    },
+    {
+      "edition_sign_label": "XXXVIII",
+      "drawn_variant_position_groups": [
+        [
+          103
+        ]
+      ],
+      "source_numbered_positions": [
+        103
+      ],
+      "variant_group_meaning": "Separate drawn forms within the printed row; no normalized shape encoded.",
+      "source_parenthetical_marker_positions": []
+    }
+  ],
+  "printed_marker_policy": "Four parenthetical marks are preserved by position only. Their glyph identity, meaning and confidence are unresolved; no question mark or footnote number is silently normalized.",
+  "scope": "Numeric group memberships and printed variant buckets only, from the advertised higher-resolution figure. No glyph outlines, phonetics, normalized sign identities or continuous transcription.",
+  "printed_conflicts": [
+    {
+      "source_numbered_position": 32,
+      "type_labels": [
+        "VIII",
+        "XIX"
+      ],
+      "disposition": "RETAIN_BOTH_PRINTED_ASSERTIONS_PENDING_NUMBERED_FACSIMILE_COLLATION"
+    }
+  ],
+  "corrections_to_initial_pilot": [
+    {
+      "edition_sign_label": "IV",
+      "initial_project_values": [
+        67,
+        104
+      ],
+      "corrected_source_values": [
+        61,
+        110
+      ],
+      "basis": "Advertised original table figure inspected before merge; initial 710-pixel page misread."
+    }
+  ],
+  "verified_full_sequence": false,
+  "glyph_collation_completed": false,
+  "independent_review": false
+}

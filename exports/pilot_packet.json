@@ -1,5 +1,5 @@
 {
-  "evidence_sha256": "1306f68e1cb58c62b519e1a58a56cfabc53e6d6a22375c3843bff1e335a4e6eb",
+  "evidence_sha256": "f32f82cc85b14057caa4c61d56a0855fe323c2a0203fa5d61d2791fb7ba3e433",
   "field_ledger": {
     "claims": [
       {
@@ -194,13 +194,13 @@
       "url": null
     },
     {
-      "accessed": "2026-10-02",
+      "accessed": "2026-10-04",
       "citation": "M. Dunand (1930), Nouvelle inscription découverte à Byblos. Syria 11(1), pp. 1–10.",
       "consultation": "selected_pages",
       "doi": "10.3406/syria.1930.3456",
       "id": "dunand-1930",
-      "inspection": "pages_1_2_3",
-      "notes": "Pages 1–2 read online; PDF endpoint returned HTTP 403.",
+      "inspection": "All twelve page views visually inspected; all 38 table rows numerically registered from advertised original figure; selected native pilot checked against that table. No complete glyph collation.",
+      "notes": "Public article, twelve page views and original sign-table figure acquired privately. Numeric assertions and variant buckets inspected; printed collision 32 and eight table gaps retained. The 1930 interpretive parallels remain historical proposals, not admitted sound values. No publisher images, OCR, glyph outlines or full sequence redistributed.",
       "rights": {
         "license": null,
         "scope": "Bounded factual object and surface metadata only; publisher scans and full sign sequence not redistributed.",
@@ -480,5 +480,5 @@
     },
     "surface_inventory_status": "reported_inventory_requires_completeness_check"
   },
-  "version": "1.3.0"
+  "version": "1.3.1"
 }

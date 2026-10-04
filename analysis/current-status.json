@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "project": "Byblos-syllabary",
+  "repository_version": "1.3.1",
+  "checked": "2026-10-04",
+  "milestone": "SOURCE_SCOPED_PRIMARY_NUMBERING_AND_PROVIDER_RECONCILIATION",
+  "native_evidence_counts": {
+    "catalogue_records": 39,
+    "reported_core": 14,
+    "disputed_candidates": 25,
+    "sources_and_leads": 51,
+    "surfaces_described": 18,
+    "signs_registered": 5,
+    "transcriptions": 0,
+    "verified_core_sequences": 0,
+    "independent_approvals": 0,
+    "external_entries": 43
+  },
+  "source_scoped_evidence": {
+    "survey_core_count_records": 14,
+    "provider_entries_structurally_inspected": 43,
+    "acquired_primary_page_views": 12,
+    "visually_inspected_primary_views_this_checkpoint": 12,
+    "selected_primary_type_groups": 5,
+    "selected_source_numbered_positions": 14,
+    "complete_printed_type_rows_numerically_registered": 38,
+    "printed_numeric_membership_assertions": 116,
+    "distinct_source_ordinals_in_table": 115,
+    "facsimile_numbered_line_spans": 10,
+    "facsimile_source_ordinals": 123,
+    "source_recurrence_assertions_numerically_checked": 1
+  },
+  "scientific_results": {
+    "scientific_1_0_ready": false,
+    "complete_verified_sequences": 0,
+    "sequence_frequency_allowed": false,
+    "independent_epigraphic_review_completed": false,
+    "source_numbering_consistency": "PASS_SELECTED_ASSERTIONS_ONLY"
+  },
+  "unresolved_source_conflicts": {
+    "layout": [
+      "BYB-G",
+      "BYB-H"
+    ],
+    "direction": [
+      "BYB-M"
+    ],
+    "count_conventions": [
+      "BYB-A"
+    ],
+    "first_line_reading": [
+      "BYB-N"
+    ],
+    "printed_type_membership": [
+      {
+        "source_numbered_position": 32,
+        "type_labels": [
+          "VIII",
+          "XIX"
+        ]
+      }
+    ],
+    "ordinals_unassigned_in_table": [
+      14,
+      27,
+      34,
+      40,
+      41,
+      42,
+      92,
+      95
+    ]
+  },
+  "source_redistribution": {
+    "scans": false,
+    "OCBI_readings": false,
+    "OCBI_code_or_fonts": false,
+    "selected_primary_numeric_metadata": "Original attributed factual assertions only"
+  },
+  "next_work": [
+    "Collate stele a numbered facsimile against the 38-row numeric table, including duplicate 32, unassigned ordinals and printed qualifiers.",
+    "Acquire lawful Dunand 1945 and 1978 edition/plate access for complete source sequences.",
+    "Resolve provider face/variant/object identities and g/h/m/n source discrepancies.",
+    "Obtain applicable upstream terms before distributing provider readings or images."
+  ],
+  "evidence": [
+    "research/core-count-assertions.json",
+    "research/source-comparison-audit.json",
+    "research/stele-a-numbering-audit.json",
+    "research/stele-a-count-comparison.json",
+    "research/dunand-1930-acquisition.json",
+    "research/stele-a-type-table-audit.json"
+  ],
+  "boundary": "Five edition-specific type labels and fourteen numbered-position assertions are a selected primary-source pilot, not five certified native sign identities or a verified full sequence. Source counts, provider rows and ancient occurrences remain distinct."
+}

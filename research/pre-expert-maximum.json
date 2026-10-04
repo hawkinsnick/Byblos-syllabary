@@ -36,6 +36,27 @@
         "research/edition-locator-audit.json"
       ],
       "independent_review": false
+    },
+    {
+      "gate": "selected_primary_numbering_assertions",
+      "status": "PASS_SOURCE_SCOPED",
+      "source_groups": 5,
+      "source_numbered_positions": 14,
+      "full_sequence_verified": false,
+      "evidence": "research/stele-a-numbered-assertions.json"
+    },
+    {
+      "gate": "provider_structure_reconciliation",
+      "status": "PASS_SOURCE_SCOPED",
+      "provider_entries": 43,
+      "unresolved_layouts": [
+        "BYB-G",
+        "BYB-H"
+      ],
+      "unresolved_direction_conflicts": [
+        "BYB-M"
+      ],
+      "evidence": "research/source-comparison-audit.json"
     }
   ],
   "remaining_nonexpert_work": [
@@ -87,5 +108,14 @@
       "decision": "evaluate linguistic or decipherment claims"
     }
   ],
-  "completion_rule": "Pre-Expert Maximum requires every acquisition gap and bibliography lead to receive a completed, rights-blocked, access-blocked, or human-only disposition; no unseen signs, sequences or object identities may be synthesized."
+  "completion_rule": "Pre-Expert Maximum requires every acquisition gap and bibliography lead to receive a completed, rights-blocked, access-blocked, or human-only disposition; no unseen signs, sequences or object identities may be synthesized.",
+  "primary_numeric_table_checkpoint": {
+    "rows": 38,
+    "numeric_memberships": 116,
+    "distinct_source_ordinals": 115,
+    "facsimile_line_spans": 10,
+    "facsimile_source_ordinals": 123,
+    "source_conflict": "Printed duplicate 32; table gaps 14,27,34,40,41,42,92,95; no glyph/damage adjudication.",
+    "terminal_readiness_granted": false
+  }
 }

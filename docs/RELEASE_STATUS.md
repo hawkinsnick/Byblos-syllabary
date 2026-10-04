@@ -1,6 +1,6 @@
 # Scientific 1.0 assessment
 
-Current software snapshot: 1.3.0. Scientific 1.0 is **not released**.
+Current software snapshot: 1.3.1. Scientific 1.0 is **not released**.
 
 Software 1.0 stabilizes the dependency-free local workflow and current output
 formats. It does not promote catalogue assertions to verified archaeological facts.

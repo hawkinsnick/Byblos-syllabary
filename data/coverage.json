@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "as_of": "2026-10-01",
+  "version": "1.3.1",
+  "as_of": "2026-10-04",
   "scope": "Initial source inventory; no exhaustive coverage claim.",
   "count_claims": [
     {
@@ -90,6 +90,126 @@
       "count": 3,
       "unit": "lost_sign_positions_reported_on_first_stele",
       "derivation": "Dunand reports certain missing positions; no lost sign identities supplied or inferred."
+    },
+    {
+      "id": "COUNT-BYB-A-VZ2018",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 79, Stela a",
+      "count": 123,
+      "unit": "visible_or_partly_visible_signs_reported_for_BYB-A",
+      "derivation": "Reported source value. Not a project occurrence count or verified sequence."
+    },
+    {
+      "id": "COUNT-BYB-B-VZ2018",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 83, Spatula b",
+      "count": 43,
+      "unit": "visible_or_partly_visible_signs_reported_for_BYB-B",
+      "derivation": "Reported source value. Includes 39 signs and 4 dividers."
+    },
+    {
+      "id": "COUNT-BYB-C-VZ2018",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 77, Tablet c",
+      "count": 225,
+      "unit": "visible_or_partly_visible_signs_reported_for_BYB-C",
+      "derivation": "Reported source value. Not a project occurrence count or verified sequence."
+    },
+    {
+      "id": "COUNT-BYB-D-VZ2018",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 78, Tablet d",
+      "count": 457,
+      "unit": "visible_or_partly_visible_signs_reported_for_BYB-D",
+      "derivation": "Approximate source value. Additional 3 numerals are outside this 457 value; not silently added."
+    },
+    {
+      "id": "COUNT-BYB-E-VZ2018",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 83, Spatula e",
+      "count": 17,
+      "unit": "visible_or_partly_visible_signs_reported_for_BYB-E",
+      "derivation": "Reported source value. Includes 12 signs and 5 numbers."
+    },
+    {
+      "id": "COUNT-BYB-F-VZ2018",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 83, Spatula f",
+      "count": 50,
+      "unit": "visible_or_partly_visible_signs_reported_for_BYB-F",
+      "derivation": "Approximate source value. Approximate 47 signs plus 3 numbers."
+    },
+    {
+      "id": "COUNT-BYB-G-VZ2018",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 79, Stela g",
+      "count": 40,
+      "unit": "visible_or_partly_visible_signs_reported_for_BYB-G",
+      "derivation": "Reported source value. Not a project occurrence count or verified sequence."
+    },
+    {
+      "id": "COUNT-BYB-H-VZ2018",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 80, Stela h",
+      "count": 7,
+      "unit": "visible_or_partly_visible_signs_reported_for_BYB-H",
+      "derivation": "Reported source value. Not a project occurrence count or verified sequence."
+    },
+    {
+      "id": "COUNT-BYB-I-VZ2018",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 84, Spatula i",
+      "count": 96,
+      "unit": "visible_or_partly_visible_signs_reported_for_BYB-I",
+      "derivation": "Approximate source value. Not a project occurrence count or verified sequence."
+    },
+    {
+      "id": "COUNT-BYB-J-VZ2018",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 80, Stela j",
+      "count": 16,
+      "unit": "visible_or_partly_visible_signs_reported_for_BYB-J",
+      "derivation": "Approximate source value. Not a project occurrence count or verified sequence."
+    },
+    {
+      "id": "COUNT-BYB-K-VZ2018",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 80, Stela k",
+      "count": 30,
+      "unit": "visible_or_partly_visible_signs_reported_for_BYB-K",
+      "derivation": "Reported source value. Not a project occurrence count or verified sequence."
+    },
+    {
+      "id": "COUNT-BYB-L-VZ2018",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 81, Stela l",
+      "count": 74,
+      "unit": "visible_or_partly_visible_signs_reported_for_BYB-L",
+      "derivation": "Approximate source value. Not a project occurrence count or verified sequence."
+    },
+    {
+      "id": "COUNT-BYB-M-VZ2018",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 81, Stela m",
+      "count": 14,
+      "unit": "visible_or_partly_visible_signs_reported_for_BYB-M",
+      "derivation": "Reported source value. Not a project occurrence count or verified sequence."
+    },
+    {
+      "id": "COUNT-BYB-N-VZ2018",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 82, Stela n",
+      "count": 19,
+      "unit": "visible_or_partly_visible_signs_reported_for_BYB-N",
+      "derivation": "Approximate source value. Not a project occurrence count or verified sequence."
+    },
+    {
+      "id": "COUNT-A-D1930-TYPES",
+      "source_id": "dunand-1930",
+      "locator": "p. 4, first complete paragraph",
+      "count": 38,
+      "unit": "source_grouped_types_in_Dunand_1930_stele_a",
+      "derivation": "Published classification count, not an instantiated global sign inventory; selected five rows separately recorded."
     }
   ],
   "gaps": [

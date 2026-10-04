@@ -1,0 +1,526 @@
+{
+  "format": "byblos-core-count-assertions-v1",
+  "checked": "2026-10-04",
+  "source_id": "vita-zamora-2018",
+  "source_sha256": "69724761c8a633f1fcd7f409fe892eaccf52ba29f8bbc13f3f4235a51284bb1e",
+  "inspection": "Survey PDF pages 6-13 / printed 77-84 visually checked; facts and original structured summaries only.",
+  "entries": [
+    {
+      "record_id": "BYB-A",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 79, Stela a",
+      "source_pdf_page": 8,
+      "reported_visible_or_partly_visible_count": {
+        "value": 123,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "reported_repertoire": {
+        "components": [
+          34,
+          3
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "layout": {
+        "reported_lines": 10,
+        "reported_face_lines": null
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "reported"
+      },
+      "verified_sign_sequence": false,
+      "independent_review": false
+    },
+    {
+      "record_id": "BYB-B",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 83, Spatula b",
+      "source_pdf_page": 12,
+      "reported_visible_or_partly_visible_count": {
+        "value": 43,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [
+          {
+            "source_category": "signs",
+            "value": 39
+          },
+          {
+            "source_category": "dividers",
+            "value": 4
+          }
+        ],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": true
+      },
+      "reported_repertoire": {
+        "components": [
+          23,
+          4
+        ],
+        "approximate": false,
+        "component_semantics": "dividers_explicit_for_second_component",
+        "not_project_sign_inventory": true
+      },
+      "layout": {
+        "reported_lines": 7,
+        "reported_face_lines": {
+          "A": 4,
+          "B": 3
+        }
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "reported"
+      },
+      "verified_sign_sequence": false,
+      "independent_review": false
+    },
+    {
+      "record_id": "BYB-C",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 77, Tablet c",
+      "source_pdf_page": 6,
+      "reported_visible_or_partly_visible_count": {
+        "value": 225,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "reported_repertoire": {
+        "components": [
+          46,
+          3
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "layout": {
+        "reported_lines": 15,
+        "reported_face_lines": {
+          "A": 13,
+          "B": 2
+        }
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "reported"
+      },
+      "verified_sign_sequence": false,
+      "independent_review": false
+    },
+    {
+      "record_id": "BYB-D",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 78, Tablet d",
+      "source_pdf_page": 7,
+      "reported_visible_or_partly_visible_count": {
+        "value": 457,
+        "approximate": true,
+        "unit": "source_reported_signs",
+        "components": [
+          {
+            "source_category": "numerals_additional",
+            "value": 3
+          }
+        ],
+        "numerals_included_in_value": false,
+        "dividers_included_in_value": null
+      },
+      "reported_repertoire": {
+        "components": [
+          65,
+          3
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "layout": {
+        "reported_lines": 41,
+        "reported_face_lines": {
+          "A": 22,
+          "B": 19
+        }
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "reported"
+      },
+      "verified_sign_sequence": false,
+      "independent_review": false
+    },
+    {
+      "record_id": "BYB-E",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 83, Spatula e",
+      "source_pdf_page": 12,
+      "reported_visible_or_partly_visible_count": {
+        "value": 17,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [
+          {
+            "source_category": "signs",
+            "value": 12
+          },
+          {
+            "source_category": "numbers",
+            "value": 5
+          }
+        ],
+        "numerals_included_in_value": true,
+        "dividers_included_in_value": null
+      },
+      "reported_repertoire": {
+        "components": [
+          11,
+          1
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "layout": {
+        "reported_lines": 3,
+        "reported_face_lines": {
+          "A": 3,
+          "B": 0
+        }
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "reported"
+      },
+      "verified_sign_sequence": false,
+      "independent_review": false
+    },
+    {
+      "record_id": "BYB-F",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 83, Spatula f",
+      "source_pdf_page": 12,
+      "reported_visible_or_partly_visible_count": {
+        "value": 50,
+        "approximate": true,
+        "unit": "source_reported_signs",
+        "components": [
+          {
+            "source_category": "signs",
+            "value": 47
+          },
+          {
+            "source_category": "numbers",
+            "value": 3
+          }
+        ],
+        "numerals_included_in_value": true,
+        "dividers_included_in_value": null
+      },
+      "reported_repertoire": {
+        "components": [
+          28
+        ],
+        "approximate": true,
+        "component_semantics": "single_reported_value",
+        "not_project_sign_inventory": true
+      },
+      "layout": {
+        "reported_lines": 7,
+        "reported_face_lines": {
+          "A": 3,
+          "B": 4
+        }
+      },
+      "direction_claim": {
+        "value": "face_dependent",
+        "qualification": "inferred_by_authors",
+        "faces": {
+          "A": "right_to_left",
+          "B": "left_to_right"
+        }
+      },
+      "verified_sign_sequence": false,
+      "independent_review": false
+    },
+    {
+      "record_id": "BYB-G",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 79, Stela g",
+      "source_pdf_page": 8,
+      "reported_visible_or_partly_visible_count": {
+        "value": 40,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "reported_repertoire": {
+        "components": [
+          18,
+          3
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "layout": {
+        "reported_lines": null,
+        "reported_face_lines": null,
+        "reported_columns": 6,
+        "certainly_textual_columns": 5,
+        "note": "Columns, not six lines; last column unclear."
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "inferred_from_sign_orientation"
+      },
+      "verified_sign_sequence": false,
+      "independent_review": false
+    },
+    {
+      "record_id": "BYB-H",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 80, Stela h",
+      "source_pdf_page": 9,
+      "reported_visible_or_partly_visible_count": {
+        "value": 7,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "reported_repertoire": {
+        "components": [
+          4,
+          3
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "layout": {
+        "reported_lines": 4,
+        "reported_face_lines": null,
+        "certainly_textual_lines": 3
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "inferred_from_blank_margins"
+      },
+      "verified_sign_sequence": false,
+      "independent_review": false
+    },
+    {
+      "record_id": "BYB-I",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 84, Spatula i",
+      "source_pdf_page": 13,
+      "reported_visible_or_partly_visible_count": {
+        "value": 96,
+        "approximate": true,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "reported_repertoire": {
+        "components": [
+          36
+        ],
+        "approximate": true,
+        "component_semantics": "single_reported_value",
+        "not_project_sign_inventory": true
+      },
+      "layout": {
+        "reported_lines": 9,
+        "reported_face_lines": {
+          "A": 4,
+          "B": 5
+        }
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "apparently"
+      },
+      "verified_sign_sequence": false,
+      "independent_review": false
+    },
+    {
+      "record_id": "BYB-J",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 80, Stela j",
+      "source_pdf_page": 9,
+      "reported_visible_or_partly_visible_count": {
+        "value": 16,
+        "approximate": true,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "reported_repertoire": {
+        "components": [
+          10,
+          3
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "layout": {
+        "reported_lines": 4,
+        "reported_face_lines": null
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "presumably"
+      },
+      "verified_sign_sequence": false,
+      "independent_review": false
+    },
+    {
+      "record_id": "BYB-K",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 80, Stela k",
+      "source_pdf_page": 9,
+      "reported_visible_or_partly_visible_count": {
+        "value": 30,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "reported_repertoire": {
+        "components": [
+          18,
+          1
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "layout": {
+        "reported_lines": 5,
+        "reported_face_lines": null
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "apparently"
+      },
+      "verified_sign_sequence": false,
+      "independent_review": false
+    },
+    {
+      "record_id": "BYB-L",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 81, Stela l",
+      "source_pdf_page": 10,
+      "reported_visible_or_partly_visible_count": {
+        "value": 74,
+        "approximate": true,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "reported_repertoire": {
+        "components": [
+          51
+        ],
+        "approximate": true,
+        "component_semantics": "single_reported_value",
+        "not_project_sign_inventory": true
+      },
+      "layout": {
+        "reported_lines": 13,
+        "reported_face_lines": null
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "probably; line 12 exception unresolved"
+      },
+      "verified_sign_sequence": false,
+      "independent_review": false
+    },
+    {
+      "record_id": "BYB-M",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 81, Stela m",
+      "source_pdf_page": 10,
+      "reported_visible_or_partly_visible_count": {
+        "value": 14,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "reported_repertoire": {
+        "components": [
+          8
+        ],
+        "approximate": false,
+        "component_semantics": "single_reported_value",
+        "not_project_sign_inventory": true
+      },
+      "layout": {
+        "reported_lines": 3,
+        "reported_face_lines": null
+      },
+      "direction_claim": {
+        "value": "left_to_right",
+        "qualification": "conditional_on_sign_orientation"
+      },
+      "verified_sign_sequence": false,
+      "independent_review": false
+    },
+    {
+      "record_id": "BYB-N",
+      "source_id": "vita-zamora-2018",
+      "locator": "p. 82, Stela n",
+      "source_pdf_page": 11,
+      "reported_visible_or_partly_visible_count": {
+        "value": 19,
+        "approximate": true,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "reported_repertoire": {
+        "components": [
+          18
+        ],
+        "approximate": false,
+        "component_semantics": "single_reported_value",
+        "not_project_sign_inventory": true
+      },
+      "layout": {
+        "reported_lines": 5,
+        "reported_face_lines": null,
+        "note": "First preserved line has no noticeable signs; authors see no sixth line."
+      },
+      "direction_claim": {
+        "value": "right_to_left",
+        "qualification": "probably"
+      },
+      "verified_sign_sequence": false,
+      "independent_review": false
+    }
+  ],
+  "boundary": "Counts are attributed reports, not encoded occurrences. Approximation, numerals, dividers and unspecified repertoire components remain explicit. No corpus total or global sign inventory is calculated from these incompatible categories. Figures, source text and sign sequences are not redistributed."
+}

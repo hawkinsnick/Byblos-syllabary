@@ -1,0 +1,81 @@
+{
+  "format": "byblos-selected-numbering-assertions-v1",
+  "checked": "2026-10-04",
+  "record_id": "BYB-A",
+  "edition_id": "BYB-A-D1930",
+  "source_id": "dunand-1930",
+  "source_table_locator": "p. 5, rows I, II, IV, V, VI; numbering convention p. 4",
+  "selected_source_groups": [
+    {
+      "edition_sign_label": "I",
+      "source_numbered_positions": [
+        1
+      ]
+    },
+    {
+      "edition_sign_label": "II",
+      "source_numbered_positions": [
+        2,
+        24
+      ]
+    },
+    {
+      "edition_sign_label": "IV",
+      "source_numbered_positions": [
+        4,
+        37,
+        61,
+        70,
+        110,
+        119
+      ]
+    },
+    {
+      "edition_sign_label": "V",
+      "source_numbered_positions": [
+        5,
+        63,
+        120
+      ]
+    },
+    {
+      "edition_sign_label": "VI",
+      "source_numbered_positions": [
+        6,
+        121
+      ]
+    }
+  ],
+  "recurrence_assertions": [
+    {
+      "id": "BYB-A-D1930-REPEAT-OPEN-CLOSE",
+      "source_id": "dunand-1930",
+      "locator": "p. 8 numerical recurrence table; p. 9 opening paragraph",
+      "source_position_groups": [
+        [
+          4,
+          5,
+          6
+        ],
+        [
+          119,
+          120,
+          121
+        ]
+      ],
+      "claim": "These two three-position spans are reported as the same ordered sequence.",
+      "project_numerical_consistency": "Selected printed type labels agree position by position as IV, V, VI.",
+      "glyph_collation_completed": false,
+      "semantic_interpretation_admitted": false
+    }
+  ],
+  "selection_rule": "Bounded pilot: type rows I, II, IV, V, VI, chosen to check the explicitly discussed opening/closing recurrence. Not exhaustive or random sampling.",
+  "representation_scope": "Edition numbering and selected factual group-membership assertions only. No glyph outlines, sounds, full sequence, font, plate or source text reproduced.",
+  "verified_full_sequence": false,
+  "independent_review": false,
+  "source_lineage": {
+    "facsimile": "Dunand consolidated prior work by Abbé Dupont and Père Barrois and inspected differing readings (p. 3).",
+    "independence": "Names in that production history do not establish independently available witness datasets."
+  },
+  "unresolved": "Full numeric table is separately registered; numbered facsimile collation, printed collision 32, unassigned ordinals, damaged positions and modern concordances remain unresolved."
+}

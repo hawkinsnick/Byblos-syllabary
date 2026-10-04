@@ -1,0 +1,38 @@
+{
+  "format": "byblos-type-table-audit-v1",
+  "input_hashes": {
+    "research/stele-a-type-table.json": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+    "research/stele-a-numbered-assertions.json": "8d66a098802aa26b715663ac4010c8b559ae527ac267a741d1fb33841a88a442",
+    "research/dunand-1930-acquisition.json": "8770e8ab2001b989e66d50ba4f5e47fa1de0af859d2b9722a494adb952e18731",
+    "research/stele-a-facsimile-number-index.json": "e65598e16b5c9a2dbccdb2a5583154bef53d7f09528547904eea90f61c4c237e"
+  },
+  "source_type_rows": 38,
+  "drawn_variant_buckets": 55,
+  "numeric_membership_assertions": 116,
+  "distinct_source_ordinals": 115,
+  "printed_collisions": [
+    {
+      "source_numbered_position": 32,
+      "type_labels": [
+        "VIII",
+        "XIX"
+      ]
+    }
+  ],
+  "unassigned_ordinals_in_observed_number_range": [
+    14,
+    27,
+    34,
+    40,
+    41,
+    42,
+    92,
+    95
+  ],
+  "facsimile_source_line_labels": 10,
+  "facsimile_source_ordinals": 123,
+  "selected_pilot_matches_table": true,
+  "glyph_collation_completed": false,
+  "verified_full_sequences_added": 0,
+  "boundary": "Unassigned ordinals are gaps in the printed numeric table, not newly created damaged or lost ancient signs. Multiple printed memberships remain conflicting source assertions. Variant buckets are drawn forms, not additional canonical types."
+}

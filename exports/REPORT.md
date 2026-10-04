@@ -1,6 +1,6 @@
 # Byblos corpus audit
 
-Snapshot version: 1.3.0
+Snapshot version: 1.3.1
 Scientific 1.0 ready: **False**
 
 Structural validity is not proof of accuracy or exhaustive coverage.
@@ -12,7 +12,7 @@ Structural validity is not proof of accuracy or exhaustive coverage.
 | disputed candidates | 25 |
 | sources and leads | 51 |
 | surfaces described | 18 |
-| signs registered | 0 |
+| signs registered | 5 |
 | transcriptions | 0 |
 | verified core sequences | 0 |
 | independent approvals | 0 |
@@ -33,7 +33,7 @@ Structural validity is not proof of accuracy or exhaustive coverage.
 
 ## Admission evidence
 
-Evidence snapshot SHA-256: `1306f68e1cb58c62b519e1a58a56cfabc53e6d6a22375c3843bff1e335a4e6eb`
+Evidence snapshot SHA-256: `f32f82cc85b14057caa4c61d56a0855fe323c2a0203fa5d61d2791fb7ba3e433`
 
 Complete within the independently reviewed scope and cutoff; future finds and publications remain possible.
 
@@ -109,6 +109,21 @@ These counts describe different source-defined units; do not sum them.
 | schwartz-author-abstract | 4 | incised_clay_cylinders_reported |
 | dunand-1930 | 119 | surviving_signs_reported_on_first_stele |
 | dunand-1930 | 3 | lost_sign_positions_reported_on_first_stele |
+| vita-zamora-2018 | 123 | visible_or_partly_visible_signs_reported_for_BYB-A |
+| vita-zamora-2018 | 43 | visible_or_partly_visible_signs_reported_for_BYB-B |
+| vita-zamora-2018 | 225 | visible_or_partly_visible_signs_reported_for_BYB-C |
+| vita-zamora-2018 | 457 | visible_or_partly_visible_signs_reported_for_BYB-D |
+| vita-zamora-2018 | 17 | visible_or_partly_visible_signs_reported_for_BYB-E |
+| vita-zamora-2018 | 50 | visible_or_partly_visible_signs_reported_for_BYB-F |
+| vita-zamora-2018 | 40 | visible_or_partly_visible_signs_reported_for_BYB-G |
+| vita-zamora-2018 | 7 | visible_or_partly_visible_signs_reported_for_BYB-H |
+| vita-zamora-2018 | 96 | visible_or_partly_visible_signs_reported_for_BYB-I |
+| vita-zamora-2018 | 16 | visible_or_partly_visible_signs_reported_for_BYB-J |
+| vita-zamora-2018 | 30 | visible_or_partly_visible_signs_reported_for_BYB-K |
+| vita-zamora-2018 | 74 | visible_or_partly_visible_signs_reported_for_BYB-L |
+| vita-zamora-2018 | 14 | visible_or_partly_visible_signs_reported_for_BYB-M |
+| vita-zamora-2018 | 19 | visible_or_partly_visible_signs_reported_for_BYB-N |
+| dunand-1930 | 38 | source_grouped_types_in_Dunand_1930_stele_a |
 
 ## Catalogue
 
@@ -275,7 +290,7 @@ These counts describe different source-defined units; do not sum them.
   Consultation: selected_sections; rights: not_assessed.
   Source: https://github.com/elamicon/elamicon/blob/69b4cc2822493146045cb9969586bf5bd9195380/README.md
 - **ocbi-source**: Elamicon / GEAS, src/Scripts/Byblos.elm.
-  Consultation: metadata_only; rights: not_assessed.
+  Consultation: selected_sections; rights: not_assessed.
   Source: https://github.com/elamicon/elamicon/blob/69b4cc2822493146045cb9969586bf5bd9195380/src/Scripts/Byblos.elm
 - **openlibrary-dunand**: Open Library, Byblia grammata, edition OL6188790M, catalogue record.
   Consultation: metadata_only; rights: not_assessed.

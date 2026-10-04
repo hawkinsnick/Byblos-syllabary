@@ -1,0 +1,39 @@
+{
+  "format": "byblos-numbering-audit-v1",
+  "input_hashes": {
+    "data/research_entities.json": "be181d196efb4c0fb27866bdaab4539be6a68ed6a56fa6c0b183109ede6700d7",
+    "research/stele-a-numbered-assertions.json": "8d66a098802aa26b715663ac4010c8b559ae527ac267a741d1fb33841a88a442",
+    "research/dunand-1930-acquisition.json": "8770e8ab2001b989e66d50ba4f5e47fa1de0af859d2b9722a494adb952e18731",
+    "data/sources.json": "535a3439058bbb7430991ac50e6b837f33af7b29799b9e37af03ad4b08cbed5b"
+  },
+  "source_type_groups": 5,
+  "source_numbered_position_assertions": 14,
+  "recurrence_assertions_checked": [
+    {
+      "id": "BYB-A-D1930-REPEAT-OPEN-CLOSE",
+      "status": "NUMERICAL_SOURCE_ASSERTIONS_CONSISTENT",
+      "source_spans": [
+        [
+          4,
+          5,
+          6
+        ],
+        [
+          119,
+          120,
+          121
+        ]
+      ],
+      "source_type_labels": [
+        "IV",
+        "V",
+        "VI"
+      ],
+      "glyph_or_linguistic_confirmation": false
+    }
+  ],
+  "full_sequence_verified": false,
+  "independent_review": false,
+  "global_sign_equivalence_allowed": false,
+  "boundary": "Only the selected source numbering/grouping assertions are checked. A source type label and Arabic ordinal are not glyph coordinates, normalized sign identity, phonetic value, a certified ancient occurrence or a complete transcription."
+}

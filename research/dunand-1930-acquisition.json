@@ -1,0 +1,221 @@
+{
+  "format": "byblos-primary-acquisition-v1",
+  "checked": "2026-10-04",
+  "source_id": "dunand-1930",
+  "article_url": "https://www.persee.fr/doc/syria_0039-7946_1930_num_11_1_3456",
+  "route": "Public article page and its advertised page-view endpoints; no borrow or sign-in restriction bypassed.",
+  "pages": [
+    {
+      "page_index": 1,
+      "url": "https://www.persee.fr/doc/page/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0001_0000",
+      "sha256": "b60aa76c800eddd00a20c009568db6c4eb7e4861f714e8de9e72e80ad9914fde",
+      "bytes": 2367,
+      "images": [
+        "https://www.persee.fr/renderPage/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0001_0000_710.jpg"
+      ],
+      "image_sha256": "fcc57158c47dad8ffd89e83e77bca87e42e481751a11c771a19f4a7611bbd918",
+      "image_bytes": 144867,
+      "printed_page": 1,
+      "acquisition_status": "ACQUIRED",
+      "image_redistributed": false,
+      "inspection_status": "VISUALLY_INSPECTED"
+    },
+    {
+      "page_index": 2,
+      "url": "https://www.persee.fr/doc/page/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0002_0000",
+      "sha256": "7a154ed8bbc3a4ee7336d038a4d4f675dd0e88cf8ac60f6218200b3f64c0c4ec",
+      "bytes": 2947,
+      "images": [
+        "https://www.persee.fr/renderPage/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0002_0000_710.jpg"
+      ],
+      "image_sha256": "b4755abaa63489edae0c7b13e818f0a8fb26866f2ae8c017aa8490161e360bc5",
+      "image_bytes": 131538,
+      "printed_page": 2,
+      "acquisition_status": "ACQUIRED",
+      "image_redistributed": false,
+      "inspection_status": "VISUALLY_INSPECTED"
+    },
+    {
+      "page_index": 3,
+      "url": "https://www.persee.fr/doc/page/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0003_0000",
+      "sha256": "5c57511a9721c60e5140c640968e5e8172c6bf190c28b01e48e4016da3642494",
+      "bytes": 2982,
+      "images": [
+        "https://www.persee.fr/renderPage/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0003_0000_710.jpg"
+      ],
+      "image_sha256": "a221dcc0080ea019b024715bb6e66cbe5c21f21ce69cc4eb7f25d8736d5d8350",
+      "image_bytes": 169290,
+      "printed_page": 3,
+      "acquisition_status": "ACQUIRED",
+      "image_redistributed": false,
+      "inspection_status": "VISUALLY_INSPECTED"
+    },
+    {
+      "page_index": 4,
+      "url": "https://www.persee.fr/doc/page/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0004_0000",
+      "sha256": "89292ccb16f01889ecba3334dc2f6374d34f4250d5930cdd1fbb236755170de2",
+      "bytes": 2621,
+      "images": [
+        "https://www.persee.fr/renderPage/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0004_0000_710.jpg"
+      ],
+      "image_sha256": "f477baf1e2a9daba4fa6043d715d3056ed4a33e17717b479818f4396f785043a",
+      "image_bytes": 149813,
+      "printed_page": 4,
+      "acquisition_status": "ACQUIRED",
+      "image_redistributed": false,
+      "inspection_status": "VISUALLY_INSPECTED"
+    },
+    {
+      "page_index": 5,
+      "url": "https://www.persee.fr/doc/page/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0005_0000",
+      "sha256": "c94f1cd25609cd29cc9d254eb68f2d7390e44882d52954f30c4b5ba0efa9a4b3",
+      "bytes": 2181,
+      "images": [
+        "https://www.persee.fr/renderPage/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0005_0000_710.jpg"
+      ],
+      "image_sha256": "ced4116234315fa33b994323559c4d118d12fb313c61bbbdc1a3c4d6543452c3",
+      "image_bytes": 74381,
+      "printed_page": 5,
+      "acquisition_status": "ACQUIRED",
+      "image_redistributed": false,
+      "inspection_status": "VISUALLY_INSPECTED"
+    },
+    {
+      "page_index": 6,
+      "url": "https://www.persee.fr/doc/page/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0006_0000",
+      "sha256": "321019892576108eb4360fc1d0d21b74ce7082a4fa4e8664372d50a77b53b969",
+      "bytes": 2333,
+      "images": [
+        "https://www.persee.fr/renderPage/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0006_0000_710.jpg"
+      ],
+      "image_sha256": "4d65ed14b7132e1e3951c1c1cc94da4eccb265ac1d66c20f3fa9e8b7020fadd3",
+      "image_bytes": 131936,
+      "printed_page": 6,
+      "acquisition_status": "ACQUIRED",
+      "image_redistributed": false,
+      "inspection_status": "VISUALLY_INSPECTED"
+    },
+    {
+      "page_index": 7,
+      "url": "https://www.persee.fr/doc/page/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0007_0000",
+      "sha256": "12eda9834db2a228c5596609f6dde10e73442afae9535e6940162b8b5b4df2ac",
+      "bytes": 2379,
+      "images": [
+        "https://www.persee.fr/renderPage/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0007_0000_710.jpg"
+      ],
+      "image_sha256": "669af5485f76b11a2938aea8a73335ed2c0fe2791808b8d573e54c93092bb721",
+      "image_bytes": 137193,
+      "printed_page": 7,
+      "acquisition_status": "ACQUIRED",
+      "image_redistributed": false,
+      "inspection_status": "VISUALLY_INSPECTED"
+    },
+    {
+      "page_index": 8,
+      "url": "https://www.persee.fr/doc/page/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0008_0000",
+      "sha256": "52cdd27992c4a45199e256d6907db39d8b2e95533ecb56ef3f3721406ed3ba82",
+      "bytes": 2302,
+      "images": [
+        "https://www.persee.fr/renderPage/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0008_0000_710.jpg"
+      ],
+      "image_sha256": "5c03f5a30b737bc3e121e84d06c7d493737fe8e74078fdb1a824b373a843333b",
+      "image_bytes": 131647,
+      "printed_page": 8,
+      "acquisition_status": "ACQUIRED",
+      "image_redistributed": false,
+      "inspection_status": "VISUALLY_INSPECTED"
+    },
+    {
+      "page_index": 9,
+      "url": "https://www.persee.fr/doc/page/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0008_0001",
+      "sha256": "06ab8fbf915d97748ffd604cc0897ba190b6d286f9b1c1f9dba2dc8839abc332",
+      "bytes": 2077,
+      "images": [
+        "https://www.persee.fr/renderPage/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0008_0001_710.jpg"
+      ],
+      "image_sha256": "773b8c8f6236be5ae6dcb7825e9eb56f750ede24014a3a81f2566425d04a6aa2",
+      "image_bytes": 213944,
+      "printed_page": "plate I",
+      "acquisition_status": "ACQUIRED",
+      "image_redistributed": false,
+      "inspection_status": "VISUALLY_INSPECTED"
+    },
+    {
+      "page_index": 10,
+      "url": "https://www.persee.fr/doc/page/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0008_0002",
+      "sha256": "840a23bef06543ded25db39ad6cb3de520a584580cef3b4e3fbc5bc9395b8091",
+      "bytes": 233,
+      "images": [
+        "https://www.persee.fr/renderPage/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0008_0002_710.jpg"
+      ],
+      "image_sha256": "9395db3a1250470a2f8d33b2629052f960a33acdf7ab9fabd16a56601501061a",
+      "image_bytes": 13394,
+      "printed_page": "plate verso",
+      "acquisition_status": "ACQUIRED",
+      "image_redistributed": false,
+      "inspection_status": "VISUALLY_INSPECTED"
+    },
+    {
+      "page_index": 11,
+      "url": "https://www.persee.fr/doc/page/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0009_0000",
+      "sha256": "ca08f50121490886616e8ac9925dc6a061600d5483747fe1652bc80928dc7e5e",
+      "bytes": 2847,
+      "images": [
+        "https://www.persee.fr/renderPage/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0009_0000_710.jpg"
+      ],
+      "image_sha256": "6c19675351ea70fbebafd04eb8f4bb95087d8c0395db025639b1131caab83cfc",
+      "image_bytes": 164158,
+      "printed_page": 9,
+      "acquisition_status": "ACQUIRED",
+      "image_redistributed": false,
+      "inspection_status": "VISUALLY_INSPECTED"
+    },
+    {
+      "page_index": 12,
+      "url": "https://www.persee.fr/doc/page/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0010_0000",
+      "sha256": "09946ef6dbb074704fb82690f076ffa07e163f9456c7048886228015df58495e",
+      "bytes": 2862,
+      "images": [
+        "https://www.persee.fr/renderPage/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0010_0000_710.jpg"
+      ],
+      "image_sha256": "fc80b2d458f33acce26bbcd3d87e210c66f0b3e4be126bc0bf2166e988eb5e79",
+      "image_bytes": 169948,
+      "printed_page": 10,
+      "acquisition_status": "ACQUIRED",
+      "image_redistributed": false,
+      "inspection_status": "VISUALLY_INSPECTED"
+    }
+  ],
+  "source_instances_not_independent": true,
+  "rights": "Locators, byte identities and original factual summaries only; publisher scans and OCR remain outside the repository.",
+  "verified_sequences_added": 0,
+  "additional_figures": [
+    {
+      "locator": "p. 5 sign table",
+      "url": "https://www.persee.fr/renderIllustration/syria_0039-7946_1930_num_11_1_T1_0005_0000_1.png",
+      "sha256": "5a2c816c6ce062f56f90648e46f25a97cbd92c76423b0ab0d4bc8497fb9dfb85",
+      "bytes": 70833,
+      "inspection_status": "VISUALLY_INSPECTED",
+      "redistributed": false,
+      "scope": "All numeric row memberships and drawn-variant buckets; glyph contours not transcribed."
+    },
+    {
+      "locator": "p. 2 numbered facsimile",
+      "url": "https://www.persee.fr/renderIllustration/syria_0039-7946_1930_num_11_1_T1_0002_0000_1.png",
+      "sha256": "ef0e9222509a5f316eab7b59100b9fcb0b3beadeac50fffc397e18d4c95f799f",
+      "bytes": 81678,
+      "inspection_status": "VISUALLY_INSPECTED",
+      "redistributed": false,
+      "scope": "Ten source line labels and continuous source ordinal ranges; no complete glyph transcription."
+    },
+    {
+      "locator": "plate I object photograph",
+      "url": "https://www.persee.fr/renderIllustration/syria_0039-7946_1930_num_11_1_T1_0008_0001_2.png",
+      "sha256": "9de55e2c55c6280ca66cc5850b2f007b8d9799434de0c13be92b8d1d0dd42194",
+      "bytes": 1904939,
+      "inspection_status": "VISUALLY_INSPECTED",
+      "redistributed": false,
+      "scope": "Overall object photograph inspected; no sign-by-sign surface collation or museum identity certification."
+    }
+  ]
+}

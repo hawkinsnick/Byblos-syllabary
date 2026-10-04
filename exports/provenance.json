@@ -1,5 +1,5 @@
 {
-  "evidence_sha256": "1306f68e1cb58c62b519e1a58a56cfabc53e6d6a22375c3843bff1e335a4e6eb",
+  "evidence_sha256": "f32f82cc85b14057caa4c61d56a0855fe323c2a0203fa5d61d2791fb7ba3e433",
   "format": "byblos-provenance-v1",
   "interpretation": "Derived links only. Field evidence records attribution, not correctness. Source references, discovery citations and edition leads are not independent corroboration. Consultation depth and rights are recorded declarations; usage counts are not confidence scores. Paths address this exact snapshot; owners are namespaced by their container.",
   "selected_source": null,
@@ -224,8 +224,8 @@
         "status": "not_assessed"
       },
       "role_counts": {
-        "field_evidence": 3,
-        "source_reference": 4
+        "field_evidence": 9,
+        "source_reference": 6
       },
       "source_id": "dunand-1930",
       "uses": [
@@ -260,10 +260,108 @@
         },
         {
           "fields": [],
+          "locator": "p. 4, first complete paragraph",
+          "owner": "/coverage/count_claims:COUNT-A-D1930-TYPES",
+          "path": "/coverage/count_claims/25/source_id",
+          "role": "source_reference",
+          "source_id": "dunand-1930"
+        },
+        {
+          "fields": [],
           "locator": "p. 3",
           "owner": "/coverage/count_claims:COUNT-A-1930-SURVIVING",
           "path": "/coverage/count_claims/9/source_id",
           "role": "source_reference",
+          "source_id": "dunand-1930"
+        },
+        {
+          "fields": [
+            "source_id",
+            "inscription_id",
+            "scope"
+          ],
+          "locator": "pp. 3–5, 8–9; facsimile p. 2",
+          "owner": "/research_entities/editions:BYB-A-D1930",
+          "path": "/research_entities/editions/0/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "dunand-1930"
+        },
+        {
+          "fields": [],
+          "locator": null,
+          "owner": "/research_entities/editions:BYB-A-D1930",
+          "path": "/research_entities/editions/0/source_id",
+          "role": "source_reference",
+          "source_id": "dunand-1930"
+        },
+        {
+          "fields": [
+            "edition_sign_label",
+            "edition_id",
+            "source_numbered_positions",
+            "position_unit",
+            "scope"
+          ],
+          "locator": "p. 5, sign table, row I; numbering convention p. 4",
+          "owner": "/research_entities/signs:BYB-A-D1930-I",
+          "path": "/research_entities/signs/0/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "dunand-1930"
+        },
+        {
+          "fields": [
+            "edition_sign_label",
+            "edition_id",
+            "source_numbered_positions",
+            "position_unit",
+            "scope"
+          ],
+          "locator": "p. 5, sign table, row II; numbering convention p. 4",
+          "owner": "/research_entities/signs:BYB-A-D1930-II",
+          "path": "/research_entities/signs/1/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "dunand-1930"
+        },
+        {
+          "fields": [
+            "edition_sign_label",
+            "edition_id",
+            "source_numbered_positions",
+            "position_unit",
+            "scope"
+          ],
+          "locator": "p. 5, sign table, row IV; numbering convention p. 4",
+          "owner": "/research_entities/signs:BYB-A-D1930-IV",
+          "path": "/research_entities/signs/2/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "dunand-1930"
+        },
+        {
+          "fields": [
+            "edition_sign_label",
+            "edition_id",
+            "source_numbered_positions",
+            "position_unit",
+            "scope"
+          ],
+          "locator": "p. 5, sign table, row V; numbering convention p. 4",
+          "owner": "/research_entities/signs:BYB-A-D1930-V",
+          "path": "/research_entities/signs/3/evidence/0/source_id",
+          "role": "field_evidence",
+          "source_id": "dunand-1930"
+        },
+        {
+          "fields": [
+            "edition_sign_label",
+            "edition_id",
+            "source_numbered_positions",
+            "position_unit",
+            "scope"
+          ],
+          "locator": "p. 5, sign table, row VI; numbering convention p. 4",
+          "owner": "/research_entities/signs:BYB-A-D1930-VI",
+          "path": "/research_entities/signs/4/evidence/0/source_id",
+          "role": "field_evidence",
           "source_id": "dunand-1930"
         },
         {
@@ -1899,7 +1997,7 @@
     },
     {
       "citation": "Elamicon / GEAS, src/Scripts/Byblos.elm.",
-      "consultation": "metadata_only",
+      "consultation": "selected_sections",
       "rights": {
         "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
         "status": "not_assessed"
@@ -2308,7 +2406,8 @@
       },
       "role_counts": {
         "context_source": 2,
-        "field_evidence": 31
+        "field_evidence": 31,
+        "source_reference": 14
       },
       "source_id": "vita-zamora-2018",
       "uses": [
@@ -2493,6 +2592,118 @@
           "owner": "/catalogue/records:BYB-CAND-CYLINDER-2004",
           "path": "/catalogue/records/26/evidence/0/source_id",
           "role": "field_evidence",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": "p. 79, Stela a",
+          "owner": "/coverage/count_claims:COUNT-BYB-A-VZ2018",
+          "path": "/coverage/count_claims/11/source_id",
+          "role": "source_reference",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": "p. 83, Spatula b",
+          "owner": "/coverage/count_claims:COUNT-BYB-B-VZ2018",
+          "path": "/coverage/count_claims/12/source_id",
+          "role": "source_reference",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": "p. 77, Tablet c",
+          "owner": "/coverage/count_claims:COUNT-BYB-C-VZ2018",
+          "path": "/coverage/count_claims/13/source_id",
+          "role": "source_reference",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": "p. 78, Tablet d",
+          "owner": "/coverage/count_claims:COUNT-BYB-D-VZ2018",
+          "path": "/coverage/count_claims/14/source_id",
+          "role": "source_reference",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": "p. 83, Spatula e",
+          "owner": "/coverage/count_claims:COUNT-BYB-E-VZ2018",
+          "path": "/coverage/count_claims/15/source_id",
+          "role": "source_reference",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": "p. 83, Spatula f",
+          "owner": "/coverage/count_claims:COUNT-BYB-F-VZ2018",
+          "path": "/coverage/count_claims/16/source_id",
+          "role": "source_reference",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": "p. 79, Stela g",
+          "owner": "/coverage/count_claims:COUNT-BYB-G-VZ2018",
+          "path": "/coverage/count_claims/17/source_id",
+          "role": "source_reference",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": "p. 80, Stela h",
+          "owner": "/coverage/count_claims:COUNT-BYB-H-VZ2018",
+          "path": "/coverage/count_claims/18/source_id",
+          "role": "source_reference",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": "p. 84, Spatula i",
+          "owner": "/coverage/count_claims:COUNT-BYB-I-VZ2018",
+          "path": "/coverage/count_claims/19/source_id",
+          "role": "source_reference",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": "p. 80, Stela j",
+          "owner": "/coverage/count_claims:COUNT-BYB-J-VZ2018",
+          "path": "/coverage/count_claims/20/source_id",
+          "role": "source_reference",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": "p. 80, Stela k",
+          "owner": "/coverage/count_claims:COUNT-BYB-K-VZ2018",
+          "path": "/coverage/count_claims/21/source_id",
+          "role": "source_reference",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": "p. 81, Stela l",
+          "owner": "/coverage/count_claims:COUNT-BYB-L-VZ2018",
+          "path": "/coverage/count_claims/22/source_id",
+          "role": "source_reference",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": "p. 81, Stela m",
+          "owner": "/coverage/count_claims:COUNT-BYB-M-VZ2018",
+          "path": "/coverage/count_claims/23/source_id",
+          "role": "source_reference",
+          "source_id": "vita-zamora-2018"
+        },
+        {
+          "fields": [],
+          "locator": "p. 82, Stela n",
+          "owner": "/coverage/count_claims:COUNT-BYB-N-VZ2018",
+          "path": "/coverage/count_claims/24/source_id",
+          "role": "source_reference",
           "source_id": "vita-zamora-2018"
         },
         {

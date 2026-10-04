@@ -1825,7 +1825,7 @@
       "search_protocol": {},
       "source_dispositions": []
     },
-    "as_of": "2026-10-01",
+    "as_of": "2026-10-04",
     "count_claims": [
       {
         "count": 14,
@@ -1914,6 +1914,126 @@
         "locator": "p. 3",
         "source_id": "dunand-1930",
         "unit": "lost_sign_positions_reported_on_first_stele"
+      },
+      {
+        "count": 123,
+        "derivation": "Reported source value. Not a project occurrence count or verified sequence.",
+        "id": "COUNT-BYB-A-VZ2018",
+        "locator": "p. 79, Stela a",
+        "source_id": "vita-zamora-2018",
+        "unit": "visible_or_partly_visible_signs_reported_for_BYB-A"
+      },
+      {
+        "count": 43,
+        "derivation": "Reported source value. Includes 39 signs and 4 dividers.",
+        "id": "COUNT-BYB-B-VZ2018",
+        "locator": "p. 83, Spatula b",
+        "source_id": "vita-zamora-2018",
+        "unit": "visible_or_partly_visible_signs_reported_for_BYB-B"
+      },
+      {
+        "count": 225,
+        "derivation": "Reported source value. Not a project occurrence count or verified sequence.",
+        "id": "COUNT-BYB-C-VZ2018",
+        "locator": "p. 77, Tablet c",
+        "source_id": "vita-zamora-2018",
+        "unit": "visible_or_partly_visible_signs_reported_for_BYB-C"
+      },
+      {
+        "count": 457,
+        "derivation": "Approximate source value. Additional 3 numerals are outside this 457 value; not silently added.",
+        "id": "COUNT-BYB-D-VZ2018",
+        "locator": "p. 78, Tablet d",
+        "source_id": "vita-zamora-2018",
+        "unit": "visible_or_partly_visible_signs_reported_for_BYB-D"
+      },
+      {
+        "count": 17,
+        "derivation": "Reported source value. Includes 12 signs and 5 numbers.",
+        "id": "COUNT-BYB-E-VZ2018",
+        "locator": "p. 83, Spatula e",
+        "source_id": "vita-zamora-2018",
+        "unit": "visible_or_partly_visible_signs_reported_for_BYB-E"
+      },
+      {
+        "count": 50,
+        "derivation": "Approximate source value. Approximate 47 signs plus 3 numbers.",
+        "id": "COUNT-BYB-F-VZ2018",
+        "locator": "p. 83, Spatula f",
+        "source_id": "vita-zamora-2018",
+        "unit": "visible_or_partly_visible_signs_reported_for_BYB-F"
+      },
+      {
+        "count": 40,
+        "derivation": "Reported source value. Not a project occurrence count or verified sequence.",
+        "id": "COUNT-BYB-G-VZ2018",
+        "locator": "p. 79, Stela g",
+        "source_id": "vita-zamora-2018",
+        "unit": "visible_or_partly_visible_signs_reported_for_BYB-G"
+      },
+      {
+        "count": 7,
+        "derivation": "Reported source value. Not a project occurrence count or verified sequence.",
+        "id": "COUNT-BYB-H-VZ2018",
+        "locator": "p. 80, Stela h",
+        "source_id": "vita-zamora-2018",
+        "unit": "visible_or_partly_visible_signs_reported_for_BYB-H"
+      },
+      {
+        "count": 96,
+        "derivation": "Approximate source value. Not a project occurrence count or verified sequence.",
+        "id": "COUNT-BYB-I-VZ2018",
+        "locator": "p. 84, Spatula i",
+        "source_id": "vita-zamora-2018",
+        "unit": "visible_or_partly_visible_signs_reported_for_BYB-I"
+      },
+      {
+        "count": 16,
+        "derivation": "Approximate source value. Not a project occurrence count or verified sequence.",
+        "id": "COUNT-BYB-J-VZ2018",
+        "locator": "p. 80, Stela j",
+        "source_id": "vita-zamora-2018",
+        "unit": "visible_or_partly_visible_signs_reported_for_BYB-J"
+      },
+      {
+        "count": 30,
+        "derivation": "Reported source value. Not a project occurrence count or verified sequence.",
+        "id": "COUNT-BYB-K-VZ2018",
+        "locator": "p. 80, Stela k",
+        "source_id": "vita-zamora-2018",
+        "unit": "visible_or_partly_visible_signs_reported_for_BYB-K"
+      },
+      {
+        "count": 74,
+        "derivation": "Approximate source value. Not a project occurrence count or verified sequence.",
+        "id": "COUNT-BYB-L-VZ2018",
+        "locator": "p. 81, Stela l",
+        "source_id": "vita-zamora-2018",
+        "unit": "visible_or_partly_visible_signs_reported_for_BYB-L"
+      },
+      {
+        "count": 14,
+        "derivation": "Reported source value. Not a project occurrence count or verified sequence.",
+        "id": "COUNT-BYB-M-VZ2018",
+        "locator": "p. 81, Stela m",
+        "source_id": "vita-zamora-2018",
+        "unit": "visible_or_partly_visible_signs_reported_for_BYB-M"
+      },
+      {
+        "count": 19,
+        "derivation": "Approximate source value. Not a project occurrence count or verified sequence.",
+        "id": "COUNT-BYB-N-VZ2018",
+        "locator": "p. 82, Stela n",
+        "source_id": "vita-zamora-2018",
+        "unit": "visible_or_partly_visible_signs_reported_for_BYB-N"
+      },
+      {
+        "count": 38,
+        "derivation": "Published classification count, not an instantiated global sign inventory; selected five rows separately recorded.",
+        "id": "COUNT-A-D1930-TYPES",
+        "locator": "p. 4, first complete paragraph",
+        "source_id": "dunand-1930",
+        "unit": "source_grouped_types_in_Dunand_1930_stele_a"
       }
     ],
     "gaps": [
@@ -2072,7 +2192,7 @@
       "verified_transcriptions": 0
     },
     "scope": "Initial source inventory; no exhaustive coverage claim.",
-    "version": "1.3.0"
+    "version": "1.3.1"
   },
   "external_crosswalk": {
     "entries": [
@@ -2855,11 +2975,170 @@
         "surface_id": null
       }
     ],
-    "editions": [],
+    "editions": [
+      {
+        "evidence": [
+          {
+            "fields": [
+              "source_id",
+              "inscription_id",
+              "scope"
+            ],
+            "locator": "pp. 3–5, 8–9; facsimile p. 2",
+            "source_id": "dunand-1930"
+          }
+        ],
+        "id": "BYB-A-D1930",
+        "inscription_id": "BYB-A",
+        "scope": "Selected numbering and grouping assertions from the 1930 edition, not a full transcription.",
+        "source_id": "dunand-1930",
+        "source_independence": "Same 1930 consolidated facsimile/printed discussion; multiple pages are not independent witnesses."
+      }
+    ],
     "objects": [],
     "reviews": [],
     "schema_version": "0.4.0",
-    "signs": [],
+    "signs": [
+      {
+        "edition_id": "BYB-A-D1930",
+        "edition_sign_label": "I",
+        "evidence": [
+          {
+            "fields": [
+              "edition_sign_label",
+              "edition_id",
+              "source_numbered_positions",
+              "position_unit",
+              "scope"
+            ],
+            "locator": "p. 5, sign table, row I; numbering convention p. 4",
+            "source_id": "dunand-1930"
+          }
+        ],
+        "id": "BYB-A-D1930-I",
+        "independently_reviewed": false,
+        "position_unit": "Dunand 1930 Arabic numbering; not physical coordinates or global corpus IDs.",
+        "scope": "Selected source grouping assertion, not an adjudicated cross-edition sign identity.",
+        "shape_encoded": false,
+        "sound_value": null,
+        "source_numbered_positions": [
+          1
+        ]
+      },
+      {
+        "edition_id": "BYB-A-D1930",
+        "edition_sign_label": "II",
+        "evidence": [
+          {
+            "fields": [
+              "edition_sign_label",
+              "edition_id",
+              "source_numbered_positions",
+              "position_unit",
+              "scope"
+            ],
+            "locator": "p. 5, sign table, row II; numbering convention p. 4",
+            "source_id": "dunand-1930"
+          }
+        ],
+        "id": "BYB-A-D1930-II",
+        "independently_reviewed": false,
+        "position_unit": "Dunand 1930 Arabic numbering; not physical coordinates or global corpus IDs.",
+        "scope": "Selected source grouping assertion, not an adjudicated cross-edition sign identity.",
+        "shape_encoded": false,
+        "sound_value": null,
+        "source_numbered_positions": [
+          2,
+          24
+        ]
+      },
+      {
+        "edition_id": "BYB-A-D1930",
+        "edition_sign_label": "IV",
+        "evidence": [
+          {
+            "fields": [
+              "edition_sign_label",
+              "edition_id",
+              "source_numbered_positions",
+              "position_unit",
+              "scope"
+            ],
+            "locator": "p. 5, sign table, row IV; numbering convention p. 4",
+            "source_id": "dunand-1930"
+          }
+        ],
+        "id": "BYB-A-D1930-IV",
+        "independently_reviewed": false,
+        "position_unit": "Dunand 1930 Arabic numbering; not physical coordinates or global corpus IDs.",
+        "scope": "Selected source grouping assertion, not an adjudicated cross-edition sign identity.",
+        "shape_encoded": false,
+        "sound_value": null,
+        "source_numbered_positions": [
+          4,
+          37,
+          61,
+          70,
+          110,
+          119
+        ]
+      },
+      {
+        "edition_id": "BYB-A-D1930",
+        "edition_sign_label": "V",
+        "evidence": [
+          {
+            "fields": [
+              "edition_sign_label",
+              "edition_id",
+              "source_numbered_positions",
+              "position_unit",
+              "scope"
+            ],
+            "locator": "p. 5, sign table, row V; numbering convention p. 4",
+            "source_id": "dunand-1930"
+          }
+        ],
+        "id": "BYB-A-D1930-V",
+        "independently_reviewed": false,
+        "position_unit": "Dunand 1930 Arabic numbering; not physical coordinates or global corpus IDs.",
+        "scope": "Selected source grouping assertion, not an adjudicated cross-edition sign identity.",
+        "shape_encoded": false,
+        "sound_value": null,
+        "source_numbered_positions": [
+          5,
+          63,
+          120
+        ]
+      },
+      {
+        "edition_id": "BYB-A-D1930",
+        "edition_sign_label": "VI",
+        "evidence": [
+          {
+            "fields": [
+              "edition_sign_label",
+              "edition_id",
+              "source_numbered_positions",
+              "position_unit",
+              "scope"
+            ],
+            "locator": "p. 5, sign table, row VI; numbering convention p. 4",
+            "source_id": "dunand-1930"
+          }
+        ],
+        "id": "BYB-A-D1930-VI",
+        "independently_reviewed": false,
+        "position_unit": "Dunand 1930 Arabic numbering; not physical coordinates or global corpus IDs.",
+        "scope": "Selected source grouping assertion, not an adjudicated cross-edition sign identity.",
+        "shape_encoded": false,
+        "sound_value": null,
+        "source_numbered_positions": [
+          6,
+          121
+        ]
+      }
+    ],
     "transcriptions": []
   },
   "search_log": {
@@ -3214,12 +3493,12 @@
         "url": "https://mnamon.sns.it/index.php?id=3&lang=en&page=Bibliografia"
       },
       {
-        "accessed": "2026-10-01",
+        "accessed": "2026-10-04",
         "citation": "J.-P. Vita and J.-Á. Zamora (2018), The Byblos Script. Paths into Script Formation in the Ancient Mediterranean, SMEA NS Supplemento 1, pp. 75–102.",
         "consultation": "selected_sections",
         "doi": null,
         "id": "vita-zamora-2018",
-        "notes": "Author-hosted text inspected, especially pp. 77–89; figures not independently collated.",
+        "notes": "Supplied PDF hash 69724761c8a633f1fcd7f409fe892eaccf52ba29f8bbc13f3f4235a51284bb1e. Printed pages 77–84 visually inspected for all fourteen core count/layout assertions; figures and full text not redistributed.",
         "rights": {
           "license": null,
           "scope": "Bibliographic facts and original attributed summaries only; no third-party full text or sign sequence redistributed.",
@@ -3229,13 +3508,13 @@
         "url": "https://www.academia.edu/37706221/The_Byblos_Script"
       },
       {
-        "accessed": "2026-10-02",
+        "accessed": "2026-10-04",
         "citation": "M. Dunand (1930), Nouvelle inscription découverte à Byblos. Syria 11(1), pp. 1–10.",
         "consultation": "selected_pages",
         "doi": "10.3406/syria.1930.3456",
         "id": "dunand-1930",
-        "inspection": "pages_1_2_3",
-        "notes": "Pages 1–2 read online; PDF endpoint returned HTTP 403.",
+        "inspection": "All twelve page views visually inspected; all 38 table rows numerically registered from advertised original figure; selected native pilot checked against that table. No complete glyph collation.",
+        "notes": "Public article, twelve page views and original sign-table figure acquired privately. Numeric assertions and variant buckets inspected; printed collision 32 and eight table gaps retained. The 1930 interpretive parallels remain historical proposals, not admitted sound values. No publisher images, OCR, glyph outlines or full sequence redistributed.",
         "rights": {
           "license": null,
           "scope": "Bounded factual object and surface metadata only; publisher scans and full sign sequence not redistributed.",
@@ -3364,12 +3643,12 @@
         "url": "https://github.com/elamicon/elamicon/blob/69b4cc2822493146045cb9969586bf5bd9195380/README.md"
       },
       {
-        "accessed": "2026-10-01",
+        "accessed": "2026-10-04",
         "citation": "Elamicon / GEAS, src/Scripts/Byblos.elm.",
-        "consultation": "metadata_only",
+        "consultation": "selected_sections",
         "doi": null,
         "id": "ocbi-source",
-        "notes": "Blob 3c3224f32596b493fd5bb634fff3b8000e591b14. Labels, plate links, directions and source grouping inspected. No sequences, font data or application code reused.",
+        "notes": "Pinned source blob inspected for all 43 entry labels and encoded row structure. Source code, readings, glyphs and font data remain outside the repository. README does not supply a settled corpus/code licence.",
         "rights": {
           "scope": "Original attributed metadata only; source text, images and sign sequences are not republished.",
           "status": "not_assessed"
