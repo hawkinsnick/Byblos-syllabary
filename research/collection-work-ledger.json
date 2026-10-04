@@ -1,0 +1,2371 @@
+{
+  "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
+  "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
+  "config_sha256": "8d3de29c2e1e7053a4ebed301f0c5f236df033f01431d524c53b0b9ad97dbd22",
+  "evidence_fingerprint": "980693cc6fffc0915715823d7ccbfb4033a713d1b03d0a703fc44e1a1021b134",
+  "input_sha256": {
+    "data/bibliography.json": "566b4f42bd02e6d524e74bd08d3222ac6c955960d935c3ce830b78773a6be828",
+    "data/catalogue.json": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+    "data/coverage.json": "d9a703844c1f64f93b02db7947c28977c2f181bf16125cd72c2219a0dcd7eb3a",
+    "data/sources.json": "dc2a5e4a121b9b0421fd76c276d53d004e48c9669d3746d06ebef416e3acfe6a",
+    "research/pre-expert-maximum.json": "419411706b949a5c8092d466c8220eb98f353cd74bb761c35011bff200e0b6cb",
+    "research/source-inspection-2026-10-02.json": "71e2a19bee9d3f624aa4e52c83bee2762c123ebfbb383638d9975a71f1c12a61"
+  },
+  "native_review_links": [
+    "docs/RIGHTS.md",
+    "LICENSING.md"
+  ],
+  "question_definitions": {
+    "language_or_script_classification": "Attribute membership and classification to named authorities; preserve disagreement.",
+    "object_identity": "Confirm the object, face and inventory concordance; distinguish source entries from physical objects.",
+    "reading_and_layout": "Compare the exact edition rows, figures and layout; preserve competing readings with page/line locators.",
+    "reuse_rights": "Check the applicable license or permission for each component; project terms do not override upstream rights.",
+    "source_independence": "Identify shared editorial and photographic lineage; a derivative is not an independent witness.",
+    "uncertainty": "Retain damage, restorations, unreadable signs and competing segmentations; do not silently normalize them."
+  },
+  "record_identity_is_not_object_identity": true,
+  "record_views": [
+    {
+      "enumerated": 39,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "core_or_candidate_catalogue_entry",
+      "view": "catalogue"
+    }
+  ],
+  "records": [
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/0",
+      "native_id": "BYB-A",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-A",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/0/evidence/0/source_id",
+        "/records/0/evidence/1/source_id",
+        "/records/0/evidence/2/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "85e2c719187564a176b0a3daf7f60ade1c556687a5a70920152cd15376b27c24",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/1",
+      "native_id": "BYB-B",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-B",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/1/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "ad77b4ad005a371cf754263c9a8fc8ce054d5a0a6f86175bcfbe1d306a4036b2",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/2",
+      "native_id": "BYB-C",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-C",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/2/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "de66d13df8710175cfbfd8e72e809fb38058592bf5b956ebc368ea873780ae6a",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/3",
+      "native_id": "BYB-D",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-D",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/3/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "0e1d0f836939b03652a3269931a842928f0db177405575b74530338dc1266ebc",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/4",
+      "native_id": "BYB-E",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-E",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/4/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "858366d1e6b948fa48d8d3344fbee0d085e911894785496f96e03bc34a5fbbef",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/5",
+      "native_id": "BYB-F",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-F",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/5/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "811bb0fc167c77870210418a7d01162b8cde77a02d4bf0c2bfcb206710522ab8",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/6",
+      "native_id": "BYB-G",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-G",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/6/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "6053c307f3398473eaea3c0be00f91e6c1b1fa458ed268ca768250594c8eb29b",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/7",
+      "native_id": "BYB-H",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-H",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/7/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "82cb284c4655c446a16ed48a3d6f107207414e97c6466df737fdc5a3491f65f5",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/8",
+      "native_id": "BYB-I",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-I",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/8/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "fd5d1725a696d06d56b38766fbee179a3ef208ffcd1ab18545681355aad82051",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/9",
+      "native_id": "BYB-J",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-J",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/9/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "05707122ef4e3753292bfeb0ec62c1313cf040c276f4da4b7eff66b00e6ec978",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/10",
+      "native_id": "BYB-K",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-K",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/10/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "36d8452063c3f0ff24e2d53ef2503bbe94f652fd657ecc6e4dbf0d4cf12b0829",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/11",
+      "native_id": "BYB-L",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-L",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/11/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "ec169482831ec99aa4d9197f579df89d39e3a388e3f5cafd4825273bfda4a705",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/12",
+      "native_id": "BYB-M",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-M",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/12/evidence/0/source_id",
+        "/records/12/direction_claims/0/evidence/0/source_id",
+        "/records/12/direction_claims/1/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "b86634c6e4b249c538b2bde210748e617c0cfc2b3b96909a7f88cc85d355bf78",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/13",
+      "native_id": "BYB-N",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-N",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/13/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "627a1bd15d8d573dc12029a20babd86f819842d0a66826d30bdd7aca165cd2d6",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/14",
+      "native_id": "BYB-CAND-LINEAR-STELA",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-LINEAR-STELA",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/14/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "fd937ec84ec71f57245b963745e581d6460321dd9eefd8fca02be1147b2d2bad",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/15",
+      "native_id": "BYB-CAND-PALIMPSEST-KAI3",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-PALIMPSEST-KAI3",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/15/evidence/0/source_id",
+        "/records/15/evidence/1/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "0bbadf2bfd8b1491a76d84d2737deba2ea7f6fe1bc25a87b3c7fe6197b2e2fb4",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/16",
+      "native_id": "BYB-CAND-PALIMPSEST-KAI4",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-PALIMPSEST-KAI4",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/16/evidence/0/source_id",
+        "/records/16/evidence/1/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "b117617f893872f4148e33a273f16cd7594d623f842c8c0624e80dd7cb022e64",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/17",
+      "native_id": "BYB-CAND-PALIMPSEST-KAI1",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-PALIMPSEST-KAI1",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/17/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "4329f24e23ecaea186a4404574c8988da285c4bd1fc4a035382c3893a6c83074",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/18",
+      "native_id": "BYB-CAND-MEGIDDO-RING",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-MEGIDDO-RING",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/18/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "d14b37b056b900daa19d16c7a98dd38fde292bf07353918c0e10ea277e89399c",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/19",
+      "native_id": "BYB-CAND-SINAI-526",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-SINAI-526",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/19/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "01c6710a6f448201b12464e035bf843bb791d408ad2d6cb8aff6575d206d2e2b",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/20",
+      "native_id": "BYB-CAND-THEBES-OSTRACON",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-THEBES-OSTRACON",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/20/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "542e1bcadbdb2e009e2d009992af5260a30de994714e44b8a955c8097c974b66",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/21",
+      "native_id": "BYB-CAND-LAMP-1",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-LAMP-1",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/21/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "6098bc12636016a70f0972f009659fdea9bdc3c5145d3774bc6c337ca82064db",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/22",
+      "native_id": "BYB-CAND-LAMP-2",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-LAMP-2",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/22/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "bbecdd1acbfa85e0a9ceefcb68ea480fbc2c5ae7c99b3c05c79e79677f0c1fbc",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/23",
+      "native_id": "BYB-CAND-LAMP-3",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-LAMP-3",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/23/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "435b801f35d0c3df34128d34859342d7bebd9d94319d2ab6eb798a1cc888fc94",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/24",
+      "native_id": "BYB-CAND-SCARABOID",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-SCARABOID",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/24/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "aa35d75cfab1ccae3daa1755d05d37e7b8f8f2dc365ffea5c40357ffd934f5fc",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/25",
+      "native_id": "BYB-CAND-TRIESTE",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-TRIESTE",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/25/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "573e1ccc6ed60fdaaad69b3fcc769a53e6ff335798bb4b233226ce8c76043e73",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/26",
+      "native_id": "BYB-CAND-CYLINDER-2004",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-CYLINDER-2004",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/26/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "4125080bdc73a08a1d081372a0a35a4f9acf015a3e4102c4b27c813e76e9c012",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/27",
+      "native_id": "BYB-CAND-RIETI",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-RIETI",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/27/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "1440e0f0dd683f97627d222858c878751da873aefb46eb4fdd961dc4dda370dd",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/28",
+      "native_id": "BYB-CAND-TEL-HALIF",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-TEL-HALIF",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/28/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "ed1d62a54b081f07f2189f31a357103a97de682a0384f6558d46e7940c002c30",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/29",
+      "native_id": "BYB-CAND-TELL-JISR",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-TELL-JISR",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/29/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "5210eea02b38d96006cde16bdb1d2a1c5e8205616be7298f0d66aa8d6ac540ae",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/30",
+      "native_id": "BYB-CAND-ULUBURUN",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-ULUBURUN",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/30/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "7f57e9a3ca65591a24b6499ea21189827edcd25326e9ddd8e4a9c33a15b22d11",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/31",
+      "native_id": "BYB-CAND-STONE-SEAL-2010",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-STONE-SEAL-2010",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/31/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "d5c8c758d1ae8ce9fce4790c44b85979679c52b9cdfad8bf5f9c5e4650409acd",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/32",
+      "native_id": "BYB-CAND-BALUA",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-BALUA",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/32/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "7304874e88724ef48dd072a20a6f2bf731a48fa4d91f7daf28b5ca2a66858b7d",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/33",
+      "native_id": "BYB-CAND-UMM-O3A",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-UMM-O3A",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/33/evidence/0/source_id",
+        "/records/33/evidence/1/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "6710800d9e781045f9c8665ddd92b52b87d9ddd7cfac6a17b046994a256f6682",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/34",
+      "native_id": "BYB-CAND-UMM-O3B",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-UMM-O3B",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/34/evidence/0/source_id",
+        "/records/34/evidence/1/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "a38ef2b63f994c22f171107dfa93431e5f5ed9ac36553b3e37f8fc002cd352b7",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/35",
+      "native_id": "BYB-CAND-UMM-O3C",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-UMM-O3C",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/35/evidence/0/source_id",
+        "/records/35/evidence/1/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "87e721c8c61dc97b2696938b8108b02f567fe6aced72da0f57fd62068b95da20",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/36",
+      "native_id": "BYB-CAND-KAHUN",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-KAHUN",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/36/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "6ee91d2118ed35345553ea7853b2b1c3b73baed1ce5c5662b230cf7fb1c2332b",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/37",
+      "native_id": "BYB-CAND-DEIR-RIFA",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-DEIR-RIFA",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/37/evidence/0/source_id",
+        "/records/37/reported_museum_identifier/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "81e003603c2f7b519cb2eccd1592407c199d58ad8a811fa1f9ea08e208d9f3a8",
+      "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/38",
+      "native_id": "BYB-CAND-ARROWHEAD-13104",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "catalogue:BYB-CAND-ARROWHEAD-13104",
+      "source_file_sha256": "84ba27b1fd53d4bcea4595ff0884e02ef00e6dbdae6a5eb6ab2e865aedf12eb4",
+      "source_lead_pointers": [
+        "/records/38/evidence/0/source_id"
+      ],
+      "source_path": "data/catalogue.json",
+      "source_record_sha256": "675cae945eb463a19dc2b72419eac9bbcd66d646ad1fd331f1ecd02f50e7d844",
+      "unit": "core_or_candidate_catalogue_entry"
+    }
+  ],
+  "repository": "hawkinsnick/Byblos-syllabary",
+  "review_dimensions": [
+    "object_identity",
+    "reading_and_layout",
+    "uncertainty",
+    "language_or_script_classification",
+    "source_independence",
+    "reuse_rights"
+  ],
+  "schema_version": "1.0",
+  "scientific_approval_granted": false,
+  "scope": "Declared native snapshots and source/task registers only; not a language-wide inventory",
+  "source_leads": [
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/2/doi",
+      "kind": "doi",
+      "source_path": "data/bibliography.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/16/doi",
+      "kind": "doi",
+      "source_path": "data/bibliography.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/16/bibliographic_evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/bibliography.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/16/bibliographic_evidence/1/source_id",
+      "kind": "source_id",
+      "source_path": "data/bibliography.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/17/doi",
+      "kind": "doi",
+      "source_path": "data/bibliography.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/17/bibliographic_evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/bibliography.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/25/doi",
+      "kind": "doi",
+      "source_path": "data/bibliography.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/26/doi",
+      "kind": "doi",
+      "source_path": "data/bibliography.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/entries/28/doi",
+      "kind": "doi",
+      "source_path": "data/bibliography.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/evidence/1/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/evidence/2/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/1/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/2/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/3/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/4/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/5/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/6/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/7/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/8/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/9/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/10/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/11/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/12/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/12/direction_claims/0/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/12/direction_claims/1/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/13/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/14/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/15/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/15/evidence/1/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/16/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/16/evidence/1/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/17/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/18/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/19/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/20/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/21/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/22/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/23/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/24/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/25/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/26/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/27/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/28/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/29/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/30/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/31/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/32/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/33/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/33/evidence/1/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/34/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/34/evidence/1/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/35/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/35/evidence/1/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/36/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/37/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/37/reported_museum_identifier/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/38/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/catalogue.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/count_claims/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/count_claims/1/source_id",
+      "kind": "source_id",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/count_claims/2/source_id",
+      "kind": "source_id",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/count_claims/3/source_id",
+      "kind": "source_id",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/count_claims/4/source_id",
+      "kind": "source_id",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/count_claims/5/source_id",
+      "kind": "source_id",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/count_claims/6/source_id",
+      "kind": "source_id",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/count_claims/7/source_id",
+      "kind": "source_id",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/count_claims/8/source_id",
+      "kind": "source_id",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/count_claims/9/source_id",
+      "kind": "source_id",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/count_claims/10/source_id",
+      "kind": "source_id",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/0/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/0/source_ids/1",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/1/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/2/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/3/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/3/source_ids/1",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/4/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/6/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/7/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/7/source_ids/1",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/7/source_ids/2",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/8/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/8/source_ids/1",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/9/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/9/source_ids/1",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/9/source_ids/2",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/10/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/10/source_ids/1",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/10/source_ids/2",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/10/evidence/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/10/evidence/1/source_id",
+      "kind": "source_id",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/10/evidence/2/source_id",
+      "kind": "source_id",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/11/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/11/source_ids/1",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/12/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/12/source_ids/1",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/12/source_ids/2",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/12/source_ids/3",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/gaps/13/source_ids/0",
+      "kind": "source_ids",
+      "source_path": "data/coverage.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/0/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/0/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/0/doi",
+      "kind": "doi",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/1/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/1/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/1/doi",
+      "kind": "doi",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/2/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/2/bibliographic_claims/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/2/bibliographic_claims/1/source_id",
+      "kind": "source_id",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/3/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/3/bibliographic_claims/0/source_id",
+      "kind": "source_id",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/3/bibliographic_claims/1/source_id",
+      "kind": "source_id",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/4/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/4/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/5/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/5/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/6/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/6/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/6/doi",
+      "kind": "doi",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/7/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/7/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/8/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/8/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/9/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/9/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/10/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/10/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/11/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/11/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/12/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/12/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/13/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/13/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/14/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/14/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/15/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/15/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/16/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/16/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/17/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/17/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/18/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/18/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/19/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/19/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/20/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/20/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/21/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/21/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/22/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/22/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/23/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/23/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/24/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/24/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/25/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/25/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/26/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/26/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/27/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/27/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/28/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/28/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/29/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/29/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/30/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/30/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/31/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/31/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/32/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/32/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/33/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/33/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/34/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/34/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/35/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/35/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/36/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/36/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/36/doi",
+      "kind": "doi",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/37/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/37/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/37/doi",
+      "kind": "doi",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/38/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/38/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/38/doi",
+      "kind": "doi",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/39/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/39/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/40/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/40/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/41/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/41/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/41/doi",
+      "kind": "doi",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/42/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/42/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/43/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/43/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/43/doi",
+      "kind": "doi",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/44/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/44/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/45/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/45/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/46/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/46/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/47/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/47/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/47/doi",
+      "kind": "doi",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/48/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/48/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/48/doi",
+      "kind": "doi",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/49/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/49/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/50/citation",
+      "kind": "citation",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/50/url",
+      "kind": "url",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/50/doi",
+      "kind": "doi",
+      "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/source-inspection-2026-10-02.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/sources/0/url",
+      "kind": "url",
+      "source_path": "research/source-inspection-2026-10-02.json"
+    }
+  ],
+  "tasks": [
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/gaps/0",
+      "native_status": "open",
+      "native_task_id": "GAP-COUNT",
+      "source_path": "data/coverage.json",
+      "task": "Reconcile 14 entries with 15 reported inscriptions using object, surface and edition crosswalks."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/gaps/1",
+      "native_status": "open",
+      "native_task_id": "GAP-FRAGMENTS",
+      "source_path": "data/coverage.json",
+      "task": "Identify the 28 proposed fragments individually, their sources, and membership arguments; do not assume they are disjoint from other counts."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/gaps/2",
+      "native_status": "open",
+      "native_task_id": "GAP-DIGITAL",
+      "source_path": "data/coverage.json",
+      "task": "OCBI located; reconcile provider units and metadata crosswalk, obtain explicit transcription rights and encoding map, inspect edition provenance."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/gaps/3",
+      "native_status": "open",
+      "native_task_id": "GAP-EDITIONS",
+      "source_path": "data/coverage.json",
+      "task": "Acquire and inspect original editions; resolve exact bibliography and plates."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/gaps/4",
+      "native_status": "open",
+      "native_task_id": "GAP-BIBLIOGRAPHY",
+      "source_path": "data/coverage.json",
+      "task": "Build a systematic bibliographic search log including later additions, reviews and opposing interpretations."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/gaps/5",
+      "native_status": "open",
+      "native_task_id": "GAP-REVIEW",
+      "source_path": "data/coverage.json",
+      "task": "Arrange independent specialist review; none performed."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/gaps/6",
+      "native_status": "open",
+      "native_task_id": "GAP-OCBI",
+      "source_path": "data/coverage.json",
+      "task": "Map all 43 rendered entries to objects, faces, readings and inscription identities; distinguish provider certainty from our assessment."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/gaps/7",
+      "native_status": "open",
+      "native_task_id": "GAP-RIGHTS",
+      "source_path": "data/coverage.json",
+      "task": "Record explicit permission or licence for every proposed redistributed sequence, image or plate."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/gaps/8",
+      "native_status": "open",
+      "native_task_id": "GAP-SIGNS",
+      "source_path": "data/coverage.json",
+      "task": "Collate published sign lists and tokens; do not instantiate unseen signs from reported inventory sizes."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/gaps/9",
+      "native_status": "open",
+      "native_task_id": "GAP-TRANSCRIPTION",
+      "source_path": "data/coverage.json",
+      "task": "Prepare rights-supported sign sequences for each in-scope inscription with uncertainties and independent checks."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/gaps/10",
+      "native_status": "resolved",
+      "native_task_id": "GAP-PROVIDER-LINK",
+      "source_path": "data/coverage.json",
+      "task": "Resolve b'c link to Kahun slide versus O-3c label on separate slide."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/gaps/11",
+      "native_status": "open",
+      "native_task_id": "GAP-DIRECTION-M",
+      "source_path": "data/coverage.json",
+      "task": "Collate m: conditional left-to-right in survey, right-to-left in provider config."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/gaps/12",
+      "native_status": "open",
+      "native_task_id": "GAP-UMM",
+      "source_path": "data/coverage.json",
+      "task": "Obtain Schwartz 2010/2021 full text; reconcile four cylinders with three O-3 labels, establish excavation identities, evaluate alphabetic alternative; resolve XIII/XV bibliography conflict."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/gaps/13",
+      "native_status": "open",
+      "native_task_id": "GAP-PHOTO-IDENTITY",
+      "source_path": "data/coverage.json",
+      "task": "Collate the licensed museum photograph with original plates and museum accession records before assigning it to a core inscription or surface."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/0",
+      "native_status": null,
+      "native_task_id": "BYB-PRE-001",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Acquire or inspect lawful copies and record exact pages or plates, object identities and rights."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/1",
+      "native_status": null,
+      "native_task_id": "BYB-PRE-002",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Crosswalk provider entries to physical objects, faces and catalogue labels without endorsing provider certainty."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/2",
+      "native_status": "CONVENTIONAL_14_GENEALOGY_RESOLVED_15_DISCREPANCY_OPEN",
+      "native_task_id": "BYB-PRE-003",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Conventional 14-label Dunand genealogy is now institutionally grounded as 10 (1945) + 4 (1978); reconcile the remaining 15-count/provider discrepancy and candidate identities while keeping h/j possible same-stela identity separate."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/3",
+      "native_status": "ACTIVE_PUBLIC_SCHOLARSHIP_ROUTE",
+      "native_task_id": "BYB-PRE-004",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Inspect accessible scholarship and record explicit inspection states, locators and lineage."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only_boundary/0",
+      "native_status": null,
+      "native_task_id": "BYB-HUM-001",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "adjudicate inscription membership and disputed candidate status"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only_boundary/1",
+      "native_status": null,
+      "native_task_id": "BYB-HUM-002",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "adjudicate sign identity, direction and competing transcriptions"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only_boundary/2",
+      "native_status": null,
+      "native_task_id": "BYB-HUM-003",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "independently review any admitted transcription"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only_boundary/3",
+      "native_status": null,
+      "native_task_id": "BYB-HUM-004",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "evaluate linguistic or decipherment claims"
+    }
+  ],
+  "terminal_pre_expert_maximum_established": false
+}

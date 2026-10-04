@@ -1,48 +1,4 @@
 {
-  "schema_version": "1.0",
-  "corpus": "Byblos-syllabary",
-  "required_authorities": [
-    {
-      "role": "coverage",
-      "path": "data/coverage.json",
-      "required": true
-    },
-    {
-      "role": "sources",
-      "path": "data/sources.json",
-      "required": true
-    },
-    {
-      "role": "rights",
-      "path": "docs/RIGHTS.md",
-      "required": true
-    },
-    {
-      "role": "institutional_corpus_baseline",
-      "path": "research/authoritative-corpus-baseline.json",
-      "required": true
-    },
-    {
-      "role": "core_object_reconciliation",
-      "path": "research/core-object-reconciliation.json",
-      "required": true
-    },
-    {
-      "role": "source_inspection",
-      "path": "research/source-inspection-2026-10-02.json",
-      "required": true
-    },
-    {
-      "role": "native_catalogue",
-      "path": "data/catalogue.json",
-      "required": true
-    },
-    {
-      "role": "surface_inventory",
-      "path": "data/surfaces.json",
-      "required": true
-    }
-  ],
   "behavioral_gates": [
     "Scientific corpus 1.0 is not achieved by software 1.0",
     "Zero verified sign sequences means no sequence-frequency inference",
@@ -51,5 +7,59 @@
     "No project-wide data license; unresolved sequence and plate rights remain explicit",
     "The institutional 14-object baseline constrains corpus identity but does not supply verified sign sequences.",
     "The 14 Dunand core labels now have institutionally reconciled object classes, but h/j may be one physical stele and no core sign sequence is thereby verified."
-  ]
+  ],
+  "corpus": "Byblos-syllabary",
+  "required_authorities": [
+    {
+      "path": "data/coverage.json",
+      "required": true,
+      "role": "coverage"
+    },
+    {
+      "path": "data/sources.json",
+      "required": true,
+      "role": "sources"
+    },
+    {
+      "path": "docs/RIGHTS.md",
+      "required": true,
+      "role": "rights"
+    },
+    {
+      "path": "research/authoritative-corpus-baseline.json",
+      "required": true,
+      "role": "institutional_corpus_baseline"
+    },
+    {
+      "path": "research/core-object-reconciliation.json",
+      "required": true,
+      "role": "core_object_reconciliation"
+    },
+    {
+      "path": "research/source-inspection-2026-10-02.json",
+      "required": true,
+      "role": "source_inspection"
+    },
+    {
+      "path": "data/catalogue.json",
+      "required": true,
+      "role": "native_catalogue"
+    },
+    {
+      "path": "data/surfaces.json",
+      "required": true,
+      "role": "surface_inventory"
+    },
+    {
+      "path": "research/collection-work-ledger.json",
+      "required": true,
+      "role": "collection_work_ledger"
+    },
+    {
+      "path": "review/collection-packet.json",
+      "required": true,
+      "role": "collection_review_packet"
+    }
+  ],
+  "schema_version": "1.0"
 }
