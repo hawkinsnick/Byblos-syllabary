@@ -14,11 +14,14 @@ The native surface register grows from seven to eighteen reported surfaces, cove
 
 `research/core-counting-unit-ledger.json` unifies the incompatible denominators without collapsing them: 14 publication labels in two cohorts; 13 labels represented by 18 line surfaces; 126 reported line targets; one column-only label (`g`) with six reported columns, only five certainly textual; zero verified sequences; and no certified physical-monument count.
 
+`research/core-primary-access-routes.json` resolves catalogue-level access identities for both core editions without claiming page inspection. Dunand's 1945 *Byblia Grammata* is cross-identified as Open Library **OL6188790M**, Internet Archive item **bybliagrammatado0000duna**, LCCN **55042246**, OCLC **1191221**, and Google Books **RnYtAAAAMAAJ** (xix + 200 pages); the available Internet Archive route is access-restricted/borrow and Google Books exposes metadata/snippets, not a collated edition. Dunand's later article is Tübingen KeiBi **KEI00067546 / KeiBi 43:205**, *Bulletin du Musée de Beyrouth* 30, pp. 51–59, four figures and two plates, nominally 1978 but recorded as appearing in 1981. `research/core-primary-access-route-audit.json` binds these three catalogue records to all ten 1945 labels and four 1978 labels. It adds zero inspected primary pages, verified sequences, or physical identities.
+
 ```sh
 python scripts/check_edition_locators.py --check
 python scripts/audit_core_provenance.py --check
 python scripts/audit_core_genealogy.py --check
 python scripts/audit_core_counting_units.py --check
+python scripts/audit_core_access_routes.py --check
 python -m byblos validate
 python -m byblos release-check
 python -m byblos review-packet
@@ -38,4 +41,4 @@ Source: Juan-Pablo Vita and José-Ángel Zamora, “The Byblos Script,” in *Pa
 
 ## Remaining frontier
 
-Inspect lawful copies of Dunand's original editions and plates; establish museum/object identities; resolve provider face/variant crosswalks; collate sign sequences and uncertain directions. Software integrity and expanded review targets do not establish scientific corpus 1.0 or exhaustive coverage.
+Inspect lawful copies of Dunand's original editions and plates; the exact catalogue routes now distinguish borrow-restricted, metadata/snippet-only and bibliographic-only access states. Establish museum/object identities; resolve provider face/variant crosswalks; collate sign sequences and uncertain directions. Software integrity, catalogue discovery and expanded review targets do not establish scientific corpus 1.0 or exhaustive coverage.

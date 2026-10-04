@@ -66,6 +66,16 @@
       "role": "core_counting_unit_ledger",
       "path": "research/core-counting-unit-ledger.json",
       "required": true
+    },
+    {
+      "role": "core_primary_access_routes",
+      "path": "research/core-primary-access-routes.json",
+      "required": true
+    },
+    {
+      "role": "core_primary_access_route_audit",
+      "path": "research/core-primary-access-route-audit.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -78,6 +88,7 @@
     "The 14 Dunand core labels now have institutionally reconciled object classes, but h/j may be one physical stele and no core sign sequence is thereby verified.",
     "Eighteen reported surfaces cover thirteen core labels; BYB-G remains a column layout rather than an invented line inventory.",
     "Primary edition locators reported by the survey do not establish direct primary collation. Keep j entry page-range/caption anomalies unresolved.",
-    "Publication labels, surfaces, lines, columns, physical monuments and verified sequences remain incompatible denominators."
+    "Publication labels, surfaces, lines, columns, physical monuments and verified sequences remain incompatible denominators.",
+    "Catalogue identifiers and access routes are discovery metadata; borrow restrictions, snippets and bibliographic records do not establish primary-page inspection, verified sequences, or physical-object identity."
   ]
 }

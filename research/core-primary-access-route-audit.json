@@ -1,0 +1,45 @@
+{
+  "format": "byblos-core-access-route-audit-v1",
+  "routes_sha256": "bc8ff86bae22dc31a42daaf5851c86cd29d702857a32bfc0a59435a3f7ec4f10",
+  "genealogy_sha256": "9d4ed03d245085b49d53839af8062e13c082d07c4b02d2000087876b48e23765",
+  "edition_count": 2,
+  "core_label_count": 14,
+  "catalogue_record_count": 3,
+  "primary_pages_collated": 0,
+  "verified_sequences": 0,
+  "certified_physical_monuments": null,
+  "routes": [
+    {
+      "edition": "Dunand 1945",
+      "labels": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j"
+      ],
+      "access_states": [
+        "borrow_required_access_restricted",
+        "metadata_and_snippets_only"
+      ]
+    },
+    {
+      "edition": "Dunand 1978",
+      "labels": [
+        "k",
+        "l",
+        "m",
+        "n"
+      ],
+      "access_states": [
+        "bibliographic_record_only"
+      ]
+    }
+  ],
+  "boundary": "These routes establish exact catalogue identities and lawful access states, not primary-edition inspection. Borrow, subscription or physical-library availability is not bypassed. Publication labels remain distinct from physical monuments, and no sequence or object identifier is promoted."
+}
