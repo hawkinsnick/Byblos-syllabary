@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "1077fe580ad2ebe2fbd73e7dba578628fe29c879",
+  "source_commit": "8b06b5b9e31fc7a1420722cb41149651d9f7cfd1",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T06:04:45+00:00",
+  "generated_at_utc": "2026-10-04T07:01:27+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -16,8 +16,8 @@
     {
       "role": "source_reconciliation_guide",
       "path": "docs/SOURCE-RECONCILIATION.md",
-      "sha256": "682680ee7b051479f5124a19e11238e2bcbbac24cd78186d97d741de83493383",
-      "bytes": 3771
+      "sha256": "ea25615f34ce210d8a9d9207984905b6ed19b2f7b885aa4c8a64a6e6551ce747",
+      "bytes": 4188
     },
     {
       "role": "core_edition_locators",
@@ -42,6 +42,12 @@
       "path": "research/core-publication-genealogy-audit.json",
       "sha256": "9d4ed03d245085b49d53839af8062e13c082d07c4b02d2000087876b48e23765",
       "bytes": 3683
+    },
+    {
+      "role": "core_counting_unit_ledger",
+      "path": "research/core-counting-unit-ledger.json",
+      "sha256": "18c085ad53926cc1bdb2136ac2aae4446b2958b5b1140b654a0a594d7ae84d89",
+      "bytes": 1672
     },
     {
       "role": "source_inspection",
