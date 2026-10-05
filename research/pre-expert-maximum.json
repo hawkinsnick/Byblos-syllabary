@@ -141,5 +141,16 @@
     "independent_expert_review_added": false,
     "evidence": "research/dhorme-1946-source-audit.json",
     "figures_layout_inspected": 10
+  },
+  "final_agreed_pass": {
+    "status": "COMPLETE_SCOPED_PAUSE_NOT_TERMINAL_READINESS",
+    "dependent_stele_line_comparisons": 10,
+    "focused_drawing_comparisons": 4,
+    "historical_display_targets": 103,
+    "canonical_lines_added": 0,
+    "expert_review_added": false,
+    "evidence": "research/final-source-pass-audit.json",
+    "handoff": "docs/EXPERT-REVIEW-HANDOFF.md",
+    "pause_basis": "User authorized one additional Byblos pass and then pivot if appropriate. Further literature inspection and lawful edition acquisition remain open; this is not an exhaustive-source or all-machine-work completion claim."
   }
 }

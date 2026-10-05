@@ -1,3 +1,10 @@
+## 1.3.3 — 2026-10-05 UTC
+
+- Compared the unnumbered dependent Dhorme stele drawing across ten broad line bands and four focused damage/erratum targets; neither proposed correction nor count explanation is adopted.
+- Added 103 source display targets across ten figures, with explicit unit boundaries and a full-page route for the truncated figure-9 upper-left target.
+- Prepared six count-policy questions and a focused expert-review handoff; recorded the agreed scoped pause without claiming terminal readiness.
+- Added replayable final-pass audit, admission/crop regression guards and synchronized AI evidence authorities. No canonical lines, verified sequences or expert approvals added.
+
 ## 1.3.2 — 2026-10-05 UTC
 
 - Compared all 123 stele a source drawing positions with literal type-table assertions and variant buckets: 105 outlined-form compatibility dispositions, nine partial-form compatibility dispositions, one printed-type conflict and eight unassigned positions. Eighteen marker/gap/collision targets have detailed observations.

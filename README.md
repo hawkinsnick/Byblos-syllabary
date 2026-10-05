@@ -1,6 +1,6 @@
 # Byblos syllabary research corpus
 
-Version: 1.3.2 — stable software workflow; provisional research catalogue.
+Version: 1.3.3 — stable software workflow; provisional research catalogue.
 
 An open research project working toward exhaustive, evidence-based coverage of the
 undeciphered Byblos script. Its language affiliation is unresolved. The name
@@ -149,3 +149,5 @@ release policy rejects known media files in the repository.
 ## Source reconciliation checkpoint
 
 See [the 4 October 2026 evidence checkpoint](docs/SOURCE-RECONCILIATION.md) for new source-located evidence, reproducible checks, unresolved anomalies and the remaining primary-source work.
+
+The final source pass adds [a focused review handoff](docs/EXPERT-REVIEW-HANDOFF.md), ten dependent stele line comparisons and 103 historical display targets. These are source locations, not certified ancient lines or glyph sequences. The 32/92 correction and count explanations remain unadopted.

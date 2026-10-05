@@ -1,0 +1,284 @@
+{
+  "format": "byblos-final-source-pass-audit-v1",
+  "input_hashes": {
+    "research/historical-layout-targets.json": "eaca5655638968ff718cc7d19e7477dcf3464dc5debf8a2b6013eb213493ff2e",
+    "research/stele-a-dependent-drawing-comparison.json": "3087508d6d4e7586dcd00e4c34858350ab238011eb777faa5d87f0aeaec0cfd9",
+    "research/dhorme-1946-source-joins.json": "acec92c805a4c54ea8073e1cb197aba31f74770d164df4858d914d6d1ab5720f",
+    "research/dhorme-1946-acquisition.json": "d0d2793e6987077bdb338a82c986898b97161b6dfe8ad172e8afcb7d7ff2f00a",
+    "research/stele-a-facsimile-number-index.json": "e65598e16b5c9a2dbccdb2a5583154bef53d7f09528547904eea90f61c4c237e",
+    "research/dhorme-1946-source-audit.json": "ff6afb17a2d184e41a7b56214143fcd2d9443b6e75527048d57f07fc3b11cf3f"
+  },
+  "source_display_targets": 103,
+  "horizontal_line_band_targets": 98,
+  "column_targets": 5,
+  "display_panels": 15,
+  "figure_coverage": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "crop_corrected_targets": 1,
+  "broad_stele_line_comparisons": 10,
+  "focused_drawing_comparisons": 4,
+  "count_policy_review_targets": [
+    {
+      "record_id": "BYB-A",
+      "article_locator": "p. 23",
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": 119,
+      "face_count_sum_project_derived": null,
+      "reported_type_count": 38,
+      "survey_count_assertion": {
+        "value": 123,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "survey_type_assertion": {
+        "components": [
+          34,
+          3
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "historical_layout": null,
+      "survey_layout": {
+        "reported_lines": 10,
+        "reported_face_lines": null
+      },
+      "count_comparison": "UNRECONCILED_SOURCE_UNITS_AND_READING_CONVENTIONS",
+      "native_count_changed": false,
+      "independent_confirmation": false
+    },
+    {
+      "record_id": "BYB-B",
+      "article_locator": "p. 34",
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": 41,
+      "face_count_sum_project_derived": 41,
+      "reported_type_count": null,
+      "survey_count_assertion": {
+        "value": 43,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [
+          {
+            "source_category": "signs",
+            "value": 39
+          },
+          {
+            "source_category": "dividers",
+            "value": 4
+          }
+        ],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": true
+      },
+      "survey_type_assertion": {
+        "components": [
+          23,
+          4
+        ],
+        "approximate": false,
+        "component_semantics": "dividers_explicit_for_second_component",
+        "not_project_sign_inventory": true
+      },
+      "historical_layout": {
+        "reported_face_lines": {
+          "a": 4,
+          "b": 3
+        },
+        "reported_lines": 7
+      },
+      "survey_layout": {
+        "reported_lines": 7,
+        "reported_face_lines": {
+          "A": 4,
+          "B": 3
+        }
+      },
+      "count_comparison": "UNRECONCILED_SOURCE_UNITS_AND_READING_CONVENTIONS",
+      "native_count_changed": false,
+      "independent_confirmation": false
+    },
+    {
+      "record_id": "BYB-D",
+      "article_locator": "p. 12",
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": 461,
+      "face_count_sum_project_derived": null,
+      "reported_type_count": 64,
+      "survey_count_assertion": {
+        "value": 457,
+        "approximate": true,
+        "unit": "source_reported_signs",
+        "components": [
+          {
+            "source_category": "numerals_additional",
+            "value": 3
+          }
+        ],
+        "numerals_included_in_value": false,
+        "dividers_included_in_value": null
+      },
+      "survey_type_assertion": {
+        "components": [
+          65,
+          3
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "historical_layout": {
+        "reported_face_lines": {
+          "a": 22,
+          "b": 19
+        },
+        "reported_lines": 41
+      },
+      "survey_layout": {
+        "reported_lines": 41,
+        "reported_face_lines": {
+          "A": 22,
+          "B": 19
+        }
+      },
+      "count_comparison": "UNRECONCILED_SOURCE_UNITS_AND_READING_CONVENTIONS",
+      "native_count_changed": false,
+      "independent_confirmation": false
+    },
+    {
+      "record_id": "BYB-G",
+      "article_locator": "p. 27",
+      "claim_voice": "DHORME_DESCRIPTIVE_PROSE",
+      "reported_sign_count": 38,
+      "face_count_sum_project_derived": null,
+      "reported_type_count": 17,
+      "survey_count_assertion": {
+        "value": 40,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "survey_type_assertion": {
+        "components": [
+          18,
+          3
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "historical_layout": {
+        "reported_columns": 5
+      },
+      "survey_layout": {
+        "reported_lines": null,
+        "reported_face_lines": null,
+        "reported_columns": 6,
+        "certainly_textual_columns": 5,
+        "note": "Columns, not six lines; last column unclear."
+      },
+      "count_comparison": "UNRECONCILED_SOURCE_UNITS_AND_READING_CONVENTIONS",
+      "native_count_changed": false,
+      "independent_confirmation": false
+    },
+    {
+      "record_id": "BYB-H",
+      "article_locator": "p. 28",
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": 6,
+      "face_count_sum_project_derived": null,
+      "reported_type_count": null,
+      "survey_count_assertion": {
+        "value": 7,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "survey_type_assertion": {
+        "components": [
+          4,
+          3
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "historical_layout": {
+        "reported_lines": 3,
+        "lines_yielding_signs": 2
+      },
+      "survey_layout": {
+        "reported_lines": 4,
+        "reported_face_lines": null,
+        "certainly_textual_lines": 3
+      },
+      "count_comparison": "UNRECONCILED_SOURCE_UNITS_AND_READING_CONVENTIONS",
+      "native_count_changed": false,
+      "independent_confirmation": false
+    },
+    {
+      "record_id": "BYB-I",
+      "article_locator": "p. 31",
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": null,
+      "face_count_sum_project_derived": 84,
+      "reported_type_count": null,
+      "survey_count_assertion": {
+        "value": 96,
+        "approximate": true,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "survey_type_assertion": {
+        "components": [
+          36
+        ],
+        "approximate": true,
+        "component_semantics": "single_reported_value",
+        "not_project_sign_inventory": true
+      },
+      "historical_layout": {
+        "reported_face_lines": {
+          "a": 4,
+          "b": 5
+        },
+        "reported_lines": 9
+      },
+      "survey_layout": {
+        "reported_lines": 9,
+        "reported_face_lines": {
+          "A": 4,
+          "B": 5
+        }
+      },
+      "count_comparison": "UNRECONCILED_SOURCE_UNITS_AND_READING_CONVENTIONS",
+      "native_count_changed": false,
+      "independent_confirmation": false
+    }
+  ],
+  "canonical_lines_added": 0,
+  "verified_sequences_added": 0,
+  "independent_reviews_added": 0,
+  "disposition": "AGREED_FINAL_PASS_COMPLETE_SCOPED_PAUSE_NOT_TERMINAL_READINESS",
+  "boundary": "103 source display targets = 98 horizontal line bands + five columns across fifteen display panels, not 103 inscriptions, certified ancient lines or glyph sequences. Panel positions are not physical face identities; no reading direction or sign count is inferred."
+}
