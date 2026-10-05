@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0",
   "project": "Byblos-syllabary",
-  "repository_version": "1.3.2",
+  "repository_version": "1.3.3",
   "checked": "2026-10-05",
   "date_basis": "UTC",
-  "milestone": "SOURCE_DRAWING_TYPE_TABLE_COMPARISON_AND_UNADOPTED_CORRECTIONS",
+  "milestone": "DEPENDENT_DRAWING_COMPARISON_AND_SCOPED_REVIEW_HANDOFF",
   "native_evidence_counts": {
     "catalogue_records": 39,
     "reported_core": 14,
@@ -43,6 +43,9 @@
     "historical_article_visually_inspected_page_views": 11,
     "historical_article_count_records": 6,
     "historical_figures_layout_inspected": 10,
+    "historical_display_targets": 103,
+    "dependent_stele_line_comparisons": 10,
+    "focused_dependent_drawing_comparisons": 4,
     "source_recurrence_assertions_numerically_checked": 1
   },
   "scientific_results": {
@@ -128,7 +131,7 @@
   "next_work": [
     "Cross-collate the source drawing/type comparisons against the later edition, physical images and independent readings; source drawing compatibility does not certify native glyph identity.",
     "Test the unadopted VIII 32/92 erratum and edge-position 27 count hypothesis against the later edition and survey.",
-    "Compare the ten dependent Dhorme figure witnesses with the original editions; retain source count policies and h/j physical uncertainty.",
+    "Use the 103 historical display targets to collate lawful edition/physical images; source panel IDs do not identify physical faces.",
     "Acquire lawful Dunand 1945 and 1978 edition/plate access for complete source sequences.",
     "Resolve provider face/variant/object identities and g/h/m/n source discrepancies.",
     "Obtain applicable upstream terms before distributing provider readings or images."
@@ -142,7 +145,9 @@
     "research/stele-a-type-table-audit.json",
     "research/stele-a-facsimile-review-audit.json",
     "docs/STELE-A-SOURCE-REVIEW.md",
-    "research/dhorme-1946-source-audit.json"
+    "research/dhorme-1946-source-audit.json",
+    "research/final-source-pass-audit.json",
+    "docs/EXPERT-REVIEW-HANDOFF.md"
   ],
   "boundary": "Five edition-specific type labels and fourteen numbered-position assertions are a selected primary-source pilot, not five certified native sign identities or a verified full sequence. Source counts, provider rows and ancient occurrences remain distinct."
 }

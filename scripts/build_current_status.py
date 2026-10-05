@@ -12,13 +12,14 @@ from scripts.audit_numbered_assertions import build as numbering_audit
 from scripts.audit_type_table import build as table_audit
 from scripts.audit_facsimile_review import build as drawing_audit
 from scripts.audit_dhorme_source_joins import build as historical_audit
+from scripts.audit_final_source_pass import build as final_audit
 
 
 def build():
-    native=audit(load_bundle(ROOT));source=source_audit(ROOT);numbered=numbering_audit(ROOT);table=table_audit(ROOT);drawing=drawing_audit(ROOT);historical=historical_audit(ROOT)
+    native=audit(load_bundle(ROOT));source=source_audit(ROOT);numbered=numbering_audit(ROOT);table=table_audit(ROOT);drawing=drawing_audit(ROOT);historical=historical_audit(ROOT);final=final_audit(ROOT)
     if not native['structure_valid']:raise ValueError('Native corpus structure invalid')
     return {'schema_version':'1.0','project':'Byblos-syllabary','repository_version':native['version'],
-        'checked':'2026-10-05','date_basis':'UTC','milestone':'SOURCE_DRAWING_TYPE_TABLE_COMPARISON_AND_UNADOPTED_CORRECTIONS',
+        'checked':'2026-10-05','date_basis':'UTC','milestone':'DEPENDENT_DRAWING_COMPARISON_AND_SCOPED_REVIEW_HANDOFF',
         'native_evidence_counts':native['counts'],
         'source_scoped_evidence':{'survey_core_count_records':source['core_count_assertion_records'],
             'provider_entries_structurally_inspected':source['provider_entries'],
@@ -40,6 +41,9 @@ def build():
             'historical_article_visually_inspected_page_views':historical['visually_inspected_page_views'],
             'historical_article_count_records':historical['historical_count_records'],
             'historical_figures_layout_inspected':historical['historical_figures_layout_inspected'],
+            'historical_display_targets':final['source_display_targets'],
+            'dependent_stele_line_comparisons':final['broad_stele_line_comparisons'],
+            'focused_dependent_drawing_comparisons':final['focused_drawing_comparisons'],
             'source_recurrence_assertions_numerically_checked':len(numbered['recurrence_assertions_checked'])},
         'scientific_results':{'scientific_1_0_ready':native['scientific_1_0_ready'],
             'complete_verified_sequences':native['counts']['verified_core_sequences'],
@@ -55,7 +59,7 @@ def build():
             'selected_primary_numeric_metadata':'Original attributed factual assertions only'},
         'next_work':['Cross-collate the source drawing/type comparisons against the later edition, physical images and independent readings; source drawing compatibility does not certify native glyph identity.',
             'Test the unadopted VIII 32/92 erratum and edge-position 27 count hypothesis against the later edition and survey.',
-            'Compare the ten dependent Dhorme figure witnesses with the original editions; retain source count policies and h/j physical uncertainty.',
+            'Use the 103 historical display targets to collate lawful edition/physical images; source panel IDs do not identify physical faces.',
             'Acquire lawful Dunand 1945 and 1978 edition/plate access for complete source sequences.',
             'Resolve provider face/variant/object identities and g/h/m/n source discrepancies.',
             'Obtain applicable upstream terms before distributing provider readings or images.'],
@@ -63,7 +67,8 @@ def build():
             'research/stele-a-numbering-audit.json','research/stele-a-count-comparison.json',
             'research/dunand-1930-acquisition.json','research/stele-a-type-table-audit.json',
             'research/stele-a-facsimile-review-audit.json','docs/STELE-A-SOURCE-REVIEW.md',
-            'research/dhorme-1946-source-audit.json'],
+            'research/dhorme-1946-source-audit.json','research/final-source-pass-audit.json',
+            'docs/EXPERT-REVIEW-HANDOFF.md'],
         'boundary':'Five edition-specific type labels and fourteen numbered-position assertions are a selected primary-source pilot, not five certified native sign identities or a verified full sequence. Source counts, provider rows and ancient occurrences remain distinct.'}
 
 

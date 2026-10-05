@@ -46,3 +46,4 @@ jobs:
       - run: python scripts/audit_facsimile_review.py --check
       - run: python scripts/inspect_stele_a.py --check-report
       - run: python scripts/audit_dhorme_source_joins.py --check
+      - run: python scripts/audit_final_source_pass.py --check

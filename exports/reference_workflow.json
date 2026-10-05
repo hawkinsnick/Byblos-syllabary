@@ -1,5 +1,5 @@
 {
-  "evidence_sha256": "c6f5a3a37f9765a1e41ba0cc72e96feed08160e9c62b6528a9395e8b1b240d6f",
+  "evidence_sha256": "590d835c9405b7d93dde8e709bf856a44843f0d345352913bf0e912216621340",
   "format": "byblos-reference-workflow-v1",
   "interpretation": "A project publication plan, not a legal clearance or finding of infringement. Unknown, denied and unanswered permissions are not grants. Access and attribution do not establish redistribution rights. An asset declaration applies only to its recorded scope; this report never transfers that scope to other media or sequences.",
   "scientific_1_0_ready": false,
@@ -1187,5 +1187,5 @@
       "url": "https://www.academia.edu/37706221/The_Byblos_Script"
     }
   ],
-  "version": "1.3.2"
+  "version": "1.3.3"
 }

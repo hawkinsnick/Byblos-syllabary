@@ -1,0 +1,125 @@
+{
+  "format": "byblos-stele-a-dependent-drawing-comparison-v1",
+  "checked": "2026-10-05",
+  "date_basis": "UTC",
+  "record_id": "BYB-A",
+  "earlier_source_id": "dunand-1930",
+  "earlier_asset_sha256": "ef0e9222509a5f316eab7b59100b9fcb0b3beadeac50fffc397e18d4c95f799f",
+  "later_source_id": "dhorme-1946",
+  "later_asset_sha256": "230f846ab6beba4be95830e0e94306505b26f4ce3d8b1e43ec646a7efee079bc",
+  "later_locator": "p. 24, fig. 3",
+  "later_has_source_ordinal_labels": false,
+  "line_comparisons": [
+    {
+      "earlier_source_line_label": "I",
+      "later_display_line_band": 1,
+      "status": "BROAD_LAYOUT_CORRESPONDENCE_ONLY",
+      "one_to_one_glyph_alignment_certified": false
+    },
+    {
+      "earlier_source_line_label": "II",
+      "later_display_line_band": 2,
+      "status": "BROAD_LAYOUT_CORRESPONDENCE_ONLY",
+      "one_to_one_glyph_alignment_certified": false
+    },
+    {
+      "earlier_source_line_label": "III",
+      "later_display_line_band": 3,
+      "status": "BROAD_LAYOUT_CORRESPONDENCE_ONLY",
+      "one_to_one_glyph_alignment_certified": false
+    },
+    {
+      "earlier_source_line_label": "IV",
+      "later_display_line_band": 4,
+      "status": "BROAD_LAYOUT_CORRESPONDENCE_ONLY",
+      "one_to_one_glyph_alignment_certified": false
+    },
+    {
+      "earlier_source_line_label": "V",
+      "later_display_line_band": 5,
+      "status": "BROAD_LAYOUT_CORRESPONDENCE_ONLY",
+      "one_to_one_glyph_alignment_certified": false
+    },
+    {
+      "earlier_source_line_label": "VI",
+      "later_display_line_band": 6,
+      "status": "BROAD_LAYOUT_CORRESPONDENCE_ONLY",
+      "one_to_one_glyph_alignment_certified": false
+    },
+    {
+      "earlier_source_line_label": "VII",
+      "later_display_line_band": 7,
+      "status": "BROAD_LAYOUT_CORRESPONDENCE_ONLY",
+      "one_to_one_glyph_alignment_certified": false
+    },
+    {
+      "earlier_source_line_label": "VIII",
+      "later_display_line_band": 8,
+      "status": "BROAD_LAYOUT_CORRESPONDENCE_ONLY",
+      "one_to_one_glyph_alignment_certified": false
+    },
+    {
+      "earlier_source_line_label": "IX",
+      "later_display_line_band": 9,
+      "status": "BROAD_LAYOUT_CORRESPONDENCE_ONLY",
+      "one_to_one_glyph_alignment_certified": false
+    },
+    {
+      "earlier_source_line_label": "X",
+      "later_display_line_band": 10,
+      "status": "BROAD_LAYOUT_CORRESPONDENCE_ONLY",
+      "one_to_one_glyph_alignment_certified": false
+    }
+  ],
+  "focused_targets": [
+    {
+      "id": "D32",
+      "earlier_source_ordinals": [
+        32
+      ],
+      "earlier_line": "IV",
+      "later_display_line_band": 4,
+      "observation": "Later drawing has a crack/hatched area in the central neighborhood of the earlier dotted curved form; no printed ordinal identifies an exact counterpart.",
+      "disposition": "EXACT_FORM_JOIN_UNRESOLVED"
+    },
+    {
+      "id": "D92",
+      "earlier_source_ordinals": [
+        92
+      ],
+      "earlier_line": "VIII",
+      "later_display_line_band": 8,
+      "observation": "A barred vertical motif occurs in the left part of the later line, compatible at broad shape level with the earlier drawing at 92. Later drawing does not label it 92 or correct the 1930 table.",
+      "disposition": "MOTIF_COMPATIBLE_ERRATUM_NOT_RESOLVED"
+    },
+    {
+      "id": "D27",
+      "earlier_source_ordinals": [
+        27
+      ],
+      "earlier_line": "III",
+      "later_display_line_band": 3,
+      "observation": "Left broken-edge hatching also occurs in the later third band; this does not establish whether earlier ordinal 27 counted an ancient sign.",
+      "disposition": "COUNT_POLICY_UNRESOLVED"
+    },
+    {
+      "id": "D40-42",
+      "earlier_source_ordinals": [
+        40,
+        41,
+        42
+      ],
+      "earlier_line": "V",
+      "later_display_line_band": 5,
+      "observation": "The later fifth band includes central damage/marks near the crack. Its unnumbered drawing does not certify three lost ancient signs or a one-to-one alignment of the earlier minimal marks.",
+      "disposition": "LOSS_AND_SLOT_ALIGNMENT_UNRESOLVED"
+    }
+  ],
+  "erratum_adopted": false,
+  "surviving_count_reconciled": false,
+  "independent_confirmation": false,
+  "physical_identity_certified": false,
+  "verified_sequences_added": 0,
+  "dependency": "Dhorme copies prepared from Dunand photographs as described in p. 5 footnote; this is another published dependent depiction, not an independent ancient witness.",
+  "boundary": "Ten broad line correspondences and four focused comparisons. Neither source-to-source resemblance nor source ordinal numbering certifies continuous readings, native sign identities or count conventions."
+}

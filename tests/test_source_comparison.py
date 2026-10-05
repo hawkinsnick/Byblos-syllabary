@@ -12,8 +12,30 @@ def module(name):
 M=module('audit_source_comparison');N=module('audit_numbered_assertions');I=module('inspect_ocbi_structure');T=module('audit_type_table')
 F=module('audit_facsimile_review')
 D=module('audit_dhorme_source_joins')
+P=module('audit_final_source_pass')
 
 class SourceEvidenceTests(unittest.TestCase):
+    def test_final_pass_preserves_units_and_crop(self):
+        x=P.build()
+        self.assertEqual((x['source_display_targets'],x['horizontal_line_band_targets'],x['column_targets']), (103,98,5))
+        self.assertEqual(x['display_panels'],15)
+        self.assertEqual(x['crop_corrected_targets'],1)
+        self.assertEqual(x['verified_sequences_added'],0)
+    def test_display_targets_cannot_gain_face_identity(self):
+        self.mutate('research/historical-layout-targets.json',lambda x:x['segments'][0].update(physical_face_id='BYB-C-A'),P.build)
+    def test_display_targets_cannot_gain_glyph_counts(self):
+        self.mutate('research/historical-layout-targets.json',lambda x:x['segments'][0].update(source_glyph_count=10),P.build)
+    def test_display_targets_must_be_complete(self):
+        self.mutate('research/historical-layout-targets.json',lambda x:x['segments'].pop(),P.build)
+    def test_crop_target_cannot_revert_to_truncated_figure(self):
+        def change(x):
+            row=next(r for r in x['segments'] if r['standalone_asset_truncates_this_target'])
+            row['asset_sha256']='890affb5ae5be72d56e4bfe988ac28ea6b952c91da0f989ab66825d29b1ff518'
+        self.mutate('research/historical-layout-targets.json',change,P.build)
+    def test_later_drawing_cannot_gain_ordinal_labels(self):
+        self.mutate('research/stele-a-dependent-drawing-comparison.json',lambda x:x.update(later_has_source_ordinal_labels=True),P.build)
+    def test_focused_hypotheses_cannot_be_resolved(self):
+        self.mutate('research/stele-a-dependent-drawing-comparison.json',lambda x:x['focused_targets'][1].update(disposition='ERRATUM_CONFIRMED'),P.build)
     def mutate(self,path,change,builder):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp)/'repo';shutil.copytree(R,root,ignore=shutil.ignore_patterns('.git','__pycache__'))
