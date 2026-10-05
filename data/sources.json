@@ -627,12 +627,13 @@
       "doi": "10.3406/syria.1946.4447",
       "type": "historical_decipherment_proposal",
       "consultation": "selected_pages",
-      "accessed": "2026-10-01",
-      "notes": "Page 1 read; proposed decipherment is not accepted as canonical. Its reference to Syria 1929 conflicts with the inspected 1930 edition.",
+      "accessed": "2026-10-05",
+      "notes": "Thirty-seven advertised page views acquired privately; eleven page images visually inspected for headings, source dependence and six attributed count records. Nine heading letters are explicit; the first-stele join uses Dunand pp. 71–73, not an invented printed a. Copies depend on Dunand photographs, per p. 5 footnote. Quoted book pages remain uninspected; phonetics and translations excluded. Citation of Syria X/1929 on p. 23 remains in conflict with the inspected XI/1930 edition.",
       "rights": {
         "status": "not_assessed",
         "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed."
-      }
+      },
+      "inspection": "Printed pp. 5, 12, 23, 26–29, 31, 33–35, selected descriptive fields/figures only. Other acquired views are not visually collated. All ten source figures inspected for layout only; nine standalone figure assets and figure 10 within its page image. Figure 9 standalone crop truncates upper left-panel strokes; use full p. 33 image."
     },
     {
       "id": "dussaud-1946",

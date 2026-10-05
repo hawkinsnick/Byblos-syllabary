@@ -43,3 +43,6 @@ jobs:
       - run: python scripts/audit_numbered_assertions.py --check
       - run: python scripts/build_current_status.py --check
       - run: python scripts/audit_type_table.py --check
+      - run: python scripts/audit_facsimile_review.py --check
+      - run: python scripts/inspect_stele_a.py --check-report
+      - run: python scripts/audit_dhorme_source_joins.py --check

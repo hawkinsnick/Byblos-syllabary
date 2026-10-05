@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "a164f5b8cdccf8d4cfcb4d7e5b862b929677f1a8",
+  "source_commit": "076371ac312b5e95c18c05046847f3980b27a05c",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-04T23:39:23+00:00",
+  "generated_at_utc": "2026-10-05T00:42:18+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -13,6 +13,42 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "dhorme_1946_acquisition",
+      "path": "research/dhorme-1946-acquisition.json",
+      "sha256": "d0d2793e6987077bdb338a82c986898b97161b6dfe8ad172e8afcb7d7ff2f00a",
+      "bytes": 24557
+    },
+    {
+      "role": "dhorme_1946_source_joins",
+      "path": "research/dhorme-1946-source-joins.json",
+      "sha256": "acec92c805a4c54ea8073e1cb197aba31f74770d164df4858d914d6d1ab5720f",
+      "bytes": 15935
+    },
+    {
+      "role": "dhorme_1946_source_audit",
+      "path": "research/dhorme-1946-source-audit.json",
+      "sha256": "ff6afb17a2d184e41a7b56214143fcd2d9443b6e75527048d57f07fc3b11cf3f",
+      "bytes": 15786
+    },
+    {
+      "role": "facsimile_ordinal_review",
+      "path": "research/stele-a-facsimile-ordinal-review.json",
+      "sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "bytes": 143865
+    },
+    {
+      "role": "facsimile_review_audit",
+      "path": "research/stele-a-facsimile-review-audit.json",
+      "sha256": "2a9e375b2c9bf6da47e26bca3572ed75996da65c919b4376d9a879ef4b83e66d",
+      "bytes": 2576
+    },
+    {
+      "role": "stele_a_source_review",
+      "path": "docs/STELE-A-SOURCE-REVIEW.md",
+      "sha256": "77c44f5a7304225e45e1886d07948fd76d6a246ceef3d2d0a8dbb2d8a7d303b4",
+      "bytes": 3733
+    },
     {
       "role": "primary_facsimile_number_index",
       "path": "research/stele-a-facsimile-number-index.json",
@@ -76,20 +112,20 @@
     {
       "role": "stele_a_numbering_audit",
       "path": "research/stele-a-numbering-audit.json",
-      "sha256": "f60744ebd85cf15b0faa56f4579a25b74434c874b070f2b219085c8403a38a31",
+      "sha256": "1b038678be5939dd39a52a96e4c31da62d608b3ef6d1cb540c685ddb9cef99eb",
       "bytes": 1369
     },
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "e03fa3bc41950b9b1a704e3e2742ffcb3a5384ef39a7de1b04d267ec8e2e4430",
-      "bytes": 3111
+      "sha256": "29a9eae1cc314daa29563ce2c25547037b9d9d870d058f4b5ce65cdaf3fcbd8b",
+      "bytes": 4962
     },
     {
       "role": "source_reconciliation_guide",
       "path": "docs/SOURCE-RECONCILIATION.md",
-      "sha256": "9c87cf4df2da24699febe86c9d270dcaed13e1e74bce4d27cd939c18728b20cf",
-      "bytes": 10002
+      "sha256": "78a789c3501a606c7d2f6d70248bcb01dc595e483a29c99f063f9ae840a32c09",
+      "bytes": 13585
     },
     {
       "role": "core_edition_locators",
@@ -106,7 +142,7 @@
     {
       "role": "core_field_provenance_audit",
       "path": "research/core-field-provenance-audit.json",
-      "sha256": "1394b6213f00ba93fc9d71ce64ab434eaab2c7d4c81905ee60aa95882f6f3acc",
+      "sha256": "8796743d4bb665b2ef26df0c6aa39f6a94aa2b36ad18b1008e726d0afab0671d",
       "bytes": 10012
     },
     {
@@ -136,7 +172,7 @@
     {
       "role": "dunand_1978_bibliographic_conflict_audit",
       "path": "research/dunand-1978-bibliographic-conflict-audit.json",
-      "sha256": "ef53c685a978c6e946dd7861a5b00e3f9d261679e75b2e9db0e10be3f655ae33",
+      "sha256": "75500714fa358033a05c89500c3b2ae93b83046aecb850ca491b02daa32361b4",
       "bytes": 1289
     },
     {
@@ -166,20 +202,20 @@
     {
       "role": "audit",
       "path": "exports/audit.json",
-      "sha256": "c4656164944b9317dc242885ca5c93c6675db2dcf414736eb2b7f47863b3430e",
+      "sha256": "3cd2a52e8df77450487d7e81fe95716185e5049adb4c3e0de182a865225964b8",
       "bytes": 4668
     },
     {
       "role": "coverage",
       "path": "data/coverage.json",
-      "sha256": "fe1ce750d1f9e56351394b77d7075447100c74a1b845b38d92a8569b7018b04e",
+      "sha256": "e4443630b49fc3b3e9f791b15259f659342460fcadcc07b8b3e9edd77b8a2397",
       "bytes": 13342
     },
     {
       "role": "sources",
       "path": "data/sources.json",
-      "sha256": "535a3439058bbb7430991ac50e6b837f33af7b29799b9e37af03ad4b08cbed5b",
-      "bytes": 40718
+      "sha256": "596703acb537138aa385ff1b6220846831e1478703c929e8e31a2409524f38fb",
+      "bytes": 41428
     },
     {
       "role": "rights",
@@ -202,8 +238,8 @@
     {
       "role": "pre_expert_maximum",
       "path": "research/pre-expert-maximum.json",
-      "sha256": "501bacdec82b2c80eaff54e1638fbfad87df0426ab13ac75fe974e2fe8f3a6de",
-      "bytes": 4237
+      "sha256": "38ef40e9ebd97fe778dc00143557c539a1f9ef950c9a2218a5bab48b145acaf5",
+      "bytes": 5152
     }
   ]
 }

@@ -1,3 +1,11 @@
+## 1.3.2 — 2026-10-05 UTC
+
+- Compared all 123 stele a source drawing positions with literal type-table assertions and variant buckets: 105 outlined-form compatibility dispositions, nine partial-form compatibility dispositions, one printed-type conflict and eight unassigned positions. Eighteen marker/gap/collision targets have detailed observations.
+- Added an unadopted VIII 32/92 source-internal erratum candidate and an unresolved edge-position 27 count explanation. Neither changes the literal table or reported ancient counts.
+- Consulted eleven selected Dhorme 1946 page images: ten heading joins, six source count records, a qualified j-line observation and explicit dependence on Dunand photographs. No direct Dunand book-page inspection or historical decipherment is admitted.
+- Added an ordinal/line inspection tool, generated researcher review report and regression guards against silent adoption, frequency eligibility and source-independence promotion.
+- Synchronized status, exports and AI authority inputs. Verified full sequences and independent reviews remain zero.
+
 ## 1.3.1 — 2026-10-04
 
 - Registered fourteen attributed core count records with explicit source units and approximation.

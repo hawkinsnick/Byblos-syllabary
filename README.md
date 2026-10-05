@@ -1,6 +1,6 @@
 # Byblos syllabary research corpus
 
-Version: 1.3.1 — stable software workflow; provisional research catalogue.
+Version: 1.3.2 — stable software workflow; provisional research catalogue.
 
 An open research project working toward exhaustive, evidence-based coverage of the
 undeciphered Byblos script. Its language affiliation is unresolved. The name
@@ -21,6 +21,8 @@ For questions spanning multiple corpus projects, use the **Combined Corpus Resea
 - 0 verified sign sequences, 0 imported images, 0 independently reviewed records; 18 sourced surface descriptions.
 - Five edition-specific Dunand 1930 type groups record fourteen source-numbered positions; no shapes or sound values are certified.
 - All fourteen core labels have attributed count records; all 43 OCBI entries have a pinned metadata-only structure inspection. See [the current checkpoint](docs/SOURCE-RECONCILIATION.md).
+- A queryable stele a source review compares all 123 source drawing positions with literal table assertions and variant buckets, including 18 detailed marker/gap/collision inspections. [Read the source review](docs/STELE-A-SOURCE-REVIEW.md); its candidate erratum and count explanations remain unadopted.
+- A consulted Dhorme 1946 witness adds ten qualified heading joins and six count comparisons; its copies depend on Dunand and its proposed decipherment remains unadmitted.
 - Published corpus counts remain unresolved. This is not an exhaustive corpus.
 - Identifiers refer to inscription records, not necessarily distinct physical objects.
 

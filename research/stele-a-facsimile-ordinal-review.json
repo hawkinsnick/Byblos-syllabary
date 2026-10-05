@@ -1,0 +1,3683 @@
+{
+  "format": "byblos-facsimile-ordinal-review-v2",
+  "checked": "2026-10-05",
+  "date_basis": "UTC",
+  "record_id": "BYB-A",
+  "edition_id": "BYB-A-D1930",
+  "source_id": "dunand-1930",
+  "drawing_figure_sha256": "ef0e9222509a5f316eab7b59100b9fcb0b3beadeac50fffc397e18d4c95f799f",
+  "table_figure_sha256": "5a2c816c6ce062f56f90648e46f25a97cbd92c76423b0ab0d4bc8497fb9dfb85",
+  "review_scope": "All 123 source drawing positions compared with literal table memberships and drawn-variant buckets, line by line I–X. Eighteen marker/gap/collision targets have detailed observations; 105 other outlined forms have source-drawing/table compatibility dispositions. This is one published source drawing, not direct object examination or an independently verified native glyph sequence.",
+  "source_instances_not_independent": true,
+  "ordinals": [
+    {
+      "source_ordinal": 1,
+      "source_line_label": "I",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "I",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line I, source ordinal 1; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "I"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 2,
+      "source_line_label": "I",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "II",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line I, source ordinal 2; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "II"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 3,
+      "source_line_label": "I",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "III",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line I, source ordinal 3; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "III"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 4,
+      "source_line_label": "I",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "IV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line I, source ordinal 4; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "IV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 5,
+      "source_line_label": "I",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "V",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line I, source ordinal 5; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "V"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 6,
+      "source_line_label": "I",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "VI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line I, source ordinal 6; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "VI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 7,
+      "source_line_label": "I",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXXV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": true
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "HATCHED_DRAWN_FORM",
+        "description": "Hatching crosses part of the drawn form at the left end of line I.",
+        "locator": "p. 2 facsimile, line I, source ordinal 7",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "PARTIAL_DRAWING_COMPATIBLE_WITH_PRINTED_TYPE",
+        "literal_type_labels": [
+          "XXXV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 8,
+      "source_line_label": "II",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "VII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line II, source ordinal 8; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "VII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 9,
+      "source_line_label": "II",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "VIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line II, source ordinal 9; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "VIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 10,
+      "source_line_label": "II",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "IX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line II, source ordinal 10; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "IX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 11,
+      "source_line_label": "II",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "X",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line II, source ordinal 11; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "X"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 12,
+      "source_line_label": "II",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line II, source ordinal 12; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 13,
+      "source_line_label": "II",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line II, source ordinal 13; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 14,
+      "source_line_label": "II",
+      "printed_table_memberships": [],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn below 14, without an entry in the numeric table. Type unassigned.",
+        "locator": "p. 2 facsimile, line II, source ordinal 14",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "TABLE_TYPE_UNASSIGNED",
+        "literal_type_labels": [],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 15,
+      "source_line_label": "II",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "VIII",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line II, source ordinal 15; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "VIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 16,
+      "source_line_label": "II",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "HATCHED_DRAWN_FORM",
+        "description": "Hatching crosses the upper part of the drawn form at the left end of line II.",
+        "locator": "p. 2 facsimile, line II, source ordinal 16",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "PARTIAL_DRAWING_COMPATIBLE_WITH_PRINTED_TYPE",
+        "literal_type_labels": [
+          "XI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 17,
+      "source_line_label": "III",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line III, source ordinal 17; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 18,
+      "source_line_label": "III",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XIV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line III, source ordinal 18; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XIV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 19,
+      "source_line_label": "III",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line III, source ordinal 19; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 20,
+      "source_line_label": "III",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XVI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line III, source ordinal 20; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XVI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 21,
+      "source_line_label": "III",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line III, source ordinal 21; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 22,
+      "source_line_label": "III",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XVII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line III, source ordinal 22; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XVII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 23,
+      "source_line_label": "III",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XVIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line III, source ordinal 23; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XVIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 24,
+      "source_line_label": "III",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "II",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line III, source ordinal 24; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "II"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 25,
+      "source_line_label": "III",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "III",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line III, source ordinal 25; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "III"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 26,
+      "source_line_label": "III",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XIX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line III, source ordinal 26; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XIX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 27,
+      "source_line_label": "III",
+      "printed_table_memberships": [],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "EDGE_HATCHING_WITHOUT_ASSIGNABLE_FORM",
+        "description": "At the left end of line III, hatching and small traces are drawn; no confident whole form is assigned.",
+        "locator": "p. 2 facsimile, line III, source ordinal 27",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "TABLE_TYPE_UNASSIGNED",
+        "literal_type_labels": [],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 28,
+      "source_line_label": "IV",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IV, source ordinal 28; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 29,
+      "source_line_label": "IV",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IV, source ordinal 29; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 30,
+      "source_line_label": "IV",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IV, source ordinal 30; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 31,
+      "source_line_label": "IV",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IV, source ordinal 31; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 32,
+      "source_line_label": "IV",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "VIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        },
+        {
+          "edition_sign_label": "XIX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": true
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "DOTTED_OR_FRAGMENTARY_DRAWN_FORM",
+        "description": "A broken/dotted curved form is drawn below 32. It differs from the barred form drawn at 92; printed memberships VIII and XIX both remain.",
+        "locator": "p. 2 facsimile, line IV, source ordinal 32",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "CONFLICTING_PRINTED_TYPES",
+        "literal_type_labels": [
+          "VIII",
+          "XIX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 33,
+      "source_line_label": "IV",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "IX",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IV, source ordinal 33; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "IX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 34,
+      "source_line_label": "IV",
+      "printed_table_memberships": [],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "DRAWN_FORM_PRESENT",
+        "description": "Short drawn strokes are present below 34; no type assignment is made from these traces.",
+        "locator": "p. 2 facsimile, line IV, source ordinal 34",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "TABLE_TYPE_UNASSIGNED",
+        "literal_type_labels": [],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 35,
+      "source_line_label": "IV",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "III",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IV, source ordinal 35; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "III"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 36,
+      "source_line_label": "IV",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "X",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IV, source ordinal 36; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "X"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 37,
+      "source_line_label": "IV",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "IV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IV, source ordinal 37; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "IV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 38,
+      "source_line_label": "IV",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "HATCHED_DRAWN_FORM",
+        "description": "Hatching crosses the upper part of the form at the left end of line IV.",
+        "locator": "p. 2 facsimile, line IV, source ordinal 38",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "PARTIAL_DRAWING_COMPATIBLE_WITH_PRINTED_TYPE",
+        "literal_type_labels": [
+          "XI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 39,
+      "source_line_label": "V",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XIX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line V, source ordinal 39; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XIX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 40,
+      "source_line_label": "V",
+      "printed_table_memberships": [],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "MINIMAL_MARKS_NO_ASSIGNABLE_CONTOUR",
+        "description": "Only small isolated marks appear below 40 in line V; no complete contour or type assigned.",
+        "locator": "p. 2 facsimile, line V, source ordinal 40",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "TABLE_TYPE_UNASSIGNED",
+        "literal_type_labels": [],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 41,
+      "source_line_label": "V",
+      "printed_table_memberships": [],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "MINIMAL_MARKS_NO_ASSIGNABLE_CONTOUR",
+        "description": "Only small isolated marks appear below 41 in line V; no complete contour or type assigned.",
+        "locator": "p. 2 facsimile, line V, source ordinal 41",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "TABLE_TYPE_UNASSIGNED",
+        "literal_type_labels": [],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 42,
+      "source_line_label": "V",
+      "printed_table_memberships": [],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "MINIMAL_MARKS_NO_ASSIGNABLE_CONTOUR",
+        "description": "Only small isolated marks appear below 42 in line V; no complete contour or type assigned.",
+        "locator": "p. 2 facsimile, line V, source ordinal 42",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "TABLE_TYPE_UNASSIGNED",
+        "literal_type_labels": [],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 43,
+      "source_line_label": "V",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXIV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line V, source ordinal 43; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXIV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 44,
+      "source_line_label": "V",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXVI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": true
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "DOTTED_OR_FRAGMENTARY_DRAWN_FORM",
+        "description": "The outline below 44 is dotted or interrupted. The table retains its parenthetical marker.",
+        "locator": "p. 2 facsimile, line V, source ordinal 44",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "PARTIAL_DRAWING_COMPATIBLE_WITH_PRINTED_TYPE",
+        "literal_type_labels": [
+          "XXVI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 45,
+      "source_line_label": "V",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line V, source ordinal 45; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 46,
+      "source_line_label": "V",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line V, source ordinal 46; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 47,
+      "source_line_label": "V",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line V, source ordinal 47; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 48,
+      "source_line_label": "V",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line V, source ordinal 48; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 49,
+      "source_line_label": "V",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXVI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line V, source ordinal 49; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXVI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 50,
+      "source_line_label": "V",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XVIII",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line V, source ordinal 50; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XVIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 51,
+      "source_line_label": "V",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXVIII",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line V, source ordinal 51; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXVIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 52,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XIX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 52; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XIX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 53,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXVII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 53; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXVII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 54,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XIII",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 54; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 55,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 55; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 56,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXVIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 56; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXVIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 57,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XVI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 57; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XVI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 58,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 58; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 59,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 59; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 60,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXVI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 60; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXVI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 61,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "IV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 61; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "IV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 62,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXIX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 62; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXIX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 63,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "V",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 63; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "V"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 64,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 64; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 65,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXII",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 65; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 66,
+      "source_line_label": "VI",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VI, source ordinal 66; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 67,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XIX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 67; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XIX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 68,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXXI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 68; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXXI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 69,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXXVI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 69; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXXVI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 70,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "IV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 70; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "IV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 71,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 71; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 72,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXXII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 72; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXXII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 73,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XVII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 73; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XVII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 74,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "III",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 74; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "III"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 75,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XV",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 75; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 76,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XVIII",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 76; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XVIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 77,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXXIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 77; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXXIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 78,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXXIV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 78; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXXIV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 79,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 79; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 80,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XIII",
+          "drawn_variant_bucket": 3,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 80; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 81,
+      "source_line_label": "VII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XIV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "HATCHED_DRAWN_FORM",
+        "description": "Hatching crosses part of the outlined form at the left end of line VII.",
+        "locator": "p. 2 facsimile, line VII, source ordinal 81",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "PARTIAL_DRAWING_COMPATIBLE_WITH_PRINTED_TYPE",
+        "literal_type_labels": [
+          "XIV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 82,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "III",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 82; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "III"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 83,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 83; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 84,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXXVII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 84; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXXVII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 85,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "IX",
+          "drawn_variant_bucket": 3,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 85; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "IX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 86,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXXIII",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 86; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXXIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 87,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 87; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 88,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXVIII",
+          "drawn_variant_bucket": 3,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 88; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXVIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 89,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 89; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 90,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXVI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 90; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXVI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 91,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XVIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 91; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XVIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 92,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "DRAWN_FORM_PRESENT",
+        "description": "A vertical form with transverse bars is drawn below 92; no numeric table membership exists for 92.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 92",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "TABLE_TYPE_UNASSIGNED",
+        "literal_type_labels": [],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 93,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XIX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 93; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XIX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 94,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXVII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 94; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXVII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 95,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "DRAWN_FORM_PRESENT",
+        "description": "An angular form is drawn below 95; no numeric table membership exists for 95.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 95",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "TABLE_TYPE_UNASSIGNED",
+        "literal_type_labels": [],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 96,
+      "source_line_label": "VIII",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "HATCHED_DRAWN_FORM",
+        "description": "Hatching crosses part of the drawn form at the left end of line VIII.",
+        "locator": "p. 2 facsimile, line VIII, source ordinal 96",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "PARTIAL_DRAWING_COMPATIBLE_WITH_PRINTED_TYPE",
+        "literal_type_labels": [
+          "XX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 97,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXVIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 97; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXVIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 98,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XVI",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 98; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XVI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 99,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 99; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 100,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 100; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 101,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXVI",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 101; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXVI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 102,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XVIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 102; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XVIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 103,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXXVIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 103; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXXVIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 104,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 104; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 105,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXII",
+          "drawn_variant_bucket": 2,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 105; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 106,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 106; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 107,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XIX",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 107; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XIX"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 108,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXXI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 108; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXXI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 109,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXXVI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 109; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXXVI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 110,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "IV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 110; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "IV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 111,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XVI",
+          "drawn_variant_bucket": 3,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "DOTTED_OR_FRAGMENTARY_DRAWN_FORM",
+        "description": "Part of the pointed vertical outline below 111 is dotted or interrupted.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 111",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "PARTIAL_DRAWING_COMPATIBLE_WITH_PRINTED_TYPE",
+        "literal_type_labels": [
+          "XVI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 112,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 112; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 113,
+      "source_line_label": "IX",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": true
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "DOTTED_OR_FRAGMENTARY_DRAWN_FORM",
+        "description": "The form at the left end of line IX is dotted/interrupted; its table assertion has a parenthetical marker.",
+        "locator": "p. 2 facsimile, line IX, source ordinal 113",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "PARTIAL_DRAWING_COMPATIBLE_WITH_PRINTED_TYPE",
+        "literal_type_labels": [
+          "XXV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 114,
+      "source_line_label": "X",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XIII",
+          "drawn_variant_bucket": 3,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "HATCHED_DRAWN_FORM",
+        "description": "Hatching crosses one side of the angular form at the right end of line X.",
+        "locator": "p. 2 facsimile, line X, source ordinal 114",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": true,
+      "drawing_table_comparison": {
+        "status": "PARTIAL_DRAWING_COMPATIBLE_WITH_PRINTED_TYPE",
+        "literal_type_labels": [
+          "XIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 115,
+      "source_line_label": "X",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XIV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line X, source ordinal 115; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XIV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 116,
+      "source_line_label": "X",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line X, source ordinal 116; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 117,
+      "source_line_label": "X",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXIII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line X, source ordinal 117; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXIII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 118,
+      "source_line_label": "X",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXXV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line X, source ordinal 118; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXXV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 119,
+      "source_line_label": "X",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "IV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line X, source ordinal 119; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "IV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 120,
+      "source_line_label": "X",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "V",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line X, source ordinal 120; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "V"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 121,
+      "source_line_label": "X",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "VI",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line X, source ordinal 121; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "VI"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 122,
+      "source_line_label": "X",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXVII",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line X, source ordinal 122; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXVII"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    },
+    {
+      "source_ordinal": 123,
+      "source_line_label": "X",
+      "printed_table_memberships": [
+        {
+          "edition_sign_label": "XXXV",
+          "drawn_variant_bucket": 1,
+          "parenthetical_marker_present": false
+        }
+      ],
+      "review_status": "SOURCE_DRAWING_AND_TABLE_INSPECTED",
+      "drawing_observation": {
+        "category": "OUTLINED_DRAWN_FORM_PRESENT",
+        "description": "An outlined form is drawn at this numbered source position; its form is compatible with the linked printed drawn-variant bucket. No hatching/dotted-contour target is registered for this position.",
+        "locator": "p. 2 facsimile, line X, source ordinal 123; p. 5 linked type row/variant bucket",
+        "ancient_surface_status_adjudicated": false
+      },
+      "canonical_type_admitted": null,
+      "verified_glyph": false,
+      "analysis_eligible": false,
+      "selected_marker_target": false,
+      "drawing_table_comparison": {
+        "status": "DRAWING_TABLE_FORM_COMPATIBLE",
+        "literal_type_labels": [
+          "XXXV"
+        ],
+        "native_identity_certified": false,
+        "independent_confirmation": false
+      }
+    }
+  ],
+  "candidate_errata": [
+    {
+      "id": "BYB-A-D1930-VIII-32-92",
+      "literal_table_claim": {
+        "edition_sign_label": "VIII",
+        "source_ordinal": 32
+      },
+      "candidate_replacement_ordinal": 92,
+      "status": "PROPOSED_SOURCE_INTERNAL_ERRATUM_NOT_ADOPTED",
+      "evidence": [
+        "p. 5 table row VIII groups 9 and 32 with the barred form, and 15 with its separate drawn variant.",
+        "p. 2 facsimile ordinal 32 has a curved dotted form; ordinal 92 has a barred vertical form.",
+        "p. 5 row XIX also lists 32 with a parenthetical marker."
+      ],
+      "source_independent_confirmation": false,
+      "canonical_change_applied": false,
+      "counterfactual_counts_are_not_observed": true
+    }
+  ],
+  "count_reconciliation_hypotheses": [
+    {
+      "id": "BYB-A-D1930-EDGE-27",
+      "status": "UNRESOLVED_SOURCE_INTERNAL_HYPOTHESIS",
+      "hypothesis": "The edge-only drawing position 27 may account for the extra numbered position beyond the 119 surviving plus three certainly lost reported on p. 3.",
+      "source_locators": [
+        "p. 2 line III ordinal 27",
+        "p. 3 surviving/lost count statement"
+      ],
+      "observations": [
+        "Source numbering runs 1–123.",
+        "40–42 show minimal isolated marks rather than assignable contours; 27 is at the hatched broken edge."
+      ],
+      "not_established": "These drawing observations do not identify the three ancient lost signs, redefine the surviving count or settle the later 123-visible-sign survey convention.",
+      "canonical_count_change_applied": false
+    }
+  ],
+  "boundary": "All observations concern a published source drawing, not direct ancient surface inspection. Literal table types and their variant buckets are source namespaces. Drawing/table compatibility is a project comparison, not native glyph normalization, independent corroboration or a verified full sequence. Candidate errata and damage interpretations remain unadmitted. No scans, outlines, normalized glyph sequence or sound values redistributed."
+}

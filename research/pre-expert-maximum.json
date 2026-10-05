@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "corpus": "Byblos syllabary",
   "target": "PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-04",
+  "checked": "2026-10-05",
   "established": [
     {
       "gate": "attributed_count_claims",
@@ -117,5 +117,29 @@
     "facsimile_source_ordinals": 123,
     "source_conflict": "Printed duplicate 32; table gaps 14,27,34,40,41,42,92,95; no glyph/damage adjudication.",
     "terminal_readiness_granted": false
+  },
+  "facsimile_marker_review": {
+    "source_ordinals_joined": 123,
+    "selected_drawing_positions_inspected": 18,
+    "number_table_join_only_positions": 0,
+    "candidate_errata_adopted": 0,
+    "ancient_count_reconciliation_established": false,
+    "expert_review_added": false,
+    "evidence": "research/stele-a-facsimile-review-audit.json",
+    "source_drawing_positions_compared": 123,
+    "other_outlined_form_comparisons": 105,
+    "native_glyph_normalization_certified": false
+  },
+  "historical_source_checkpoint": {
+    "heading_joins": 10,
+    "explicit_letter_joins": 9,
+    "edition_locator_joins": 1,
+    "count_records": 6,
+    "visually_inspected_page_views": 11,
+    "direct_dunand_1945_pages_added": 0,
+    "accepted_historical_decipherment_claims": 0,
+    "independent_expert_review_added": false,
+    "evidence": "research/dhorme-1946-source-audit.json",
+    "figures_layout_inspected": 10
   }
 }
