@@ -2,7 +2,7 @@
   "format": "byblos-core-field-provenance-audit-v1",
   "input_hashes": {
     "data/catalogue.json": "cfbe9ad6fbfb40b14cc0df3f5a53022a30aa3bbb0b7cfc87a2c10f5546fa0fb9",
-    "data/sources.json": "535a3439058bbb7430991ac50e6b837f33af7b29799b9e37af03ad4b08cbed5b",
+    "data/sources.json": "596703acb537138aa385ff1b6220846831e1478703c929e8e31a2409524f38fb",
     "research/core-edition-locators.json": "657a7efe91447d2fa4592d87c2f3f1bfd6b1705807a095554e2b3f68004b5718"
   },
   "core_labels": 14,

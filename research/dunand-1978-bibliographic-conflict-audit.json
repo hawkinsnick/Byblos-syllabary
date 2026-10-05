@@ -1,7 +1,7 @@
 {
   "format": "byblos-dunand-1978-bibliographic-conflict-audit-v1",
   "input_hashes": {
-    "data/sources.json": "535a3439058bbb7430991ac50e6b837f33af7b29799b9e37af03ad4b08cbed5b",
+    "data/sources.json": "596703acb537138aa385ff1b6220846831e1478703c929e8e31a2409524f38fb",
     "research/core-primary-access-routes.json": "110243bdfa4242c72ce26c20836eb008638fbd22bd94bc5009e3b6a501957f42"
   },
   "edition": "Dunand 1978",

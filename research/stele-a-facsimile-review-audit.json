@@ -1,0 +1,67 @@
+{
+  "format": "byblos-facsimile-review-audit-v2",
+  "input_hashes": {
+    "research/stele-a-facsimile-ordinal-review.json": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+    "research/stele-a-facsimile-number-index.json": "e65598e16b5c9a2dbccdb2a5583154bef53d7f09528547904eea90f61c4c237e",
+    "research/stele-a-type-table.json": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+    "research/dunand-1930-acquisition.json": "8770e8ab2001b989e66d50ba4f5e47fa1de0af859d2b9722a494adb952e18731",
+    "research/stele-a-count-comparison.json": "9aa4f58fa81a0e7d641b4c4c526a994118cafdd05c9a3382f6a8f9ba8a731db5"
+  },
+  "source_ordinals_joined": 123,
+  "source_drawing_positions_compared": 123,
+  "selected_marker_targets_inspected": 18,
+  "other_drawn_form_comparisons": 105,
+  "number_and_table_join_only_positions": 0,
+  "drawing_table_comparison_counts": {
+    "CONFLICTING_PRINTED_TYPES": 1,
+    "DRAWING_TABLE_FORM_COMPATIBLE": 105,
+    "PARTIAL_DRAWING_COMPATIBLE_WITH_PRINTED_TYPE": 9,
+    "TABLE_TYPE_UNASSIGNED": 8
+  },
+  "drawing_observation_counts": {
+    "DOTTED_OR_FRAGMENTARY_DRAWN_FORM": 4,
+    "DRAWN_FORM_PRESENT": 4,
+    "EDGE_HATCHING_WITHOUT_ASSIGNABLE_FORM": 1,
+    "HATCHED_DRAWN_FORM": 6,
+    "MINIMAL_MARKS_NO_ASSIGNABLE_CONTOUR": 3,
+    "OUTLINED_DRAWN_FORM_PRESENT": 105
+  },
+  "all_table_gaps_have_drawing_review": true,
+  "candidate_erratum_scenarios": [
+    {
+      "id": "BYB-A-D1930-VIII-32-92",
+      "status": "PROPOSED_SOURCE_INTERNAL_ERRATUM_NOT_ADOPTED",
+      "hypothetical_replacement": {
+        "type_label": "VIII",
+        "from_ordinal": 32,
+        "to_ordinal": 92
+      },
+      "counterfactual_only": {
+        "distinct_table_ordinals": 116,
+        "collisions": [],
+        "unassigned_ordinals": [
+          14,
+          27,
+          34,
+          40,
+          41,
+          42,
+          95
+        ]
+      },
+      "literal_register_changed": false
+    }
+  ],
+  "source_count_arithmetic": {
+    "numbered_facsimile_positions": 123,
+    "reported_surviving_signs": 119,
+    "reported_certainly_lost_positions": 3,
+    "arithmetic_difference": 1,
+    "ancient_count_reconciliation_established": false
+  },
+  "canonical_types_added": 0,
+  "verified_sequences_added": 0,
+  "independent_reviews_added": 0,
+  "frequency_inference_allowed": false,
+  "boundary": "Source drawing/table comparisons and arithmetic only. Literal table assertions remain intact. Candidate errata, ancient damage, native glyph normalization, independent collation and the later survey count remain unadjudicated."
+}

@@ -1,0 +1,469 @@
+{
+  "format": "byblos-dhorme-source-joins-v1",
+  "checked": "2026-10-05",
+  "date_basis": "UTC",
+  "source_id": "dhorme-1946",
+  "underlying_edition_source_id": "dunand-1945",
+  "entries": [
+    {
+      "dhorme_section_number": 1,
+      "dhorme_figure_number": 1,
+      "record_id": "BYB-C",
+      "printed_heading_letter": "c",
+      "article_locator": "p. 5, section 1 / fig. 1",
+      "article_printed_page": 5,
+      "reported_dunand_plate": "IX",
+      "reported_dunand_pages": "74–76",
+      "join_basis": "EXPLICIT_PRINTED_LETTER",
+      "underlying_edition_directly_inspected": false,
+      "object_identity_verified": false,
+      "verified_sequence": false
+    },
+    {
+      "dhorme_section_number": 2,
+      "dhorme_figure_number": 2,
+      "record_id": "BYB-D",
+      "printed_heading_letter": "d",
+      "article_locator": "p. 12, section 2 / fig. 2",
+      "article_printed_page": 12,
+      "reported_dunand_plate": "X",
+      "reported_dunand_pages": "76–78",
+      "join_basis": "EXPLICIT_PRINTED_LETTER",
+      "underlying_edition_directly_inspected": false,
+      "object_identity_verified": false,
+      "verified_sequence": false
+    },
+    {
+      "dhorme_section_number": 3,
+      "dhorme_figure_number": 3,
+      "record_id": "BYB-A",
+      "printed_heading_letter": null,
+      "article_locator": "p. 23, section 3 / fig. 3",
+      "article_printed_page": 23,
+      "reported_dunand_plate": "VIII",
+      "reported_dunand_pages": "71–73",
+      "join_basis": "FIRST_STELE_AND_DUNAND_71_73_EDITION_LOCATOR",
+      "underlying_edition_directly_inspected": false,
+      "object_identity_verified": false,
+      "verified_sequence": false
+    },
+    {
+      "dhorme_section_number": 4,
+      "dhorme_figure_number": 4,
+      "record_id": "BYB-G",
+      "printed_heading_letter": "g",
+      "article_locator": "p. 26, section 4 / fig. 4",
+      "article_printed_page": 26,
+      "reported_dunand_plate": "XI",
+      "reported_dunand_pages": "80–81",
+      "join_basis": "EXPLICIT_PRINTED_LETTER",
+      "underlying_edition_directly_inspected": false,
+      "object_identity_verified": false,
+      "verified_sequence": false
+    },
+    {
+      "dhorme_section_number": 5,
+      "dhorme_figure_number": 5,
+      "record_id": "BYB-H",
+      "printed_heading_letter": "h",
+      "article_locator": "p. 28, section 5 / fig. 5",
+      "article_printed_page": 28,
+      "reported_dunand_plate": "XI",
+      "reported_dunand_pages": "82",
+      "join_basis": "EXPLICIT_PRINTED_LETTER",
+      "underlying_edition_directly_inspected": false,
+      "object_identity_verified": false,
+      "verified_sequence": false
+    },
+    {
+      "dhorme_section_number": 6,
+      "dhorme_figure_number": 6,
+      "record_id": "BYB-J",
+      "printed_heading_letter": "j",
+      "article_locator": "p. 28, section 6 / fig. 6",
+      "article_printed_page": 28,
+      "reported_dunand_plate": "XI",
+      "reported_dunand_pages": "83",
+      "join_basis": "EXPLICIT_PRINTED_LETTER",
+      "underlying_edition_directly_inspected": false,
+      "object_identity_verified": false,
+      "verified_sequence": false
+    },
+    {
+      "dhorme_section_number": 7,
+      "dhorme_figure_number": 7,
+      "record_id": "BYB-E",
+      "printed_heading_letter": "e",
+      "article_locator": "p. 29, section 7 / fig. 7",
+      "article_printed_page": 29,
+      "reported_dunand_plate": "XII",
+      "reported_dunand_pages": "78",
+      "join_basis": "EXPLICIT_PRINTED_LETTER",
+      "underlying_edition_directly_inspected": false,
+      "object_identity_verified": false,
+      "verified_sequence": false
+    },
+    {
+      "dhorme_section_number": 8,
+      "dhorme_figure_number": 8,
+      "record_id": "BYB-I",
+      "printed_heading_letter": "i",
+      "article_locator": "p. 31, section 8 / fig. 8",
+      "article_printed_page": 31,
+      "reported_dunand_plate": "XII",
+      "reported_dunand_pages": "82",
+      "join_basis": "EXPLICIT_PRINTED_LETTER",
+      "underlying_edition_directly_inspected": false,
+      "object_identity_verified": false,
+      "verified_sequence": false
+    },
+    {
+      "dhorme_section_number": 9,
+      "dhorme_figure_number": 9,
+      "record_id": "BYB-F",
+      "printed_heading_letter": "f",
+      "article_locator": "p. 33, section 9 / fig. 9",
+      "article_printed_page": 33,
+      "reported_dunand_plate": "XII",
+      "reported_dunand_pages": "79 and following",
+      "join_basis": "EXPLICIT_PRINTED_LETTER",
+      "underlying_edition_directly_inspected": false,
+      "object_identity_verified": false,
+      "verified_sequence": false
+    },
+    {
+      "dhorme_section_number": 10,
+      "dhorme_figure_number": 10,
+      "record_id": "BYB-B",
+      "printed_heading_letter": "b",
+      "article_locator": "p. 34, section 10 / fig. 10",
+      "article_printed_page": 34,
+      "reported_dunand_plate": "XIII",
+      "reported_dunand_pages": null,
+      "join_basis": "EXPLICIT_PRINTED_LETTER",
+      "underlying_edition_directly_inspected": false,
+      "object_identity_verified": false,
+      "verified_sequence": false
+    }
+  ],
+  "count_records": [
+    {
+      "record_id": "BYB-A",
+      "article_printed_page": 23,
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": 119,
+      "reported_type_count": 38,
+      "face_sign_counts": null,
+      "layout": null,
+      "scope": "Source quote calls these signs; surviving/visible/divider policy not independently normalized."
+    },
+    {
+      "record_id": "BYB-B",
+      "article_printed_page": 34,
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": 41,
+      "reported_type_count": null,
+      "face_sign_counts": {
+        "a": 26,
+        "b": 15
+      },
+      "layout": {
+        "reported_face_lines": {
+          "a": 4,
+          "b": 3
+        },
+        "reported_lines": 7
+      },
+      "scope": "Three divider positions are mentioned separately in the quote; inclusion policy is not inferred."
+    },
+    {
+      "record_id": "BYB-D",
+      "article_printed_page": 12,
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": 461,
+      "reported_type_count": 64,
+      "face_sign_counts": null,
+      "layout": {
+        "reported_face_lines": {
+          "a": 22,
+          "b": 19
+        },
+        "reported_lines": 41
+      },
+      "scope": "Retain 461 signs and 64 different types as this quoted source convention, not a reconciled global count."
+    },
+    {
+      "record_id": "BYB-G",
+      "article_printed_page": 27,
+      "claim_voice": "DHORME_DESCRIPTIVE_PROSE",
+      "reported_sign_count": 38,
+      "reported_type_count": 17,
+      "face_sign_counts": null,
+      "layout": {
+        "reported_columns": 5
+      },
+      "scope": "Dhorme reports five columns, 38 remaining signs and 17 types; do not replace six total/five certainly textual survey columns."
+    },
+    {
+      "record_id": "BYB-H",
+      "article_printed_page": 28,
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": 6,
+      "reported_type_count": null,
+      "face_sign_counts": null,
+      "layout": {
+        "reported_lines": 3,
+        "lines_yielding_signs": 2
+      },
+      "scope": "Six sign forms are qualified as more or less certain; they are not six certified ancient glyphs."
+    },
+    {
+      "record_id": "BYB-I",
+      "article_printed_page": 31,
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": null,
+      "reported_type_count": null,
+      "face_sign_counts": {
+        "a": 33,
+        "b": 51
+      },
+      "layout": {
+        "reported_face_lines": {
+          "a": 4,
+          "b": 5
+        },
+        "reported_lines": 9
+      },
+      "scope": "84 is the project sum of quoted face counts, not an independently printed total or verified occurrence count."
+    }
+  ],
+  "qualified_layout_records": [
+    {
+      "record_id": "BYB-J",
+      "article_printed_page": 28,
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "fully_surviving_horizontal_lines_reported": 3,
+      "upper_partial_line_reported": 1,
+      "possible_lower_line_reported": 1,
+      "possible_lower_line_is_certain": false,
+      "native_line_count_changed": false
+    }
+  ],
+  "source_lineage": {
+    "article_printed_page": 5,
+    "locator": "p. 5 footnote 1 and ordering paragraph",
+    "copy_preparer_named": "Decamps de Mertzenfeld",
+    "copy_basis": "Dunand photographs in Byblia Grammata",
+    "ordering": "Dhorme states order of proposed decipherment, rather than Dunand discovery order.",
+    "independent_physical_witness": false,
+    "decipherment_and_phonetic_values_admitted": false
+  },
+  "bibliographic_conflict_retained": {
+    "record_id": "BYB-A",
+    "article_locator": "p. 23, section 3",
+    "dhorme_reference_year": 1929,
+    "dhorme_reference_volume": "X",
+    "inspected_primary_reference_year": 1930,
+    "inspected_primary_reference_volume": "XI",
+    "status": "UNRESOLVED_SOURCE_CITATION_ERROR_NOT_A_NEW_EDITION"
+  },
+  "rights_boundary": "Original factual headings/locators and numeric metadata only. No source scans, drawings, phonetic tables, continuous readings or translations redistributed. Quoted book descriptions do not establish that the book pages were inspected.",
+  "independent_expert_review_added": false,
+  "canonical_sequences_added": 0,
+  "figure_layout_review": [
+    {
+      "figure_number": 1,
+      "record_id": "BYB-C",
+      "article_printed_page": 6,
+      "asset_sha256": "7b4365acd8814e8b1c8109ee13356c944fcb53838968120e9dae956a2cd0d9fe",
+      "layout_observation": {
+        "panels": [
+          {
+            "display_position": "upper",
+            "drawn_line_bands": 13
+          },
+          {
+            "display_position": "lower",
+            "drawn_line_bands": 2
+          }
+        ],
+        "face_identity_basis": "Count comparison with quoted 13 recto / 2 verso only; panel identities not independently certified."
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 2,
+      "record_id": "BYB-D",
+      "article_printed_page": 13,
+      "asset_sha256": "2e97e797c5bfc6a96f3cb8b845c25c23b82f4b580a65f0fa5a9cb28ffc5691d0",
+      "layout_observation": {
+        "panels": [
+          {
+            "display_position": "left",
+            "drawn_line_bands": 19
+          },
+          {
+            "display_position": "right",
+            "drawn_line_bands": 22
+          }
+        ],
+        "face_identity_basis": "Count comparison with quoted 22 recto / 19 verso only; display order is not face identity."
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 3,
+      "record_id": "BYB-A",
+      "article_printed_page": 24,
+      "asset_sha256": "230f846ab6beba4be95830e0e94306505b26f4ce3d8b1e43ec646a7efee079bc",
+      "layout_observation": {
+        "drawn_line_bands": 10
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 4,
+      "record_id": "BYB-G",
+      "article_printed_page": 27,
+      "asset_sha256": "c059e3fdcf286848e13dc9d1b7a94863c5668fe1e30ea9042498d9f2581a2444",
+      "layout_observation": {
+        "drawn_columns": 5
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 5,
+      "record_id": "BYB-H",
+      "article_printed_page": 28,
+      "asset_sha256": "cca71a6f51a0a3f125aded0a552762c49aee18c4c2552c75c1830df860f30610",
+      "layout_observation": {
+        "main_drawn_line_bands": 3,
+        "trace_below_lowest_divider": true,
+        "below_divider_trace_is_certified_extra_text_line": false
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 6,
+      "record_id": "BYB-J",
+      "article_printed_page": 29,
+      "asset_sha256": "68899396f178972e44f235c2fdc41a2f3fa83a6386029e7bde91a71f9d4a276d",
+      "layout_observation": {
+        "main_drawn_line_bands": 3,
+        "upper_partial_line_trace_present": true,
+        "possible_lower_line_from_description_is_certain": false
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 7,
+      "record_id": "BYB-E",
+      "article_printed_page": 30,
+      "asset_sha256": "facabafcedd30ccddae741fce46eaa760bd6f31ced0717e2c732e6650ed3e2b6",
+      "layout_observation": {
+        "drawn_line_bands": 3
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 8,
+      "record_id": "BYB-I",
+      "article_printed_page": 31,
+      "asset_sha256": "d34327f566b09b48411e10ab7b366ff3c6363b2d862d9d0d6524122ac1d3a04d",
+      "layout_observation": {
+        "panels": [
+          {
+            "display_position": "left",
+            "drawn_line_bands": 5
+          },
+          {
+            "display_position": "right",
+            "drawn_line_bands": 4
+          }
+        ],
+        "face_identity_basis": "Count comparison with quoted a=4 / b=5 only; preserve reversed panel display order."
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 9,
+      "record_id": "BYB-F",
+      "article_printed_page": 33,
+      "asset_sha256": "890affb5ae5be72d56e4bfe988ac28ea6b952c91da0f989ab66825d29b1ff518",
+      "layout_observation": {
+        "panels": [
+          {
+            "display_position": "left",
+            "drawn_line_bands": 3
+          },
+          {
+            "display_position": "right",
+            "drawn_line_bands": 4
+          }
+        ],
+        "face_identity_basis": "Provisional count comparison only; letters are not printed on these panels."
+      },
+      "standalone_crop_truncates_drawn_content": true,
+      "crop_note": "Standalone figure 9 cuts the upper part of the left panel; inspect the full p. 33 image for those strokes.",
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 10,
+      "record_id": "BYB-B",
+      "article_printed_page": 35,
+      "asset_sha256": "30173cce324c5cffeeff461b62ba126e7dc45a38016eb09f35afe906b37ba150",
+      "layout_observation": {
+        "panels": [
+          {
+            "display_position": "upper",
+            "drawn_line_bands": 4
+          },
+          {
+            "display_position": "lower",
+            "drawn_line_bands": 3
+          }
+        ],
+        "face_identity_basis": "Count comparison with quoted a=4 / b=3 only; not independent identity certification."
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    }
+  ]
+}

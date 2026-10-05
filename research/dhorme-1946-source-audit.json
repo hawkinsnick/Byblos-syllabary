@@ -1,0 +1,485 @@
+{
+  "format": "byblos-dhorme-source-audit-v1",
+  "input_hashes": {
+    "research/dhorme-1946-source-joins.json": "acec92c805a4c54ea8073e1cb197aba31f74770d164df4858d914d6d1ab5720f",
+    "research/dhorme-1946-acquisition.json": "d0d2793e6987077bdb338a82c986898b97161b6dfe8ad172e8afcb7d7ff2f00a",
+    "research/core-count-assertions.json": "726f301aa984f9b11084f04922ab6633879733ee050967c9516d9e0508beeee4",
+    "research/core-edition-locators.json": "657a7efe91447d2fa4592d87c2f3f1bfd6b1705807a095554e2b3f68004b5718",
+    "data/sources.json": "596703acb537138aa385ff1b6220846831e1478703c929e8e31a2409524f38fb"
+  },
+  "acquired_article_page_views": 37,
+  "visually_inspected_page_views": 11,
+  "heading_joins": 10,
+  "explicit_letter_joins": 9,
+  "edition_locator_joins": 1,
+  "historical_count_records": 6,
+  "count_comparison": [
+    {
+      "record_id": "BYB-A",
+      "article_locator": "p. 23",
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": 119,
+      "face_count_sum_project_derived": null,
+      "reported_type_count": 38,
+      "survey_count_assertion": {
+        "value": 123,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "survey_type_assertion": {
+        "components": [
+          34,
+          3
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "historical_layout": null,
+      "survey_layout": {
+        "reported_lines": 10,
+        "reported_face_lines": null
+      },
+      "count_comparison": "UNRECONCILED_SOURCE_UNITS_AND_READING_CONVENTIONS",
+      "native_count_changed": false,
+      "independent_confirmation": false
+    },
+    {
+      "record_id": "BYB-B",
+      "article_locator": "p. 34",
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": 41,
+      "face_count_sum_project_derived": 41,
+      "reported_type_count": null,
+      "survey_count_assertion": {
+        "value": 43,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [
+          {
+            "source_category": "signs",
+            "value": 39
+          },
+          {
+            "source_category": "dividers",
+            "value": 4
+          }
+        ],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": true
+      },
+      "survey_type_assertion": {
+        "components": [
+          23,
+          4
+        ],
+        "approximate": false,
+        "component_semantics": "dividers_explicit_for_second_component",
+        "not_project_sign_inventory": true
+      },
+      "historical_layout": {
+        "reported_face_lines": {
+          "a": 4,
+          "b": 3
+        },
+        "reported_lines": 7
+      },
+      "survey_layout": {
+        "reported_lines": 7,
+        "reported_face_lines": {
+          "A": 4,
+          "B": 3
+        }
+      },
+      "count_comparison": "UNRECONCILED_SOURCE_UNITS_AND_READING_CONVENTIONS",
+      "native_count_changed": false,
+      "independent_confirmation": false
+    },
+    {
+      "record_id": "BYB-D",
+      "article_locator": "p. 12",
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": 461,
+      "face_count_sum_project_derived": null,
+      "reported_type_count": 64,
+      "survey_count_assertion": {
+        "value": 457,
+        "approximate": true,
+        "unit": "source_reported_signs",
+        "components": [
+          {
+            "source_category": "numerals_additional",
+            "value": 3
+          }
+        ],
+        "numerals_included_in_value": false,
+        "dividers_included_in_value": null
+      },
+      "survey_type_assertion": {
+        "components": [
+          65,
+          3
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "historical_layout": {
+        "reported_face_lines": {
+          "a": 22,
+          "b": 19
+        },
+        "reported_lines": 41
+      },
+      "survey_layout": {
+        "reported_lines": 41,
+        "reported_face_lines": {
+          "A": 22,
+          "B": 19
+        }
+      },
+      "count_comparison": "UNRECONCILED_SOURCE_UNITS_AND_READING_CONVENTIONS",
+      "native_count_changed": false,
+      "independent_confirmation": false
+    },
+    {
+      "record_id": "BYB-G",
+      "article_locator": "p. 27",
+      "claim_voice": "DHORME_DESCRIPTIVE_PROSE",
+      "reported_sign_count": 38,
+      "face_count_sum_project_derived": null,
+      "reported_type_count": 17,
+      "survey_count_assertion": {
+        "value": 40,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "survey_type_assertion": {
+        "components": [
+          18,
+          3
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "historical_layout": {
+        "reported_columns": 5
+      },
+      "survey_layout": {
+        "reported_lines": null,
+        "reported_face_lines": null,
+        "reported_columns": 6,
+        "certainly_textual_columns": 5,
+        "note": "Columns, not six lines; last column unclear."
+      },
+      "count_comparison": "UNRECONCILED_SOURCE_UNITS_AND_READING_CONVENTIONS",
+      "native_count_changed": false,
+      "independent_confirmation": false
+    },
+    {
+      "record_id": "BYB-H",
+      "article_locator": "p. 28",
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": 6,
+      "face_count_sum_project_derived": null,
+      "reported_type_count": null,
+      "survey_count_assertion": {
+        "value": 7,
+        "approximate": false,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "survey_type_assertion": {
+        "components": [
+          4,
+          3
+        ],
+        "approximate": false,
+        "component_semantics": "additional_component_not_interpreted",
+        "not_project_sign_inventory": true
+      },
+      "historical_layout": {
+        "reported_lines": 3,
+        "lines_yielding_signs": 2
+      },
+      "survey_layout": {
+        "reported_lines": 4,
+        "reported_face_lines": null,
+        "certainly_textual_lines": 3
+      },
+      "count_comparison": "UNRECONCILED_SOURCE_UNITS_AND_READING_CONVENTIONS",
+      "native_count_changed": false,
+      "independent_confirmation": false
+    },
+    {
+      "record_id": "BYB-I",
+      "article_locator": "p. 31",
+      "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+      "reported_sign_count": null,
+      "face_count_sum_project_derived": 84,
+      "reported_type_count": null,
+      "survey_count_assertion": {
+        "value": 96,
+        "approximate": true,
+        "unit": "source_reported_signs",
+        "components": [],
+        "numerals_included_in_value": null,
+        "dividers_included_in_value": null
+      },
+      "survey_type_assertion": {
+        "components": [
+          36
+        ],
+        "approximate": true,
+        "component_semantics": "single_reported_value",
+        "not_project_sign_inventory": true
+      },
+      "historical_layout": {
+        "reported_face_lines": {
+          "a": 4,
+          "b": 5
+        },
+        "reported_lines": 9
+      },
+      "survey_layout": {
+        "reported_lines": 9,
+        "reported_face_lines": {
+          "A": 4,
+          "B": 5
+        }
+      },
+      "count_comparison": "UNRECONCILED_SOURCE_UNITS_AND_READING_CONVENTIONS",
+      "native_count_changed": false,
+      "independent_confirmation": false
+    }
+  ],
+  "historical_figures_layout_inspected": 10,
+  "figure_layout_review": [
+    {
+      "figure_number": 1,
+      "record_id": "BYB-C",
+      "article_printed_page": 6,
+      "asset_sha256": "7b4365acd8814e8b1c8109ee13356c944fcb53838968120e9dae956a2cd0d9fe",
+      "layout_observation": {
+        "panels": [
+          {
+            "display_position": "upper",
+            "drawn_line_bands": 13
+          },
+          {
+            "display_position": "lower",
+            "drawn_line_bands": 2
+          }
+        ],
+        "face_identity_basis": "Count comparison with quoted 13 recto / 2 verso only; panel identities not independently certified."
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 2,
+      "record_id": "BYB-D",
+      "article_printed_page": 13,
+      "asset_sha256": "2e97e797c5bfc6a96f3cb8b845c25c23b82f4b580a65f0fa5a9cb28ffc5691d0",
+      "layout_observation": {
+        "panels": [
+          {
+            "display_position": "left",
+            "drawn_line_bands": 19
+          },
+          {
+            "display_position": "right",
+            "drawn_line_bands": 22
+          }
+        ],
+        "face_identity_basis": "Count comparison with quoted 22 recto / 19 verso only; display order is not face identity."
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 3,
+      "record_id": "BYB-A",
+      "article_printed_page": 24,
+      "asset_sha256": "230f846ab6beba4be95830e0e94306505b26f4ce3d8b1e43ec646a7efee079bc",
+      "layout_observation": {
+        "drawn_line_bands": 10
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 4,
+      "record_id": "BYB-G",
+      "article_printed_page": 27,
+      "asset_sha256": "c059e3fdcf286848e13dc9d1b7a94863c5668fe1e30ea9042498d9f2581a2444",
+      "layout_observation": {
+        "drawn_columns": 5
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 5,
+      "record_id": "BYB-H",
+      "article_printed_page": 28,
+      "asset_sha256": "cca71a6f51a0a3f125aded0a552762c49aee18c4c2552c75c1830df860f30610",
+      "layout_observation": {
+        "main_drawn_line_bands": 3,
+        "trace_below_lowest_divider": true,
+        "below_divider_trace_is_certified_extra_text_line": false
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 6,
+      "record_id": "BYB-J",
+      "article_printed_page": 29,
+      "asset_sha256": "68899396f178972e44f235c2fdc41a2f3fa83a6386029e7bde91a71f9d4a276d",
+      "layout_observation": {
+        "main_drawn_line_bands": 3,
+        "upper_partial_line_trace_present": true,
+        "possible_lower_line_from_description_is_certain": false
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 7,
+      "record_id": "BYB-E",
+      "article_printed_page": 30,
+      "asset_sha256": "facabafcedd30ccddae741fce46eaa760bd6f31ced0717e2c732e6650ed3e2b6",
+      "layout_observation": {
+        "drawn_line_bands": 3
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 8,
+      "record_id": "BYB-I",
+      "article_printed_page": 31,
+      "asset_sha256": "d34327f566b09b48411e10ab7b366ff3c6363b2d862d9d0d6524122ac1d3a04d",
+      "layout_observation": {
+        "panels": [
+          {
+            "display_position": "left",
+            "drawn_line_bands": 5
+          },
+          {
+            "display_position": "right",
+            "drawn_line_bands": 4
+          }
+        ],
+        "face_identity_basis": "Count comparison with quoted a=4 / b=5 only; preserve reversed panel display order."
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 9,
+      "record_id": "BYB-F",
+      "article_printed_page": 33,
+      "asset_sha256": "890affb5ae5be72d56e4bfe988ac28ea6b952c91da0f989ab66825d29b1ff518",
+      "layout_observation": {
+        "panels": [
+          {
+            "display_position": "left",
+            "drawn_line_bands": 3
+          },
+          {
+            "display_position": "right",
+            "drawn_line_bands": 4
+          }
+        ],
+        "face_identity_basis": "Provisional count comparison only; letters are not printed on these panels."
+      },
+      "standalone_crop_truncates_drawn_content": true,
+      "crop_note": "Standalone figure 9 cuts the upper part of the left panel; inspect the full p. 33 image for those strokes.",
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    },
+    {
+      "figure_number": 10,
+      "record_id": "BYB-B",
+      "article_printed_page": 35,
+      "asset_sha256": "30173cce324c5cffeeff461b62ba126e7dc45a38016eb09f35afe906b37ba150",
+      "layout_observation": {
+        "panels": [
+          {
+            "display_position": "upper",
+            "drawn_line_bands": 4
+          },
+          {
+            "display_position": "lower",
+            "drawn_line_bands": 3
+          }
+        ],
+        "face_identity_basis": "Count comparison with quoted a=4 / b=3 only; not independent identity certification."
+      },
+      "standalone_crop_truncates_drawn_content": null,
+      "crop_note": null,
+      "face_identity_verified": false,
+      "full_sequence_verified": false,
+      "ancient_line_status_adjudicated": false
+    }
+  ],
+  "qualified_j_layout": {
+    "record_id": "BYB-J",
+    "article_printed_page": 28,
+    "claim_voice": "DUNAND_QUOTED_BY_DHORME",
+    "fully_surviving_horizontal_lines_reported": 3,
+    "upper_partial_line_reported": 1,
+    "possible_lower_line_reported": 1,
+    "possible_lower_line_is_certain": false,
+    "native_line_count_changed": false
+  },
+  "copy_source_dependency": {
+    "article_printed_page": 5,
+    "locator": "p. 5 footnote 1 and ordering paragraph",
+    "copy_preparer_named": "Decamps de Mertzenfeld",
+    "copy_basis": "Dunand photographs in Byblia Grammata",
+    "ordering": "Dhorme states order of proposed decipherment, rather than Dunand discovery order.",
+    "independent_physical_witness": false,
+    "decipherment_and_phonetic_values_admitted": false
+  },
+  "verified_sequences_added": 0,
+  "direct_dunand_book_pages_added": 0,
+  "independent_epigraphic_reviews_added": 0,
+  "boundary": "Ten historical headings are not ten certified objects. Article quotes and redraws depend on Dunand; proposed phonetics and translations are excluded. Count/layout disagreements are evidence targets, not automatically corrected readings."
+}

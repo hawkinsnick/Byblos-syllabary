@@ -1,6 +1,6 @@
 # Byblos corpus audit
 
-Snapshot version: 1.3.1
+Snapshot version: 1.3.2
 Scientific 1.0 ready: **False**
 
 Structural validity is not proof of accuracy or exhaustive coverage.
@@ -33,7 +33,7 @@ Structural validity is not proof of accuracy or exhaustive coverage.
 
 ## Admission evidence
 
-Evidence snapshot SHA-256: `f32f82cc85b14057caa4c61d56a0855fe323c2a0203fa5d61d2791fb7ba3e433`
+Evidence snapshot SHA-256: `c6f5a3a37f9765a1e41ba0cc72e96feed08160e9c62b6528a9395e8b1b240d6f`
 
 Complete within the independently reviewed scope and cutoff; future finds and publications remain possible.
 

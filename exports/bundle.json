@@ -1825,7 +1825,7 @@
       "search_protocol": {},
       "source_dispositions": []
     },
-    "as_of": "2026-10-04",
+    "as_of": "2026-10-05",
     "count_claims": [
       {
         "count": 14,
@@ -2192,7 +2192,7 @@
       "verified_transcriptions": 0
     },
     "scope": "Initial source inventory; no exhaustive coverage claim.",
-    "version": "1.3.1"
+    "version": "1.3.2"
   },
   "external_crosswalk": {
     "entries": [
@@ -4017,12 +4017,13 @@
         "url": "https://center-for-decipherment.ch/tool/plates/byblos/z_d.jpg"
       },
       {
-        "accessed": "2026-10-01",
+        "accessed": "2026-10-05",
         "citation": "Édouard Dhorme (1946), Déchiffrement des inscriptions pseudo-hiéroglyphiques de Byblos, Syria 25(1):1–35.",
         "consultation": "selected_pages",
         "doi": "10.3406/syria.1946.4447",
         "id": "dhorme-1946",
-        "notes": "Page 1 read; proposed decipherment is not accepted as canonical. Its reference to Syria 1929 conflicts with the inspected 1930 edition.",
+        "inspection": "Printed pp. 5, 12, 23, 26–29, 31, 33–35, selected descriptive fields/figures only. Other acquired views are not visually collated. All ten source figures inspected for layout only; nine standalone figure assets and figure 10 within its page image. Figure 9 standalone crop truncates upper left-panel strokes; use full p. 33 image.",
+        "notes": "Thirty-seven advertised page views acquired privately; eleven page images visually inspected for headings, source dependence and six attributed count records. Nine heading letters are explicit; the first-stele join uses Dunand pp. 71–73, not an invented printed a. Copies depend on Dunand photographs, per p. 5 footnote. Quoted book pages remain uninspected; phonetics and translations excluded. Citation of Syria X/1929 on p. 23 remains in conflict with the inspected XI/1930 edition.",
         "rights": {
           "scope": "Bibliographic facts and original attributed summaries only; publication text not redistributed.",
           "status": "not_assessed"

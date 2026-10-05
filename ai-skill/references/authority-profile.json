@@ -141,6 +141,36 @@
       "role": "primary_facsimile_number_index",
       "path": "research/stele-a-facsimile-number-index.json",
       "required": true
+    },
+    {
+      "role": "facsimile_ordinal_review",
+      "path": "research/stele-a-facsimile-ordinal-review.json",
+      "required": true
+    },
+    {
+      "role": "facsimile_review_audit",
+      "path": "research/stele-a-facsimile-review-audit.json",
+      "required": true
+    },
+    {
+      "role": "stele_a_source_review",
+      "path": "docs/STELE-A-SOURCE-REVIEW.md",
+      "required": true
+    },
+    {
+      "role": "dhorme_1946_acquisition",
+      "path": "research/dhorme-1946-acquisition.json",
+      "required": true
+    },
+    {
+      "role": "dhorme_1946_source_joins",
+      "path": "research/dhorme-1946-source-joins.json",
+      "required": true
+    },
+    {
+      "role": "dhorme_1946_source_audit",
+      "path": "research/dhorme-1946-source-audit.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -159,6 +189,11 @@
     "Five Dunand 1930 edition-specific type groups and fourteen source-numbered positions form a selected primary pilot, not a verified full sequence or certified native glyph inventory.",
     "Provider serialization rows are not ancient lines or columns; g/h layout, m direction and n first-line reading remain unresolved.",
     "Dunand 1930 and the survey use unreconciled count conventions for stele a; source type components must not be pooled into a global sign inventory.",
-    "The 38-row numeric source table contains a printed position-32 collision and eight unassigned ordinals. Preserve them as table discrepancies, not certified ancient loss or a reconstructed complete reading."
+    "The 38-row numeric source table contains a printed position-32 collision and eight unassigned ordinals. Preserve them as table discrepancies, not certified ancient loss or a reconstructed complete reading.",
+    "All 123 source drawing positions have table/variant comparison dispositions, with eighteen detailed marker/gap/collision targets. This is same-source drawing comparison, not native glyph normalization, direct ancient surface inspection, independent review or a verified full sequence.",
+    "The VIII 32/92 candidate erratum and position-27 count explanation are unadopted source-internal hypotheses. Counterfactual counts must not replace literal assertions or become independent confirmation.",
+    "Dhorme 1946 ten heading joins preserve his proposed-decipherment order, not Dunand discovery order. Nine letters are explicit; first stele uses a qualified edition-locator join.",
+    "Dhorme redraws depend on Dunand photographs; quoted Byblia Grammata descriptions do not establish direct book inspection. Historical sounds/translations are unadmitted.",
+    "Historical a/b/d/g/h/i counts and qualified j possible-line evidence must remain separate from survey units, approximate counts, dividers and canonical layouts."
   ]
 }

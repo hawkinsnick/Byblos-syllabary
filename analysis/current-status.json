@@ -1,9 +1,10 @@
 {
   "schema_version": "1.0",
   "project": "Byblos-syllabary",
-  "repository_version": "1.3.1",
-  "checked": "2026-10-04",
-  "milestone": "SOURCE_SCOPED_PRIMARY_NUMBERING_AND_PROVIDER_RECONCILIATION",
+  "repository_version": "1.3.2",
+  "checked": "2026-10-05",
+  "date_basis": "UTC",
+  "milestone": "SOURCE_DRAWING_TYPE_TABLE_COMPARISON_AND_UNADOPTED_CORRECTIONS",
   "native_evidence_counts": {
     "catalogue_records": 39,
     "reported_core": 14,
@@ -28,6 +29,20 @@
     "distinct_source_ordinals_in_table": 115,
     "facsimile_numbered_line_spans": 10,
     "facsimile_source_ordinals": 123,
+    "source_facsimile_positions_compared": 123,
+    "selected_facsimile_drawing_markers_inspected": 18,
+    "drawing_table_comparison_dispositions": {
+      "CONFLICTING_PRINTED_TYPES": 1,
+      "DRAWING_TABLE_FORM_COMPATIBLE": 105,
+      "PARTIAL_DRAWING_COMPATIBLE_WITH_PRINTED_TYPE": 9,
+      "TABLE_TYPE_UNASSIGNED": 8
+    },
+    "number_table_join_only_positions": 0,
+    "unadopted_source_internal_erratum_candidates": 1,
+    "historical_article_heading_joins": 10,
+    "historical_article_visually_inspected_page_views": 11,
+    "historical_article_count_records": 6,
+    "historical_figures_layout_inspected": 10,
     "source_recurrence_assertions_numerically_checked": 1
   },
   "scientific_results": {
@@ -46,10 +61,18 @@
       "BYB-M"
     ],
     "count_conventions": [
-      "BYB-A"
+      "BYB-A",
+      "BYB-B",
+      "BYB-D",
+      "BYB-G",
+      "BYB-H",
+      "BYB-I"
     ],
     "first_line_reading": [
       "BYB-N"
+    ],
+    "qualified_possible_extra_line": [
+      "BYB-J"
     ],
     "printed_type_membership": [
       {
@@ -69,6 +92,31 @@
       42,
       92,
       95
+    ],
+    "candidate_errata_unadopted": [
+      {
+        "id": "BYB-A-D1930-VIII-32-92",
+        "status": "PROPOSED_SOURCE_INTERNAL_ERRATUM_NOT_ADOPTED",
+        "hypothetical_replacement": {
+          "type_label": "VIII",
+          "from_ordinal": 32,
+          "to_ordinal": 92
+        },
+        "counterfactual_only": {
+          "distinct_table_ordinals": 116,
+          "collisions": [],
+          "unassigned_ordinals": [
+            14,
+            27,
+            34,
+            40,
+            41,
+            42,
+            95
+          ]
+        },
+        "literal_register_changed": false
+      }
     ]
   },
   "source_redistribution": {
@@ -78,7 +126,9 @@
     "selected_primary_numeric_metadata": "Original attributed factual assertions only"
   },
   "next_work": [
-    "Collate stele a numbered facsimile against the 38-row numeric table, including duplicate 32, unassigned ordinals and printed qualifiers.",
+    "Cross-collate the source drawing/type comparisons against the later edition, physical images and independent readings; source drawing compatibility does not certify native glyph identity.",
+    "Test the unadopted VIII 32/92 erratum and edge-position 27 count hypothesis against the later edition and survey.",
+    "Compare the ten dependent Dhorme figure witnesses with the original editions; retain source count policies and h/j physical uncertainty.",
     "Acquire lawful Dunand 1945 and 1978 edition/plate access for complete source sequences.",
     "Resolve provider face/variant/object identities and g/h/m/n source discrepancies.",
     "Obtain applicable upstream terms before distributing provider readings or images."
@@ -89,7 +139,10 @@
     "research/stele-a-numbering-audit.json",
     "research/stele-a-count-comparison.json",
     "research/dunand-1930-acquisition.json",
-    "research/stele-a-type-table-audit.json"
+    "research/stele-a-type-table-audit.json",
+    "research/stele-a-facsimile-review-audit.json",
+    "docs/STELE-A-SOURCE-REVIEW.md",
+    "research/dhorme-1946-source-audit.json"
   ],
   "boundary": "Five edition-specific type labels and fourteen numbered-position assertions are a selected primary-source pilot, not five certified native sign identities or a verified full sequence. Source counts, provider rows and ancient occurrences remain distinct."
 }
