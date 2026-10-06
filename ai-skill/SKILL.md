@@ -43,3 +43,7 @@ Read `docs/SOURCE-RECONCILIATION.md` and the indexed source-reconciliation artif
 - The counting-unit ledger keeps 14 publication labels, 18 surfaces, 126 line targets, BYB-G's 6/5 reported/certainly-textual columns, zero verified sequences and an unknown physical-monument count as separate denominators.
 - Exact catalogue routes identify the 1945 edition through OL6188790M / bybliagrammatado0000duna / LCCN 55042246 / OCLC 1191221 / Google Books RnYtAAAAMAAJ, and the later article through KEI00067546 / KeiBi 43:205. Borrow restrictions, snippets and bibliographic metadata are discovery evidence only: zero primary pages or sequences have been collated through these routes.
 - Dunand 1978 pagination remains unresolved: Mnamon 52–58 versus KeiBi 51–59, with 1981 appearance reported only by KeiBi. Use 51–59 solely as an acquisition target until the physical article is inspected.
+
+
+## Offline corpus browser
+Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. The browser is self-contained and searches only the explicitly allowlisted files in `research/browser-sources.json`. Adding a file to the browser requires a rights/provenance check; never recursively ingest repository data or restricted upstream material. Browser display does not establish decipherment, source independence, or expert validation.
