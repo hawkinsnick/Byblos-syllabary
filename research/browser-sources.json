@@ -1,0 +1,11 @@
+{
+  "format": "corpus-family-browser-config-v1",
+  "project": "Byblos-syllabary",
+  "sources": [
+    "data/catalogue.json",
+    "data/surfaces.json",
+    "data/sources.json",
+    "data/research_entities.json"
+  ],
+  "boundary": "Only explicitly allowlisted, committed repository data are embedded. Browser display does not upgrade source authority, resolve disagreements, establish decipherment, or override record/source licensing."
+}
