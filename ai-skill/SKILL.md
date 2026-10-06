@@ -57,3 +57,10 @@ Before declaring a Byblos task blocked:
 - never manufacture a sequence, glyph identity, object identity, or reviewer approval.
 
 Parity with Linear A means methodological and evidentiary-control parity, not equal surviving evidence.
+
+
+## Rights-dominant pre-expert readiness (2026-10-06)
+
+Read `analysis/preexpert-residual-ledger.json` and `docs/RIGHTS-DOMINANT-READINESS.md` before proposing further corpus-growth work. Under currently lawfully admitted evidence, no identified non-rights machine/source task remains intentionally deferred. The dominant evidence-growth dependencies are lawful access to Dunand 1945/1978 and authoritative object/accession witnesses, plus applicable upstream terms for OCBI sequence/encoding reuse.
+
+This is not scientific completion. Independent epigraphic review remains downstream of source acquisition. Never turn the rights-dominant milestone into permission to infer missing signs, sequences, object identities, directions, or reviewer decisions.
