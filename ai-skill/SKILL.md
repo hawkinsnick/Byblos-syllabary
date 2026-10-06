@@ -43,3 +43,17 @@ Read `docs/SOURCE-RECONCILIATION.md` and the indexed source-reconciliation artif
 - The counting-unit ledger keeps 14 publication labels, 18 surfaces, 126 line targets, BYB-G's 6/5 reported/certainly-textual columns, zero verified sequences and an unknown physical-monument count as separate denominators.
 - Exact catalogue routes identify the 1945 edition through OL6188790M / bybliagrammatado0000duna / LCCN 55042246 / OCLC 1191221 / Google Books RnYtAAAAMAAJ, and the later article through KEI00067546 / KeiBi 43:205. Borrow restrictions, snippets and bibliographic metadata are discovery evidence only: zero primary pages or sequences have been collated through these routes.
 - Dunand 1978 pagination remains unresolved: Mnamon 52–58 versus KeiBi 51–59, with 1981 appearance reported only by KeiBi. Use 51–59 solely as an acquisition target until the physical article is inspected.
+
+
+## Linear A parity / pre-expert gate (2026-10-06)
+
+Use `docs/LINEAR-A-PARITY-GATE.md` as the governing readiness target. Do not collapse rights/access blockers, unresolved scholarly questions, and independent-review requirements into one category.
+
+Before declaring a Byblos task blocked:
+- exhaust lawful public metadata and inspected evidence;
+- preserve incompatible count units rather than forcing reconciliation;
+- distinguish source disagreement from missing access;
+- isolate the exact edition/page/plate or provider permission needed;
+- never manufacture a sequence, glyph identity, object identity, or reviewer approval.
+
+Parity with Linear A means methodological and evidentiary-control parity, not equal surviving evidence.
