@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "corpus": "Byblos syllabary",
-  "target": "PRE_EXPERT_MAXIMUM",
+  "target": "COLLECTION_SCORE_GT_9_PRE_EXPERT",
   "checked": "2026-10-05",
   "established": [
     {
@@ -57,6 +57,12 @@
         "BYB-M"
       ],
       "evidence": "research/source-comparison-audit.json"
+    },
+    {
+      "gate": "open_primary_and_rights_clear_comparison_frontier",
+      "status": "ACTIVE",
+      "evidence": "research/gt9-open-source-frontier.json",
+      "boundary": "Adds lawful direct/secondary comparison evidence without substituting for Dunand 1945/1978."
     }
   ],
   "remaining_nonexpert_work": [
@@ -152,5 +158,6 @@
     "evidence": "research/final-source-pass-audit.json",
     "handoff": "docs/EXPERT-REVIEW-HANDOFF.md",
     "pause_basis": "User authorized one additional Byblos pass and then pivot if appropriate. Further literature inspection and lawful edition acquisition remain open; this is not an exhaustive-source or all-machine-work completion claim."
-  }
+  },
+  "gt9_open_source_frontier": "research/gt9-open-source-frontier.json"
 }
