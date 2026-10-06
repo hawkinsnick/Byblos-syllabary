@@ -14,6 +14,10 @@ Researchers using ChatGPT, Claude, Gemini, or another capable model can provide 
 
 For questions spanning multiple corpus projects, use the **Combined Corpus Research AI** documented in the Linear A repository under [`combined-ai-skill/`](https://github.com/hawkinsnick/Linear-A/tree/ai-skill-v0.1/combined-ai-skill). It orchestrates the registered individual skills while keeping their evidence models and rights separate. Membership in the combined system does **not** imply linguistic relationship, sign equivalence, chronology, decipherment, or independent replication.
 
+## Pre-expert parity status
+
+The current parity burn-down is documented in `docs/LINEAR-A-PARITY-GATE.md`, `docs/BLOCKER-BURNDOWN.md`, `research/core-preexpert-closure-matrix.md`, and `docs/PREEXPERT-RESIDUAL-BLOCKERS.md`. Parity means comparable evidence control and research usability, not equal surviving evidence. Rights/access dependencies and genuine specialist judgments are kept separate from tractable corpus work.
+
 ## Current coverage
 
 - 14 reported core entries plus 25 named disputed candidates; membership remains attributed.
