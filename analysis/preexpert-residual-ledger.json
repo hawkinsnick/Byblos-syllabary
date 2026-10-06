@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "as_of": "2026-10-06",
+  "purpose": "Classify residual Byblos work after the Linear-A-parity pre-expert burn-down without manufacturing missing evidence.",
+  "states": {
+    "tractable_now": [],
+    "rights_or_lawful_access": [
+      {
+        "id": "DUNAND-1945",
+        "need": "Direct A-J edition/plate collation and complete published sequences/sign inventory.",
+        "closure": "Lawful access plus source-specific reuse determination."
+      },
+      {
+        "id": "DUNAND-1978",
+        "need": "Direct K-N collation, pp. 51-59 acquisition target, figures/plates.",
+        "closure": "Lawful access plus source-specific reuse determination."
+      },
+      {
+        "id": "OCBI-SEQUENCES",
+        "need": "Provider readings/encoding if they are to be imported or redistributed.",
+        "closure": "Applicable upstream permission/licence and documented encoding/provenance."
+      },
+      {
+        "id": "OBJECT-ACCESSION-CROSSWALK",
+        "need": "Authoritative plate/excavation/museum evidence linking publication labels to physical objects/accessions.",
+        "closure": "Lawful access to authoritative records; public-web pass yielded no reliable A-N accession crosswalk."
+      }
+    ],
+    "human_epigraphic_after_access": [
+      {
+        "id": "SIGN-COLLATION",
+        "need": "Independent sign-by-sign review after canonical witnesses are available."
+      },
+      {
+        "id": "G-COLUMN",
+        "need": "Adjudicate uncertain sixth-column textual status."
+      },
+      {
+        "id": "H-J-COREFERENCE",
+        "need": "Adjudicate whether h and j belong to one physical stele."
+      },
+      {
+        "id": "M-DIRECTION",
+        "need": "Adjudicate survey conditional LTR versus provider RTL if primary witness does not settle it."
+      },
+      {
+        "id": "N-FIRST-LINE",
+        "need": "Adjudicate first-line reading after direct primary collation."
+      },
+      {
+        "id": "A-ERRATUM-32-92",
+        "need": "Assess proposed Dunand 1930 internal erratum against later edition/independent witness."
+      }
+    ]
+  },
+  "guardrails": [
+    "Publication labels are not silently converted to physical-object identities.",
+    "Provider rows are not inscription counts.",
+    "Missing signs or sequences are never reconstructed to satisfy a gate.",
+    "Independent review cannot be simulated by AI."
+  ],
+  "preexpert_machine_source_work_exhausted_under_current_lawfully_admitted_evidence": true,
+  "scientific_1_0_ready": false,
+  "rights_are_dominant_content_acquisition_blocker": true,
+  "note": "Human epigraphic judgments remain downstream of obtaining admissible canonical evidence and are not legal-rights questions."
+}
