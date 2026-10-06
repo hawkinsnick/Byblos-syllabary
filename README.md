@@ -16,7 +16,7 @@ For questions spanning multiple corpus projects, use the **Combined Corpus Resea
 
 ## Pre-expert parity status
 
-The current parity burn-down is documented in `docs/LINEAR-A-PARITY-GATE.md`, `docs/BLOCKER-BURNDOWN.md`, `research/core-preexpert-closure-matrix.md`, and `docs/PREEXPERT-RESIDUAL-BLOCKERS.md`. Parity means comparable evidence control and research usability, not equal surviving evidence. Rights/access dependencies and genuine specialist judgments are kept separate from tractable corpus work.
+The current parity burn-down is documented in `docs/LINEAR-A-PARITY-GATE.md`, `docs/BLOCKER-BURNDOWN.md`, `research/core-preexpert-closure-matrix.md`, and `docs/RIGHTS-DOMINANT-READINESS.md`. Under currently lawfully admitted evidence, the identified pre-expert machine/source work is exhausted and rights/access is the dominant evidence-growth blocker. Parity means comparable evidence control and research usability, not equal surviving evidence. Independent epigraphic review remains downstream of source acquisition and is not simulated.
 
 ## Current coverage
 
