@@ -38,5 +38,22 @@
     "Extract source-attributed object/context assertions from the 1930 primary article into the object/source concordance.",
     "Compare the CC-licensed redrawn sign table against the project's numeric/type register as a dependent comparison layer.",
     "Continue acquisition of Dunand 1945 and 1978; do not reconstruct protected editions from derivatives."
-  ]
+  ],
+  "progress": {
+    "dunand_1930_primary_extracted": "research/dunand-1930-primary-object.json",
+    "primary_object_facts_registered": true,
+    "critical_corpus_boundary": "Dunand 1945/1978 remains required for systematic corpus-level critical reconciliation.",
+    "additional_public_historical_corroboration": [
+      {
+        "source": "CRAI 1934 announcement",
+        "fact": "two bronze tablets with pseudo-hieroglyphic inscriptions announced as newly discovered",
+        "status": "discovery-level corroboration only"
+      },
+      {
+        "source": "Syria 1940 review of Fouilles de Byblos",
+        "fact": "1930 slab identified as catalogue no. 1140 with ten lines; bronze spatula no. 2334 linked to same system",
+        "status": "historical catalogue cross-reference"
+      }
+    ]
+  }
 }
