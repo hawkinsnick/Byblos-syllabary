@@ -155,3 +155,6 @@ release policy rejects known media files in the repository.
 See [the 4 October 2026 evidence checkpoint](docs/SOURCE-RECONCILIATION.md) for new source-located evidence, reproducible checks, unresolved anomalies and the remaining primary-source work.
 
 The final source pass adds [a focused review handoff](docs/EXPERT-REVIEW-HANDOFF.md), ten dependent stele line comparisons and 103 historical display targets. These are source locations, not certified ancient lines or glyph sequences. The 32/92 correction and count explanations remain unadopted.
+
+## Offline corpus browser
+Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. The browser is self-contained and searches only the explicitly allowlisted files in `research/browser-sources.json`. Adding a file to the browser requires a rights/provenance check; never recursively ingest repository data or restricted upstream material. Browser display does not establish decipherment, source independence, or expert validation.
