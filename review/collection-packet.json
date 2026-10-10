@@ -1,0 +1,29 @@
+{
+  "automatic_admission": false,
+  "dimensions": {
+    "language_or_script_classification": "Attribute membership and classification to named authorities; preserve disagreement.",
+    "object_identity": "Confirm the object, face and inventory concordance; distinguish source entries from physical objects.",
+    "reading_and_layout": "Compare the exact edition rows, figures and layout; preserve competing readings with page/line locators.",
+    "reuse_rights": "Check the applicable license or permission for each component; project terms do not override upstream rights.",
+    "source_independence": "Identify shared editorial and photographic lineage; a derivative is not an independent witness.",
+    "uncertainty": "Retain damage, restorations, unreadable signs and competing segmentations; do not silently normalize them."
+  },
+  "enumerated_record_keys": 39,
+  "evidence_fingerprint": "ae260a025f516bd44bae9a3568c7e2ffc70bf6cf2745002af1069f9afd5210fc",
+  "ledger_path": "research/collection-work-ledger.json",
+  "native_review_links": [
+    "docs/RIGHTS.md",
+    "LICENSING.md"
+  ],
+  "repository": "hawkinsnick/Byblos-syllabary",
+  "requests": [
+    "Record what evidence was actually accessed, with exact edition/page/line/figure locators.",
+    "Separate source assertions, project computations and independent scholarly judgments.",
+    "Submit inconclusive and negative decisions with the same revision binding as positive ones."
+  ],
+  "rights": "Source-specific terms govern the linked evidence; no source scan, transcription or protected record payload is duplicated in this packet.",
+  "schema_version": "1.0",
+  "scientific_approval_granted": false,
+  "selection": "Select record_keys from ledger; for restricted A/B records use the existing local derivative and authenticated native audit",
+  "source_lead_count": 230
+}

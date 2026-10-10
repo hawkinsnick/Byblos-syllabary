@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Byblos syllabary",
+  "checked": "2026-10-07",
+  "source": {
+    "author": "Maurice Dunand",
+    "title": "Nouvelle inscription découverte à Byblos",
+    "journal": "Syria 11.1",
+    "year": 1930,
+    "pages": "1-10",
+    "doi": "10.3406/syria.1930.3456",
+    "provider": "Persée",
+    "role": "direct primary publication of first stele"
+  },
+  "object_assertions": {
+    "material": "white limestone",
+    "dimensions_cm": {
+      "length": 67,
+      "height": 50,
+      "average_thickness": 20
+    },
+    "surface": "rear rough; inscribed face carefully dressed",
+    "condition": "upper-left break removes ends of first four lines; additional minor edge damage",
+    "find_context": "reused in lower courses of a cistern in later domestic construction near southwest corner; cistern floor about 3 m below ground surface",
+    "original_context": "not in situ; Dunand cautiously associated its source with nearby reused architectural material and suggested possible Middle Kingdom antiquity",
+    "later_identifier": {
+      "source": "1940 review of Fouilles de Byblos",
+      "catalogue_no": "1140",
+      "description": "slab with ten lines of pseudo-hieroglyphic characters"
+    }
+  },
+  "method_notes": [
+    "Find context is secondary reuse and must not be converted into secure original archaeological context.",
+    "Dunand's Middle Kingdom suggestion is an author hypothesis, not a fixed corpus date.",
+    "The Persée page exposes a copy/figure, but image redistribution rights are not inferred from public viewability."
+  ],
+  "next_actions": [
+    "Crosswalk catalogue no. 1140 / first stele to the project's BYB letter/record identifier without assuming equivalence from numbering alone.",
+    "Register the ten-line fact and damage pattern against the existing facsimile-line-span layer.",
+    "Use the direct 1930 publication as primary evidence for object metadata; keep 1945/1978 as the critical-corpus access frontier."
+  ]
+}

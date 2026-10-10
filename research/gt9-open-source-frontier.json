@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Byblos syllabary",
+  "checked": "2026-10-06",
+  "target": "DEFENSIBLE_SCORE_GT_9",
+  "sources": [
+    {
+      "id": "BYB-OPEN-DUNAND-1930",
+      "citation": "Maurice Dunand, Nouvelle inscription découverte à Byblos, Syria 11.1 (1930), 1-10",
+      "provider": "Persee",
+      "doi": "10.3406/syria.1930.3456",
+      "role": "direct early primary publication; object dimensions, material, discovery context and inscription evidence",
+      "status": "PUBLIC_FULLTEXT_ROUTE",
+      "boundary": "Use only source-attributed facts/readings actually inspected; does not replace Dunand 1945/1978 corpus editions."
+    },
+    {
+      "id": "BYB-OPEN-MNAMON",
+      "citation": "Mnamon critical guide: Byblos pseudo-hieroglyphic",
+      "role": "independent modern corpus/bibliographic orientation",
+      "assertions": [
+        "Dunand 1945 corpus comprises a,g,c,d,b,e,f,i,h,j",
+        "Dunand 1978 adds k,l,m,n",
+        "Dunand 1945 reports 114-sign inventory"
+      ],
+      "status": "PUBLIC_REFERENCE",
+      "boundary": "Secondary orientation, not independent epigraphic verification."
+    },
+    {
+      "id": "BYB-OPEN-SIGNARY-CC",
+      "citation": "Wikimedia Commons Byblos syll signs, Hans van Deukeren",
+      "rights": "CC BY-SA 3.0 / GFDL",
+      "role": "independently redrawn modern sign-table comparison lead",
+      "status": "RIGHTS_CLEAR_COMPONENT_WITH_ATTRIBUTION",
+      "boundary": "Derivative modern drawing based on Dunand; source dependence must be explicit and it cannot certify ancient glyph identity."
+    }
+  ],
+  "next_actions": [
+    "Extract source-attributed object/context assertions from the 1930 primary article into the object/source concordance.",
+    "Compare the CC-licensed redrawn sign table against the project's numeric/type register as a dependent comparison layer.",
+    "Continue acquisition of Dunand 1945 and 1978; do not reconstruct protected editions from derivatives."
+  ],
+  "progress": {
+    "dunand_1930_primary_extracted": "research/dunand-1930-primary-object.json",
+    "primary_object_facts_registered": true,
+    "critical_corpus_boundary": "Dunand 1945/1978 remains required for systematic corpus-level critical reconciliation.",
+    "additional_public_historical_corroboration": [
+      {
+        "source": "CRAI 1934 announcement",
+        "fact": "two bronze tablets with pseudo-hieroglyphic inscriptions announced as newly discovered",
+        "status": "discovery-level corroboration only"
+      },
+      {
+        "source": "Syria 1940 review of Fouilles de Byblos",
+        "fact": "1930 slab identified as catalogue no. 1140 with ten lines; bronze spatula no. 2334 linked to same system",
+        "status": "historical catalogue cross-reference"
+      }
+    ]
+  }
+}
