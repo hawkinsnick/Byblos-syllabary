@@ -45,5 +45,25 @@ Read `docs/SOURCE-RECONCILIATION.md` and the indexed source-reconciliation artif
 - Dunand 1978 pagination remains unresolved: Mnamon 52–58 versus KeiBi 51–59, with 1981 appearance reported only by KeiBi. Use 51–59 solely as an acquisition target until the physical article is inspected.
 
 
+## Linear A parity / pre-expert gate (2026-10-06)
+
+Use `docs/LINEAR-A-PARITY-GATE.md` as the governing readiness target. Do not collapse rights/access blockers, unresolved scholarly questions, and independent-review requirements into one category.
+
+Before declaring a Byblos task blocked:
+- exhaust lawful public metadata and inspected evidence;
+- preserve incompatible count units rather than forcing reconciliation;
+- distinguish source disagreement from missing access;
+- isolate the exact edition/page/plate or provider permission needed;
+- never manufacture a sequence, glyph identity, object identity, or reviewer approval.
+
+Parity with Linear A means methodological and evidentiary-control parity, not equal surviving evidence.
+
+
+## Rights-dominant pre-expert readiness (2026-10-06)
+
+Read `analysis/preexpert-residual-ledger.json` and `docs/RIGHTS-DOMINANT-READINESS.md` before proposing further corpus-growth work. Under currently lawfully admitted evidence, no identified non-rights machine/source task remains intentionally deferred. The dominant evidence-growth dependencies are lawful access to Dunand 1945/1978 and authoritative object/accession witnesses, plus applicable upstream terms for OCBI sequence/encoding reuse.
+
+This is not scientific completion. Independent epigraphic review remains downstream of source acquisition. Never turn the rights-dominant milestone into permission to infer missing signs, sequences, object identities, directions, or reviewer decisions.
+
 ## Offline corpus browser
 Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. The browser is self-contained and searches only the explicitly allowlisted files in `research/browser-sources.json`. Adding a file to the browser requires a rights/provenance check; never recursively ingest repository data or restricted upstream material. Browser display does not establish decipherment, source independence, or expert validation.

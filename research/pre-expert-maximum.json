@@ -57,12 +57,6 @@
         "BYB-M"
       ],
       "evidence": "research/source-comparison-audit.json"
-    },
-    {
-      "gate": "open_primary_and_rights_clear_comparison_frontier",
-      "status": "ACTIVE",
-      "evidence": "research/gt9-open-source-frontier.json",
-      "boundary": "Adds lawful direct/secondary comparison evidence without substituting for Dunand 1945/1978."
     }
   ],
   "remaining_nonexpert_work": [

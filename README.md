@@ -14,6 +14,10 @@ Researchers using ChatGPT, Claude, Gemini, or another capable model can provide 
 
 For questions spanning multiple corpus projects, use the **Combined Corpus Research AI** documented in the Linear A repository under [`combined-ai-skill/`](https://github.com/hawkinsnick/Linear-A/tree/ai-skill-v0.1/combined-ai-skill). It orchestrates the registered individual skills while keeping their evidence models and rights separate. Membership in the combined system does **not** imply linguistic relationship, sign equivalence, chronology, decipherment, or independent replication.
 
+## Pre-expert parity status
+
+The current parity burn-down is documented in `docs/LINEAR-A-PARITY-GATE.md`, `docs/BLOCKER-BURNDOWN.md`, `research/core-preexpert-closure-matrix.md`, and `docs/RIGHTS-DOMINANT-READINESS.md`. Under currently lawfully admitted evidence, the identified pre-expert machine/source work is exhausted and rights/access is the dominant evidence-growth blocker. Parity means comparable evidence control and research usability, not equal surviving evidence. Independent epigraphic review remains downstream of source acquisition and is not simulated.
+
 ## Current coverage
 
 - 14 reported core entries plus 25 named disputed candidates; membership remains attributed.
@@ -151,7 +155,6 @@ release policy rejects known media files in the repository.
 See [the 4 October 2026 evidence checkpoint](docs/SOURCE-RECONCILIATION.md) for new source-located evidence, reproducible checks, unresolved anomalies and the remaining primary-source work.
 
 The final source pass adds [a focused review handoff](docs/EXPERT-REVIEW-HANDOFF.md), ten dependent stele line comparisons and 103 historical display targets. These are source locations, not certified ancient lines or glyph sequences. The 32/92 correction and count explanations remain unadopted.
-
 
 ## Offline corpus browser
 Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. The browser is self-contained and searches only the explicitly allowlisted files in `research/browser-sources.json`. Adding a file to the browser requires a rights/provenance check; never recursively ingest repository data or restricted upstream material. Browser display does not establish decipherment, source independence, or expert validation.
