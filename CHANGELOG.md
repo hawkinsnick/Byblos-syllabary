@@ -168,3 +168,7 @@ are generated, checksummed and verified in exports. Added release-policy detecti
 of known media files, including nested files and uppercase extensions, plus a
 concrete rights-investigation workflow. No scans, copied texts, plates, third-party
 sequences, permissions or expert approvals added. Scientific 1.0 remains unreleased.
+
+## Unreleased — AI integrity checkpoint
+
+Require checked native dependency projections, preserve corpus-native bundle schemas, and publish synchronized bundles only on their validated source parent. Add Git race and hostile dependency tests; no new readings or expert acceptance.

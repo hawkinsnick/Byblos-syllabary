@@ -191,6 +191,21 @@
       "role": "expert_review_handoff",
       "path": "docs/EXPERT-REVIEW-HANDOFF.md",
       "required": true
+    },
+    {
+      "role": "cross_corpus_dependencies",
+      "path": "research/cross-corpus-dependencies.json",
+      "required": true
+    },
+    {
+      "role": "sync_publication_guard",
+      "path": "ai-skill/scripts/publish_sync.py",
+      "required": true
+    },
+    {
+      "role": "ai_integrity_guide",
+      "path": "docs/AI-INTEGRITY.md",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -205,7 +220,7 @@
     "Primary edition locators reported by the survey do not establish direct primary collation. Keep j entry page-range/caption anomalies unresolved.",
     "Publication labels, surfaces, lines, columns, physical monuments and verified sequences remain incompatible denominators.",
     "Catalogue identifiers and access routes are discovery metadata; borrow restrictions, snippets and bibliographic records do not establish primary-page inspection, verified sequences, or physical-object identity.",
-    "Dunand 1978 pagination remains Mnamon 52\u201358 versus KeiBi 51\u201359; the union is an acquisition target, not a resolved citation or content claim.",
+    "Dunand 1978 pagination remains Mnamon 52–58 versus KeiBi 51–59; the union is an acquisition target, not a resolved citation or content claim.",
     "Five Dunand 1930 edition-specific type groups and fourteen source-numbered positions form a selected primary pilot, not a verified full sequence or certified native glyph inventory.",
     "Provider serialization rows are not ancient lines or columns; g/h layout, m direction and n first-line reading remain unresolved.",
     "Dunand 1930 and the survey use unreconciled count conventions for stele a; source type components must not be pooled into a global sign inventory.",
