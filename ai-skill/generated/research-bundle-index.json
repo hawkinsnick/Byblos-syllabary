@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "4e2b195d617b47f86f2d0bb2374759aec60930ef",
+  "source_commit": "da09234aafe79aca83194eda059933b7158b2b53",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-10T18:28:16+00:00",
+  "generated_at_utc": "2026-10-11T23:25:11+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -264,6 +264,24 @@
       "path": "research/pre-expert-maximum.json",
       "sha256": "d44ae7d7da5acafa726b595cd093055d5c14ce90c6cd2bea803f4d737de0167e",
       "bytes": 5862
+    },
+    {
+      "role": "cross_corpus_dependencies",
+      "path": "research/cross-corpus-dependencies.json",
+      "sha256": "818ecb152fa14b2c9a2a3f9c9d746f923d987ec7a35734cb3135ab6928307d78",
+      "bytes": 457
+    },
+    {
+      "role": "sync_publication_guard",
+      "path": "ai-skill/scripts/publish_sync.py",
+      "sha256": "d8eba15aaa833fc4071e98bdd22da53385bce1c5cbafc973443cb42f7e39cc0e",
+      "bytes": 2836
+    },
+    {
+      "role": "ai_integrity_guide",
+      "path": "docs/AI-INTEGRITY.md",
+      "sha256": "8619d2ac88ca104eb10570b6c5c83021da5e5cdb57a7af1de076131d185207b0",
+      "bytes": 1766
     }
   ]
 }
