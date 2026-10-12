@@ -6,7 +6,7 @@ CFG=ROOT/"research/browser-sources.json"
 def flatten(value,source):
  if isinstance(value,list): rows=value
  elif isinstance(value,dict):
-  for k in ("records","items","inscriptions","occurrences","sources","signs"):
+  for k in ("ordinals","rows","records","items","inscriptions","occurrences","sources","signs"):
    if isinstance(value.get(k),list): rows=value[k];break
   else: rows=[value]
  else: rows=[]

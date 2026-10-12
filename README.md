@@ -166,3 +166,7 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 ## Source access and delivery — 2026-10-12
 
 Current route receipts and a concrete, unsent request are recorded in [docs/DUNAND-SOURCE-REQUEST.md](docs/DUNAND-SOURCE-REQUEST.md) and [research/source-access-delivery-2026-10-12.json](research/source-access-delivery-2026-10-12.json). Access, intended-use rights, source delivery and scientific acceptance remain separate. No missing edition payload, annotation package or graphical baseline was acquired by this checkpoint.
+
+## Available evidence growth — 2026-10-12
+
+See [docs/FULL-AVAILABLE-SOURCE-LAYERS.md](docs/FULL-AVAILABLE-SOURCE-LAYERS.md) for the expanded source-bound evidence layer, scope and unresolved qualifications. No new canonical readings or scientific acceptance are granted.

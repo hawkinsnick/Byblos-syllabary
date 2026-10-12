@@ -216,6 +216,11 @@
       "path": "docs/DUNAND-SOURCE-REQUEST.md",
       "required": true,
       "role": "source_access_and_delivery"
+    },
+    {
+      "path": "docs/FULL-AVAILABLE-SOURCE-LAYERS.md",
+      "required": true,
+      "role": "available_evidence_growth"
     }
   ],
   "behavioral_gates": [
