@@ -21,9 +21,11 @@
     "data/bibliography.json",
     "data/coverage.json",
     "data/sources.json",
-    "research/pre-expert-maximum.json",
-    "research/source-inspection-2026-10-02.json",
+    "docs/AI-INTEGRITY.md",
+    "docs/DUNAND-SOURCE-REQUEST.md",
     "research/cross-corpus-dependencies.json",
-    "docs/AI-INTEGRITY.md"
+    "research/pre-expert-maximum.json",
+    "research/source-access-delivery-2026-10-12.json",
+    "research/source-inspection-2026-10-02.json"
   ]
 }

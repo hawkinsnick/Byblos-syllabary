@@ -162,3 +162,7 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 ## AI integrity checkpoint — 2026-10-11
 
 [AI integrity controls](docs/AI-INTEGRITY.md) document source-bound bundle publication and checked cross-corpus dependency safeguards. Reading coverage and scholarly acceptance are unchanged.
+
+## Source access and delivery — 2026-10-12
+
+Current route receipts and a concrete, unsent request are recorded in [docs/DUNAND-SOURCE-REQUEST.md](docs/DUNAND-SOURCE-REQUEST.md) and [research/source-access-delivery-2026-10-12.json](research/source-access-delivery-2026-10-12.json). Access, intended-use rights, source delivery and scientific acceptance remain separate. No missing edition payload, annotation package or graphical baseline was acquired by this checkpoint.

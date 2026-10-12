@@ -172,3 +172,7 @@ sequences, permissions or expert approvals added. Scientific 1.0 remains unrelea
 ## Unreleased — AI integrity checkpoint
 
 Require checked native dependency projections, preserve corpus-native bundle schemas, and publish synchronized bundles only on their validated source parent. Add Git race and hostile dependency tests; no new readings or expert acceptance.
+
+## Source access and delivery — 2026-10-12
+
+Current route receipts and a concrete, unsent request are recorded in [docs/DUNAND-SOURCE-REQUEST.md](docs/DUNAND-SOURCE-REQUEST.md) and [research/source-access-delivery-2026-10-12.json](research/source-access-delivery-2026-10-12.json). Access, intended-use rights, source delivery and scientific acceptance remain separate. No missing edition payload, annotation package or graphical baseline was acquired by this checkpoint.
