@@ -22,6 +22,8 @@
     "data/coverage.json",
     "data/sources.json",
     "research/pre-expert-maximum.json",
-    "research/source-inspection-2026-10-02.json"
+    "research/source-inspection-2026-10-02.json",
+    "research/cross-corpus-dependencies.json",
+    "docs/AI-INTEGRITY.md"
   ]
 }
