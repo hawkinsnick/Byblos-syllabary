@@ -206,6 +206,16 @@
       "role": "ai_integrity_guide",
       "path": "docs/AI-INTEGRITY.md",
       "required": true
+    },
+    {
+      "path": "research/source-access-delivery-2026-10-12.json",
+      "required": true,
+      "role": "source_access_and_delivery"
+    },
+    {
+      "path": "docs/DUNAND-SOURCE-REQUEST.md",
+      "required": true,
+      "role": "source_access_and_delivery"
     }
   ],
   "behavioral_gates": [
@@ -220,7 +230,7 @@
     "Primary edition locators reported by the survey do not establish direct primary collation. Keep j entry page-range/caption anomalies unresolved.",
     "Publication labels, surfaces, lines, columns, physical monuments and verified sequences remain incompatible denominators.",
     "Catalogue identifiers and access routes are discovery metadata; borrow restrictions, snippets and bibliographic records do not establish primary-page inspection, verified sequences, or physical-object identity.",
-    "Dunand 1978 pagination remains Mnamon 52–58 versus KeiBi 51–59; the union is an acquisition target, not a resolved citation or content claim.",
+    "Dunand 1978 pagination remains Mnamon 52\u201358 versus KeiBi 51\u201359; the union is an acquisition target, not a resolved citation or content claim.",
     "Five Dunand 1930 edition-specific type groups and fourteen source-numbered positions form a selected primary pilot, not a verified full sequence or certified native glyph inventory.",
     "Provider serialization rows are not ancient lines or columns; g/h layout, m direction and n first-line reading remain unresolved.",
     "Dunand 1930 and the survey use unreconciled count conventions for stele a; source type components must not be pooled into a global sign inventory.",
@@ -230,6 +240,7 @@
     "Dhorme 1946 ten heading joins preserve his proposed-decipherment order, not Dunand discovery order. Nine letters are explicit; first stele uses a qualified edition-locator join.",
     "Dhorme redraws depend on Dunand photographs; quoted Byblia Grammata descriptions do not establish direct book inspection. Historical sounds/translations are unadmitted.",
     "Historical a/b/d/g/h/i counts and qualified j possible-line evidence must remain separate from survey units, approximate counts, dividers and canonical layouts.",
-    "103 historical display targets are 98 horizontal bands and five columns, not certified ancient lines, objects, glyph counts or physical faces. The later stele drawing is unnumbered and dependent; broad line matches leave proposed corrections unresolved. Scoped pause is not terminal pre-expert readiness."
+    "103 historical display targets are 98 horizontal bands and five columns, not certified ancient lines, objects, glyph counts or physical faces. The later stele drawing is unnumbered and dependent; broad line matches leave proposed corrections unresolved. Scoped pause is not terminal pre-expert readiness.",
+    "A source request, copy access or contact-page HTTP success is not source delivery, publication permission, exact alignment or scholarly acceptance. Follow component-specific delivery and rights boundaries."
   ]
 }
