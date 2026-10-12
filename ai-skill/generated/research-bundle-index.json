@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "b78830cff3c42d0fa8f15beeb5feaea70c043a76",
+  "source_commit": "a89e09db1d41da85b790132f10db5255613d8f17",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-12T00:30:44+00:00",
+  "generated_at_utc": "2026-10-12T16:02:37+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -13,6 +13,18 @@
     "preserve_rights": true
   },
   "artifacts": [
+    {
+      "role": "source_access_and_delivery",
+      "path": "research/source-access-delivery-2026-10-12.json",
+      "sha256": "054cc3a7784e98fec18a3ce8823f1ee1334eb40ab8ba6780d2d7c308e78df38e",
+      "bytes": 2841
+    },
+    {
+      "role": "source_delivery_requests",
+      "path": "docs/DUNAND-SOURCE-REQUEST.md",
+      "sha256": "b20335525ff85e4934cc03043a2b1580baf88195070b14d8bdf020e2ca1b36d0",
+      "bytes": 3415
+    },
     {
       "role": "final_source_pass_audit",
       "path": "research/final-source-pass-audit.json",
