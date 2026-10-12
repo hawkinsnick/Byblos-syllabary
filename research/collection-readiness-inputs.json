@@ -11,6 +11,20 @@
       "path": "data/catalogue.json",
       "pointer": "/records",
       "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "name": "dunand-1930-ordinal-review",
+      "path": "research/stele-a-facsimile-ordinal-review.json",
+      "pointer": "/ordinals",
+      "id_key": "source_ordinal",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "name": "dunand-1930-type-table",
+      "path": "research/stele-a-type-table.json",
+      "pointer": "/rows",
+      "id_key": "edition_sign_label",
+      "unit": "source_table_type_row"
     }
   ],
   "repository": "hawkinsnick/Byblos-syllabary",
@@ -23,9 +37,14 @@
     "data/sources.json",
     "docs/AI-INTEGRITY.md",
     "docs/DUNAND-SOURCE-REQUEST.md",
+    "docs/FULL-AVAILABLE-SOURCE-LAYERS.md",
     "research/cross-corpus-dependencies.json",
     "research/pre-expert-maximum.json",
     "research/source-access-delivery-2026-10-12.json",
-    "research/source-inspection-2026-10-02.json"
+    "research/source-inspection-2026-10-02.json",
+    "research/stele-a-facsimile-number-index.json",
+    "research/stele-a-facsimile-ordinal-review.json",
+    "research/stele-a-type-table-audit.json",
+    "research/stele-a-type-table.json"
   ]
 }

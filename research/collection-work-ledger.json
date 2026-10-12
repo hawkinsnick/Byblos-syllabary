@@ -1,8 +1,8 @@
 {
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "c10fd3212c7dc81167dc613c4cad10737a514e430483a28715e688e90541ae74",
-  "evidence_fingerprint": "13cf060ec06cfdb07f1e28eaff71d18c4445c4421460028aa9a92d5eef0b2562",
+  "config_sha256": "80cc7daa04e5346c4bdf33a72ecd126c3b4ddfb20ea3839e3d1e72418b4bbc0c",
+  "evidence_fingerprint": "c914c07969c75f64cbc6282af7d5cea3597598d488986bbb02b3c55e84b680d6",
   "input_sha256": {
     "data/bibliography.json": "566b4f42bd02e6d524e74bd08d3222ac6c955960d935c3ce830b78773a6be828",
     "data/catalogue.json": "cfbe9ad6fbfb40b14cc0df3f5a53022a30aa3bbb0b7cfc87a2c10f5546fa0fb9",
@@ -10,10 +10,15 @@
     "data/sources.json": "596703acb537138aa385ff1b6220846831e1478703c929e8e31a2409524f38fb",
     "docs/AI-INTEGRITY.md": "8619d2ac88ca104eb10570b6c5c83021da5e5cdb57a7af1de076131d185207b0",
     "docs/DUNAND-SOURCE-REQUEST.md": "b20335525ff85e4934cc03043a2b1580baf88195070b14d8bdf020e2ca1b36d0",
+    "docs/FULL-AVAILABLE-SOURCE-LAYERS.md": "64105a5f45fa75298729bbabae8e5dd0fed73612d7e72319c6e564ce4bcccc7c",
     "research/cross-corpus-dependencies.json": "818ecb152fa14b2c9a2a3f9c9d746f923d987ec7a35734cb3135ab6928307d78",
     "research/pre-expert-maximum.json": "d44ae7d7da5acafa726b595cd093055d5c14ce90c6cd2bea803f4d737de0167e",
     "research/source-access-delivery-2026-10-12.json": "054cc3a7784e98fec18a3ce8823f1ee1334eb40ab8ba6780d2d7c308e78df38e",
-    "research/source-inspection-2026-10-02.json": "71e2a19bee9d3f624aa4e52c83bee2762c123ebfbb383638d9975a71f1c12a61"
+    "research/source-inspection-2026-10-02.json": "71e2a19bee9d3f624aa4e52c83bee2762c123ebfbb383638d9975a71f1c12a61",
+    "research/stele-a-facsimile-number-index.json": "e65598e16b5c9a2dbccdb2a5583154bef53d7f09528547904eea90f61c4c237e",
+    "research/stele-a-facsimile-ordinal-review.json": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+    "research/stele-a-type-table-audit.json": "24d27394b8ff0ae80f2e06258955349426df628e188ffc557bc2de53507f0fc6",
+    "research/stele-a-type-table.json": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1"
   },
   "native_review_links": [
     "docs/RIGHTS.md",
@@ -34,6 +39,18 @@
       "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
       "unit": "core_or_candidate_catalogue_entry",
       "view": "catalogue"
+    },
+    {
+      "enumerated": 123,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "source_facsimile_ordinal_review",
+      "view": "dunand-1930-ordinal-review"
+    },
+    {
+      "enumerated": 38,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "source_table_type_row",
+      "view": "dunand-1930-type-table"
     }
   ],
   "records": [
@@ -865,6 +882,3065 @@
       "source_path": "data/catalogue.json",
       "source_record_sha256": "675cae945eb463a19dc2b72419eac9bbcd66d646ad1fd331f1ecd02f50e7d844",
       "unit": "core_or_candidate_catalogue_entry"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/0",
+      "native_id": "1",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:1",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "91ed2083a6d59fd4b7397aecb7f228cad1c7a0f5583ae88fddc5fec8376b0ef1",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/1",
+      "native_id": "2",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:2",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "c8f2a5c18e1e476f39c531cbb9a1e108ff035c6ca28a3f89c3285919e3e94ac8",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/2",
+      "native_id": "3",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:3",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "3f5013a1c2b5c61b2e1866e30f5277c8f51bb99103f7d5db328999d980bf8164",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/3",
+      "native_id": "4",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:4",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "304658abce92b3d4034b75e47c50d421da786bf915e55a04548fa064cd0110cb",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/4",
+      "native_id": "5",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:5",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "63039dbaae7b0678669c911363401e41dfbe9a3f3c14c8a623e047c5e31acb9f",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/5",
+      "native_id": "6",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:6",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "61edab8f3a2eafbe7cb8a1b3767b0d2b2d6a477e68651eb84db502c8773a2c5b",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/6",
+      "native_id": "7",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:7",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "dba3ac7b895155b15eea6166ca0356f7c29f773f4ca553352e4280aff0748148",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/7",
+      "native_id": "8",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:8",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "72565a7bd4494ebdeaa505069fafb8d3bd5db8508b9b1f88da26393163f6ef81",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/8",
+      "native_id": "9",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:9",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "35d3c66eceda0bc6b77d679b23cb1f2048e1e638af2593bd31ea9dcb911242e0",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/9",
+      "native_id": "10",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:10",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "02e8c84b9ee2bd1a258ffc08dc87dd47b64baebf62e29ee4502a03b724b77f17",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/10",
+      "native_id": "11",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:11",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "72c324dae4cc7aa9ed49073b482f5c9ef1c7d6fff8ff99f375a88f2119b529dd",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/11",
+      "native_id": "12",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:12",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "a835ebbd78995ac37d2cb88cea5dd0811b58e281fd0dabcd86b138431619ef47",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/12",
+      "native_id": "13",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:13",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "a630b6e25e1547e64cf782a9ecc18f2f60869c40fca149ff2c9f82fb539c7d56",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/13",
+      "native_id": "14",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:14",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "2b34d10ade6f12b48412026f215d481be6aa84d3224196a38743cf2cfafbba01",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/14",
+      "native_id": "15",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:15",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "e4a2d506860cca906f706f5775a146983706bb4179586c2683e0206eee1ec658",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/15",
+      "native_id": "16",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:16",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "768c082a8a362a53e42ed8bb7adcd109332a7400654e51d655cc95ff795e568d",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/16",
+      "native_id": "17",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:17",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "73853ae5a28608a7528734bd5ad00ba98538f5a18212db50762d9a7eb1256311",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/17",
+      "native_id": "18",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:18",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "92dc669c34d98f6ddd248919cede652d10b8b30977900a4b1c9d58c212231785",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/18",
+      "native_id": "19",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:19",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "bfb27500aad7e4b4dc8e2d9ef41537a01940fc3ae102c7787de349560a6af414",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/19",
+      "native_id": "20",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:20",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "5d202e744fd9a5c42c5bbee2a1453775784e1852f5b2b36e4838a0ae0e2b815b",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/20",
+      "native_id": "21",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:21",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "e8a18d3905aa4a01d2098cf876e25638ffa565e77197a221e61b09b11654b175",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/21",
+      "native_id": "22",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:22",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "b29cc99edbabd2fca437a977966456fd262b91f129c35848305b0ed4a7a6a791",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/22",
+      "native_id": "23",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:23",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "d1ccb8bc26dd0f230468d7f72d4e93fc76d01a5d0798128017a21fa3540c382c",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/23",
+      "native_id": "24",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:24",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "6c090294775f0035882c448ac7c7715727f18f6d1e901b581dc6e0d2eb644cc9",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/24",
+      "native_id": "25",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:25",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "6ed0f448b2f0f1103971b2adcb262ae7687948789ced2e6cd863663bba939512",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/25",
+      "native_id": "26",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:26",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "bbd52bb13d2258daa6bb1b05895c041f0aa7faaa15f49c0b3fe8149de7c23fbf",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/26",
+      "native_id": "27",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:27",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "2c4dcb6b48e0d353778e7505e5abad8f60338806ddd15dccf3259eb907465f74",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/27",
+      "native_id": "28",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:28",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "ff8e8e2abf16920c977bda8eb4351989c78210a82d8f8119cd5624208b73cefc",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/28",
+      "native_id": "29",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:29",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "e55a91f24935a8121ac29bc842f57d46b7084adb30d69dce9cbf90469d52605f",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/29",
+      "native_id": "30",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:30",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "ce39ec3a50ad8e4fd653d1842cae22c389ae9a53d536245e71ab194385073465",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/30",
+      "native_id": "31",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:31",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "764a96858de7d1b13dceab0c08363ff3f8652274b1dd413d4bdd36ca6af91965",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/31",
+      "native_id": "32",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:32",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "b6e33c72c6a506d769f8319db9b538e292d11ccea35e2d49a0ba1294bfa0fc15",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/32",
+      "native_id": "33",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:33",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "828cdfa0d244573d2c2e3a714f00c37493a6025145f2431a74dee30c38eb60db",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/33",
+      "native_id": "34",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:34",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "20871656685a4f1a27332273eaa52c1abe65472bd76c610df980f7f1480dba9a",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/34",
+      "native_id": "35",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:35",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "76aa5c30a77e936de888f247b62ae5495f9bd98fce8a27741e9468a6b19b56ce",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/35",
+      "native_id": "36",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:36",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "be5ac2278cf18627b1db3cc97f1eb765e35f4b8d822b69537e497420a62ecad0",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/36",
+      "native_id": "37",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:37",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "4f2ea1312addba79bd1d0e8b11e625fc9a820072b6212d32b63094ad0febf338",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/37",
+      "native_id": "38",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:38",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "d4ee1cef92cc77793f79320dcec9f80beca15667c261aad77053a504649533dc",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/38",
+      "native_id": "39",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:39",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "43fc6dac312452d1db73835e085a9a24bc614f0bc6a2fb626c0bf19ee8b616ff",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/39",
+      "native_id": "40",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:40",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "c89bc9e2cfbe0736aa6baf0bfac78585ecb6cf85261ce95aebd4eed69fd3ac8a",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/40",
+      "native_id": "41",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:41",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "7ab145cfbb89895da5279d0edbdc8c138e3937fcc43d18a87f50af0df0ff65bc",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/41",
+      "native_id": "42",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:42",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "7fe9517c46a56eefa4ebfadc2fac687b4568d5649c02232221c40e9f6a9ca6a2",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/42",
+      "native_id": "43",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:43",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "588e74b797acf854fb85c6948a4ba4e19da38487e840fa5089a9f55643f5728a",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/43",
+      "native_id": "44",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:44",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "521b6bfbf909f8fb9ff746536f59db1a0e3369f64cf1bacc1fcef2f7fe1e0c9a",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/44",
+      "native_id": "45",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:45",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "e43687801ff2cae075674201c60fb0533914c97bcf60ccbff923b079c77ea49a",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/45",
+      "native_id": "46",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:46",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "d898e8622d62bcd3fc69fe13290540e45a72c73e995f476be34a97cbc1dfe989",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/46",
+      "native_id": "47",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:47",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "98e82d472c3627c6085035dfefaaf26f71b30e65f53e2e9ad15a96240dc3af91",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/47",
+      "native_id": "48",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:48",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "a1756e83abe8ff72de5623475e7c0129df093e9559ab51f27c53847f7affc272",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/48",
+      "native_id": "49",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:49",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "96cc73ca8359c1326cf22d7c9e1c0204abdc460363d69255023189db061acd33",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/49",
+      "native_id": "50",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:50",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "110fb157e5e55bfeb7d8fe0ccf7cb82f1d6f5a0e2284be1d96f9ac4221711df6",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/50",
+      "native_id": "51",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:51",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "c8f624e1a02fb7821f5408d8ff8ab6dc18c19b26c5788ec6f8d2f22db08a816a",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/51",
+      "native_id": "52",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:52",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "12b2f42cd87420e8dd0210105670759eff67ffdcf0efd92c2497751b39230489",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/52",
+      "native_id": "53",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:53",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "80cc9e10d2bab8379b3a9b855802a3c747cd0ca0071f9fed4ccb625c12456692",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/53",
+      "native_id": "54",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:54",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "fb94fcddd39a55c148fd6039845987b41a6019cc1b44c826d32513e484ae5f5b",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/54",
+      "native_id": "55",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:55",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "248e76f684635be1228a44842e41b49a26ea343e91a03a6ea0ab46523f67f724",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/55",
+      "native_id": "56",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:56",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "1689b80fe0eb237e5f4100067ae2610adee5f3a80e6a3949e54ca6c4e5533fa4",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/56",
+      "native_id": "57",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:57",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "8e98f919d207f6badbe042a311e3464ac438a05be16ca93b60ec8a3eb0e65a77",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/57",
+      "native_id": "58",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:58",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "6d840fae74c77e1e1b72f0603954a0aea0ea0786c3ee7333c3779d99786eedd1",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/58",
+      "native_id": "59",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:59",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "e2a23121f05a3bf33cf6d6fe38c7060323803e126a2dc49651beffe1387ad1c8",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/59",
+      "native_id": "60",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:60",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "27131367b7128a06c0cf2ce32bfc13eb80ceb949fe417b6536bf3e744438c46e",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/60",
+      "native_id": "61",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:61",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "69cfcaa7bdc094e7a7945fa39d86a82eadad9c527100e012b040f570b8726bcc",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/61",
+      "native_id": "62",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:62",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "32f30a0545d06153659b33df1687df9bda8337014dccc4a4768056579059c2d5",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/62",
+      "native_id": "63",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:63",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "d5d5e44f2b7af15441dc125a919561c6e64744969c185d1a70d7cbc28443a624",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/63",
+      "native_id": "64",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:64",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "25c15d3944b784ac5a864a81b9b5161d6c3210a21238202862309a3d988935cc",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/64",
+      "native_id": "65",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:65",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "ab40d64188cdbc7d606d19fe0725eac2fadc9d044dbf5677a13d1892ecff2ee1",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/65",
+      "native_id": "66",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:66",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "9e8cccc24fddf7c10c529188c92e05f309d4e6933b478a662eb0c3d0b175fad7",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/66",
+      "native_id": "67",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:67",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "8b8b359d3735f901ebc5591cfd02375ac51f3d9f85e02cc7ba08cca44ca02649",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/67",
+      "native_id": "68",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:68",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "40acf4369e80fe1f8a8d62ec305499b06088b22443f5e4519789f50754a54f6f",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/68",
+      "native_id": "69",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:69",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "b6615830651c3365e04ce8f170f7bd8235c434b97cef2a1b99952b95e236efcb",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/69",
+      "native_id": "70",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:70",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "8afa750095e80dccd079cf9f07b46ca51da43388c5bfa49d78f3a0edb784eb8a",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/70",
+      "native_id": "71",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:71",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "c27952eab88147358b9066be1d45714fbe7727b3aea4ac459fb3785c8ee9976f",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/71",
+      "native_id": "72",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:72",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "1a089ff27d5a3e149b51cefd40ab5890d960892b5f23046c13cc6b77664b9169",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/72",
+      "native_id": "73",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:73",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "06f73c248f8efa73347eb5cbbecd1ef1ee7c47b422bb4372ca9ba2160b3ae4f9",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/73",
+      "native_id": "74",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:74",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "bede628f5a907ba4f14d274add63770da1e57063e0b124c3955a5c053a3b76c4",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/74",
+      "native_id": "75",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:75",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "1113bf344147e19f7eff848a822a6036aba1a92e71e5241bc93ad3db7ec5acc6",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/75",
+      "native_id": "76",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:76",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "ca0bdcacbc356ff99c440ffb760ecba98584bafb5a769f53f8c7929f4df79813",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/76",
+      "native_id": "77",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:77",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "d6d64d88dcf319f47b3e97bc3f23f1498e741c6aa9b29e2603feef661392ef34",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/77",
+      "native_id": "78",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:78",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "9f5593b2d9eabb8458adac21a79a6a9c4b20b19b90815030796c02780b6a5175",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/78",
+      "native_id": "79",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:79",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "f9daefb9315c7875f598181c6d4d5ccf3c7ddb6290c5ab48317cc6e4be7701f7",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/79",
+      "native_id": "80",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:80",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "5603adb9213da147deabf9321635e7f62ac64f2bc47b459392430300f078a5da",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/80",
+      "native_id": "81",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:81",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "e489ad0da4c69f4d8a1ca3c6966923ee5f50a35afde4566de31a00c596d32ffd",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/81",
+      "native_id": "82",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:82",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "7fb8abeccf2723e959c47feaf319abffbbd6e3c99ca1a2df68e32bd020a0a6aa",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/82",
+      "native_id": "83",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:83",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "921fbf80dc9d456b7e79dd82391fabb58ab26f2a77324349dd841d6d0f47ae4f",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/83",
+      "native_id": "84",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:84",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "6e8f53e67c538ab052301e74e48c62313b83224f1cd6b20b41432bd5b70e520f",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/84",
+      "native_id": "85",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:85",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "52d81f6407a5152aac17a617be6cf9664ea4e0dca523d491f976170586fd2864",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/85",
+      "native_id": "86",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:86",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "657d43df63e29f7fd96f2bd5bc57cf46e337680510738c8764304440aad14185",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/86",
+      "native_id": "87",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:87",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "e682d2e3bf03cee09719ecb236f589bf7ae7021259d687e5aaa5770c1b4c8b9a",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/87",
+      "native_id": "88",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:88",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "fc3559b89b8acfab060a39cf85c5964925e418b03fcaeaf41d5975ec97bf475f",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/88",
+      "native_id": "89",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:89",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "fc44da6a1c96fcefd4e4b7a4ca4118e35c1911de44f1f4985fba978fa163a455",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/89",
+      "native_id": "90",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:90",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "becc30f66313b858bc5df4bb80a6844250a2ed0235216025a272b8fd0e42bd76",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/90",
+      "native_id": "91",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:91",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "aa262c34e549cc3f0de1307cd786d4484c58cfcf366e75102e9cad8f53b28128",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/91",
+      "native_id": "92",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:92",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "913925bc523010a65c2ce619b69da2d456467585c0d2f8fbc80535be58d785ad",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/92",
+      "native_id": "93",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:93",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "a584dfcaa2f56f36bc8ed6f168cb0df0709a6f9c190063d28bb51d67a910a3ed",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/93",
+      "native_id": "94",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:94",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "d659e5611b2f7435d4f4489f73e189d17842beecc5e64066a4263bece6f02ce2",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/94",
+      "native_id": "95",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:95",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "331dddbf94f0262405c11a3654eb40da248a782ecec5cf7e4ca881526511f39c",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/95",
+      "native_id": "96",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:96",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "ced45fff64df5239ef89b87aa1c1ad4ab2e22332b1c17c081b3ff4aa8a7fc563",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/96",
+      "native_id": "97",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:97",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "8084601c827bc6af69ed6c88f355b006a1eaca3f31f0744e8717cc8c65f60e10",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/97",
+      "native_id": "98",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:98",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "1c1ee93630a35dcbcfb1c7500759228e41d7a0f058b581fc0f5a3640c66e0e14",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/98",
+      "native_id": "99",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:99",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "b389bf0a4d177c7dece305b2b80ba3bfbd9a12203aa59fa5347f8153cd999b33",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/99",
+      "native_id": "100",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:100",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "7ccc1f73c7a0c18408dd9c4ea094bf7e462dee1651f71ca07a986021cf329c87",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/100",
+      "native_id": "101",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:101",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "2af197ebd5b2eed16fb765b7375c0e192a2dec179ccf760f690ea264a6b42a7e",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/101",
+      "native_id": "102",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:102",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "d80d15150186005371d3149f9d7b7942cac613bbc9e88d07bba252db21aafa82",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/102",
+      "native_id": "103",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:103",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "cc27e15eb0fa0645030056d15deb551777048bfd036bc7e5deb11c059fc6f093",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/103",
+      "native_id": "104",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:104",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "eaea17016cb0c0ca71a671e7919d4dffb471f4d57339dd495121e30b9e2d5e50",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/104",
+      "native_id": "105",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:105",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "274d6cf0b03433bc86bf5411d643884b6f6571d8b0d8648bde16d0c1f7a48ae5",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/105",
+      "native_id": "106",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:106",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "9c6c1c0b8f3b03001b1c43013ed46048b9862a0ff337a2a6153dfe2fe93ff5ef",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/106",
+      "native_id": "107",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:107",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "0bfb46cc77fd806c693dde3d5b61ca602d81c79c6462ce9f5badff7843350e29",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/107",
+      "native_id": "108",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:108",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "d6fd0539d9f1776244b10c22b83e20e2e9b8dc355d3358d4adea6101120d3c3f",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/108",
+      "native_id": "109",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:109",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "9b1003523a23549c7a35bc8173a12a26e44c693494f80b578f6ac2f897baf0e1",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/109",
+      "native_id": "110",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:110",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "bcf92d3c85336166ae78fcc0cf5d8c1784e1a031a108d0611ad68474dceb6466",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/110",
+      "native_id": "111",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:111",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "0f5f4d4e76d8413d249933361808c0905d3e38739ccd7e390823a29316dd1df3",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/111",
+      "native_id": "112",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:112",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "ab9f8cde49a8d61ce4bf43e1d36027596ede4d56fd4b56a282fd08c6a5175caa",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/112",
+      "native_id": "113",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:113",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "c39d31c7f54eb1612c0de83207c8a5d75c72dfb130f70edf09886ecbe900f4e4",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/113",
+      "native_id": "114",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:114",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "b63416e4b4f896b4d2a06da52bc56c4bde193c4bdc523bdc2f3bf8075bd667e4",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/114",
+      "native_id": "115",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:115",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "f7e3890f5fea95c94d78599d3f80674276d37d36276239d6b354867b50d1cc20",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/115",
+      "native_id": "116",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:116",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "3f021328cd4139ad8d2bd5ddc9ab61e242d7d9346eb547db88c3d189f5ac5a21",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/116",
+      "native_id": "117",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:117",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "776b64d2da4e472aa90bc076edfe4c74335ab2fd830f369a5cbf1470eaf232a8",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/117",
+      "native_id": "118",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:118",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "d8360c53c056cbc98846351619b6a8df03c6cf0022e1d1ae28feae13c0af1605",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/118",
+      "native_id": "119",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:119",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "3a2c86fcb1f8c007963f16b57557bb2f1ef012ad0990a0c0dadc76dd633b5310",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/119",
+      "native_id": "120",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:120",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "fc935fc2ba6980d90cfde17b733211bbc5f51834516763c8184b26279168ce87",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/120",
+      "native_id": "121",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:121",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "b239b873a8e368c25e52245d27cdacb6fec6539c79e164875489822e574528f6",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/121",
+      "native_id": "122",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:122",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "a8957885ae6318963e4e5ed191e514258beacdf19d572e7f3d8aed6873786e35",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/ordinals/122",
+      "native_id": "123",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-ordinal-review:123",
+      "source_file_sha256": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-facsimile-ordinal-review.json",
+      "source_record_sha256": "abd1468c7444e6166abd98b1d9a2ec4f51be4a6e8514e45478a4fcf9271a22f0",
+      "unit": "source_facsimile_ordinal_review"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/0",
+      "native_id": "I",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:I",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "4588b0ef443e9d8f11137249383f9ab41cec6027fbaa681d988e26c2904d2fc2",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/1",
+      "native_id": "II",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:II",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "2f648518b6cedfcb093c569331ab1dc554f35bb7b59b60d0b5566ababf6ba834",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/2",
+      "native_id": "III",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:III",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "49a8128aca248c8ead3b2194cf80bc3ed9db411dc07b1ef80f63dbe8cbb70bbd",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/3",
+      "native_id": "IV",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:IV",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "29540ed4167f139106531f41eccd96185eaab500cc84dcf2089a628f794a75b0",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/4",
+      "native_id": "V",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:V",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "e38686eb1ca09b780301f33bc2c35c0cc15b650e82187a16743ae7ae469eab6c",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/5",
+      "native_id": "VI",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:VI",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "f4c380c4069f135f9a7dcdd847477c8515b37c897e1aa6bfa55a95fd0bf65984",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/6",
+      "native_id": "VII",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:VII",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "32e5aa5cb51f8d2b6b622f0386d23060b3e52d301bd1f47770ef63dd6faffb3d",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/7",
+      "native_id": "VIII",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:VIII",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "aa1d9a0e06367f32ddef5f3d1256327c01a02a71e25924e2f56e08c832c13fcb",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/8",
+      "native_id": "IX",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:IX",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "4e84f161429eaf7a9e4730470bb267ea62600c46e371a74439305fdb49e6c28d",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/9",
+      "native_id": "X",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:X",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "705fda7d0e72bef4965cf1c351f1de077a5738ef81a9c9d648d78a63fa5a083c",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/10",
+      "native_id": "XI",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XI",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "112c68e3817dd8c4986fae7066946913239b2d9a92c1ca18ac683bc12dd1fb75",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/11",
+      "native_id": "XII",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XII",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "890a98720affdfa4a3e5f3f6f30567c38892bbd0fba2fc69443ccc7894633e54",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/12",
+      "native_id": "XIII",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XIII",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "1e9c1d947533ad610008f2ae107952fb93d3345ae0dd4cb2266b332b7a3a6fb7",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/13",
+      "native_id": "XIV",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XIV",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "63406412f28f027200fb52f64d37f924c85f4b148bb37d18d154967d5ae9abe8",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/14",
+      "native_id": "XV",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XV",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "3901ecbf879e304544f2b3f0204854281f7b8790d4b9bba9d16509c9862397a8",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/15",
+      "native_id": "XVI",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XVI",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "0810af2ea3ab361d89a15a3d6a9722d2498b19dbd982aa3bda502afedbe73f46",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/16",
+      "native_id": "XVII",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XVII",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "c173ab203130990400f50c6305a522ab748eae7aee5af9ee606d1f0d1eddb5b5",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/17",
+      "native_id": "XVIII",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XVIII",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "3e312cda5caf7ebc3d21d7b9da1c4f7df69dcaf97799bd3f3620a6e0f922fae3",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/18",
+      "native_id": "XIX",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XIX",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "f57f66f4bad16ee816c69d1c579e0e19e7d9dc6ddca05a063e97d6717b4fe7e5",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/19",
+      "native_id": "XX",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XX",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "3fbb1341b12eff893d0ec940639b98b12e179b04dfb6b6a9d73b1b2649fb79f9",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/20",
+      "native_id": "XXI",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXI",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "00de5a879494771bd33a75f54a86dfc6c7c245f010305a3d78f6a895dd5bc228",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/21",
+      "native_id": "XXII",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXII",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "da3d94f5b6248d5c0b087b843a8b8860502da7f864e080f76dd0f351e7218bd1",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/22",
+      "native_id": "XXIII",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXIII",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "7942cd65c073d64b92a53248b62e6a99ced5e30c65528d0f43e773210b784ce4",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/23",
+      "native_id": "XXIV",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXIV",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "f2542f7ac5bf6e13af069709525d1982d50c8f2b4eb91e53d4473c21548be1d6",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/24",
+      "native_id": "XXV",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXV",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "6dc9ad21e841d3750876726f73828d60a4b4abf2f28e72bad153f44a84b8a463",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/25",
+      "native_id": "XXVI",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXVI",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "44454a40c3bcfe39aeb405d185a4c2095635b79a3c95c94a89c720029b6e1d96",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/26",
+      "native_id": "XXVII",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXVII",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "4f9bde304e69f1d18e258719efb1812e3264586b7c358b1d3bb1a307d37e6269",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/27",
+      "native_id": "XXVIII",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXVIII",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "0269ef7a7641e92767ecf670d282b0de0873cfd13d3d8f1e27c0906cf1d27de3",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/28",
+      "native_id": "XXIX",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXIX",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "f294c2ebaadcd61bd7170211b4aabea453a4a10b7ee06129727fa9043ea6b4cb",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/29",
+      "native_id": "XXX",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXX",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "c62c8d731cfe51bd1a6c9d42bc57424461903453e31b056a23cd41cc404f1e92",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/30",
+      "native_id": "XXXI",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXXI",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "6dabb64307a8477dbc03676c2948068e81314459bdb997909e1b83fa0d5fced7",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/31",
+      "native_id": "XXXII",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXXII",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "03eb7afaba7335ed92f5264e163369fbbc1d2d022c20a0bb83fb6b01a0812ec2",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/32",
+      "native_id": "XXXIII",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXXIII",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "8e689e2924b8b3069629ba1801f9e76b34cf049ae3b5ac6233bb283960468656",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/33",
+      "native_id": "XXXIV",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXXIV",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "f96a631fbf63e3d6a50fad0e55f86944d31924f16e942f643de97bd03b5c6478",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/34",
+      "native_id": "XXXV",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXXV",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "76245224aa28f901bbcb245ecb0b6d065a659b67379db9e0114fb9d7558f61f9",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/35",
+      "native_id": "XXXVI",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXXVI",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "0788c4119acd6fdd30101d0e79dd27eb80628abcae6f85154d094736e4b8bb7b",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/36",
+      "native_id": "XXXVII",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXXVII",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "b587a1fa1b3762ef0dbfd439a829507f8b3abe434582a9e2974a4eb870e21952",
+      "unit": "source_table_type_row"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/rows/37",
+      "native_id": "XXXVIII",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "dunand-1930-type-table:XXXVIII",
+      "source_file_sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+      "source_lead_pointers": [],
+      "source_path": "research/stele-a-type-table.json",
+      "source_record_sha256": "dbc34d5286020731d03b041507f4c042f50134b9f5e81fee426806fa9645f5d3",
+      "unit": "source_table_type_row"
     }
   ],
   "repository": "hawkinsnick/Byblos-syllabary",
@@ -2283,6 +5359,24 @@
       "json_pointer": "/sources/0/url",
       "kind": "url",
       "source_path": "research/source-inspection-2026-10-02.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_id",
+      "kind": "source_id",
+      "source_path": "research/stele-a-facsimile-number-index.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_id",
+      "kind": "source_id",
+      "source_path": "research/stele-a-facsimile-ordinal-review.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_id",
+      "kind": "source_id",
+      "source_path": "research/stele-a-type-table.json"
     }
   ],
   "tasks": [

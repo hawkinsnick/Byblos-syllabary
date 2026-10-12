@@ -5,7 +5,9 @@
     "data/catalogue.json",
     "data/surfaces.json",
     "data/sources.json",
-    "data/research_entities.json"
+    "data/research_entities.json",
+    "research/stele-a-facsimile-ordinal-review.json",
+    "research/stele-a-type-table.json"
   ],
   "boundary": "Only explicitly allowlisted, committed repository data are embedded. Browser display does not upgrade source authority, resolve disagreements, establish decipherment, or override record/source licensing."
 }

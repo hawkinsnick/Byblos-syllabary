@@ -1,0 +1,9 @@
+# Available source layers before restricted editions
+
+The combined corpus now declares the 123 existing Dunand-1930 facsimile ordinal-review records and all 38 existing source type-table rows, alongside the 39 native catalogue records. These layers were already collated in this repository; integration expands access to existing evidence and does not create new ancient inscriptions, newly acquired edition pages or accepted glyph sequences.
+
+The ordinal layer preserves source line labels, every literal table membership, marker/gap observations, variant compatibility dispositions and outstanding qualifications. The table layer retains 55 drawn-variant buckets and its reported memberships. Its 116 membership assertions cover 115 distinct source ordinals: ordinal 32 has competing memberships VIII and XIX, while eight facsimile ordinals are unassigned in the printed table. These facts and the original 123-position facsimile index remain intact. Neither positions, drawn variants nor rows are automatically ancient glyphs or canonical types.
+
+Full records remain in `research/stele-a-facsimile-ordinal-review.json` and `research/stele-a-type-table.json`; source-scoped audits and acquisition hashes accompany them. No source drawing or protected edition page is redistributed. Dunand 1930, its own table/facsimile and later derivative comparisons are dependent witnesses. None of this replaces direct Dunand 1945/1978 collation, resolves unreadable ancient surfaces or establishes decipherment.
+
+The existing all-position review is source-drawing/table inspection, not direct examination of an ancient object or independent expert acceptance. Preserve every `verified_glyph`, `analysis_eligible` and `canonical_type_admitted` value when querying or exporting. Continue using accessible evidence while the missing edition and component rights remain explicit gates.
