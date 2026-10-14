@@ -45,6 +45,10 @@
     "research/stele-a-facsimile-number-index.json",
     "research/stele-a-facsimile-ordinal-review.json",
     "research/stele-a-type-table-audit.json",
-    "research/stele-a-type-table.json"
+    "research/stele-a-type-table.json",
+    "research/count-assignment-checkpoint-2026-10-14.json",
+    "research/count-assignment-partition.json",
+    "docs/COUNT-ASSIGNMENT-RECONCILIATION.md",
+    "scripts/count_assignment_partition.py"
   ]
 }

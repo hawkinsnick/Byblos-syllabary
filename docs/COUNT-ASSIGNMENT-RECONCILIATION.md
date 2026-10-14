@@ -1,0 +1,11 @@
+# Stele a count partition and literal assignments
+
+The source-drawing review now supports an executable count partition. All 123 numbered positions in Dunand 1930's drawing divide into 119 form-bearing depictions, three minimal-mark positions (40–42), and one edge-only position (27). The 119 comprise outlined, dotted/fragmentary and hatched drawn forms. This accounts for every source ordinal without creating another sign.
+
+The 119 coincides numerically with Dunand's reported surviving-sign count. That is a comparison of counts under project drawing categories, not proof that the corresponding ancient surviving/lost positions are identical. The 1930 statement of 119 surviving plus three certainly lost, the 123 printed ordinals, and the 2018 survey's 123 visible/partly visible signs remain separately attributed. The edge 27 explanation remains a hypothesis. The partition does not certify physical damage or settle the later survey's counting policy.
+
+Literal table assignments remain 114 positions with one assignment, one conflicting position 32, and eight unassigned positions 14,27,34,40,41,42,92,95. This is a partition of 123 ordinals; the table still has 116 membership assertions on 115 distinct ordinals. The proposed VIII 32-to-92 correction is not adopted. Unassigned table ordinals are not automatically lost ancient signs, and drawn variant buckets are not normalized sign identities.
+
+The 1930 count and numbering discussion on pp.3–4 was reinspected against the previously pinned page images. The current Internet Archive metadata still marks *Byblia Grammata* access-restricted and its PDF private; no restricted pages were retrieved. Dunand 1945/1978 direct plate/table collation remains open. Source pages and images are not redistributed. There are no new canonical types, verified sequences or independent reviews.
+
+`python scripts/count_assignment_partition.py` replays the partition and all six existing count-policy questions. `--write` regenerates `research/count-assignment-partition.json`. The checker pins the earlier review/table/count registers and rejects silent assignment selection, presumed ancient damage, and adoption of the proposed erratum. Continue using `scripts/inspect_stele_a.py --ordinal 32` or `--ordinal 92` for the detailed source evidence. This scoped advance does not complete primary-edition reconciliation.

@@ -170,3 +170,7 @@ Current route receipts and a concrete, unsent request are recorded in [docs/DUNA
 ## Available evidence growth — 2026-10-12
 
 See [docs/FULL-AVAILABLE-SOURCE-LAYERS.md](docs/FULL-AVAILABLE-SOURCE-LAYERS.md) for the expanded source-bound evidence layer, scope and unresolved qualifications. No new canonical readings or scientific acceptance are granted.
+
+## Count and assignment partition — 14 October 2026
+
+Read `research/count-assignment-checkpoint-2026-10-14.json`, `research/count-assignment-partition.json` and `docs/COUNT-ASSIGNMENT-RECONCILIATION.md`. All 123 numbered positions partition into 119 form-bearing source drawings, three minimal-mark positions and one edge-only position. This numerical match does not certify ancient surviving/lost categories. Keep 114 single literal assignments, the 32 collision and eight unassigned ordinals distinct. The 32-to-92 hypothesis remains unadopted; direct 1945/1978 collation and expert acceptance remain open. No new canonical type or sequence is added.

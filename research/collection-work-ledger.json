@@ -1,16 +1,19 @@
 {
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "80cc7daa04e5346c4bdf33a72ecd126c3b4ddfb20ea3839e3d1e72418b4bbc0c",
-  "evidence_fingerprint": "c914c07969c75f64cbc6282af7d5cea3597598d488986bbb02b3c55e84b680d6",
+  "config_sha256": "a92ca2699f49184ead6e4fc80e14aa5eceefed80971bb5dbdac2dcb850b10333",
+  "evidence_fingerprint": "28d53b2e1970f4c9065b2400a3a13936b878d02b62918b784421f63d41297e62",
   "input_sha256": {
     "data/bibliography.json": "566b4f42bd02e6d524e74bd08d3222ac6c955960d935c3ce830b78773a6be828",
     "data/catalogue.json": "cfbe9ad6fbfb40b14cc0df3f5a53022a30aa3bbb0b7cfc87a2c10f5546fa0fb9",
     "data/coverage.json": "605d4c9ab60a41b143e3a104e39adf12427e6f0a70d8243c61f8c2c8d5b05887",
     "data/sources.json": "596703acb537138aa385ff1b6220846831e1478703c929e8e31a2409524f38fb",
     "docs/AI-INTEGRITY.md": "8619d2ac88ca104eb10570b6c5c83021da5e5cdb57a7af1de076131d185207b0",
+    "docs/COUNT-ASSIGNMENT-RECONCILIATION.md": "7116ad01d9bb67e8c3101b2aab77ddb690e9510f3c7d5a47b6c28923c4a6a971",
     "docs/DUNAND-SOURCE-REQUEST.md": "b20335525ff85e4934cc03043a2b1580baf88195070b14d8bdf020e2ca1b36d0",
     "docs/FULL-AVAILABLE-SOURCE-LAYERS.md": "64105a5f45fa75298729bbabae8e5dd0fed73612d7e72319c6e564ce4bcccc7c",
+    "research/count-assignment-checkpoint-2026-10-14.json": "7c4c03ee487b880921e8bb516314679921fbdd0a5b799e4a2e59cf332d42336c",
+    "research/count-assignment-partition.json": "8b713dc92ab7510c50014929ee1ce90c9ad04ed5203c189344ffe37e30e42790",
     "research/cross-corpus-dependencies.json": "818ecb152fa14b2c9a2a3f9c9d746f923d987ec7a35734cb3135ab6928307d78",
     "research/pre-expert-maximum.json": "d44ae7d7da5acafa726b595cd093055d5c14ce90c6cd2bea803f4d737de0167e",
     "research/source-access-delivery-2026-10-12.json": "054cc3a7784e98fec18a3ce8823f1ee1334eb40ab8ba6780d2d7c308e78df38e",
@@ -18,7 +21,8 @@
     "research/stele-a-facsimile-number-index.json": "e65598e16b5c9a2dbccdb2a5583154bef53d7f09528547904eea90f61c4c237e",
     "research/stele-a-facsimile-ordinal-review.json": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
     "research/stele-a-type-table-audit.json": "24d27394b8ff0ae80f2e06258955349426df628e188ffc557bc2de53507f0fc6",
-    "research/stele-a-type-table.json": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1"
+    "research/stele-a-type-table.json": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+    "scripts/count_assignment_partition.py": "834644d0584b9b2f92426e2a0c2b99252396c0cbb89c685b0c304dfc63211595"
   },
   "native_review_links": [
     "docs/RIGHTS.md",
@@ -5323,6 +5327,54 @@
       "json_pointer": "/sources/50/doi",
       "kind": "doi",
       "source_path": "data/sources.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/primary_reinspection/0/url",
+      "kind": "url",
+      "source_path": "research/count-assignment-checkpoint-2026-10-14.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/primary_reinspection/1/url",
+      "kind": "url",
+      "source_path": "research/count-assignment-checkpoint-2026-10-14.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/current_1945_access/url",
+      "kind": "url",
+      "source_path": "research/count-assignment-checkpoint-2026-10-14.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_claims_retained/0/source_id",
+      "kind": "source_id",
+      "source_path": "research/count-assignment-partition.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_claims_retained/1/source_id",
+      "kind": "source_id",
+      "source_path": "research/count-assignment-partition.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_claims_retained/2/source_id",
+      "kind": "source_id",
+      "source_path": "research/count-assignment-partition.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_claims_retained/3/source_id",
+      "kind": "source_id",
+      "source_path": "research/count-assignment-partition.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/source_claims_retained/4/source_id",
+      "kind": "source_id",
+      "source_path": "research/count-assignment-partition.json"
     },
     {
       "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",

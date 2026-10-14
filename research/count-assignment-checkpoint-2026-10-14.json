@@ -1,0 +1,89 @@
+{
+  "format": "byblos-count-assignment-checkpoint-v1",
+  "checked": "2026-10-14",
+  "scope": "Dunand1930 stele a source-drawing categories and literal table assignments only",
+  "inputs": {
+    "research/stele-a-facsimile-ordinal-review.json": "9068c91d590722ae085e4e2424d9d9062385714578547c79ed3b3d334426a621",
+    "research/stele-a-type-table.json": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1",
+    "research/stele-a-count-comparison.json": "9aa4f58fa81a0e7d641b4c4c526a994118cafdd05c9a3382f6a8f9ba8a731db5",
+    "research/final-source-pass-audit.json": "4534d7777d24891a7b422431b6bd9aafbaeec7834ff087196bd1cfc93e380bf1"
+  },
+  "primary_reinspection": [
+    {
+      "page_index": 3,
+      "url": "https://www.persee.fr/doc/page/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0003_0000",
+      "sha256": "5c57511a9721c60e5140c640968e5e8172c6bf190c28b01e48e4016da3642494",
+      "bytes": 2982,
+      "images": [
+        "https://www.persee.fr/renderPage/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0003_0000_710.jpg"
+      ],
+      "image_sha256": "a221dcc0080ea019b024715bb6e66cbe5c21f21ce69cc4eb7f25d8736d5d8350",
+      "image_bytes": 169290,
+      "printed_page": 3,
+      "acquisition_status": "ACQUIRED",
+      "image_redistributed": false,
+      "inspection_status": "VISUALLY_INSPECTED"
+    },
+    {
+      "page_index": 4,
+      "url": "https://www.persee.fr/doc/page/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0004_0000",
+      "sha256": "89292ccb16f01889ecba3334dc2f6374d34f4250d5930cdd1fbb236755170de2",
+      "bytes": 2621,
+      "images": [
+        "https://www.persee.fr/renderPage/syria_0039-7946_1930_num_11_1_3456/syria_0039-7946_1930_num_11_1_T1_0004_0000_710.jpg"
+      ],
+      "image_sha256": "f477baf1e2a9daba4fa6043d715d3056ed4a33e17717b479818f4396f785043a",
+      "image_bytes": 149813,
+      "printed_page": 4,
+      "acquisition_status": "ACQUIRED",
+      "image_redistributed": false,
+      "inspection_status": "VISUALLY_INSPECTED"
+    }
+  ],
+  "current_1945_access": {
+    "name": "byblos-archive",
+    "url": "https://archive.org/metadata/bybliagrammatado0000duna",
+    "resolved_url": "https://archive.org/metadata/bybliagrammatado0000duna",
+    "status": 200,
+    "bytes": 12205,
+    "sha256": "cb261fab1885ccbe7478deb1272ccd8a415284fb966768ad571239110199e813"
+  },
+  "archive_access_restricted_item": true,
+  "archive_pdf_private": true,
+  "dunand1945_primary_pages_acquired": false,
+  "dunand1978_primary_pages_acquired": false,
+  "expectation": {
+    "source_ordinals": 123,
+    "form_bearing_source_drawings": 119,
+    "minimal_marks_positions": [
+      40,
+      41,
+      42
+    ],
+    "edge_only_positions": [
+      27
+    ],
+    "single_literal_type_assignment": 114,
+    "conflicting_literal_type_assignment": [
+      32
+    ],
+    "unassigned_literal_type_positions": [
+      14,
+      27,
+      34,
+      40,
+      41,
+      42,
+      92,
+      95
+    ]
+  },
+  "interpretation": "119 form-bearing drawing positions + 3 minimal-mark positions + 1 edge-only position partition the 123 numbered source positions. The equality to reported 119 surviving + 3 certainly lost is a count coincidence under these drawing categories; physical damage and source counting intentions are unadjudicated.",
+  "candidate_32_to_92_correction_adopted": false,
+  "canonical_types_added": 0,
+  "verified_sequences_added": 0,
+  "independent_reviews_added": 0,
+  "ancient_surviving_lost_count_certified": false,
+  "remaining_count_questions_source": "research/final-source-pass-audit.json",
+  "boundary": "Source drawing partitions and printed memberships only. A form-bearing drawing does not certify a surviving ancient sign; gaps and duplicate assignments remain source disputes, not silent normalized identities."
+}
