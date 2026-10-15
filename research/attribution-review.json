@@ -1,0 +1,297 @@
+{
+  "format": "corpus-attribution-review-v1",
+  "repository": "hawkinsnick/Byblos-syllabary",
+  "checked": "2026-10-15",
+  "scope": "Stele A counting units, drawing partitions, Dunand-through-Dhorme voice and all fourteen core layout comparisons remain qualified. Numeric agreement does not validate signs.",
+  "consultation_this_pass": "PINNED_REPOSITORY_EVIDENCE_ONLY",
+  "consultation_boundary": "Existing source consultation receipts and limits are inherited exactly from the referenced native packets. This pass inspects those packets, not the underlying publications afresh. No exhaustive literature search, new autopsy or independent review is claimed.",
+  "rights": "Original project review and bibliographic/source pointers only. Native attribution and rights remain attached to evidence; no new source files, figures or full protected editions are redistributed. Linear A GORILA refusal is not relaxed.",
+  "inputs": [
+    {
+      "path": "research/count-assignment-partition.json",
+      "sha256": "8b713dc92ab7510c50014929ee1ce90c9ad04ed5203c189344ffe37e30e42790",
+      "source_snapshot_commit": "c5eae4a5c9fdae845196a102aa78addc28f4673c"
+    },
+    {
+      "path": "research/dhorme-1946-source-audit.json",
+      "sha256": "ff6afb17a2d184e41a7b56214143fcd2d9443b6e75527048d57f07fc3b11cf3f",
+      "source_snapshot_commit": "c5eae4a5c9fdae845196a102aa78addc28f4673c"
+    },
+    {
+      "path": "research/source-comparison-audit.json",
+      "sha256": "99396fe22d46ad0bf975386795b37e765d4337e7d46eeb13dbd9d043b8e79107",
+      "source_snapshot_commit": "c5eae4a5c9fdae845196a102aa78addc28f4673c"
+    },
+    {
+      "path": "research/stele-a-count-comparison.json",
+      "sha256": "9aa4f58fa81a0e7d641b4c4c526a994118cafdd05c9a3382f6a8f9ba8a731db5",
+      "source_snapshot_commit": "c5eae4a5c9fdae845196a102aa78addc28f4673c"
+    }
+  ],
+  "complete_selections": [
+    {
+      "path": "research/source-comparison-audit.json",
+      "pointer": "/core_layout_comparison",
+      "expected_rows": 14
+    }
+  ],
+  "cases": [
+    {
+      "review_id": "BYB-A-SIGN-COUNT",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "Dunand1930 pp.3–4 and the Vita–Zamora2018 survey p.79 use different sign/repertoire units;119 surviving plus3 lost cannot silently become123 visible.",
+      "remaining_gap": "The survey side is not directly primary-page inspected in this comparison. Resolve each partly visible/lost partition and type convention.",
+      "evidence": [
+        {
+          "path": "research/stele-a-count-comparison.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-A-DRAWING-PARTITION",
+      "case_class": "REPRESENTATION",
+      "finding": "The drawing-partition audit does not itself establish ancient damage or a verified sign sequence.",
+      "remaining_gap": "Retain the literal label collision/gaps and unadopted relabelling hypothesis; do not convert graphic partition arithmetic into epigraphic certainty.",
+      "evidence": [
+        {
+          "path": "research/count-assignment-partition.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-DHORME-VOICE",
+      "case_class": "SOURCE_ROLE",
+      "finding": "Dhorme’s reported counts and redrawn figures depend on Dunand; the copy preparer and underlying photograph lineage are explicit.",
+      "remaining_gap": "Direct Dunand book comparison and full graphic collation remain open; proposed decipherment values are not admitted.",
+      "evidence": [
+        {
+          "path": "research/dhorme-1946-source-audit.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-A-LAYOUT",
+      "case_class": "REPRESENTATION",
+      "finding": "Numeric layout compatibility is documentary evidence only; it does not validate signs or certify object identity.",
+      "remaining_gap": "Inspect exact source units, faces and sign contexts; label/layout agreement cannot provide independent confirmation.",
+      "evidence": [
+        {
+          "path": "research/source-comparison-audit.json",
+          "pointer": "/core_layout_comparison/0"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-B-LAYOUT",
+      "case_class": "REPRESENTATION",
+      "finding": "Numeric layout compatibility is documentary evidence only; it does not validate signs or certify object identity.",
+      "remaining_gap": "Inspect exact source units, faces and sign contexts; label/layout agreement cannot provide independent confirmation.",
+      "evidence": [
+        {
+          "path": "research/source-comparison-audit.json",
+          "pointer": "/core_layout_comparison/1"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-C-LAYOUT",
+      "case_class": "REPRESENTATION",
+      "finding": "Numeric layout compatibility is documentary evidence only; it does not validate signs or certify object identity.",
+      "remaining_gap": "Inspect exact source units, faces and sign contexts; label/layout agreement cannot provide independent confirmation.",
+      "evidence": [
+        {
+          "path": "research/source-comparison-audit.json",
+          "pointer": "/core_layout_comparison/2"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-D-LAYOUT",
+      "case_class": "REPRESENTATION",
+      "finding": "Numeric layout compatibility is documentary evidence only; it does not validate signs or certify object identity.",
+      "remaining_gap": "Inspect exact source units, faces and sign contexts; label/layout agreement cannot provide independent confirmation.",
+      "evidence": [
+        {
+          "path": "research/source-comparison-audit.json",
+          "pointer": "/core_layout_comparison/3"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-E-LAYOUT",
+      "case_class": "REPRESENTATION",
+      "finding": "Numeric layout compatibility is documentary evidence only; it does not validate signs or certify object identity.",
+      "remaining_gap": "Inspect exact source units, faces and sign contexts; label/layout agreement cannot provide independent confirmation.",
+      "evidence": [
+        {
+          "path": "research/source-comparison-audit.json",
+          "pointer": "/core_layout_comparison/4"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-F-LAYOUT",
+      "case_class": "REPRESENTATION",
+      "finding": "Numeric layout compatibility is documentary evidence only; it does not validate signs or certify object identity.",
+      "remaining_gap": "Inspect exact source units, faces and sign contexts; label/layout agreement cannot provide independent confirmation.",
+      "evidence": [
+        {
+          "path": "research/source-comparison-audit.json",
+          "pointer": "/core_layout_comparison/5"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-G-LAYOUT",
+      "case_class": "REPRESENTATION",
+      "finding": "BYB-G retains row/column differences.",
+      "remaining_gap": "Inspect exact source units, faces and sign contexts; label/layout agreement cannot provide independent confirmation.",
+      "evidence": [
+        {
+          "path": "research/source-comparison-audit.json",
+          "pointer": "/core_layout_comparison/6"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-H-LAYOUT",
+      "case_class": "REPRESENTATION",
+      "finding": "BYB-H retains row/line differences.",
+      "remaining_gap": "Inspect exact source units, faces and sign contexts; label/layout agreement cannot provide independent confirmation.",
+      "evidence": [
+        {
+          "path": "research/source-comparison-audit.json",
+          "pointer": "/core_layout_comparison/7"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-I-LAYOUT",
+      "case_class": "REPRESENTATION",
+      "finding": "Numeric layout compatibility is documentary evidence only; it does not validate signs or certify object identity.",
+      "remaining_gap": "Inspect exact source units, faces and sign contexts; label/layout agreement cannot provide independent confirmation.",
+      "evidence": [
+        {
+          "path": "research/source-comparison-audit.json",
+          "pointer": "/core_layout_comparison/8"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-J-LAYOUT",
+      "case_class": "REPRESENTATION",
+      "finding": "Numeric layout compatibility is documentary evidence only; it does not validate signs or certify object identity.",
+      "remaining_gap": "Inspect exact source units, faces and sign contexts; label/layout agreement cannot provide independent confirmation.",
+      "evidence": [
+        {
+          "path": "research/source-comparison-audit.json",
+          "pointer": "/core_layout_comparison/9"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-K-LAYOUT",
+      "case_class": "REPRESENTATION",
+      "finding": "Numeric layout compatibility is documentary evidence only; it does not validate signs or certify object identity.",
+      "remaining_gap": "Inspect exact source units, faces and sign contexts; label/layout agreement cannot provide independent confirmation.",
+      "evidence": [
+        {
+          "path": "research/source-comparison-audit.json",
+          "pointer": "/core_layout_comparison/10"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-L-LAYOUT",
+      "case_class": "REPRESENTATION",
+      "finding": "Numeric layout compatibility is documentary evidence only; it does not validate signs or certify object identity.",
+      "remaining_gap": "Inspect exact source units, faces and sign contexts; label/layout agreement cannot provide independent confirmation.",
+      "evidence": [
+        {
+          "path": "research/source-comparison-audit.json",
+          "pointer": "/core_layout_comparison/11"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-M-LAYOUT",
+      "case_class": "REPRESENTATION",
+      "finding": "BYB-M retains opposed direction claims; matching row counts do not reconcile direction.",
+      "remaining_gap": "Inspect exact source units, faces and sign contexts; label/layout agreement cannot provide independent confirmation.",
+      "evidence": [
+        {
+          "path": "research/source-comparison-audit.json",
+          "pointer": "/core_layout_comparison/12"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "BYB-N-LAYOUT",
+      "case_class": "REPRESENTATION",
+      "finding": "Numeric layout compatibility is documentary evidence only; it does not validate signs or certify object identity.",
+      "remaining_gap": "Inspect exact source units, faces and sign contexts; label/layout agreement cannot provide independent confirmation.",
+      "evidence": [
+        {
+          "path": "research/source-comparison-audit.json",
+          "pointer": "/core_layout_comparison/13"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    }
+  ],
+  "new_readings_admitted": 0,
+  "independent_reviews_added": 0
+}

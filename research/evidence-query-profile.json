@@ -17,6 +17,14 @@
       "id_pointer": "/record_id",
       "unit": "survey count assertion",
       "scope": "Secondary reported counts are not verified sign sequences."
+    },
+    {
+      "name": "attribution-review",
+      "path": "research/attribution-review.json",
+      "pointer": "/cases",
+      "id_pointer": "/review_id",
+      "unit": "bounded documentary attribution review task",
+      "scope": "Stele A counting units, drawing partitions, Dunand-through-Dhorme voice and all fourteen core layout comparisons remain qualified. Numeric agreement does not validate signs."
     }
   ],
   "relations": [
@@ -33,65 +41,98 @@
       "path": "data/catalogue.json",
       "sha256": "cfbe9ad6fbfb40b14cc0df3f5a53022a30aa3bbb0b7cfc87a2c10f5546fa0fb9",
       "encoding": "json",
-      "role": "catalogue"
+      "role": "catalogue",
+      "source_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93"
     },
     {
       "path": "research/core-count-assertions.json",
       "sha256": "726f301aa984f9b11084f04922ab6633879733ee050967c9516d9e0508beeee4",
       "encoding": "json",
-      "role": "survey-count-assertions"
+      "role": "survey-count-assertions",
+      "source_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93"
     },
     {
       "path": "data/sources.json",
       "sha256": "596703acb537138aa385ff1b6220846831e1478703c929e8e31a2409524f38fb",
       "encoding": "json",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93"
     },
     {
       "path": "research/count-assignment-partition.json",
       "sha256": "8b713dc92ab7510c50014929ee1ce90c9ad04ed5203c189344ffe37e30e42790",
       "encoding": "json",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93"
     },
     {
       "path": "research/count-assignment-checkpoint-2026-10-14.json",
       "sha256": "7c4c03ee487b880921e8bb516314679921fbdd0a5b799e4a2e59cf332d42336c",
       "encoding": "json",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93"
     },
     {
       "path": "research/core-counting-unit-ledger.json",
       "sha256": "18c085ad53926cc1bdb2136ac2aae4446b2958b5b1140b654a0a594d7ae84d89",
       "encoding": "json",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93"
     },
     {
       "path": "research/dhorme-1946-source-joins.json",
       "sha256": "acec92c805a4c54ea8073e1cb197aba31f74770d164df4858d914d6d1ab5720f",
       "encoding": "json",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93"
     },
     {
       "path": "research/stele-a-count-comparison.json",
       "sha256": "9aa4f58fa81a0e7d641b4c4c526a994118cafdd05c9a3382f6a8f9ba8a731db5",
       "encoding": "json",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93"
     },
     {
       "path": "LICENSE-CONTENT.md",
       "sha256": "24b4bfcf2de2f729b7ebce80c8011e7d75f82f5626a63bdcf333b28f8a2a2802",
       "encoding": "text",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93"
     },
     {
       "path": "NOTICE",
       "sha256": "cc5120da762ed398aac92590de299e5f07114af48ec2766259df03dc81c98cdb",
       "encoding": "text",
-      "role": "corpus-level source/rights/context register"
+      "role": "corpus-level source/rights/context register",
+      "source_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93"
+    },
+    {
+      "path": "research/dhorme-1946-source-audit.json",
+      "sha256": "ff6afb17a2d184e41a7b56214143fcd2d9443b6e75527048d57f07fc3b11cf3f",
+      "encoding": "json",
+      "role": "exact-pointer attribution evidence; applicability declared per case",
+      "source_snapshot_commit": "c5eae4a5c9fdae845196a102aa78addc28f4673c"
+    },
+    {
+      "path": "research/source-comparison-audit.json",
+      "sha256": "99396fe22d46ad0bf975386795b37e765d4337e7d46eeb13dbd9d043b8e79107",
+      "encoding": "json",
+      "role": "exact-pointer attribution evidence; applicability declared per case",
+      "source_snapshot_commit": "c5eae4a5c9fdae845196a102aa78addc28f4673c"
+    },
+    {
+      "path": "research/attribution-review.json",
+      "sha256": "23774c05a07cb6f85b65e527584672b8ab12e4652b8dc65ad25bd4ec68752fd5",
+      "encoding": "json",
+      "role": "bounded attribution review",
+      "source_snapshot_commit": null
     }
   ],
   "scholarly_limits": [
-    "Source counts have different counting conventions. Drawing categories, missing assignments and unadopted errata do not certify ancient damage, full sequences or canonical sign types."
+    "Source counts have different counting conventions. Drawing categories, missing assignments and unadopted errata do not certify ancient damage, full sequences or canonical sign types.",
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total."
   ],
-  "native_artifacts_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93"
+  "native_artifacts_snapshot_commit": null,
+  "snapshot_commit_scope": "Mixed inputs retain their per-artifact anchors. New original review artifacts are byte-pinned and identified by published repository history, not assigned to an earlier commit."
 }
