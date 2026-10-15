@@ -1,0 +1,134 @@
+{
+  "format": "corpus-native-evidence-query-coverage-v1",
+  "repository": "hawkinsnick/Byblos-syllabary",
+  "profile_sha256": "92e84d7b724f65515e00dd74367c5ba960e0aacbccb825c8120820c6192899e3",
+  "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
+  "collections": [
+    {
+      "name": "catalogue",
+      "native_unit": "catalogue entity",
+      "record_count": 39,
+      "scope": "Membership and object identification remain source-qualified.",
+      "example_ids": [
+        "BYB-A",
+        "BYB-B",
+        "BYB-C"
+      ],
+      "provenance": {
+        "path": "data/catalogue.json",
+        "sha256": "cfbe9ad6fbfb40b14cc0df3f5a53022a30aa3bbb0b7cfc87a2c10f5546fa0fb9",
+        "pointer": "/records",
+        "native_artifacts_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93",
+        "role": "catalogue",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "survey-count-assertions",
+      "native_unit": "survey count assertion",
+      "record_count": 14,
+      "scope": "Secondary reported counts are not verified sign sequences.",
+      "example_ids": [
+        "BYB-A",
+        "BYB-B",
+        "BYB-C"
+      ],
+      "provenance": {
+        "path": "research/core-count-assertions.json",
+        "sha256": "726f301aa984f9b11084f04922ab6633879733ee050967c9516d9e0508beeee4",
+        "pointer": "/entries",
+        "native_artifacts_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93",
+        "role": "survey-count-assertions",
+        "encoding": "json"
+      }
+    }
+  ],
+  "context_resources": [
+    {
+      "path": "data/catalogue.json",
+      "sha256": "cfbe9ad6fbfb40b14cc0df3f5a53022a30aa3bbb0b7cfc87a2c10f5546fa0fb9",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93",
+      "role": "catalogue",
+      "encoding": "json"
+    },
+    {
+      "path": "research/core-count-assertions.json",
+      "sha256": "726f301aa984f9b11084f04922ab6633879733ee050967c9516d9e0508beeee4",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93",
+      "role": "survey-count-assertions",
+      "encoding": "json"
+    },
+    {
+      "path": "data/sources.json",
+      "sha256": "596703acb537138aa385ff1b6220846831e1478703c929e8e31a2409524f38fb",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "research/count-assignment-partition.json",
+      "sha256": "8b713dc92ab7510c50014929ee1ce90c9ad04ed5203c189344ffe37e30e42790",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "research/count-assignment-checkpoint-2026-10-14.json",
+      "sha256": "7c4c03ee487b880921e8bb516314679921fbdd0a5b799e4a2e59cf332d42336c",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "research/core-counting-unit-ledger.json",
+      "sha256": "18c085ad53926cc1bdb2136ac2aae4446b2958b5b1140b654a0a594d7ae84d89",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "research/dhorme-1946-source-joins.json",
+      "sha256": "acec92c805a4c54ea8073e1cb197aba31f74770d164df4858d914d6d1ab5720f",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "research/stele-a-count-comparison.json",
+      "sha256": "9aa4f58fa81a0e7d641b4c4c526a994118cafdd05c9a3382f6a8f9ba8a731db5",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "sha256": "24b4bfcf2de2f729b7ebce80c8011e7d75f82f5626a63bdcf333b28f8a2a2802",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "text"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "cc5120da762ed398aac92590de299e5f07114af48ec2766259df03dc81c98cdb",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "97b4c89bbde7ac13cc4f3c7e11236afaea3d5d93",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "text"
+    }
+  ],
+  "scholarly_limits": [
+    "Source counts have different counting conventions. Drawing categories, missing assignments and unadopted errata do not certify ancient damage, full sequences or canonical sign types."
+  ],
+  "alternative_pair_count": null,
+  "independent_witness_count": null,
+  "boundary": "These are views of existing source records, not new witnesses or adjudications. Counts retain their declared native units and must not be summed as unique objects. Registers may contain project hypotheses or untraced alternatives. Only explicitly attributed, aligned readings can support an editorial comparison; no alternative-pair or independent-witness count is inferred by this tool."
+}
