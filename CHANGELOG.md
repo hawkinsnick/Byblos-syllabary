@@ -184,3 +184,7 @@ See [docs/FULL-AVAILABLE-SOURCE-LAYERS.md](docs/FULL-AVAILABLE-SOURCE-LAYERS.md)
 ## Count and assignment partition — 14 October 2026
 
 Read `research/count-assignment-checkpoint-2026-10-14.json`, `research/count-assignment-partition.json` and `docs/COUNT-ASSIGNMENT-RECONCILIATION.md`. All 123 numbered positions partition into 119 form-bearing source drawings, three minimal-mark positions and one edge-only position. This numerical match does not certify ancient surviving/lost categories. Keep 114 single literal assignments, the 32 collision and eight unassigned ordinals distinct. The 32-to-92 hypothesis remains unadopted; direct 1945/1978 collation and expert acceptance remain open. No new canonical type or sequence is added.
+
+## 2026-10-15 — Native evidence and alternative-reading queries
+
+Added pinned native evidence profiles, exact-ID/JSON-pointer queries, coverage replay, loss/corruption/identity/path tests and CI. Updated researcher documentation, AI instructions and evidence bundle indexing. Existing source data and scientific acceptance states are unchanged.
