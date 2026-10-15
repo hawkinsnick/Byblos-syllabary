@@ -1,0 +1,30 @@
+{
+  "format": "corpus-attribution-review-audit-v1",
+  "repository": "hawkinsnick/Byblos-syllabary",
+  "status": "PASS_PINNED_DOCUMENTARY_REVIEW_NOT_SCHOLARLY_ACCEPTANCE",
+  "manifest_sha256": "23774c05a07cb6f85b65e527584672b8ab12e4652b8dc65ad25bd4ec68752fd5",
+  "implementation_sha256": "29fd40045d96e9ee0d1d8f692b856a1b8a0631b9a5fa4fc86080d951c1236dbf",
+  "input_count": 4,
+  "review_case_count": 17,
+  "case_classes": {
+    "COUNT_OR_IDENTITY": 1,
+    "REPRESENTATION": 15,
+    "SOURCE_ROLE": 1
+  },
+  "pair_attribution_states": {
+    "NOT_APPLICABLE": 17
+  },
+  "complete_selections": [
+    {
+      "path": "research/source-comparison-audit.json",
+      "pointer": "/core_layout_comparison",
+      "expected_rows": 14
+    }
+  ],
+  "literature_exhaustive": false,
+  "alternative_pair_count": null,
+  "independent_witness_count": null,
+  "new_readings_admitted": 0,
+  "independent_reviews_added": 0,
+  "consultation_this_pass": "PINNED_REPOSITORY_EVIDENCE_ONLY"
+}
