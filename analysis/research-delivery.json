@@ -1,0 +1,201 @@
+{
+  "format": "native-research-delivery-v1",
+  "repository": "hawkinsnick/Byblos-syllabary",
+  "status": "PASS_DELIVERY_CONTROLS_ONLY",
+  "source_attribution_completeness": "NOT_CERTIFIED_BY_FILE_POINTERS",
+  "facts_hypotheses_policy": "PRESERVE_NATIVE_CATEGORIES_NO_AUTOMATIC_PROMOTION",
+  "scholarly_completeness": false,
+  "expert_acceptance_added": false,
+  "model_behavior_empirically_validated": false,
+  "collections": [
+    {
+      "name": "catalogue",
+      "native_unit": "catalogue entity",
+      "record_count": 39,
+      "scope": "Membership and object identification remain source-qualified.",
+      "example_ids": [
+        "BYB-A",
+        "BYB-B",
+        "BYB-C"
+      ],
+      "provenance": {
+        "path": "data/catalogue.json",
+        "sha256": "cfbe9ad6fbfb40b14cc0df3f5a53022a30aa3bbb0b7cfc87a2c10f5546fa0fb9",
+        "pointer": "/records",
+        "native_artifacts_snapshot_commit": null,
+        "role": "catalogue",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "survey-count-assertions",
+      "native_unit": "survey count assertion",
+      "record_count": 14,
+      "scope": "Secondary reported counts are not verified sign sequences.",
+      "example_ids": [
+        "BYB-A",
+        "BYB-B",
+        "BYB-C"
+      ],
+      "provenance": {
+        "path": "research/core-count-assertions.json",
+        "sha256": "726f301aa984f9b11084f04922ab6633879733ee050967c9516d9e0508beeee4",
+        "pointer": "/entries",
+        "native_artifacts_snapshot_commit": null,
+        "role": "survey-count-assertions",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "attribution-review",
+      "native_unit": "bounded documentary attribution review task",
+      "record_count": 17,
+      "scope": "Stele A counting units, drawing partitions, Dunand-through-Dhorme voice and all fourteen core layout comparisons remain qualified. Numeric agreement does not validate signs.",
+      "example_ids": [
+        "BYB-A-SIGN-COUNT",
+        "BYB-A-DRAWING-PARTITION",
+        "BYB-DHORME-VOICE"
+      ],
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "23774c05a07cb6f85b65e527584672b8ab12e4652b8dc65ad25bd4ec68752fd5",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    }
+  ],
+  "scholarly_limits": [
+    "Source counts have different counting conventions. Drawing categories, missing assignments and unadopted errata do not certify ancient damage, full sequences or canonical sign types.",
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total."
+  ],
+  "inputs": [
+    {
+      "path": "LICENSE",
+      "sha256": "a6483079a3962d57e0174a735f70813ce644e4371869e1108114dfee6cfd5674",
+      "bytes": 582
+    },
+    {
+      "path": "LICENSE-CODE",
+      "sha256": "da0ea24fe99ee55dffa4fdcc54c2c533be08b240a37fcf093b6e5a716d5cd74a",
+      "bytes": 324
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "sha256": "24b4bfcf2de2f729b7ebce80c8011e7d75f82f5626a63bdcf333b28f8a2a2802",
+      "bytes": 762
+    },
+    {
+      "path": "LICENSING.md",
+      "sha256": "ab9b5ec64d32f4e987fa4081dec15853a6b87858a4a8dbb7162af4ab9a54c7e8",
+      "bytes": 2487
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "cc5120da762ed398aac92590de299e5f07114af48ec2766259df03dc81c98cdb",
+      "bytes": 918
+    },
+    {
+      "path": "ai-skill/SKILL.md",
+      "sha256": "2d59d50cdd4f3ae402526dc8fc1f692641be8b0ce1c662f0ff2f10919b9c57c2",
+      "bytes": 11512
+    },
+    {
+      "path": "data/catalogue.json",
+      "sha256": "cfbe9ad6fbfb40b14cc0df3f5a53022a30aa3bbb0b7cfc87a2c10f5546fa0fb9",
+      "bytes": 45235
+    },
+    {
+      "path": "data/sources.json",
+      "sha256": "596703acb537138aa385ff1b6220846831e1478703c929e8e31a2409524f38fb",
+      "bytes": 41428
+    },
+    {
+      "path": "docs/RESEARCH-DELIVERY.md",
+      "sha256": "e745c98907a4134dc4c1e7b7b89aa584215482be81ceccd835495e84aa889189",
+      "bytes": 4065
+    },
+    {
+      "path": "docs/RIGHTS.md",
+      "sha256": "252c527ccbc35f0a9ac330408a48611b437bb6e0a61f5f436ce004be70aa9cbe",
+      "bytes": 2812
+    },
+    {
+      "path": "research/attribution-review.json",
+      "sha256": "23774c05a07cb6f85b65e527584672b8ab12e4652b8dc65ad25bd4ec68752fd5",
+      "bytes": 12862
+    },
+    {
+      "path": "research/collection-work-ledger.json",
+      "sha256": "90b0825e7a42136893635a19c5cec358e52dd152f8363dbf5e2c703502cb4b55",
+      "bytes": 217171
+    },
+    {
+      "path": "research/core-count-assertions.json",
+      "sha256": "726f301aa984f9b11084f04922ab6633879733ee050967c9516d9e0508beeee4",
+      "bytes": 14880
+    },
+    {
+      "path": "research/core-counting-unit-ledger.json",
+      "sha256": "18c085ad53926cc1bdb2136ac2aae4446b2958b5b1140b654a0a594d7ae84d89",
+      "bytes": 1672
+    },
+    {
+      "path": "research/count-assignment-checkpoint-2026-10-14.json",
+      "sha256": "7c4c03ee487b880921e8bb516314679921fbdd0a5b799e4a2e59cf332d42336c",
+      "bytes": 3832
+    },
+    {
+      "path": "research/count-assignment-partition.json",
+      "sha256": "8b713dc92ab7510c50014929ee1ce90c9ad04ed5203c189344ffe37e30e42790",
+      "bytes": 13051
+    },
+    {
+      "path": "research/dhorme-1946-source-audit.json",
+      "sha256": "ff6afb17a2d184e41a7b56214143fcd2d9443b6e75527048d57f07fc3b11cf3f",
+      "bytes": 15786
+    },
+    {
+      "path": "research/dhorme-1946-source-joins.json",
+      "sha256": "acec92c805a4c54ea8073e1cb197aba31f74770d164df4858d914d6d1ab5720f",
+      "bytes": 15935
+    },
+    {
+      "path": "research/evidence-query-profile.json",
+      "sha256": "0208ff9902d8cfcf67be552a275041fb0a712d57231d4931145ddb8d496a441b",
+      "bytes": 5930
+    },
+    {
+      "path": "research/source-comparison-audit.json",
+      "sha256": "99396fe22d46ad0bf975386795b37e765d4337e7d46eeb13dbd9d043b8e79107",
+      "bytes": 19512
+    },
+    {
+      "path": "research/stele-a-count-comparison.json",
+      "sha256": "9aa4f58fa81a0e7d641b4c4c526a994118cafdd05c9a3382f6a8f9ba8a731db5",
+      "bytes": 1882
+    },
+    {
+      "path": "review/collection-packet.json",
+      "sha256": "500305c73348566614d9d96e6385730b90ec1d3c3f322cf4eb7abda0a02506ab",
+      "bytes": 1840
+    },
+    {
+      "path": "scripts/evidence_query.py",
+      "sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
+      "bytes": 11289
+    },
+    {
+      "path": "scripts/research_delivery.py",
+      "sha256": "2c113043ed51a459b82dc3959b7f56849bf1aa8c2223719ef3fdaa1321decf8d",
+      "bytes": 10075
+    },
+    {
+      "path": "scripts/test_research_delivery.py",
+      "sha256": "70d2149542b267fdd633d43dd925644dbeeb5d5e66f27675b28c77de7109464b",
+      "bytes": 5678
+    }
+  ],
+  "boundary": "Source assertions, hypotheses and review tasks retain their native categories. Retrieval and byte replay establish neither scholarly completeness nor expert acceptance. Missing source attribution, access, permission and independent review remain open where recorded."
+}
