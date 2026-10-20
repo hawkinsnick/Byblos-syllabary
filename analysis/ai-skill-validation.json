@@ -1,0 +1,58 @@
+{
+  "format": "corpus-ai-skill-function-check-v1",
+  "repository": "hawkinsnick/Byblos-syllabary",
+  "status": "PASS_SCOPED_FUNCTIONAL_CHECKS",
+  "scope": "NATIVE_EVIDENCE_RETRIEVAL",
+  "skill_name": "byblos-syllabary-research",
+  "skill_version": "0.3.1",
+  "skill_sha256": "c89457844b19351cf4653c5d5bf09033b6ec4a2c9a49ea8a3cfc3472cdd086a8",
+  "bundle_source_commit": "3eed05dbf39b819e7e59ee5394d47db8b3f34761",
+  "bundle_sha256": "ea5ec12c47aa826ce37953d78eeff3a882de56e139e3068997a64998990c9869",
+  "indexed_artifact_entries_checked": 75,
+  "unique_indexed_paths_checked": 75,
+  "lookups": [
+    {
+      "collection": "catalogue",
+      "id": "BYB-A",
+      "native_unit": "catalogue entity",
+      "provenance": {
+        "path": "data/catalogue.json",
+        "sha256": "cfbe9ad6fbfb40b14cc0df3f5a53022a30aa3bbb0b7cfc87a2c10f5546fa0fb9",
+        "pointer": "/records/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "catalogue",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "survey-count-assertions",
+      "id": "BYB-A",
+      "native_unit": "survey count assertion",
+      "provenance": {
+        "path": "research/core-count-assertions.json",
+        "sha256": "726f301aa984f9b11084f04922ab6633879733ee050967c9516d9e0508beeee4",
+        "pointer": "/entries/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "survey-count-assertions",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "attribution-review",
+      "id": "BYB-A-SIGN-COUNT",
+      "native_unit": "bounded documentary attribution review task",
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "23774c05a07cb6f85b65e527584672b8ab12e4652b8dc65ad25bd4ec68752fd5",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    }
+  ],
+  "missing_id_rejected": true,
+  "scholarly_acceptance_granted": false,
+  "empirical_model_accuracy_established": false,
+  "limits": "Deterministic workflow checks only. Independent model usage exercises are recorded separately; no cross-platform accuracy or scholarly acceptance is inferred."
+}
