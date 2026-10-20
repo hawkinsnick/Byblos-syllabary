@@ -1,3 +1,9 @@
+## AI skill validation — 2026-10-20 (contract remains 0.3.1)
+
+- Add executable skill checks, exact native lookup examples and a GitHub check receipt.
+- Fingerprint operational skill files and retain source-specific evidence limits.
+- Return a structured rejection for invalid/missing evidence requests.
+
 ## 1.3.3 — 2026-10-05 UTC
 
 - Compared the unnumbered dependent Dhorme stele drawing across ten broad line bands and four focused damage/erratum targets; neither proposed correction nor count explanation is adopted.
