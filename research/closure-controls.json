@@ -1,0 +1,1978 @@
+{
+  "format": "academic-closure-controls-v1",
+  "kind": "byblos-printed-type-lookup",
+  "inputs": [
+    {
+      "path": "research/stele-a-type-table.json",
+      "sha256": "e166a364ccb6cede69f54f6499c8671885f6c6765ac333a2e3a36ab1244489b1"
+    },
+    {
+      "path": "research/stele-a-facsimile-number-index.json",
+      "sha256": "e65598e16b5c9a2dbccdb2a5583154bef53d7f09528547904eea90f61c4c237e"
+    }
+  ],
+  "records": [
+    {
+      "id": "BYB-A-D1930-ordinal-001",
+      "record_id": "BYB-A",
+      "source_numbered_position": 1,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "I"
+      ],
+      "unambiguous_printed_type": "I",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-002",
+      "record_id": "BYB-A",
+      "source_numbered_position": 2,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "II"
+      ],
+      "unambiguous_printed_type": "II",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-003",
+      "record_id": "BYB-A",
+      "source_numbered_position": 3,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "III"
+      ],
+      "unambiguous_printed_type": "III",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-004",
+      "record_id": "BYB-A",
+      "source_numbered_position": 4,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "IV"
+      ],
+      "unambiguous_printed_type": "IV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-005",
+      "record_id": "BYB-A",
+      "source_numbered_position": 5,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "V"
+      ],
+      "unambiguous_printed_type": "V",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-006",
+      "record_id": "BYB-A",
+      "source_numbered_position": 6,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "VI"
+      ],
+      "unambiguous_printed_type": "VI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-007",
+      "record_id": "BYB-A",
+      "source_numbered_position": 7,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXXV"
+      ],
+      "unambiguous_printed_type": "XXXV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-008",
+      "record_id": "BYB-A",
+      "source_numbered_position": 8,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "VII"
+      ],
+      "unambiguous_printed_type": "VII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-009",
+      "record_id": "BYB-A",
+      "source_numbered_position": 9,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "VIII"
+      ],
+      "unambiguous_printed_type": "VIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-010",
+      "record_id": "BYB-A",
+      "source_numbered_position": 10,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "IX"
+      ],
+      "unambiguous_printed_type": "IX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-011",
+      "record_id": "BYB-A",
+      "source_numbered_position": 11,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "X"
+      ],
+      "unambiguous_printed_type": "X",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-012",
+      "record_id": "BYB-A",
+      "source_numbered_position": 12,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XI"
+      ],
+      "unambiguous_printed_type": "XI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-013",
+      "record_id": "BYB-A",
+      "source_numbered_position": 13,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XII"
+      ],
+      "unambiguous_printed_type": "XII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-014",
+      "record_id": "BYB-A",
+      "source_numbered_position": 14,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [],
+      "unambiguous_printed_type": null,
+      "source_table_lookup_admitted": false,
+      "exclusion_reason": "NO_PRINTED_MEMBERSHIP",
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-015",
+      "record_id": "BYB-A",
+      "source_numbered_position": 15,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "VIII"
+      ],
+      "unambiguous_printed_type": "VIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-016",
+      "record_id": "BYB-A",
+      "source_numbered_position": 16,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XI"
+      ],
+      "unambiguous_printed_type": "XI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-017",
+      "record_id": "BYB-A",
+      "source_numbered_position": 17,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XIII"
+      ],
+      "unambiguous_printed_type": "XIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-018",
+      "record_id": "BYB-A",
+      "source_numbered_position": 18,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XIV"
+      ],
+      "unambiguous_printed_type": "XIV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-019",
+      "record_id": "BYB-A",
+      "source_numbered_position": 19,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XV"
+      ],
+      "unambiguous_printed_type": "XV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-020",
+      "record_id": "BYB-A",
+      "source_numbered_position": 20,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XVI"
+      ],
+      "unambiguous_printed_type": "XVI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-021",
+      "record_id": "BYB-A",
+      "source_numbered_position": 21,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XI"
+      ],
+      "unambiguous_printed_type": "XI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-022",
+      "record_id": "BYB-A",
+      "source_numbered_position": 22,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XVII"
+      ],
+      "unambiguous_printed_type": "XVII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-023",
+      "record_id": "BYB-A",
+      "source_numbered_position": 23,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XVIII"
+      ],
+      "unambiguous_printed_type": "XVIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-024",
+      "record_id": "BYB-A",
+      "source_numbered_position": 24,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "II"
+      ],
+      "unambiguous_printed_type": "II",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-025",
+      "record_id": "BYB-A",
+      "source_numbered_position": 25,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "III"
+      ],
+      "unambiguous_printed_type": "III",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-026",
+      "record_id": "BYB-A",
+      "source_numbered_position": 26,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XIX"
+      ],
+      "unambiguous_printed_type": "XIX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-027",
+      "record_id": "BYB-A",
+      "source_numbered_position": 27,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [],
+      "unambiguous_printed_type": null,
+      "source_table_lookup_admitted": false,
+      "exclusion_reason": "NO_PRINTED_MEMBERSHIP",
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-028",
+      "record_id": "BYB-A",
+      "source_numbered_position": 28,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XX"
+      ],
+      "unambiguous_printed_type": "XX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-029",
+      "record_id": "BYB-A",
+      "source_numbered_position": 29,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXI"
+      ],
+      "unambiguous_printed_type": "XXI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-030",
+      "record_id": "BYB-A",
+      "source_numbered_position": 30,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXII"
+      ],
+      "unambiguous_printed_type": "XXII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-031",
+      "record_id": "BYB-A",
+      "source_numbered_position": 31,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXIII"
+      ],
+      "unambiguous_printed_type": "XXIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-032",
+      "record_id": "BYB-A",
+      "source_numbered_position": 32,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "VIII",
+        "XIX"
+      ],
+      "unambiguous_printed_type": null,
+      "source_table_lookup_admitted": false,
+      "exclusion_reason": "CONFLICTING_PRINTED_MEMBERSHIPS",
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-033",
+      "record_id": "BYB-A",
+      "source_numbered_position": 33,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "IX"
+      ],
+      "unambiguous_printed_type": "IX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-034",
+      "record_id": "BYB-A",
+      "source_numbered_position": 34,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [],
+      "unambiguous_printed_type": null,
+      "source_table_lookup_admitted": false,
+      "exclusion_reason": "NO_PRINTED_MEMBERSHIP",
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-035",
+      "record_id": "BYB-A",
+      "source_numbered_position": 35,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "III"
+      ],
+      "unambiguous_printed_type": "III",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-036",
+      "record_id": "BYB-A",
+      "source_numbered_position": 36,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "X"
+      ],
+      "unambiguous_printed_type": "X",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-037",
+      "record_id": "BYB-A",
+      "source_numbered_position": 37,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "IV"
+      ],
+      "unambiguous_printed_type": "IV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-038",
+      "record_id": "BYB-A",
+      "source_numbered_position": 38,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XI"
+      ],
+      "unambiguous_printed_type": "XI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-039",
+      "record_id": "BYB-A",
+      "source_numbered_position": 39,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XIX"
+      ],
+      "unambiguous_printed_type": "XIX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-040",
+      "record_id": "BYB-A",
+      "source_numbered_position": 40,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [],
+      "unambiguous_printed_type": null,
+      "source_table_lookup_admitted": false,
+      "exclusion_reason": "NO_PRINTED_MEMBERSHIP",
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-041",
+      "record_id": "BYB-A",
+      "source_numbered_position": 41,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [],
+      "unambiguous_printed_type": null,
+      "source_table_lookup_admitted": false,
+      "exclusion_reason": "NO_PRINTED_MEMBERSHIP",
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-042",
+      "record_id": "BYB-A",
+      "source_numbered_position": 42,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [],
+      "unambiguous_printed_type": null,
+      "source_table_lookup_admitted": false,
+      "exclusion_reason": "NO_PRINTED_MEMBERSHIP",
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-043",
+      "record_id": "BYB-A",
+      "source_numbered_position": 43,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXIV"
+      ],
+      "unambiguous_printed_type": "XXIV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-044",
+      "record_id": "BYB-A",
+      "source_numbered_position": 44,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXVI"
+      ],
+      "unambiguous_printed_type": "XXVI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-045",
+      "record_id": "BYB-A",
+      "source_numbered_position": 45,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XX"
+      ],
+      "unambiguous_printed_type": "XX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-046",
+      "record_id": "BYB-A",
+      "source_numbered_position": 46,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XX"
+      ],
+      "unambiguous_printed_type": "XX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-047",
+      "record_id": "BYB-A",
+      "source_numbered_position": 47,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXIII"
+      ],
+      "unambiguous_printed_type": "XXIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-048",
+      "record_id": "BYB-A",
+      "source_numbered_position": 48,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXV"
+      ],
+      "unambiguous_printed_type": "XXV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-049",
+      "record_id": "BYB-A",
+      "source_numbered_position": 49,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXVI"
+      ],
+      "unambiguous_printed_type": "XXVI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-050",
+      "record_id": "BYB-A",
+      "source_numbered_position": 50,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XVIII"
+      ],
+      "unambiguous_printed_type": "XVIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-051",
+      "record_id": "BYB-A",
+      "source_numbered_position": 51,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXVIII"
+      ],
+      "unambiguous_printed_type": "XXVIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-052",
+      "record_id": "BYB-A",
+      "source_numbered_position": 52,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XIX"
+      ],
+      "unambiguous_printed_type": "XIX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-053",
+      "record_id": "BYB-A",
+      "source_numbered_position": 53,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXVII"
+      ],
+      "unambiguous_printed_type": "XXVII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-054",
+      "record_id": "BYB-A",
+      "source_numbered_position": 54,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XIII"
+      ],
+      "unambiguous_printed_type": "XIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-055",
+      "record_id": "BYB-A",
+      "source_numbered_position": 55,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XX"
+      ],
+      "unambiguous_printed_type": "XX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-056",
+      "record_id": "BYB-A",
+      "source_numbered_position": 56,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXVIII"
+      ],
+      "unambiguous_printed_type": "XXVIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-057",
+      "record_id": "BYB-A",
+      "source_numbered_position": 57,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XVI"
+      ],
+      "unambiguous_printed_type": "XVI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-058",
+      "record_id": "BYB-A",
+      "source_numbered_position": 58,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XI"
+      ],
+      "unambiguous_printed_type": "XI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-059",
+      "record_id": "BYB-A",
+      "source_numbered_position": 59,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXV"
+      ],
+      "unambiguous_printed_type": "XXV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-060",
+      "record_id": "BYB-A",
+      "source_numbered_position": 60,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXVI"
+      ],
+      "unambiguous_printed_type": "XXVI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-061",
+      "record_id": "BYB-A",
+      "source_numbered_position": 61,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "IV"
+      ],
+      "unambiguous_printed_type": "IV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-062",
+      "record_id": "BYB-A",
+      "source_numbered_position": 62,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXIX"
+      ],
+      "unambiguous_printed_type": "XXIX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-063",
+      "record_id": "BYB-A",
+      "source_numbered_position": 63,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "V"
+      ],
+      "unambiguous_printed_type": "V",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-064",
+      "record_id": "BYB-A",
+      "source_numbered_position": 64,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXX"
+      ],
+      "unambiguous_printed_type": "XXX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-065",
+      "record_id": "BYB-A",
+      "source_numbered_position": 65,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXII"
+      ],
+      "unambiguous_printed_type": "XXII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-066",
+      "record_id": "BYB-A",
+      "source_numbered_position": 66,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXIII"
+      ],
+      "unambiguous_printed_type": "XXIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-067",
+      "record_id": "BYB-A",
+      "source_numbered_position": 67,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XIX"
+      ],
+      "unambiguous_printed_type": "XIX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-068",
+      "record_id": "BYB-A",
+      "source_numbered_position": 68,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXXI"
+      ],
+      "unambiguous_printed_type": "XXXI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-069",
+      "record_id": "BYB-A",
+      "source_numbered_position": 69,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXXVI"
+      ],
+      "unambiguous_printed_type": "XXXVI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-070",
+      "record_id": "BYB-A",
+      "source_numbered_position": 70,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "IV"
+      ],
+      "unambiguous_printed_type": "IV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-071",
+      "record_id": "BYB-A",
+      "source_numbered_position": 71,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XI"
+      ],
+      "unambiguous_printed_type": "XI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-072",
+      "record_id": "BYB-A",
+      "source_numbered_position": 72,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXXII"
+      ],
+      "unambiguous_printed_type": "XXXII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-073",
+      "record_id": "BYB-A",
+      "source_numbered_position": 73,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XVII"
+      ],
+      "unambiguous_printed_type": "XVII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-074",
+      "record_id": "BYB-A",
+      "source_numbered_position": 74,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "III"
+      ],
+      "unambiguous_printed_type": "III",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-075",
+      "record_id": "BYB-A",
+      "source_numbered_position": 75,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XV"
+      ],
+      "unambiguous_printed_type": "XV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-076",
+      "record_id": "BYB-A",
+      "source_numbered_position": 76,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XVIII"
+      ],
+      "unambiguous_printed_type": "XVIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-077",
+      "record_id": "BYB-A",
+      "source_numbered_position": 77,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXXIII"
+      ],
+      "unambiguous_printed_type": "XXXIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-078",
+      "record_id": "BYB-A",
+      "source_numbered_position": 78,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXXIV"
+      ],
+      "unambiguous_printed_type": "XXXIV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-079",
+      "record_id": "BYB-A",
+      "source_numbered_position": 79,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXIII"
+      ],
+      "unambiguous_printed_type": "XXIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-080",
+      "record_id": "BYB-A",
+      "source_numbered_position": 80,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XIII"
+      ],
+      "unambiguous_printed_type": "XIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-081",
+      "record_id": "BYB-A",
+      "source_numbered_position": 81,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XIV"
+      ],
+      "unambiguous_printed_type": "XIV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-082",
+      "record_id": "BYB-A",
+      "source_numbered_position": 82,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "III"
+      ],
+      "unambiguous_printed_type": "III",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-083",
+      "record_id": "BYB-A",
+      "source_numbered_position": 83,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XV"
+      ],
+      "unambiguous_printed_type": "XV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-084",
+      "record_id": "BYB-A",
+      "source_numbered_position": 84,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXXVII"
+      ],
+      "unambiguous_printed_type": "XXXVII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-085",
+      "record_id": "BYB-A",
+      "source_numbered_position": 85,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "IX"
+      ],
+      "unambiguous_printed_type": "IX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-086",
+      "record_id": "BYB-A",
+      "source_numbered_position": 86,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXXIII"
+      ],
+      "unambiguous_printed_type": "XXXIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-087",
+      "record_id": "BYB-A",
+      "source_numbered_position": 87,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXIII"
+      ],
+      "unambiguous_printed_type": "XXIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-088",
+      "record_id": "BYB-A",
+      "source_numbered_position": 88,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXVIII"
+      ],
+      "unambiguous_printed_type": "XXVIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-089",
+      "record_id": "BYB-A",
+      "source_numbered_position": 89,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXV"
+      ],
+      "unambiguous_printed_type": "XXV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-090",
+      "record_id": "BYB-A",
+      "source_numbered_position": 90,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXVI"
+      ],
+      "unambiguous_printed_type": "XXVI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-091",
+      "record_id": "BYB-A",
+      "source_numbered_position": 91,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XVIII"
+      ],
+      "unambiguous_printed_type": "XVIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-092",
+      "record_id": "BYB-A",
+      "source_numbered_position": 92,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [],
+      "unambiguous_printed_type": null,
+      "source_table_lookup_admitted": false,
+      "exclusion_reason": "NO_PRINTED_MEMBERSHIP",
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-093",
+      "record_id": "BYB-A",
+      "source_numbered_position": 93,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XIX"
+      ],
+      "unambiguous_printed_type": "XIX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-094",
+      "record_id": "BYB-A",
+      "source_numbered_position": 94,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXVII"
+      ],
+      "unambiguous_printed_type": "XXVII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-095",
+      "record_id": "BYB-A",
+      "source_numbered_position": 95,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [],
+      "unambiguous_printed_type": null,
+      "source_table_lookup_admitted": false,
+      "exclusion_reason": "NO_PRINTED_MEMBERSHIP",
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-096",
+      "record_id": "BYB-A",
+      "source_numbered_position": 96,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XX"
+      ],
+      "unambiguous_printed_type": "XX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-097",
+      "record_id": "BYB-A",
+      "source_numbered_position": 97,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXVIII"
+      ],
+      "unambiguous_printed_type": "XXVIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-098",
+      "record_id": "BYB-A",
+      "source_numbered_position": 98,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XVI"
+      ],
+      "unambiguous_printed_type": "XVI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-099",
+      "record_id": "BYB-A",
+      "source_numbered_position": 99,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XI"
+      ],
+      "unambiguous_printed_type": "XI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-100",
+      "record_id": "BYB-A",
+      "source_numbered_position": 100,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXV"
+      ],
+      "unambiguous_printed_type": "XXV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-101",
+      "record_id": "BYB-A",
+      "source_numbered_position": 101,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXVI"
+      ],
+      "unambiguous_printed_type": "XXVI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-102",
+      "record_id": "BYB-A",
+      "source_numbered_position": 102,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XVIII"
+      ],
+      "unambiguous_printed_type": "XVIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-103",
+      "record_id": "BYB-A",
+      "source_numbered_position": 103,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXXVIII"
+      ],
+      "unambiguous_printed_type": "XXXVIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-104",
+      "record_id": "BYB-A",
+      "source_numbered_position": 104,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXI"
+      ],
+      "unambiguous_printed_type": "XXI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-105",
+      "record_id": "BYB-A",
+      "source_numbered_position": 105,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXII"
+      ],
+      "unambiguous_printed_type": "XXII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-106",
+      "record_id": "BYB-A",
+      "source_numbered_position": 106,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXIII"
+      ],
+      "unambiguous_printed_type": "XXIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-107",
+      "record_id": "BYB-A",
+      "source_numbered_position": 107,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XIX"
+      ],
+      "unambiguous_printed_type": "XIX",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-108",
+      "record_id": "BYB-A",
+      "source_numbered_position": 108,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXXI"
+      ],
+      "unambiguous_printed_type": "XXXI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-109",
+      "record_id": "BYB-A",
+      "source_numbered_position": 109,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXXVI"
+      ],
+      "unambiguous_printed_type": "XXXVI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-110",
+      "record_id": "BYB-A",
+      "source_numbered_position": 110,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "IV"
+      ],
+      "unambiguous_printed_type": "IV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-111",
+      "record_id": "BYB-A",
+      "source_numbered_position": 111,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XVI"
+      ],
+      "unambiguous_printed_type": "XVI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-112",
+      "record_id": "BYB-A",
+      "source_numbered_position": 112,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XI"
+      ],
+      "unambiguous_printed_type": "XI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-113",
+      "record_id": "BYB-A",
+      "source_numbered_position": 113,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXV"
+      ],
+      "unambiguous_printed_type": "XXV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-114",
+      "record_id": "BYB-A",
+      "source_numbered_position": 114,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XIII"
+      ],
+      "unambiguous_printed_type": "XIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-115",
+      "record_id": "BYB-A",
+      "source_numbered_position": 115,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XIV"
+      ],
+      "unambiguous_printed_type": "XIV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-116",
+      "record_id": "BYB-A",
+      "source_numbered_position": 116,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XV"
+      ],
+      "unambiguous_printed_type": "XV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-117",
+      "record_id": "BYB-A",
+      "source_numbered_position": 117,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXIII"
+      ],
+      "unambiguous_printed_type": "XXIII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-118",
+      "record_id": "BYB-A",
+      "source_numbered_position": 118,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXXV"
+      ],
+      "unambiguous_printed_type": "XXXV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-119",
+      "record_id": "BYB-A",
+      "source_numbered_position": 119,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "IV"
+      ],
+      "unambiguous_printed_type": "IV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-120",
+      "record_id": "BYB-A",
+      "source_numbered_position": 120,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "V"
+      ],
+      "unambiguous_printed_type": "V",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-121",
+      "record_id": "BYB-A",
+      "source_numbered_position": 121,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "VI"
+      ],
+      "unambiguous_printed_type": "VI",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-122",
+      "record_id": "BYB-A",
+      "source_numbered_position": 122,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXVII"
+      ],
+      "unambiguous_printed_type": "XXVII",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    },
+    {
+      "id": "BYB-A-D1930-ordinal-123",
+      "record_id": "BYB-A",
+      "source_numbered_position": 123,
+      "source_id": "dunand-1930",
+      "locator": "p. 5, all rows I–XXXVIII; numbering convention p. 4",
+      "printed_type_assertions": [
+        "XXXV"
+      ],
+      "unambiguous_printed_type": "XXXV",
+      "source_table_lookup_admitted": true,
+      "exclusion_reason": null,
+      "erratum_adopted": false,
+      "canonical_sign_identity_admitted": false,
+      "physical_occurrence_certified": false
+    }
+  ],
+  "counts": {
+    "source_numbered_positions": 123,
+    "unambiguous_source_table_lookups": 114,
+    "excluded_conflicts": 1,
+    "excluded_unassigned": 8
+  },
+  "scientific_approval_granted": false,
+  "source_literals_changed": false,
+  "boundary": "A completed exclusion/representation control is not recovered missing evidence or adjudicated scholarship. Preserve native source assertions and unresolved scientific requirements."
+}

@@ -64,6 +64,25 @@
         "role": "bounded attribution review",
         "encoding": "json"
       }
+    },
+    {
+      "name": "closure-controls",
+      "native_unit": "printed ordinal membership lookup",
+      "record_count": 123,
+      "scope": "Explicitly preserves missing evidence and source conflicts; no scholarly adjudication.",
+      "example_ids": [
+        "BYB-A-D1930-ordinal-001",
+        "BYB-A-D1930-ordinal-002",
+        "BYB-A-D1930-ordinal-003"
+      ],
+      "provenance": {
+        "path": "research/closure-controls.json",
+        "sha256": "39e8f309d6547606e2060dc972654a5073c958de9aaccce8d785105878b146e0",
+        "pointer": "/records",
+        "native_artifacts_snapshot_commit": null,
+        "role": "scoped exclusions and unresolved-source representation controls",
+        "encoding": "json"
+      }
     }
   ],
   "scholarly_limits": [
@@ -98,8 +117,8 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "c89457844b19351cf4653c5d5bf09033b6ec4a2c9a49ea8a3cfc3472cdd086a8",
-      "bytes": 12876
+      "sha256": "0a15420dfa7150061757a14a0257a2b02d06b6e6a8d8b83263ffecfc4a3504f9",
+      "bytes": 13308
     },
     {
       "path": "data/catalogue.json",
@@ -125,6 +144,11 @@
       "path": "research/attribution-review.json",
       "sha256": "23774c05a07cb6f85b65e527584672b8ab12e4652b8dc65ad25bd4ec68752fd5",
       "bytes": 12862
+    },
+    {
+      "path": "research/closure-controls.json",
+      "sha256": "39e8f309d6547606e2060dc972654a5073c958de9aaccce8d785105878b146e0",
+      "bytes": 65815
     },
     {
       "path": "research/collection-work-ledger.json",
@@ -163,8 +187,8 @@
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "0208ff9902d8cfcf67be552a275041fb0a712d57231d4931145ddb8d496a441b",
-      "bytes": 5930
+      "sha256": "cfb0c611870b47a8b651f7146798c77c1f8c217a256ac895f28d74c8a92bf8fa",
+      "bytes": 6684
     },
     {
       "path": "research/source-comparison-audit.json",

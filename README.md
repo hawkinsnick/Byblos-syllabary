@@ -1,5 +1,7 @@
 # Byblos syllabary research corpus
 
+[Scoped academic controls](docs/CLOSURE-CONTROLS.md) make exclusions and unresolved source qualifications explicit in researcher retrieval.
+
 
 ## Use the AI research skill
 

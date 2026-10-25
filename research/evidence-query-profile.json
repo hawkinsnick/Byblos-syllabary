@@ -25,6 +25,14 @@
       "id_pointer": "/review_id",
       "unit": "bounded documentary attribution review task",
       "scope": "Stele A counting units, drawing partitions, Dunand-through-Dhorme voice and all fourteen core layout comparisons remain qualified. Numeric agreement does not validate signs."
+    },
+    {
+      "name": "closure-controls",
+      "path": "research/closure-controls.json",
+      "pointer": "/records",
+      "id_pointer": "/id",
+      "unit": "printed ordinal membership lookup",
+      "scope": "Explicitly preserves missing evidence and source conflicts; no scholarly adjudication."
     }
   ],
   "relations": [
@@ -34,6 +42,13 @@
       "from_pointer": "/id",
       "to_pointer": "/record_id",
       "label": "EXACT_DECLARED_ID_MATCH_NOT_PHYSICAL_CERTIFICATION_OR_INDEPENDENCE"
+    },
+    {
+      "from": "catalogue",
+      "to": "closure-controls",
+      "from_pointer": "/id",
+      "to_pointer": "/record_id",
+      "label": "CURRENT_SCOPED_EXCLUSION_OR_CONFLICT_CONTROL"
     }
   ],
   "artifacts": [
@@ -127,6 +142,12 @@
       "encoding": "json",
       "role": "bounded attribution review",
       "source_snapshot_commit": null
+    },
+    {
+      "path": "research/closure-controls.json",
+      "sha256": "39e8f309d6547606e2060dc972654a5073c958de9aaccce8d785105878b146e0",
+      "encoding": "json",
+      "role": "scoped exclusions and unresolved-source representation controls"
     }
   ],
   "scholarly_limits": [

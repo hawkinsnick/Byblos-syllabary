@@ -1,7 +1,7 @@
 {
   "format": "corpus-native-evidence-query-coverage-v1",
   "repository": "hawkinsnick/Byblos-syllabary",
-  "profile_sha256": "0208ff9902d8cfcf67be552a275041fb0a712d57231d4931145ddb8d496a441b",
+  "profile_sha256": "cfb0c611870b47a8b651f7146798c77c1f8c217a256ac895f28d74c8a92bf8fa",
   "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
   "collections": [
     {
@@ -58,6 +58,25 @@
         "pointer": "/cases",
         "native_artifacts_snapshot_commit": null,
         "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "closure-controls",
+      "native_unit": "printed ordinal membership lookup",
+      "record_count": 123,
+      "scope": "Explicitly preserves missing evidence and source conflicts; no scholarly adjudication.",
+      "example_ids": [
+        "BYB-A-D1930-ordinal-001",
+        "BYB-A-D1930-ordinal-002",
+        "BYB-A-D1930-ordinal-003"
+      ],
+      "provenance": {
+        "path": "research/closure-controls.json",
+        "sha256": "39e8f309d6547606e2060dc972654a5073c958de9aaccce8d785105878b146e0",
+        "pointer": "/records",
+        "native_artifacts_snapshot_commit": null,
+        "role": "scoped exclusions and unresolved-source representation controls",
         "encoding": "json"
       }
     }
@@ -165,6 +184,14 @@
       "pointer": "",
       "native_artifacts_snapshot_commit": null,
       "role": "bounded attribution review",
+      "encoding": "json"
+    },
+    {
+      "path": "research/closure-controls.json",
+      "sha256": "39e8f309d6547606e2060dc972654a5073c958de9aaccce8d785105878b146e0",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": null,
+      "role": "scoped exclusions and unresolved-source representation controls",
       "encoding": "json"
     }
   ],

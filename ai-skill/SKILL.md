@@ -130,3 +130,7 @@ Prepare bounded review drafts with `--review-template`; validate submissions wit
 and deterministic answer tests as engineering checks, not empirical LLM validation
 or completion of scholarly/source-permission work. Local packaging grants no new
 redistribution rights. Label any model-generated analysis separately and cite it.
+
+## Apply scoped closure controls
+
+Read `docs/CLOSURE-CONTROLS.md` and retrieve linked `closure-controls` before using a missing locator, conflicting material or printed type membership in a claim. Respect explicit nulls and exclusions. A completed control does not recover a source, adjudicate a conflict, establish sign identity or grant expert acceptance. Raw source literals remain available with their original qualifications.

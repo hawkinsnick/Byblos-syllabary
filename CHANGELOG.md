@@ -1,3 +1,9 @@
+## Scoped academic controls — 2026-10-25
+
+- Add source-pinned exclusion/conflict controls to researcher retrieval and AI guidance.
+- Test exact-ID queries, null/unresolved values and rejection of inconsistent source evidence.
+- Close the documented control scope only; retain missing locators, source disagreements and scientific follow-ups explicitly.
+
 ## AI skill validation — 2026-10-20 (contract remains 0.3.1)
 
 - Add executable skill checks, exact native lookup examples and a GitHub check receipt.
