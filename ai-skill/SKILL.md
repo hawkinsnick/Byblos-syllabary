@@ -134,3 +134,12 @@ redistribution rights. Label any model-generated analysis separately and cite it
 ## Apply scoped closure controls
 
 Read `docs/CLOSURE-CONTROLS.md` and retrieve linked `closure-controls` before using a missing locator, conflicting material or printed type membership in a claim. Respect explicit nulls and exclusions. A completed control does not recover a source, adjudicate a conflict, establish sign identity or grant expert acceptance. Raw source literals remain available with their original qualifications.
+
+## Preserve review provenance
+
+Reject malformed JSON-pointer escapes and negative or leading-zero array indices
+when verifying source citations; literal object keys retain their own spelling.
+Read the [master hostile-review report](https://github.com/hawkinsnick/Master-Corpus-AI-Skill/blob/main/references/hostile-review-2026-10-25.md)
+for this member's pinned retrieval scope and the limits of the source-fidelity
+and development checks. Complete retrieval-view traversal does not certify
+corpus completeness, accepted readings, independent witnesses or expert review.
