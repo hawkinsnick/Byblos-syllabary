@@ -241,6 +241,11 @@
       "path": "scripts/count_assignment_partition.py",
       "role": "primary_source_reconciliation",
       "required": true
+    },
+    {
+      "role": "nonreview_workflow",
+      "path": "docs/NONREVIEW-WORK.md",
+      "required": true
     }
   ],
   "behavioral_gates": [
